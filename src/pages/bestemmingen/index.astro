@@ -1,0 +1,23 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('posts')).sort(
+  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+---
+<Layout title="Bestemmingen">
+  <h1 style="font-size: 40px; margin-bottom: 40px;">Alle bestemmingen</h1>
+  <div class="grid">
+    {posts.map((post) => (
+      <a href={`/bestemmingen/${post.slug}`} class="card">
+        <div class="img">{post.data.title}</div>
+        <div class="body">
+          <div class="tag">{post.data.region}</div>
+          <h3>{post.data.title}</h3>
+          <p>{post.data.description}</p>
+        </div>
+      </a>
+    ))}
+  </div>
+</Layout>

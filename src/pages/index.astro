@@ -1,0 +1,34 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('posts')).sort(
+  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+---
+<Layout title="Een reisblog zonder retourticket">
+  <div style="padding: 30px 0 60px;">
+    <div style="font-size: 14px; color: #4B5A3F; margin-bottom: 18px;">Een reisblog zonder retourticket</div>
+    <h1 style="font-size: 52px; max-width: 720px; margin-bottom: 24px;">Een klein beetje van heel veel plekken</h1>
+    <p style="font-size: 18px; color: #6B6255; max-width: 520px; margin-bottom: 32px;">Solo op pad langs 65+ landen, van drukke steden tot plekken waar bijna niemand komt. Praktische gidsen, eerlijke verhalen, geen poeha.</p>
+  </div>
+
+  <h2 style="font-size: 30px; margin-bottom: 40px;">Nieuwste bestemmingen</h2>
+  <div class="grid">
+    {posts.map((post) => (
+      <a href={`/bestemmingen/${post.slug}`} class="card">
+        <div class="img">{post.data.title}</div>
+        <div class="body">
+          <div class="tag">{post.data.region}</div>
+          <h3>{post.data.title}</h3>
+          <p>{post.data.description}</p>
+        </div>
+      </a>
+    ))}
+  </div>
+
+  <div id="over" style="padding-top: 70px;">
+    <h2 style="font-size: 30px; margin-bottom: 24px;">Over mij</h2>
+    <p style="max-width: 640px; font-size: 16px; color: #6B6255;">Al drie jaar onderweg, zonder vaste route en met een camera in de aanslag. Ik schrijf over de plekken waar ik kom, groot of klein, bekend of onbekend — met tips die je echt kunt gebruiken.</p>
+  </div>
+</Layout>
