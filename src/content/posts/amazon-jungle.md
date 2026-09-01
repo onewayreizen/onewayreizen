@@ -1,19 +1,19 @@
 ---
-title: TITEL HIER
+title: Amazone Jungle (Peru)
 region: Zuid-Amerika
-description: KORTE OMSCHRIJVING HIER (1 zin, verschijnt op de homepage kaart)
+description: De beste ervaring in Zuid-Amerika
 date: "2026-01-01"
 ---
 
-INTRO HIER — 2-3 zinnen die de bestemming/het onderwerp voorstellen. Dit is wat mensen als eerste lezen, dus maak het persoonlijk en concreet.
+De meest waanzinnige ervaring
 
-## SUBTITEL HIER (bijv. "Waar te beginnen")
+## Waar te beginnen
 
-TEKST HIER
+Vanaf Cusco
 
-## SUBTITEL HIER (bijv. "Wat ik zou willen weten vooraf")
+## Praktische Tips
 
-TEKST HIER
+Boek ter plekke
 
 ## SUBTITEL HIER (bijv. "Praktisch")
 
