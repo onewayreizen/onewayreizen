@@ -11,7 +11,9 @@ const posts = (await getCollection('posts')).sort(
   <div class="grid">
     {posts.map((post) => (
       <a href={`/bestemmingen/${post.slug}`} class="card">
-        <div class="img">{post.data.title}</div>
+        <div class={`img ${post.data.image ? 'has-photo' : ''}`} style={post.data.image ? `background-image: url(${post.data.image})` : ''}>
+          <span>{post.data.title}</span>
+        </div>
         <div class="body">
           <div class="tag">{post.data.region}</div>
           <h3>{post.data.title}</h3>
