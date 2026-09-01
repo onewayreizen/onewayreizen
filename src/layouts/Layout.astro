@@ -37,7 +37,8 @@ const { title } = Astro.props;
   .article :global(h2) { font-size: 26px; margin: 40px 0 16px; }
   .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; }
   .card { border: 1px solid var(--line); border-radius: 6px; overflow: hidden; background: #fff; }
-  .card .img { height: 140px; background: linear-gradient(135deg, var(--moss), #7A8A5C); display: flex; align-items: center; justify-content: center; color: #fff; font-family: 'Fraunces', serif; font-size: 15px; }
+  .card .img { height: 140px; background: linear-gradient(135deg, var(--moss), #7A8A5C); background-size: cover; background-position: center; display: flex; align-items: center; justify-content: center; color: #fff; font-family: 'Fraunces', serif; font-size: 15px; }
+  .card .img.has-photo span { display: none; }
   .card .body { padding: 20px; }
   .card .tag { font-size: 12px; color: var(--clay); margin-bottom: 8px; }
   .card h3 { font-size: 19px; margin-bottom: 8px; }
