@@ -5,7 +5,7 @@ country: Ecuador
 destination: Amazonegebied
 description: Van de Andes tot het Amazonegebied, alles wat je moet weten.
 date: "2026-09-15"
-themes: [Wildlife, Avontuur]
+themes: [Wildlife, Avontuur, Hiken]
 ---
 
 Ecuador is een van die landen waar je in twee weken meer klimaatzones tegenkomt dan in de meeste andere landen in een heel jaar. Van de kou van de Andes tot de vochtige hitte van het Amazonegebied, en dat allemaal binnen een paar uur rijden.
