@@ -1,0 +1,54 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import { slugify } from '../../../lib/slug';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const regions = new Map<string, string>();
+  for (const post of posts) {
+    regions.set(slugify(post.data.region), post.data.region);
+  }
+  return Array.from(regions.entries()).map(([slug, name]) => ({
+    params: { region: slug },
+    props: { regionName: name },
+  }));
+}
+
+const { regionName } = Astro.props;
+const allPosts = await getCollection('posts');
+const regionPosts = allPosts.filter((p) => p.data.region === regionName);
+
+const countryMap = new Map<string, { count: number; image?: string }>();
+for (const post of regionPosts) {
+  const existing = countryMap.get(post.data.country);
+  if (existing) {
+    existing.count += 1;
+    if (!existing.image && post.data.image) existing.image = post.data.image;
+  } else {
+    countryMap.set(post.data.country, { count: 1, image: post.data.image });
+  }
+}
+const countries = Array.from(countryMap.entries()).map(([name, info]) => ({
+  name,
+  slug: slugify(name),
+  ...info,
+}));
+---
+<Layout title={regionName}>
+  <div class="crumbs"><a href="/">Home</a> / <a href="/bestemmingen">Bestemmingen</a> / {regionName}</div>
+  <h1 style="font-size: 40px; margin-bottom: 40px;">{regionName}</h1>
+  <div class="grid">
+    {countries.map((country) => (
+      <a href={`/bestemmingen/${slugify(regionName)}/${country.slug}/`} class="card">
+        <div class={`img ${country.image ? 'has-photo' : ''}`} style={country.image ? `background-image: url(${country.image})` : ''}>
+          <span>{country.name}</span>
+        </div>
+        <div class="body">
+          <div class="tag">{country.count} {country.count === 1 ? 'artikel' : 'artikelen'}</div>
+          <h3>{country.name}</h3>
+        </div>
+      </a>
+    ))}
+  </div>
+</Layout>

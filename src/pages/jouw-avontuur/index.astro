@@ -1,0 +1,42 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import { slugify } from '../../lib/slug';
+
+const posts = await getCollection('posts');
+const themeMap = new Map<string, { count: number; image?: string }>();
+for (const post of posts) {
+  for (const theme of post.data.themes ?? []) {
+    const existing = themeMap.get(theme);
+    if (existing) {
+      existing.count += 1;
+      if (!existing.image && post.data.image) existing.image = post.data.image;
+    } else {
+      themeMap.set(theme, { count: 1, image: post.data.image });
+    }
+  }
+}
+const themes = Array.from(themeMap.entries()).map(([name, info]) => ({
+  name,
+  slug: slugify(name),
+  ...info,
+}));
+---
+<Layout title="Jouw avontuur">
+  <div class="crumbs"><a href="/">Home</a> / Jouw avontuur</div>
+  <h1 style="font-size: 40px; margin-bottom: 16px;">Jouw avontuur</h1>
+  <p style="font-size: 17px; color: #6B6255; max-width: 560px; margin-bottom: 40px;">Zoek je niet op land, maar op wat je wilt doen? Kies hieronder je stijl van reizen.</p>
+  <div class="grid">
+    {themes.map((theme) => (
+      <a href={`/jouw-avontuur/${theme.slug}/`} class="card">
+        <div class={`img ${theme.image ? 'has-photo' : ''}`} style={theme.image ? `background-image: url(${theme.image})` : ''}>
+          <span>{theme.name}</span>
+        </div>
+        <div class="body">
+          <div class="tag">{theme.count} {theme.count === 1 ? 'artikel' : 'artikelen'}</div>
+          <h3>{theme.name}</h3>
+        </div>
+      </a>
+    ))}
+  </div>
+</Layout>
