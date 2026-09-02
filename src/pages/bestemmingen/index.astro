@@ -1,0 +1,39 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import { slugify } from '../../lib/slug';
+
+const posts = await getCollection('posts');
+const regionMap = new Map<string, { count: number; image?: string }>();
+for (const post of posts) {
+  const existing = regionMap.get(post.data.region);
+  if (existing) {
+    existing.count += 1;
+    if (!existing.image && post.data.image) existing.image = post.data.image;
+  } else {
+    regionMap.set(post.data.region, { count: 1, image: post.data.image });
+  }
+}
+const regions = Array.from(regionMap.entries()).map(([name, info]) => ({
+  name,
+  slug: slugify(name),
+  ...info,
+}));
+---
+<Layout title="Bestemmingen">
+  <div class="crumbs"><a href="/">Home</a> / Bestemmingen</div>
+  <h1 style="font-size: 40px; margin-bottom: 40px;">Alle regio's</h1>
+  <div class="grid">
+    {regions.map((region) => (
+      <a href={`/bestemmingen/${region.slug}/`} class="card">
+        <div class={`img ${region.image ? 'has-photo' : ''}`} style={region.image ? `background-image: url(${region.image})` : ''}>
+          <span>{region.name}</span>
+        </div>
+        <div class="body">
+          <div class="tag">{region.count} {region.count === 1 ? 'bestemming' : 'bestemmingen'}</div>
+          <h3>{region.name}</h3>
+        </div>
+      </a>
+    ))}
+  </div>
+</Layout>
