@@ -3,7 +3,7 @@ title: TITEL HIER
 region: Zuid-Amerika
 country: LAND HIER (bijv. Ecuador)
 description: KORTE OMSCHRIJVING HIER (1 zin, verschijnt op de homepage kaart)
-date: "2026-01-01"
+date: "2026-01-01" 
 image: /images/BESTANDSNAAM.jpg
 ---
 
