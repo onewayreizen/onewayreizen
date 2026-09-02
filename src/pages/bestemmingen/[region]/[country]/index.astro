@@ -1,0 +1,110 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import { slugify } from '../../../../lib/slug';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const pairs = new Map<string, { region: string; country: string }>();
+  for (const post of posts) {
+    const key = `${slugify(post.data.region)}/${slugify(post.data.country)}`;
+    pairs.set(key, { region: post.data.region, country: post.data.country });
+  }
+  return Array.from(pairs.entries()).map(([key, data]) => {
+    const [regionSlug, countrySlug] = key.split('/');
+    return {
+      params: { region: regionSlug, country: countrySlug },
+      props: data,
+    };
+  });
+}
+
+const { region, country } = Astro.props;
+const allPosts = await getCollection('posts');
+const posts = allPosts
+  .filter((p) => p.data.region === region && p.data.country === country)
+  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+
+const countryEntries = await getCollection('countries');
+const countryInfo = countryEntries.find((c) => c.slug === slugify(country));
+
+const destMap = new Map<string, { count: number; image?: string }>();
+for (const post of posts) {
+  if (!post.data.destination) continue;
+  const existing = destMap.get(post.data.destination);
+  if (existing) {
+    existing.count += 1;
+    if (!existing.image && post.data.image) existing.image = post.data.image;
+  } else {
+    destMap.set(post.data.destination, { count: 1, image: post.data.image });
+  }
+}
+const destinations = Array.from(destMap.entries()).map(([name, info]) => ({
+  name,
+  slug: slugify(name),
+  ...info,
+}));
+
+const heroImage = posts.find((p) => p.data.image)?.data.image;
+---
+<Layout title={country} heroImage={heroImage}>
+  <div class="crumbs"><a href="/">Home</a> / <a href="/bestemmingen">Bestemmingen</a> / <a href={`/bestemmingen/${slugify(region)}/`}>{region}</a> / {country}</div>
+
+  {countryInfo && (
+    <div class="facts-row">
+      {countryInfo.data.capital && (
+        <div class="fact"><span class="fact-icon">📍</span><div><div class="fact-label">Hoofdstad</div><div class="fact-value">{countryInfo.data.capital}</div></div></div>
+      )}
+      {countryInfo.data.language && (
+        <div class="fact"><span class="fact-icon">💬</span><div><div class="fact-label">Taal</div><div class="fact-value">{countryInfo.data.language}</div></div></div>
+      )}
+      {countryInfo.data.currency && (
+        <div class="fact"><span class="fact-icon">💱</span><div><div class="fact-label">Valuta</div><div class="fact-value">{countryInfo.data.currency}</div></div></div>
+      )}
+      {countryInfo.data.flightTime && (
+        <div class="fact"><span class="fact-icon">✈️</span><div><div class="fact-label">Vliegtijd</div><div class="fact-value">{countryInfo.data.flightTime}</div></div></div>
+      )}
+    </div>
+  )}
+
+  <h1 style="font-size: 40px; margin-bottom: 24px;">{country}</h1>
+
+  {countryInfo?.data.intro && (
+    <p style="font-size: 17px; color: #6B6255; max-width: 720px; margin-bottom: 50px;">{countryInfo.data.intro}</p>
+  )}
+
+  {destinations.length > 0 && (
+    <>
+      <h2 style="font-size: 22px; margin-bottom: 24px;">Bestemmingen</h2>
+      <div class="grid" style="margin-bottom: 60px;">
+        {destinations.map((dest) => (
+          <a href={`/bestemmingen/${slugify(region)}/${slugify(country)}/plek/${dest.slug}/`} class="card">
+            <div class={`img ${dest.image ? 'has-photo' : ''}`} style={dest.image ? `background-image: url(${dest.image})` : ''}>
+              <span>{dest.name}</span>
+            </div>
+            <div class="body">
+              <div class="tag">{dest.count} {dest.count === 1 ? 'artikel' : 'artikelen'}</div>
+              <h3>{dest.name}</h3>
+            </div>
+          </a>
+        ))}
+      </div>
+    </>
+  )}
+
+  <h2 style="font-size: 22px; margin-bottom: 24px;">Alle artikelen</h2>
+  <div class="grid">
+    {posts.map((post) => (
+      <a href={`/bestemmingen/${slugify(region)}/${slugify(country)}/${post.slug}/`} class="card">
+        <div class={`img ${post.data.image ? 'has-photo' : ''}`} style={post.data.image ? `background-image: url(${post.data.image})` : ''}>
+          <span>{post.data.title}</span>
+        </div>
+        <div class="body">
+          <div class="tag">{post.data.destination ?? post.data.region}</div>
+          <h3>{post.data.title}</h3>
+          <p>{post.data.description}</p>
+        </div>
+      </a>
+    ))}
+  </div>
+</Layout>

@@ -1,0 +1,193 @@
+---
+import { getCollection } from 'astro:content';
+import { slugify } from '../lib/slug';
+
+const { title, heroImage } = Astro.props;
+const bannerImage = heroImage || '/images/hero.jpg';
+
+const posts = await getCollection('posts');
+const regionMap = new Map<string, Set<string>>();
+for (const post of posts) {
+  const { region, country } = post.data;
+  if (!regionMap.has(region)) regionMap.set(region, new Set());
+  regionMap.get(region)!.add(country);
+}
+const regions = Array.from(regionMap.entries()).map(([region, countries]) => ({
+  name: region,
+  slug: slugify(region),
+  countries: Array.from(countries).map((c) => ({ name: c, slug: slugify(c) })),
+}));
+
+const themeSet = new Set<string>();
+for (const post of posts) {
+  for (const theme of post.data.themes ?? []) themeSet.add(theme);
+}
+const themes = Array.from(themeSet).map((name) => ({ name, slug: slugify(name) }));
+---
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{title} — One Way Reizen</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
+<style is:global>
+  :root {
+    --clay: #C1653A;
+    --moss: #5C6E4C;
+    --sand: #FAF6EE;
+    --ink: #322C24;
+    --ink-soft: #7A7264;
+    --line: #E8E0CC;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Montserrat', sans-serif; color: var(--ink); background: var(--sand); line-height: 1.6; }
+  h1, h2, h3 { font-family: 'Fraunces', serif; font-weight: 500; line-height: 1.15; }
+  a { color: inherit; text-decoration: none; }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+  header { padding: 28px 0; border-bottom: 1px solid var(--line); position: relative; z-index: 50; }
+  header .wrap { display: flex; justify-content: space-between; align-items: center; }
+  .logo { font-family: 'Fraunces', serif; font-size: 22px; font-weight: 600; }
+  nav { display: flex; gap: 28px; font-size: 14px; }
+  nav a { color: var(--ink-soft); }
+  nav a:hover { color: var(--clay); }
+  .has-dropdown { position: relative; }
+  .chevron { display: inline-block; margin-left: 4px; font-size: 10px; transition: transform 0.15s; }
+  .has-dropdown:hover .chevron { transform: rotate(180deg); }
+  .dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: -20px;
+    background: #fff;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 14px 0;
+    min-width: 220px;
+    max-height: 70vh;
+    overflow-y: auto;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+  }
+  .has-dropdown:hover .dropdown { display: block; }
+  .dropdown .region-name {
+    display: block;
+    padding: 8px 20px 4px;
+    color: var(--ink);
+    font-weight: 600;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  .dropdown .country-link {
+    display: block;
+    padding: 6px 20px 6px 32px;
+    color: var(--ink-soft);
+    font-size: 14px;
+  }
+  .dropdown .country-link:hover { color: var(--clay); }
+  .dropdown .theme-link {
+    display: block;
+    padding: 10px 20px;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .dropdown .theme-link:hover { color: var(--clay); }
+  .hero-banner {
+    width: 100%;
+    height: 260px;
+    background: linear-gradient(135deg, var(--moss), #7A8A5C);
+    background-size: cover;
+    background-position: center;
+  }
+  main { padding: 60px 0; }
+  .article h1 { font-size: 40px; margin-bottom: 12px; max-width: 700px; }
+  .article .meta { font-size: 14px; color: var(--moss); margin-bottom: 32px; }
+  .article :global(p) { font-size: 17px; color: var(--ink); max-width: 680px; margin-bottom: 20px; }
+  .article :global(h2) { font-size: 26px; margin: 40px 0 16px; }
+  .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; }
+  .card { border: 1px solid var(--line); border-radius: 6px; overflow: hidden; background: #fff; }
+  .card .img { height: 140px; background: linear-gradient(135deg, var(--moss), #7A8A5C); background-size: cover; background-position: center; display: flex; align-items: center; justify-content: center; color: #fff; font-family: 'Fraunces', serif; font-size: 15px; }
+  .card .img.has-photo span { display: none; }
+  .card .body { padding: 20px; }
+  .card .tag { font-size: 12px; color: var(--clay); margin-bottom: 8px; }
+  .card h3 { font-size: 19px; margin-bottom: 8px; }
+  .card p { font-size: 14px; color: var(--ink-soft); }
+  .crumbs { font-size: 13px; color: var(--ink-soft); margin-bottom: 30px; }
+  .crumbs a { color: var(--ink-soft); }
+  .crumbs a:hover { color: var(--clay); }
+  .facts-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+    padding: 24px 0 40px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid var(--line);
+  }
+  .fact { display: flex; align-items: center; gap: 12px; }
+  .fact-icon {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background: #fff;
+    border: 1px solid var(--line);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+  .fact-label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em; color: var(--ink-soft); font-weight: 600; }
+  .fact-value { font-size: 15px; color: var(--ink); }
+  footer { padding: 40px 0; font-size: 13px; color: var(--ink-soft); border-top: 1px solid var(--line); display: flex; justify-content: space-between; }
+  @media (max-width: 720px) {
+    .grid { grid-template-columns: 1fr; }
+    nav { display: none; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <a href="/" class="logo">One Way Reizen</a>
+    <nav>
+      <div class="has-dropdown">
+        <a href="/bestemmingen">Bestemmingen <span class="chevron">▾</span></a>
+        <div class="dropdown">
+          {regions.map((region) => (
+            <>
+              <a href={`/bestemmingen/${region.slug}/`} class="region-name">{region.name}</a>
+              {region.countries.map((country) => (
+                <a href={`/bestemmingen/${region.slug}/${country.slug}/`} class="country-link">{country.name}</a>
+              ))}
+            </>
+          ))}
+        </div>
+      </div>
+      <div class="has-dropdown">
+        <a href="/jouw-avontuur">Jouw avontuur <span class="chevron">▾</span></a>
+        <div class="dropdown">
+          {themes.map((theme) => (
+            <a href={`/jouw-avontuur/${theme.slug}/`} class="theme-link">{theme.name}</a>
+          ))}
+        </div>
+      </div>
+      <a href="/#over">Over mij</a>
+    </nav>
+  </div>
+</header>
+<div class="hero-banner" style={`background-image: url(${bannerImage})`}></div>
+<main>
+  <div class="wrap">
+    <slot />
+  </div>
+</main>
+<footer>
+  <div class="wrap" style="display:flex; justify-content:space-between; width:100%;">
+    <span>One Way Reizen</span>
+    <span>&copy; 2026</span>
+  </div>
+</footer>
+</body>
+</html>

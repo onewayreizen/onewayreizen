@@ -1,0 +1,50 @@
+---
+import Layout from '../../../../../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import { slugify } from '../../../../../../lib/slug';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const combos = new Map<string, { region: string; country: string; destination: string }>();
+  for (const post of posts) {
+    if (!post.data.destination) continue;
+    const key = `${slugify(post.data.region)}/${slugify(post.data.country)}/${slugify(post.data.destination)}`;
+    combos.set(key, { region: post.data.region, country: post.data.country, destination: post.data.destination });
+  }
+  return Array.from(combos.entries()).map(([key, data]) => {
+    const [regionSlug, countrySlug, destSlug] = key.split('/');
+    return {
+      params: { region: regionSlug, country: countrySlug, destination: destSlug },
+      props: data,
+    };
+  });
+}
+
+const { region, country, destination } = Astro.props;
+const allPosts = await getCollection('posts');
+const posts = allPosts.filter(
+  (p) => p.data.region === region && p.data.country === country && p.data.destination === destination
+);
+---
+<Layout title={destination}>
+  <div class="crumbs">
+    <a href="/">Home</a> / <a href="/bestemmingen">Bestemmingen</a> /
+    <a href={`/bestemmingen/${slugify(region)}/`}>{region}</a> /
+    <a href={`/bestemmingen/${slugify(region)}/${slugify(country)}/`}>{country}</a> / {destination}
+  </div>
+  <h1 style="font-size: 40px; margin-bottom: 40px;">{destination}</h1>
+  <div class="grid">
+    {posts.map((post) => (
+      <a href={`/bestemmingen/${slugify(region)}/${slugify(country)}/${post.slug}/`} class="card">
+        <div class={`img ${post.data.image ? 'has-photo' : ''}`} style={post.data.image ? `background-image: url(${post.data.image})` : ''}>
+          <span>{post.data.title}</span>
+        </div>
+        <div class="body">
+          <div class="tag">{post.data.country}</div>
+          <h3>{post.data.title}</h3>
+          <p>{post.data.description}</p>
+        </div>
+      </a>
+    ))}
+  </div>
+</Layout>

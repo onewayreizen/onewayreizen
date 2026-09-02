@@ -1,0 +1,47 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import { slugify } from '../../../lib/slug';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const themes = new Map<string, string>();
+  for (const post of posts) {
+    for (const theme of post.data.themes ?? []) {
+      themes.set(slugify(theme), theme);
+    }
+  }
+  return Array.from(themes.entries()).map(([slug, name]) => ({
+    params: { theme: slug },
+    props: { themeName: name },
+  }));
+}
+
+const { themeName } = Astro.props;
+const allPosts = await getCollection('posts');
+const posts = allPosts.filter((p) => (p.data.themes ?? []).includes(themeName));
+
+const themeInfoEntries = await getCollection('themeInfo');
+const themeMeta = themeInfoEntries.find((t) => t.slug === slugify(themeName));
+---
+<Layout title={themeName}>
+  <div class="crumbs"><a href="/">Home</a> / <a href="/jouw-avontuur">Jouw avontuur</a> / {themeName}</div>
+  <h1 style="font-size: 40px; margin-bottom: 16px;">{themeName}</h1>
+  {themeMeta?.data.intro && (
+    <p style="font-size: 17px; color: #6B6255; max-width: 640px; margin-bottom: 40px;">{themeMeta.data.intro}</p>
+  )}
+  <div class="grid">
+    {posts.map((post) => (
+      <a href={`/bestemmingen/${slugify(post.data.region)}/${slugify(post.data.country)}/${post.slug}/`} class="card">
+        <div class={`img ${post.data.image ? 'has-photo' : ''}`} style={post.data.image ? `background-image: url(${post.data.image})` : ''}>
+          <span>{post.data.title}</span>
+        </div>
+        <div class="body">
+          <div class="tag">{post.data.country}</div>
+          <h3>{post.data.title}</h3>
+          <p>{post.data.description}</p>
+        </div>
+      </a>
+    ))}
+  </div>
+</Layout>
