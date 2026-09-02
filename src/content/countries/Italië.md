@@ -1,5 +1,5 @@
 ---
-name: Italië
+name: Italië 
 capital: Rome
 language: Italiaans
 currency: Euro
