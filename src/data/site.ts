@@ -34,6 +34,4 @@ export const site = {
       'Al drie jaar onderweg, zonder vaste route en met een camera in de aanslag. Ik schrijf over de plekken waar ik kom, groot of klein, bekend of onbekend, met tips die je echt kunt gebruiken.',
     ],
   },
-
- 
 };
