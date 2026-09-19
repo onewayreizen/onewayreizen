@@ -5,14 +5,14 @@ interface Props {
   capital?: string;
   language?: string;
   currency?: string;
-  flightTime?: string;
+  besttime?: string;
 }
-const { country, capital, language, currency, flightTime } = Astro.props;
+const { country, capital, language, currency, besttime } = Astro.props;
 const facts = [
   { label: 'Hoofdstad', value: capital },
   { label: 'Taal', value: language },
   { label: 'Valuta', value: currency },
-  { label: 'Vliegtijd', value: flightTime },
+  { label: 'Reistijd', value: besttime },
 ].filter((f) => f.value);
 ---
 
