@@ -1,37 +1,26 @@
 ---
-title: Paracas: eilanden, woestijnkust en de Galapagos voor arme mensen
+title: Paracas eilanden
 region: Zuid-Amerika
-country: Peru
+country: Ecuador
 destination: Paracas
-description: KORTE OMSCHRIJVING HIER (1 zin, verschijnt op de kaartjes)
-date: 2026-01-01
-image: /images/BESTANDSNAAM.jpg
-themes: [Hiken, Backpacken]
+description: Dit is een voorbeeldartikel zodat je kunt zien hoe de site eruitziet. Verwijder of vervang dit bestand.
+date: 2026-08-14
+themes: [Wildlife, Avontuur]
 ---
 
-INTRO HIER: 2-3 zinnen die de bestemming of het onderwerp voorstellen. Dit lees je als eerste, dus maak het persoonlijk en concreet.
+Dit is een voorbeeldartikel. Het staat hier alleen om te laten zien hoe een pagina eruitziet met een foto bovenaan, een intro en kopjes. Verwijder dit bestand zodra je je eigen artikelen hebt.
 
-## SUBTITEL HIER (bijv. "Waar te beginnen")
+## Waar te beginnen
 
-TEKST HIER
+Hier komt je eigen tekst. Je kunt gewoon doorschrijven, en met twee hekjes voor een regel maak je een subkopje.
 
-## SUBTITEL HIER (bijv. "Wat ik zou willen weten vooraf")
+## Wat ik zou willen weten vooraf
 
-TEKST HIER
-
-![Beschrijving van de foto](/images/BESTANDSNAAM.jpg)
+Nog een stukje voorbeeldtekst. Een foto voeg je toe op een eigen regel, met een uitroepteken, de beschrijving tussen [ ] en het pad naar de foto tussen ( ), zoals in TEMPLATE.md.
+![Aapje Amazone](/images/amazone-1.jpg)
 
 ## Praktisch
 
-- Beste reistijd: ...
-- Budget: ...
-- Hoe te boeken: ...
-
-<!--
-UITLEG (mag je laten staan of weghalen)
-- Sla het bestand op in: src/content/posts/  met een korte naam zonder spaties, bijv. suriname-reisroute.md
-- De naam van het bestand wordt ook het webadres van het artikel.
-- Aanhalingstekens rond de datum hoeven niet meer.
-- image, destination en themes mag je weglaten. Zonder image wordt de standaardfoto gebruikt.
-- Schrijf het land en de regio steeds precies hetzelfde, dan komen artikelen vanzelf bij elkaar.
--->
+- Beste reistijd: hier komt jouw tip
+- Budget: hier komt jouw tip
+- Hoe te boeken: hier komt jouw tip
