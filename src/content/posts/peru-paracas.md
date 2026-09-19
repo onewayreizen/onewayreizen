@@ -1,5 +1,5 @@
 ---
-title: Paracas: eilanden, woestijnkust en de 'Galapagos voor arme mensen'
+title: Paracas: eilanden, woestijnkust en de Galapagos voor arme mensen
 region: Zuid-Amerika
 country: Peru
 destination: Paracas
