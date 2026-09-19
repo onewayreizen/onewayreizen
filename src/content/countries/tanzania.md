@@ -2,7 +2,7 @@
 name: Tanzania
 capital: Dar es Salaam
 language: Swahili
-currency: -
+currency: onbekend
 besttime: december
 intro: KORTE INTRO HIER, 2-3 zinnen over het land. Verschijnt bovenaan de landpagina.
 image: /images/BESTANDSNAAM.jpg
