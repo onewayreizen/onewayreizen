@@ -1,7 +1,7 @@
 ---
 title: Paracas eilanden
 region: Zuid-Amerika
-country: Ecuador
+country: Peru
 destination: Paracas
 description: Dit is een voorbeeldartikel zodat je kunt zien hoe de site eruitziet. Verwijder of vervang dit bestand.
 date: 2026-08-14
