@@ -17,6 +17,7 @@ Hier komt je eigen tekst. Je kunt gewoon doorschrijven, en met twee hekjes voor 
 ## Wat ik zou willen weten vooraf
 
 Nog een stukje voorbeeldtekst. Een foto voeg je toe op een eigen regel, met een uitroepteken, de beschrijving tussen [ ] en het pad naar de foto tussen ( ), zoals in TEMPLATE.md.
+[!Aapje in de Amazone] (image: /images/amazone-1.jpg)
 
 ## Praktisch
 
