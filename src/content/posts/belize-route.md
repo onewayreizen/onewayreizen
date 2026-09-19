@@ -1,6 +1,6 @@
 ---
 title: Belize route
-region: Midden-Amrika
+region: Midden-Amerika
 country: Belize
 destination: Caye Caulker
 description: Dit is een voorbeeldartikel zodat je kunt zien hoe de site eruitziet. Verwijder of vervang dit bestand.
