@@ -1,0 +1,36 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Hero from '../../components/Hero.astro';
+import Card from '../../components/Card.astro';
+import { getData, plural } from '../../lib/content';
+
+const { regions } = await getData();
+---
+
+<Layout title="Bestemmingen" description="Alle regio's en landen waar ik over schrijf.">
+  <Hero
+    size="md"
+    title="Bestemmingen"
+    text="Kies een regio en duik in de landen, plekken en verhalen."
+    crumbs={[{ label: 'Home', href: '/' }, { label: 'Bestemmingen' }]}
+  />
+  <section class="section">
+    <div class="container">
+      {regions.length === 0 ? (
+        <p class="empty">Hier verschijnen de regio's zodra het eerste artikel online staat.</p>
+      ) : (
+        <div class="grid">
+          {regions.map((region) => (
+            <Card
+              href={region.url}
+              title={region.name}
+              label="Regio"
+              meta={plural(region.countries.length, 'land', 'landen')}
+              image={region.image}
+            />
+          ))}
+        </div>
+      )}
+    </div>
+  </section>
+</Layout>

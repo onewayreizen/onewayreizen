@@ -1,0 +1,7 @@
+Zet hier al je foto's in (JPG of WEBP).
+
+- Geef bestanden een korte naam zonder spaties of hoofdletters, bijv. quito-oude-stad.jpg
+- Maak foto's vooraf max. 2000 pixels breed (bijv. via squoosh.app) zodat de site snel blijft.
+- hero.jpg      = standaardfoto bovenaan pagina's zonder eigen foto (en de homepage)
+- over-mij.jpg  = foto bij je Over mij-tekst
+- Verwijs in een artikel zo naar een foto:   image: /images/quito-oude-stad.jpg

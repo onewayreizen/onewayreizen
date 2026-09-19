@@ -1,0 +1,38 @@
+---
+// De grote foto bovenaan elke pagina, met de titel erop
+import { site } from '../data/site';
+
+interface Crumb {
+  label: string;
+  href?: string;
+}
+interface Props {
+  title: string;
+  eyebrow?: string;
+  text?: string;
+  image?: string;
+  crumbs?: Crumb[];
+  size?: 'xl' | 'lg' | 'md';
+}
+const { title, eyebrow, text, image, crumbs = [], size = 'lg' } = Astro.props;
+const heroImage = image ?? site.heroImage;
+---
+
+<section class={`hero hero--${size}`} style={`--hero-image: url('${heroImage}')`}>
+  <div class="container hero__inner">
+    {crumbs.length > 0 && (
+      <nav class="crumbs" aria-label="Broodkruimelpad">
+        {crumbs.map((crumb, i) => (
+          <>
+            {i > 0 && <span class="crumbs__sep" aria-hidden="true">/</span>}
+            {crumb.href ? <a href={crumb.href}>{crumb.label}</a> : <span>{crumb.label}</span>}
+          </>
+        ))}
+      </nav>
+    )}
+    {eyebrow && <p class="hero__eyebrow">{eyebrow}</p>}
+    <h1 class="hero__title">{title}</h1>
+    {text && <p class="hero__text">{text}</p>}
+    <slot />
+  </div>
+</section>

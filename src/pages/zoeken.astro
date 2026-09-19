@@ -1,0 +1,32 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Zoeken" description="Zoek in alle reisverhalen en gidsen." overlay={false}>
+  <link slot="head" href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+  <section class="section section--top">
+    <div class="container">
+      <h1 class="section-title" style="margin-bottom:1.6rem">Zoeken</h1>
+      <div id="search"></div>
+      <noscript><p>Zoeken werkt alleen met JavaScript aan.</p></noscript>
+    </div>
+  </section>
+
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', function () {
+      if (typeof PagefindUI === 'undefined') {
+        document.getElementById('search').textContent =
+          'Zoeken werkt pas op de live site, niet in de testomgeving.';
+        return;
+      }
+      new PagefindUI({
+        element: '#search',
+        showImages: false,
+        showSubResults: false,
+        resetStyles: false,
+        autofocus: true,
+      });
+    });
+  </script>
+</Layout>

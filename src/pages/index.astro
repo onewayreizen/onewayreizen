@@ -1,0 +1,111 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Hero from '../components/Hero.astro';
+import Card from '../components/Card.astro';
+import { getData, plural, formatDate } from '../lib/content';
+import { site } from '../data/site';
+
+const { regions, posts, themes } = await getData();
+const latest = posts.slice(0, 3);
+---
+
+<Layout>
+  <Hero
+    size="xl"
+    eyebrow={site.tagline}
+    title={site.home.title}
+    text={site.home.text}
+  >
+    <div class="hero__actions">
+      <a class="btn btn--primary" href="/bestemmingen/">Ontdek bestemmingen</a>
+      <a class="btn btn--ghost" href="/jouw-avontuur/">Jouw avontuur</a>
+    </div>
+  </Hero>
+
+  {site.stats.length > 0 && (
+    <div class="stats">
+      <div class="container stats__inner">
+        {site.stats.map((stat) => (
+          <div class="stat">
+            <span class="stat__value">{stat.value}</span>
+            <span class="stat__label">{stat.label}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+  )}
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2 class="section-title">{site.home.regionsTitle}</h2>
+        <a class="link-more" href="/bestemmingen/">Alle bestemmingen</a>
+      </div>
+      {regions.length === 0 ? (
+        <p class="empty">Hier verschijnen de regio's zodra het eerste artikel online staat.</p>
+      ) : (
+        <div class="grid">
+          {regions.map((region) => (
+            <Card
+              href={region.url}
+              title={region.name}
+              label="Regio"
+              meta={plural(region.countries.length, 'land', 'landen')}
+              image={region.image}
+            />
+          ))}
+        </div>
+      )}
+    </div>
+  </section>
+
+  {latest.length > 0 && (
+    <section class="section section--sand">
+      <div class="container">
+        <div class="section-head">
+          <h2 class="section-title">{site.home.latestTitle}</h2>
+        </div>
+        <div class="grid">
+          {latest.map((post) => (
+            <Card
+              href={post.url}
+              title={post.title}
+              label={post.destination ?? post.country}
+              text={post.description}
+              meta={formatDate(post.date)}
+              image={post.image}
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {themes.length > 0 && (
+    <section class="section section--dark">
+      <div class="container">
+        <div class="section-head">
+          <h2 class="section-title">{site.home.themesTitle}</h2>
+        </div>
+        <div class="chips">
+          {themes.map((theme) => (
+            <a class="chip" href={theme.url}>
+              {theme.name}<span class="chip__count">{theme.posts.length}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="section" id="over">
+    <div class="container about">
+      <div class="about__photo" style={`--about-image: url('${site.about.image}')`}></div>
+      <div class="about__text">
+        <h2 class="section-title">{site.about.title}</h2>
+        {site.about.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+        <p style="margin-top:1.6rem"><a class="link-more" href="/over-mij/">Lees verder</a></p>
+      </div>
+    </div>
+  </section>
+</Layout>

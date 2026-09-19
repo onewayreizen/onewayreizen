@@ -1,0 +1,23 @@
+---
+import { site } from '../data/site';
+
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="container site-footer__inner">
+    <div class="site-footer__brand">
+      <p class="site-footer__logo">{site.name}</p>
+      <p class="site-footer__text">{site.footer.text}</p>
+    </div>
+    <nav class="site-footer__nav" aria-label="Footermenu">
+      <a href="/bestemmingen/">Bestemmingen</a>
+      <a href="/jouw-avontuur/">Jouw avontuur</a>
+      <a href="/over-mij/">Over mij</a>
+      <a href="/zoeken/">Zoeken</a>
+    </nav>
+  </div>
+  <div class="container site-footer__bottom">
+    <p>{site.name} &copy; {year}</p>
+  </div>
+</footer>

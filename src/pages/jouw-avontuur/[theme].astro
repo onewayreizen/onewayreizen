@@ -1,0 +1,50 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Hero from '../../components/Hero.astro';
+import Card from '../../components/Card.astro';
+import { getData, formatDate } from '../../lib/content';
+
+export async function getStaticPaths() {
+  const { themes } = await getData();
+  return themes.map((theme) => ({
+    params: { theme: theme.slug },
+    props: { theme },
+  }));
+}
+
+const { theme } = Astro.props;
+---
+
+<Layout
+  title={theme.name}
+  description={theme.info?.intro ?? `Alle verhalen en gidsen over ${theme.name.toLowerCase()}.`}
+  image={theme.image}
+>
+  <Hero
+    size="md"
+    title={theme.name}
+    text={theme.info?.intro}
+    image={theme.image}
+    crumbs={[
+      { label: 'Home', href: '/' },
+      { label: 'Jouw avontuur', href: '/jouw-avontuur/' },
+      { label: theme.name },
+    ]}
+  />
+  <section class="section">
+    <div class="container">
+      <div class="grid">
+        {theme.posts.map((post) => (
+          <Card
+            href={post.url}
+            title={post.title}
+            label={post.country}
+            text={post.description}
+            meta={formatDate(post.date)}
+            image={post.image}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>

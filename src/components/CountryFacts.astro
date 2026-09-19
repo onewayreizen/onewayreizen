@@ -1,0 +1,34 @@
+---
+// Het "instapkaartje" met de feiten over een land
+interface Props {
+  country: string;
+  capital?: string;
+  language?: string;
+  currency?: string;
+  flightTime?: string;
+}
+const { country, capital, language, currency, flightTime } = Astro.props;
+const facts = [
+  { label: 'Hoofdstad', value: capital },
+  { label: 'Taal', value: language },
+  { label: 'Valuta', value: currency },
+  { label: 'Vliegtijd', value: flightTime },
+].filter((f) => f.value);
+---
+
+{facts.length > 0 && (
+  <div class="pass">
+    <div class="pass__stub">
+      <span class="pass__small">Enkele reis</span>
+      <span class="pass__country">{country}</span>
+    </div>
+    <dl class="pass__facts">
+      {facts.map((fact) => (
+        <div class="pass__fact">
+          <dt>{fact.label}</dt>
+          <dd>{fact.value}</dd>
+        </div>
+      ))}
+    </dl>
+  </div>
+)}

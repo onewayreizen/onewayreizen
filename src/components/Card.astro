@@ -1,0 +1,25 @@
+---
+// De kaart die overal op de site wordt hergebruikt
+// (regio's, landen, artikelen en thema's)
+interface Props {
+  href: string;
+  title: string;
+  label?: string;
+  text?: string;
+  meta?: string;
+  image?: string;
+  dest?: string;
+}
+const { href, title, label, text, meta, image, dest } = Astro.props;
+const style = image ? `--card-image: url('${image}')` : undefined;
+---
+
+<a class="card" href={href} style={style} data-dest={dest}>
+  <span class="card__bg"></span>
+  <span class="card__body">
+    {label && <span class="card__label">{label}</span>}
+    <span class="card__title">{title}</span>
+    {text && <span class="card__text">{text}</span>}
+    {meta && <span class="card__meta">{meta}</span>}
+  </span>
+</a>

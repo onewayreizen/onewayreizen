@@ -1,0 +1,132 @@
+---
+import { getData } from '../lib/content';
+import { site } from '../data/site';
+
+interface Props {
+  overlay?: boolean;
+}
+const { overlay = true } = Astro.props;
+const { regions, themes } = await getData();
+---
+
+<header
+  class:list={['site-header', !overlay && 'is-solid']}
+  data-overlay={overlay ? 'true' : 'false'}
+>
+  <div class="container site-header__inner">
+    <a class="logo" href="/" aria-label={`${site.name}, naar de homepage`}>
+      <span class="logo__one">One Way</span>
+      <span class="logo__two">Reizen</span>
+    </a>
+
+    <!-- Menu op groot scherm -->
+    <nav class="nav" aria-label="Hoofdmenu">
+      <div class="nav__item">
+        <a class="nav__link" href="/bestemmingen/">
+          Bestemmingen
+          <svg class="chevron" viewBox="0 0 12 8" width="10" height="7" aria-hidden="true"><path d="M1 1.5l5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+        <div class="drop drop--wide">
+          <div class="drop__inner">
+            {regions.length === 0 && <p class="drop__empty">Binnenkort meer bestemmingen.</p>}
+            {regions.map((region) => (
+              <div class="drop__col">
+                <a class="drop__region" href={region.url}>{region.name}</a>
+                <ul>
+                  {region.countries.map((country) => (
+                    <li><a href={country.url}>{country.name}</a></li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      <div class="nav__item">
+        <a class="nav__link" href="/jouw-avontuur/">
+          Jouw avontuur
+          <svg class="chevron" viewBox="0 0 12 8" width="10" height="7" aria-hidden="true"><path d="M1 1.5l5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+        <div class="drop">
+          <div class="drop__inner">
+            <div class="drop__col">
+              {themes.length === 0 && <p class="drop__empty">Binnenkort meer thema's.</p>}
+              <ul>
+                {themes.map((theme) => (
+                  <li><a href={theme.url}>{theme.name}</a></li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="nav__item">
+        <a class="nav__link" href="/over-mij/">Over mij</a>
+      </div>
+
+      <a class="nav__search" href="/zoeken/" aria-label="Zoeken">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16 16l5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </a>
+    </nav>
+
+    <!-- Knop voor mobiel menu -->
+    <button class="burger" type="button" aria-label="Menu openen of sluiten" aria-expanded="false" aria-controls="mobile-menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+
+  <!-- Mobiel menu -->
+  <div class="mobile-menu" id="mobile-menu">
+    <div class="mobile-menu__inner">
+      <details>
+        <summary>Bestemmingen</summary>
+        <div class="mobile-menu__sub">
+          <a class="mobile-menu__all" href="/bestemmingen/">Alle bestemmingen</a>
+          {regions.map((region) => (
+            <div class="mobile-menu__group">
+              <a class="mobile-menu__region" href={region.url}>{region.name}</a>
+              {region.countries.map((country) => (
+                <a href={country.url}>{country.name}</a>
+              ))}
+            </div>
+          ))}
+        </div>
+      </details>
+      <details>
+        <summary>Jouw avontuur</summary>
+        <div class="mobile-menu__sub">
+          <a class="mobile-menu__all" href="/jouw-avontuur/">Alle thema's</a>
+          {themes.map((theme) => (
+            <a href={theme.url}>{theme.name}</a>
+          ))}
+        </div>
+      </details>
+      <a class="mobile-menu__link" href="/over-mij/">Over mij</a>
+      <a class="mobile-menu__link" href="/zoeken/">Zoeken</a>
+    </div>
+  </div>
+</header>
+
+<script>
+  const header = document.querySelector('.site-header');
+  const burger = document.querySelector('.burger');
+
+  if (header && burger) {
+    const overlay = header.getAttribute('data-overlay') === 'true';
+
+    const update = () => {
+      const solid = !overlay || window.scrollY > 40;
+      header.classList.toggle('is-solid', solid);
+    };
+    update();
+    window.addEventListener('scroll', update, { passive: true });
+
+    burger.addEventListener('click', () => {
+      const open = header.classList.toggle('is-open');
+      document.body.classList.toggle('menu-open', open);
+      burger.setAttribute('aria-expanded', String(open));
+    });
+  }
+</script>

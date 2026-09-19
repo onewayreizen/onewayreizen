@@ -1,0 +1,126 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Hero from '../../../../components/Hero.astro';
+import Card from '../../../../components/Card.astro';
+import CountryFacts from '../../../../components/CountryFacts.astro';
+import { getData, formatDate } from '../../../../lib/content';
+
+export async function getStaticPaths() {
+  const { countries } = await getData();
+  return countries.map((country) => ({
+    params: { region: country.regionSlug, country: country.slug },
+    props: { country },
+  }));
+}
+
+const { country } = Astro.props;
+const info = country.info;
+const allTitle = `Alle artikelen over ${country.name}`;
+---
+
+<Layout
+  title={country.name}
+  description={info?.intro ?? `Alle reisverhalen en gidsen over ${country.name}.`}
+  image={country.image}
+>
+  <Hero
+    title={country.name}
+    eyebrow={country.regionName}
+    image={country.image}
+    crumbs={[
+      { label: 'Home', href: '/' },
+      { label: 'Bestemmingen', href: '/bestemmingen/' },
+      { label: country.regionName, href: `/bestemmingen/${country.regionSlug}/` },
+      { label: country.name },
+    ]}
+  />
+
+  {(info?.intro || (info && (info.capital || info.language || info.currency || info.flightTime))) && (
+    <section class="section section--tight">
+      <div class="container">
+        {info?.intro && <p class="lead">{info.intro}</p>}
+        {info && (
+          <CountryFacts
+            country={country.name}
+            capital={info.capital}
+            language={info.language}
+            currency={info.currency}
+            flightTime={info.flightTime}
+          />
+        )}
+      </div>
+    </section>
+  )}
+
+  <section class="section section--tight">
+    <div class="container">
+      {country.destinations.length > 0 && (
+        <div style="margin-bottom:3rem">
+          <h2 class="list-title list-title--first">Bestemmingen in {country.name}</h2>
+          <div class="pills" role="group" aria-label="Filter op plek">
+            <button class="pill" type="button" data-filter="all" aria-pressed="true">
+              Alles <span class="pill__count">{country.posts.length}</span>
+            </button>
+            {country.destinations.map((dest) => (
+              <button class="pill" type="button" data-filter={dest.slug} data-label={dest.name} aria-pressed="false">
+                {dest.name} <span class="pill__count">{dest.count}</span>
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <h2 class="list-title list-title--first" id="list-title" data-all={allTitle}>{allTitle}</h2>
+      <div class="grid" id="articles">
+        {country.posts.map((post) => (
+          <Card
+            href={post.url}
+            title={post.title}
+            label={post.destination ?? country.name}
+            text={post.description}
+            meta={formatDate(post.date)}
+            image={post.image}
+            dest={post.destinationSlug ?? 'geen'}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<script>
+  const pills = Array.from(document.querySelectorAll('[data-filter]'));
+  const cards = Array.from(document.querySelectorAll('#articles [data-dest]'));
+  const title = document.getElementById('list-title');
+
+  function apply(key) {
+    let label = null;
+    pills.forEach((pill) => {
+      const active = pill.getAttribute('data-filter') === key;
+      pill.setAttribute('aria-pressed', String(active));
+      if (active) label = pill.getAttribute('data-label');
+    });
+    cards.forEach((card) => {
+      const show = key === 'all' || card.getAttribute('data-dest') === key;
+      card.hidden = !show;
+    });
+    if (title) {
+      title.textContent = key === 'all' || !label ? title.getAttribute('data-all') : 'Artikelen over ' + label;
+    }
+  }
+
+  if (pills.length > 0) {
+    pills.forEach((pill) => {
+      pill.addEventListener('click', () => {
+        const key = pill.getAttribute('data-filter');
+        apply(key);
+        history.replaceState(null, '', key === 'all' ? location.pathname : '#' + key);
+      });
+    });
+
+    // Link met #plek-naam? Dan meteen gefilterd openen.
+    const fromHash = decodeURIComponent(location.hash.replace('#', ''));
+    const valid = pills.some((p) => p.getAttribute('data-filter') === fromHash);
+    apply(valid ? fromHash : 'all');
+  }
+</script>

@@ -1,0 +1,45 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Hero from '../../../components/Hero.astro';
+import Card from '../../../components/Card.astro';
+import { getData, plural } from '../../../lib/content';
+
+export async function getStaticPaths() {
+  const { regions } = await getData();
+  return regions.map((region) => ({
+    params: { region: region.slug },
+    props: { region },
+  }));
+}
+
+const { region } = Astro.props;
+---
+
+<Layout title={region.name} description={`Alle landen en verhalen in ${region.name}.`} image={region.image}>
+  <Hero
+    size="md"
+    title={region.name}
+    image={region.image}
+    crumbs={[
+      { label: 'Home', href: '/' },
+      { label: 'Bestemmingen', href: '/bestemmingen/' },
+      { label: region.name },
+    ]}
+  />
+  <section class="section">
+    <div class="container">
+      <div class="grid">
+        {region.countries.map((country) => (
+          <Card
+            href={country.url}
+            title={country.name}
+            label={region.name}
+            text={country.info?.intro}
+            meta={plural(country.posts.length, 'artikel', 'artikelen')}
+            image={country.image}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>

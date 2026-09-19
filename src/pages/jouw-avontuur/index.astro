@@ -1,0 +1,37 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Hero from '../../components/Hero.astro';
+import Card from '../../components/Card.astro';
+import { getData, plural } from '../../lib/content';
+
+const { themes } = await getData();
+---
+
+<Layout title="Jouw avontuur" description="Verhalen en gidsen per soort avontuur, dwars door alle landen heen.">
+  <Hero
+    size="md"
+    title="Jouw avontuur"
+    text="Kies wat bij je past. Elk thema loopt dwars door alle landen heen."
+    crumbs={[{ label: 'Home', href: '/' }, { label: 'Jouw avontuur' }]}
+  />
+  <section class="section">
+    <div class="container">
+      {themes.length === 0 ? (
+        <p class="empty">Hier verschijnen de thema's zodra je artikelen een thema hebben.</p>
+      ) : (
+        <div class="grid">
+          {themes.map((theme) => (
+            <Card
+              href={theme.url}
+              title={theme.name}
+              label="Thema"
+              text={theme.info?.intro}
+              meta={plural(theme.posts.length, 'artikel', 'artikelen')}
+              image={theme.image}
+            />
+          ))}
+        </div>
+      )}
+    </div>
+  </section>
+</Layout>
