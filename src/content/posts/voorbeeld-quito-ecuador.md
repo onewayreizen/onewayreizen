@@ -12,4 +12,4 @@ Nog een voorbeeldartikel. Doordat dit artikel bij de plek Quito hoort en het vor
 
 ## Waar te beginnen
 
-Voorbeeldtekst.
+De hoofdstad Quito.
