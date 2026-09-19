@@ -35,7 +35,5 @@ export const site = {
     ],
   },
 
-  footer: {
-    text: 'Een reisblog zonder retourticket.',
-  },
+ 
 };
