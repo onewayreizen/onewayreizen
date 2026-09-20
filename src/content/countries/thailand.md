@@ -5,5 +5,5 @@ language: "Thai"
 currency: "Thaise baht"
 reisperiode: "november tot februari"
 intro: "De klassieke start voor veel reizigers, en met reden: makkelijk, betaalbaar en vol variatie. Achter Bangkok en de bekende eilanden liggen bergen in het noorden en stranden waar veel minder mensen komen."
-image: /images/thailand-header.jpg
+image: /images/landen-headers/thailand-header.jpg
 ---
