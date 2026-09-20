@@ -1,5 +1,5 @@
 ---
 name: Azië
-intro: Backpackers paradise
+intro: "Tempels, eilanden, bergen en straatvoedsel."
 image: /images/azie-header.jpg
 ---
