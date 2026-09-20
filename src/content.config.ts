@@ -27,6 +27,7 @@ const countries = defineCollection({
     language: optionalText,
     currency: optionalText,
     flightTime: optionalText,
+    reisperiode: optionalText,
     intro: optionalText,
     image: optionalText,
   }),
@@ -41,4 +42,13 @@ const themes = defineCollection({
   }),
 });
 
-export const collections = { posts, countries, themes };
+const regions = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/regions' }),
+  schema: z.object({
+    name: z.string(),
+    intro: optionalText,
+    image: optionalText,
+  }),
+});
+
+export const collections = { posts, countries, themes, regions };

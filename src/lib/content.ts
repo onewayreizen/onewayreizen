@@ -51,6 +51,7 @@ export type Post = {
 
 export type CountryInfo = CollectionEntry<'countries'>['data'];
 export type ThemeInfo = CollectionEntry<'themes'>['data'];
+export type RegionInfo = CollectionEntry<'regions'>['data'];
 
 export type CountryGroup = {
   name: string;
@@ -70,6 +71,7 @@ export type RegionGroup = {
   url: string;
   posts: Post[];
   countries: CountryGroup[];
+  info?: RegionInfo;
   image?: string;
 };
 
@@ -95,10 +97,11 @@ const byName = (a: { name: string }, b: { name: string }) =>
 const firstImage = (posts: Post[]) => posts.find((p) => p.image)?.image;
 
 async function compute(): Promise<SiteData> {
-  const [postEntries, countryEntries, themeEntries] = await Promise.all([
+  const [postEntries, countryEntries, themeEntries, regionEntries] = await Promise.all([
     getCollection('posts'),
     getCollection('countries'),
     getCollection('themes'),
+    getCollection('regions'),
   ]);
 
   // ---- Artikelen (nieuwste eerst) ----
@@ -174,16 +177,21 @@ async function compute(): Promise<SiteData> {
   }
 
   // ---- Regio's ----
+  const regionInfoBySlug = new Map<string, RegionInfo>(
+    regionEntries.map((e) => [slugify(e.data.name), e.data]),
+  );
   const regionMap = new Map<string, RegionGroup>();
   for (const c of countries) {
     let region = regionMap.get(c.regionSlug);
     if (!region) {
+      const info = regionInfoBySlug.get(c.regionSlug);
       region = {
-        name: c.regionName,
+        name: info?.name ?? c.regionName,
         slug: c.regionSlug,
         url: `/bestemmingen/${c.regionSlug}/`,
         posts: [],
         countries: [],
+        info,
         image: undefined,
       };
       regionMap.set(c.regionSlug, region);
@@ -194,7 +202,8 @@ async function compute(): Promise<SiteData> {
   const regions = [...regionMap.values()].sort(byName);
   for (const r of regions) {
     r.posts.sort((a, b) => b.date.valueOf() - a.date.valueOf());
-    r.image = firstImage(r.posts);
+    r.image = r.info?.image ?? firstImage(r.posts);
+    for (const c of r.countries) c.regionName = r.name;
   }
 
   // ---- Thema's ----

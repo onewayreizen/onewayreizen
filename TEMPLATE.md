@@ -19,7 +19,7 @@ TEKST HIER
 
 TEKST HIER
 
-![Beschrijving van de foto](/images/BESTANDSNAAM.jpg)
+![Bijschrift onder de foto](/images/BESTANDSNAAM.jpg)
 
 ## Praktisch
 
@@ -34,4 +34,16 @@ UITLEG (mag je laten staan of weghalen)
 - Aanhalingstekens rond de datum hoeven niet meer.
 - image, destination en themes mag je weglaten. Zonder image wordt de standaardfoto gebruikt.
 - Schrijf het land en de regio steeds precies hetzelfde, dan komen artikelen vanzelf bij elkaar.
+
+FOTO'S IN DE TEKST
+- Zonder bijschrift:      ![](/images/foto.jpg)
+- Rechts, tekst ernaast:  ![Bijschrift](/images/foto.jpg "rechts")
+- Links, tekst ernaast:   ![Bijschrift](/images/foto.jpg "links")
+- Klein in het midden:    ![Bijschrift](/images/foto.jpg "midden klein")
+- Dunne strook:           ![](/images/foto.jpg "smal")
+- Extra breed:            ![](/images/foto.jpg "breed")   (te combineren: "smal breed")
+- Klein vierkant:         ![](/images/foto.jpg "rechts klein vierkant")
+- Twee naast elkaar: zet ze direct onder elkaar, zonder lege regel ertussen:
+    ![Links](/images/a.jpg)
+    ![Rechts](/images/b.jpg)
 -->

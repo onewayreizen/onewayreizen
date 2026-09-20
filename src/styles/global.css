@@ -126,6 +126,7 @@ a { color: inherit; }
 }
 
 .site-header__inner {
+  position: relative;
   height: var(--header-h);
   display: flex;
   align-items: center;
@@ -153,7 +154,8 @@ a { color: inherit; }
   display: flex;
   align-items: center;
   gap: 0.45rem;
-  padding: 0.9rem 0.95rem;
+  height: var(--header-h);
+  padding: 0 0.95rem;
   font-weight: 600;
   font-size: 0.92rem;
   color: rgba(255, 255, 255, 0.92);
@@ -228,6 +230,30 @@ a { color: inherit; }
   transition: color 0.15s;
 }
 .drop li a:hover { color: var(--clay-dark); }
+
+/* Bestemmingen: regio's als kolommen naast elkaar, alfabetisch, zonder gaten */
+.nav__item--mega { position: static; }
+.drop--wide {
+  left: auto;
+  right: 0;
+  width: min(calc(var(--cols, 3) * 15rem), 100%);
+}
+.drop--wide .drop__inner {
+  display: block;
+  width: auto;
+  max-width: none;
+  column-count: var(--cols, 3);
+  column-gap: 2.5rem;
+}
+.drop--wide .drop__col {
+  display: inline-block;
+  width: 100%;
+  vertical-align: top;
+  margin-bottom: 1.5rem;
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+}
 
 /* Hamburgerknop (alleen op telefoon/tablet) */
 .burger {
@@ -686,6 +712,7 @@ a.tag:hover { background: rgba(255, 255, 255, 0.3); text-decoration: none; }
    ============================================================ */
 
 .prose {
+  display: flow-root;
   max-width: 68ch;
   margin-inline: auto;
   font-size: 1.06rem;
@@ -693,8 +720,8 @@ a.tag:hover { background: rgba(255, 255, 255, 0.3); text-decoration: none; }
 }
 .prose > * + * { margin-top: 1.25em; }
 .prose > p:first-child { font-size: 1.28rem; line-height: 1.65; }
-.prose h2 { margin-top: 2.4em; font-size: 1.8rem; }
-.prose h3 { margin-top: 2em; font-size: 1.35rem; }
+.prose h2 { clear: both; margin-top: 2.4em; font-size: 1.8rem; }
+.prose h3 { clear: both; margin-top: 2em; font-size: 1.35rem; }
 .prose a { color: var(--clay-dark); text-underline-offset: 3px; }
 .prose a:hover { color: var(--ink); }
 .prose img { display: block; width: 100%; height: auto; margin-block: 2rem; border-radius: var(--radius-card); }
@@ -709,6 +736,47 @@ a.tag:hover { background: rgba(255, 255, 255, 0.3); text-decoration: none; }
   line-height: 1.5;
 }
 .prose hr { border: 0; border-top: 1px solid var(--line); margin: 2.6rem 0; }
+
+/* ---- Foto's in artikelen ---- */
+.prose .foto { margin-block: 2rem; }
+.prose .foto img { margin: 0; }
+.prose figcaption {
+  margin-top: 0.55rem;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--ink-soft);
+}
+.prose .foto--links,
+.prose .foto--rechts { width: 46%; margin-block: 0.4rem 1rem; }
+.prose .foto--rechts { float: right; margin-left: 1.8rem; }
+.prose .foto--links { float: left; margin-right: 1.8rem; }
+.prose .foto--midden { width: 60%; margin-inline: auto; }
+.prose .foto--klein { width: 30%; }
+.prose .foto--breed {
+  position: relative;
+  left: 50%;
+  width: min(1040px, calc(100vw - 2.5rem));
+  transform: translateX(-50%);
+}
+.prose .foto--smal img { aspect-ratio: 21 / 8; object-fit: cover; }
+.prose .foto--vierkant img { aspect-ratio: 1; object-fit: cover; }
+
+.prose .foto-rij {
+  display: grid;
+  grid-template-columns: repeat(var(--cols, 2), 1fr);
+  gap: 1rem;
+  margin-block: 2rem;
+}
+.prose .foto-rij .foto { margin: 0; }
+.prose .foto-rij img { aspect-ratio: 3 / 2; object-fit: cover; }
+
+@media (max-width: 640px) {
+  .prose .foto--links,
+  .prose .foto--rechts,
+  .prose .foto--klein,
+  .prose .foto--midden { float: none; width: 100%; margin-inline: 0; }
+  .prose .foto--breed { left: 0; width: 100%; transform: none; }
+}
 
 .article-end { max-width: 68ch; margin: 3rem auto 0; padding-top: 1.6rem; border-top: 1px solid var(--line); }
 

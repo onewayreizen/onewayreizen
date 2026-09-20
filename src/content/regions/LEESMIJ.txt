@@ -1,0 +1,12 @@
+Hier komt per werelddeel (regio) één bestandje, als je er een eigen foto of introtekst voor wilt.
+Zie REGION_TEMPLATE.md in de hoofdmap. Voorbeeld: azie.md met daarin:
+
+---
+name: Azië
+intro: Korte introtekst over Azië.
+image: /images/azie.jpg
+---
+
+"name" moet hetzelfde geschreven zijn als "region:" in je artikelen.
+De foto verschijnt bovenaan de regiopagina en op de kaart op de homepage en bij Bestemmingen.
+Zonder bestandje wordt automatisch de foto van je nieuwste artikel in die regio gebruikt.

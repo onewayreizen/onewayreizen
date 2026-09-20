@@ -7,6 +7,7 @@ interface Props {
 }
 const { overlay = true } = Astro.props;
 const { regions, themes } = await getData();
+const cols = Math.min(Math.max(regions.length, 1), 4);
 ---
 
 <header
@@ -21,12 +22,12 @@ const { regions, themes } = await getData();
 
     <!-- Menu op groot scherm -->
     <nav class="nav" aria-label="Hoofdmenu">
-      <div class="nav__item">
+      <div class="nav__item nav__item--mega">
         <a class="nav__link" href="/bestemmingen/">
           Bestemmingen
           <svg class="chevron" viewBox="0 0 12 8" width="10" height="7" aria-hidden="true"><path d="M1 1.5l5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
         </a>
-        <div class="drop drop--wide">
+        <div class="drop drop--wide" style={`--cols:${cols}`}>
           <div class="drop__inner">
             {regions.length === 0 && <p class="drop__empty">Binnenkort meer bestemmingen.</p>}
             {regions.map((region) => (

@@ -35,7 +35,7 @@ const allTitle = `Alle artikelen over ${country.name}`;
     ]}
   />
 
-  {(info?.intro || (info && (info.capital || info.language || info.currency || info.flightTime))) && (
+  {(info?.intro || (info && (info.capital || info.language || info.currency || info.flightTime || info.reisperiode))) && (
     <section class="section section--tight">
       <div class="container">
         {info?.intro && <p class="lead">{info.intro}</p>}
@@ -46,6 +46,7 @@ const allTitle = `Alle artikelen over ${country.name}`;
             language={info.language}
             currency={info.currency}
             flightTime={info.flightTime}
+            reisperiode={info.reisperiode}
           />
         )}
       </div>

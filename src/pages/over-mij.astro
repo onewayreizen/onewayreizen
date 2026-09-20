@@ -2,18 +2,23 @@
 import Layout from '../layouts/Layout.astro';
 import Hero from '../components/Hero.astro';
 import { site } from '../data/site';
+
+// Foto bovenaan de pagina: kies een andere via "headerImage" in src/data/site.ts.
+// Staat die regel er niet, dan wordt de standaardfoto gebruikt.
+const headerImage = site.about.headerImage ?? site.heroImage;
 ---
 
 <Layout title={site.about.title} description={site.about.paragraphs[0]} image={site.about.image}>
   <Hero
     size="md"
     title={site.about.title}
-    image={site.about.image}
+    image={headerImage}
     crumbs={[{ label: 'Home', href: '/' }, { label: site.about.title }]}
   />
   <section class="section">
-    <div class="container">
-      <div class="prose">
+    <div class="container about">
+      <div class="about__photo" style={`--about-image: url('${site.about.image}')`}></div>
+      <div class="about__text">
         {site.about.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
       </div>
     </div>
