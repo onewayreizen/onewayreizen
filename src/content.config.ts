@@ -11,6 +11,11 @@ const posts = defineCollection({
     region: z.string(),
     country: z.string(),
     destination: optionalText,
+    // Optioneel: andere landen waar dit artikel ook bij hoort, bijv. [Chili]
+    otherCountries: z
+      .union([z.array(z.string()), z.string()])
+      .nullish()
+      .transform((v) => (Array.isArray(v) ? v : v ? [v] : [])),
     description: z.string().nullish().transform((v) => v ?? ''),
     // Werkt met en zonder aanhalingstekens: 2026-01-01 of "2026-01-01"
     date: z.coerce.date(),

@@ -42,6 +42,7 @@ export type Post = {
   regionSlug: string;
   country: string;
   countrySlug: string;
+  otherCountries: string[];
   destination?: string;
   destinationSlug?: string;
   themes: { name: string; slug: string }[];
@@ -120,6 +121,7 @@ async function compute(): Promise<SiteData> {
         regionSlug,
         country: d.country.trim(),
         countrySlug,
+        otherCountries: d.otherCountries.map((c) => c.trim()).filter((c) => c !== ''),
         destination: d.destination?.trim(),
         destinationSlug: d.destination ? slugify(d.destination) : undefined,
         themes: d.themes
@@ -136,35 +138,58 @@ async function compute(): Promise<SiteData> {
     countryEntries.map((e) => [slugify(e.data.name), e.data]),
   );
   const countryMap = new Map<string, CountryGroup>();
-  for (const post of posts) {
-    const key = `${post.regionSlug}/${post.countrySlug}`;
-    let group = countryMap.get(key);
-    if (!group) {
-      const info = countryInfoBySlug.get(post.countrySlug);
-      if (!info) {
-        console.warn(
-          `[One Way Reizen] Let op: er is nog geen landbestand voor "${post.country}". ` +
-            `Maak src/content/countries/${post.countrySlug}.md aan (zie COUNTRY_TEMPLATE.md), ` +
-            `of controleer de spelling van "country:" in je artikel.`,
-        );
-      }
-      group = {
-        name: info?.name ?? post.country,
-        slug: post.countrySlug,
-        url: `/bestemmingen/${post.regionSlug}/${post.countrySlug}/`,
-        regionName: post.region,
-        regionSlug: post.regionSlug,
-        posts: [],
-        info,
-        image: undefined,
-        destinations: [],
-      };
-      countryMap.set(key, group);
+
+  function createGroup(
+    regionSlug: string,
+    regionName: string,
+    countrySlug: string,
+    countryName: string,
+  ): CountryGroup {
+    const info = countryInfoBySlug.get(countrySlug);
+    if (!info) {
+      console.warn(
+        `[One Way Reizen] Let op: er is nog geen landbestand voor "${countryName}". ` +
+          `Maak src/content/countries/${countrySlug}.md aan (zie COUNTRY_TEMPLATE.md), ` +
+          `of controleer de spelling van "country:" in je artikel.`,
+      );
     }
+    const group: CountryGroup = {
+      name: info?.name ?? countryName,
+      slug: countrySlug,
+      url: `/bestemmingen/${regionSlug}/${countrySlug}/`,
+      regionName,
+      regionSlug,
+      posts: [],
+      info,
+      image: undefined,
+      destinations: [],
+    };
+    countryMap.set(`${regionSlug}/${countrySlug}`, group);
+    return group;
+  }
+
+  // Ronde 1: elk artikel bij zijn eigen land
+  for (const post of posts) {
+    const group =
+      countryMap.get(`${post.regionSlug}/${post.countrySlug}`) ??
+      createGroup(post.regionSlug, post.region, post.countrySlug, post.country);
     group.posts.push(post);
+  }
+
+  // Ronde 2: artikelen die ook bij andere landen horen (otherCountries)
+  for (const post of posts) {
+    for (const otherName of post.otherCountries) {
+      const otherSlug = slugify(otherName);
+      if (!otherSlug || otherSlug === post.countrySlug) continue;
+      const group =
+        [...countryMap.values()].find((g) => g.slug === otherSlug) ??
+        createGroup(post.regionSlug, post.region, otherSlug, otherName);
+      if (!group.posts.includes(post)) group.posts.push(post);
+    }
   }
   const countries = [...countryMap.values()].sort(byName);
   for (const c of countries) {
+    c.posts.sort((a, b) => b.date.valueOf() - a.date.valueOf());
     c.image = c.info?.image ?? firstImage(c.posts);
     const destMap = new Map<string, { name: string; slug: string; count: number }>();
     for (const p of c.posts) {
@@ -197,7 +222,9 @@ async function compute(): Promise<SiteData> {
       regionMap.set(c.regionSlug, region);
     }
     region.countries.push(c);
-    region.posts.push(...c.posts);
+    for (const p of c.posts) {
+      if (!region.posts.includes(p)) region.posts.push(p);
+    }
   }
   const regions = [...regionMap.values()].sort(byName);
   for (const r of regions) {
