@@ -8,6 +8,5 @@ date: 2026-07-02
 themes: [Backpacken]
 ---
 
-## Waar te beginnen
 
-De hoofdstad Quito.
+Coming soon
