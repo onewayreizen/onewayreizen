@@ -5,7 +5,8 @@ country: Tanzania
 destination: Ngorongoro
 description: Safari's
 date: 2026-08-14
-themes: [Wildlife, Avontuur]
+themes: [Wildlife]
 ---
 
-## Safari
+
+Coming soon
