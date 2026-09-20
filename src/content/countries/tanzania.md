@@ -2,10 +2,10 @@
 name: Tanzania
 capital: Dar es Salaam
 language: Swahili
-currency: onbekend
-besttime: december
-intro: KORTE INTRO HIER, 2-3 zinnen over het land. Verschijnt bovenaan de landpagina.
-image: /images/BESTANDSNAAM.jpg
+currency: Tanzaniaanse Shilling
+besttime: juni tot oktober
+intro: Een land vol wildlife en een prachtig eiland voor de kust.
+image: /images/tanzania-header.jpg
 ---
 
 UITLEG: sla dit op in src/content/countries/ met een willekeurige naam, bijv. suriname.md.
