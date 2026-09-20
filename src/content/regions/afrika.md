@@ -1,6 +1,6 @@
 ---
 name: Afrika
-intro: Safari's 
+intro: "Savannes, safari's en kusten in een continent vol contrasten."
 image: /images/afrika-header.jpg
 ---
 
