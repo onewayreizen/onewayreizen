@@ -5,5 +5,5 @@ language: "Spaans"
 currency: "Amerikaanse dollar"
 reisperiode: "november tot april"
 intro: "Het kleinste land van Midden-Amerika, met vulkanen, surfstranden en koffieplantages. De veiligheidssituatie is de afgelopen jaren sterk verbeterd, al is het slim om je vooraf goed te informeren."
-image: /images/el-salvador-header.jpg
+image: /images/landen-headers/el-salvador-header.jpg
 ---
