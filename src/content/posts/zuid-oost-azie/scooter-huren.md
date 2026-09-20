@@ -1,7 +1,7 @@
 ---
 title: "Tips voor een scooter huren in Zuidoost-Azië (+ mijn ervaring)"
 region: Azië
-country: 
+country: Thailand
 destination: 
 description: 
 date: 2026-08-14
