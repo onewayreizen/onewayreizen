@@ -8,4 +8,5 @@ date: 2026-06-10
 themes: [Hiken]
 ---
 
-## Waar te beginnen
+
+Coming soon
