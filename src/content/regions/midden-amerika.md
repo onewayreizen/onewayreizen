@@ -1,6 +1,6 @@
 ---
 name: Midden-Amerika
-intro: noord naar zuid
+intro: "Vulkanen, regenwoud en stranden aan twee kusten."
 image: /images/midden-amerika-header.jpg
 ---
 
