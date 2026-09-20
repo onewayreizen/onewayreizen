@@ -359,7 +359,7 @@ a { color: inherit; }
   position: relative;
   display: flex;
   align-items: flex-end;
-  min-height: 54vh;
+     min-height: 70vh;
   padding: calc(var(--header-h) + 3.5rem) 0 clamp(2.5rem, 5vw, 4rem);
   color: #fff;
   background-color: var(--olive);
@@ -371,7 +371,7 @@ a { color: inherit; }
   background-position: center;
 }
 .hero--xl { min-height: 92vh; min-height: 92svh; }
-.hero--md { min-height: 40vh; }
+   .hero--md { min-height: 52vh; }
 
 .hero__inner { position: relative; }
 
