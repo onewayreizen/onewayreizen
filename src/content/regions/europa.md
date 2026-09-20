@@ -1,6 +1,6 @@
 ---
 name: Europa
-intro: European summer
+intro: "Steden vol geschiedenis, bergen en mediterrane kusten."
 image: /images/europa-header.jpg
 ---
 
