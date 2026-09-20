@@ -15,6 +15,7 @@ De Eolische archipel bestaat in totaal uit zeven bewoonde eilanden: Lipari, Sali
 ## Lipari: de levendige uitvalsbasis
 Lipari is het grootste en drukst bevolkte eiland van de archipel, met zo'n tienduizend inwoners die voornamelijk in het gelijknamige hoofdstadje wonen. Dit is ook meteen de reden waarom de meeste reizigers hier hun basis kiezen: goede verbindingen naar de andere eilanden, een gezellig centrum vol winkeltjes en restaurantjes, en genoeg te doen om zelf ook een paar dagen te blijven.
 Het historische centrum, rond de indrukwekkende Akropolis hoog boven de haven, is de moeite van een wandeling waard. Boven aangekomen kijk je uit over zee, de haven en de andere eilanden in de verte. Buiten het stadje wordt het al snel rustiger, met rotsachtige paden, stille baaien en verrassend mooie wandelroutes. Lipari staat ook wel bekend als de 'witte berg', vanwege de dikke lagen puimsteen die het eiland rijk is.
+
 **Hoeveel tijd heb je nodig?** Twee tot drie dagen is ideaal om het eiland zelf goed te verkennen. Gebruik je Lipari als uitvalsbasis om ook de andere eilanden te bezoeken, dan kun je hier prima wat langer blijven.
 
 ## Salina: het groene, rustige zusje
@@ -25,15 +26,18 @@ Het eiland telt een handvol kleine dorpjes, waaronder Santa Marina Salina en Mal
 ## Stromboli: de rokende vulkaan
 Stromboli is misschien wel het meest iconische eiland van de hele archipel, simpelweg omdat het eiland zelf een actieve vulkaan is. De vulkaan is een van de meest continu actieve vulkanen ter wereld: bijna elk uur is er wel een kleine uitbarsting, met gloeiende lava die tegen de avondhemel oplicht. Overdag zie je vooral rook opstijgen, maar zodra het donker wordt, verandert het beeld compleet.
 Het dorpje zelf, ook Stromboli genoemd, bestaat uit smalle straatjes, witte huisjes en zwart lavazand op het strand. Je kunt de vulkaan met een gids beklimmen, of, als klimmen je te veel is, 's avonds met een boot langs de kust varen om de uitbarstingen vanaf zee te bewonderen. Beide opties geven een compleet andere, maar minstens zo indrukwekkende ervaring.
+
 **Hoeveel tijd heb je nodig?** Stromboli is technisch gezien als dagtrip te bezoeken via speciale tourboten, maar dat betekent wel dat je de vulkaan in volle glorie, 's avonds in het donker, misloopt. Overnacht minstens één nacht als je de kans wilt hebben om de eruptiess 's avonds mee te maken, wat toch wel de kern van een bezoek aan dit eiland is.
 
 ## Panarea: het chique eilandje
 Panarea is met 3,4 vierkante kilometer het kleinste bewoonde eiland van de archipel, maar wat het aan omvang mist, maakt het goed met sfeer. Dit is hét eiland waar je de jetset van Italië tegenkomt: witte huisjes vol bougainville, chique boetiekjes en restaurants waar je duidelijk voor betaalt. Auto's en scooters zijn hier niet toegestaan, waardoor het eiland een rustige, bijna dromerige sfeer heeft, ondanks de glamoureuze uitstraling.
 Rondom het eiland liggen een paar kleine, verspreide baaitjes met kristalhelder water, perfect om een middagje te zwemmen en te snorkelen. Panarea is duidelijk minder gericht op actieve bezienswaardigheden en meer op simpelweg genieten van de sfeer, het uitzicht en af en toe een goed glas wijn op een terrasje met zeezicht.
+
 **Hoeveel tijd heb je nodig?** Panarea leent zich prima voor een dagtrip vanaf Lipari of Salina, maar omdat het eiland vooral draait om sfeer en ontspanning, is een overnachting zeker een aanrader als je budget dit toelaat.
 
 ## Hoe kom je op de eilanden?
 Je bereikt de Eolische eilanden meestal via de haven van Milazzo op Sicilië, met veerboten of snellere draagvleugelboten (aliscafi). De overtocht naar Lipari duurt ongeveer een uur, en vanaf daar reis je verder naar de andere eilanden. Tussen de eilanden onderling varen ook regelmatig boten, dus eilandhoppen is goed te doen zonder dat je steeds terug naar Sicilië hoeft.
+
 **Praktische tip:** koop, als je van plan bent meerdere eilanden te bezoeken, een meerdaags ticket bij de bootmaatschappijen. Dat scheelt vaak flink in de kosten ten opzichte van losse tickets per traject.
 
 ## Hoeveel tijd heb je in totaal nodig voor alle vier de eilanden?
