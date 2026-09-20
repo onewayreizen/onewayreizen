@@ -5,7 +5,7 @@ country: Bahama's
 destination: Bahama's
 description: Eilanden van de bahama's
 date: 2026-08-14
-themes: [Wildlife, Avontuur]
+themes: [Island life]
 ---
 
 Coming soon
