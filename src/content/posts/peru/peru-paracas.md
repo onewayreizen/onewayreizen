@@ -5,7 +5,7 @@ country: Peru
 destination: Paracas
 description: Tips en tricks over Paracas
 date: 2026-08-14
-themes: [Wildlife, Avontuur]
+themes: [Wildlife]
 ---
 
 **Zeeleeuwen die luidruchtig liggen te zonnebaden, pinguïns die tussen de rotsen wegduiken en pelikanen die statig over het water scheren. Klinkt als de Galapagos eilanden, toch? Toch zit je hier niet ergens ver weg voor de kust van Ecuador, maar gewoon in Peru. Welkom in Paracas, ook wel liefkozend de 'Poor Man's Galapagos' genoemd. Een stuk goedkoper, een stuk toegankelijker, en minstens zo indrukwekkend.**
