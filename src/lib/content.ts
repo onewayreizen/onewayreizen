@@ -125,7 +125,7 @@ async function compute(): Promise<SiteData> {
         themes: d.themes
           .map((t) => ({ name: t.trim(), slug: slugify(t) }))
           .filter((t) => t.slug !== ''),
-        url: `/bestemmingen/${regionSlug}/${countrySlug}/${entry.id}/`,
+        url: `/bestemmingen/${regionSlug}/${countrySlug}/${entry.id.split('/').pop()}/`,
         entry,
       };
     })
