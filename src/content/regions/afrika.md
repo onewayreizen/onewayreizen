@@ -1,5 +1,5 @@
 ---
-name: afrika
+name: Afrika
 intro: Safari's 
 image: /images/afrika-header.jpg
 ---
