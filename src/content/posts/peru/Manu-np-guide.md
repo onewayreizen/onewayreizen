@@ -38,10 +38,15 @@ Vogels spotten. Met meer dan 800 geregistreerde vogelsoorten is Manu een absoluu
 Kennismaken met lokale gemeenschappen. In de Cultural Zone van het park bezoek je soms lokale dorpjes en leer je meer over hoe de bewoners hier al generaties lang leven, in harmonie met een van de meest waardevolle natuurgebieden ter wereld.
 
 ## Praktische tips voor je bezoek
+
 **Wat neem je mee?** Denk aan lichte, ademende kleding, een goede regenjas, stevige wandelschoenen, insectenspray en een zaklamp. 's Avonds in de lodges is er vaak weinig tot geen stroom, dus een koplampje is ook geen overbodige luxe.
+
 **Comfort versus natuur.** De lodges in Manu zijn over het algemeen eenvoudiger en meer rustiek dan in toeristischere gebieden zoals Tambopata. Verwacht geen luxe, hier draait alles om de natuur, niet om je verblijf.
+
 **Internet.** Reken niet op wifi. De afgelegen ligging betekent ook dat verbindingen bewust beperkt worden gehouden, zodat de focus op de jungle blijft liggen. Zie het maar als een welkome digitale detox.
+
 **Boek bij een betrouwbare, erkende touroperator.** Vanwege de afgelegen ligging kan medische hulp in de diepere delen van het park dagen op zich laten wachten. Een ervaren en erkende operator weet hoe te handelen in noodgevallen en is daarom geen plek om op te besparen.
+
 **Groepsgrootte.** Manu-tours zijn vaak kleinschaliger dan tours naar toeristischere jungle-bestemmingen. Dat is precies waarom je hier zoveel meer rust en ruimte voelt.
 
 ## Is Manu iets voor jou?
