@@ -1,7 +1,7 @@
 ---
 title: De ultieme reisroute voor Uruguay + tips
 region: Zuid-Amerika
-country: Chili
+country: Uruguay
 description: Reisroute
 date: 2026-01-01
 image: /images/BESTANDSNAAM.jpg
