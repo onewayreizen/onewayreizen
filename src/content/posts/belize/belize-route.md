@@ -5,7 +5,8 @@ country: Belize
 destination: Caye Caulker
 description: Belize Route
 date: 2026-08-14
-themes: [Wildlife, Avontuur]
+themes: [Reisgiden]
 ---
 
-Route Belize
+
+Coming soon
