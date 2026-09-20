@@ -724,7 +724,12 @@ a.tag:hover { background: rgba(255, 255, 255, 0.3); text-decoration: none; }
      font-size: clamp(2.3rem, 1.5rem + 3.2vw, 3.8rem);
      letter-spacing: -0.025em;
    }
-   .prose > .article-title + p { font-size: 1.28rem; line-height: 1.65; }
+   .prose > .article-title {
+  margin: 0 0 1.2rem;
+  font-size: clamp(2.3rem, 1.5rem + 3.2vw, 3.8rem);
+  text-wrap: wrap;
+  letter-spacing: -0.025em;
+}
 .prose h2 { clear: both; margin-top: 2.4em; font-size: 1.8rem; }
 .prose h3 { clear: both; margin-top: 2em; font-size: 1.35rem; }
 .prose a { color: var(--clay-dark); text-underline-offset: 3px; }
