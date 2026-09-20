@@ -1,11 +1,11 @@
 ---
 name: Zuid-Afrika
 capital: Pretoria, Kaapstad, Bloemfontein
-language: 
+language: Engels
 currency: Zuid-Afrikaanse Rand
-reisperiode: mei-juni
-intro: KORTE INTRO HIER, 2-3 zinnen over het land. Verschijnt bovenaan de landpagina.
-image: /images/BESTANDSNAAM.jpg
+reisperiode: meitot september en november tot maart
+intro: Een land dat zoveel te bieden heeft.
+image: /images/zuid-afrika-header.jpg
 ---
 
 UITLEG: sla dit op in src/content/countries/ met een willekeurige naam, bijv. suriname.md.
