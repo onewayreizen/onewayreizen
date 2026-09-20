@@ -8,4 +8,5 @@ date: 2026-08-14
 themes: [Wildlife, Avontuur]
 ---
 
-amazone
+
+Coming soon
