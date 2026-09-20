@@ -1,6 +1,6 @@
 ---
 name: Zuid-Amerika
-intro: Van hoge bergen tot woestijn
+intro: "Van de Andes tot de Amazone en Patagonië."
 image: /images/zuid-amerika-header.jpg
 ---
 
