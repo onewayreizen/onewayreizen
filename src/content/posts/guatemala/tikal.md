@@ -1,6 +1,6 @@
 ---
 title: "Tikal: overnachten om de zonsopgang boven de jungle te zien"
-region: Azië
+region: Midden-Amerika
 country: Guatemala
 destination: Tikal
 description: 
