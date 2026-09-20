@@ -2,6 +2,7 @@
 title: TITEL HIER
 region: Zuid-Amerika
 country: LAND HIER (bijv. Ecuador)
+otherCountries: [ANDER LAND HIER]
 destination: PLEK HIER, optioneel (bijv. Siargao). Verwijder deze hele regel als het niet van toepassing is
 description: KORTE OMSCHRIJVING HIER (1 zin, verschijnt op de kaartjes)
 date: 2026-01-01
