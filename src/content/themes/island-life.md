@@ -1,6 +1,6 @@
 ---
 name: Island life
-intro: KORTE INTRO HIER, 1-3 zinnen. Verschijnt op de themapagina onder de titel.
+Intro: "Stranden, veerboten en trage dagen op eilanden, van bekende parels tot plekken waar bijna niemand komt."
 image: /images/island-life-header.jpg
 ---
 
