@@ -3,7 +3,7 @@ name: Tanzania
 capital: Dar es Salaam
 language: Swahili
 currency: Tanzaniaanse Shilling
-besttime: juni tot oktober
+reisperiode: "juni tot oktober"
 intro: Een land vol wildlife en een prachtig eiland voor de kust.
 image: /images/tanzania-header.jpg
 ---
