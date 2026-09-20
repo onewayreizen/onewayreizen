@@ -1,8 +1,8 @@
 ---
-name: Singapore
-capital: Singapore
-language: Engels
-currency: Singapore Dollar
+name: Zuid-Afrika
+capital: Pretoria, Kaapstad, Bloemfontein
+language: 
+currency: Zuid-Afrikaanse Rand
 reisperiode: mei-juni
 intro: KORTE INTRO HIER, 2-3 zinnen over het land. Verschijnt bovenaan de landpagina.
 image: /images/BESTANDSNAAM.jpg
