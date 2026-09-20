@@ -1,11 +1,11 @@
 ---
 title: "Beijing in 3 dagen: Verboden Stad tot Muur van China"
 region: Azië
-country: Thailand
-destination: Koh Lipe
+country: China
+destination: Beijing
 description: 
 date: 2026-08-14
-themes: [Island life]
+themes: []
 ---
 
 Duizenden jaren geschiedenis, een van de grootste pleinen ter wereld, eindeloze paleiscomplexen en natuurlijk een van de zeven wereldwonderen op maar een paar uur rijden van het centrum. Beijing is een stad die je in één woord kunt samenvatten: overweldigend. Met drie stevige dagen pak je gelukkig alle absolute hoogtepunten mee, van de eeuwenoude Verboden Stad tot de indrukwekkende Chinese Muur. Hier lees je hoe je dit het beste plant.
