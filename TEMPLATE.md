@@ -35,6 +35,7 @@ UITLEG (mag je laten staan of weghalen)
 - Aanhalingstekens rond de datum hoeven niet meer.
 - image, destination en themes mag je weglaten. Zonder image wordt de standaardfoto gebruikt.
 - Schrijf het land en de regio steeds precies hetzelfde, dan komen artikelen vanzelf bij elkaar.
+- otherCountries hoort alleen in je artikel als het ook bij een ander land past, bijv. [Chili] of [Chili, Bolivia]. Hoort het maar bij één land, verwijder dan de hele regel.
 
 FOTO'S IN DE TEKST
 - Zonder bijschrift:      ![](/images/foto.jpg)
