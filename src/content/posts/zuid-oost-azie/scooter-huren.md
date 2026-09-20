@@ -10,12 +10,6 @@ themes: [Backpacken]
 
 Wind door je haren, kronkelende bergwegen en de vrijheid om zelf te bepalen waar je stopt. Scooterrijden in Zuidoost-Azië is voor veel backpackers een van de meest bijzondere manieren om een land te ontdekken. Maar voordat je zelf achter het stuur kruipt, is het slim om goed voorbereid te zijn. Hier lees je alle praktische tips, plus mijn eigen ervaring van voor het eerst leren rijden, in Laos.
 
-## Mijn eerste keer op een scooter: leren rijden in Laos
-
-Voordat ik aan mijn reis door Zuidoost-Azië begon, had ik nog nooit op een scooter gezeten. Laos bleek de perfecte plek om dit eindelijk onder de knie te krijgen: rustiger verkeer dan in bijvoorbeeld Vietnam of Thailand, minder chaos, en genoeg ruimte om al zwabberend en zoekend naar balans mijn eerste rondjes te rijden. De eerste meters voelden onwennig en een beetje wiebelig, maar het went verrassend snel. Binnen een uur reed ik al zonder al te veel nadenken over rustige wegen, en tegen het einde van de dag voelde het al een stuk natuurlijker.
-
-Achteraf ben ik blij dat ik voor Laos als leerplek koos. Het land heeft over het algemeen minder verkeer en een rustiger tempo dan de drukkere buurlanden, wat het een stuk minder overweldigend maakt om voor het eerst te wennen aan gas geven, remmen en bochten nemen. Voel je jezelf ook onzeker over je eerste rit op een scooter? Kies dan bewust voor een rustiger gebied of een minder drukke stad om te oefenen, voordat je je waagt aan drukkere steden of bergwegen.
-
 ## Heb je een rijbewijs nodig?
 
 Officieel heb je in vrijwel alle landen in Zuidoost-Azië een (internationaal) motorrijbewijs nodig om een scooter boven de 50cc te besturen, en dat zijn de meeste scooters die je hier tegenkomt. In de praktijk vraagt bijna geen enkele verhuurder hiernaar, en stappen veel reizigers zonder rijbewijs op een scooter.
@@ -47,6 +41,12 @@ De meeste verhuurbedrijven bieden zelf geen verzekering aan. Dat betekent dat al
 **Rij niet in het donker als je onervaren bent.** Wegen zijn in veel gebieden slecht verlicht, en obstakels zoals gaten in de weg of loslopende dieren zijn dan een stuk lastiger op tijd te zien.
 
 **Vertrouw je gevoel bij de politie.** In sommige landen in de regio staat de politie erom bekend af en toe te proberen extra geld te vragen bij een controle. Blijf altijd beleefd, en wees je ervan bewust dat dit soms voorkomt, zonder er meteen van uit te gaan dat het altijd oneerlijk is.
+
+## Mijn eerste keer op een scooter: leren rijden in Laos
+
+Voordat ik aan mijn reis door Zuidoost-Azië begon, had ik nog nooit op een scooter gezeten. Laos bleek de perfecte plek om dit eindelijk onder de knie te krijgen: rustiger verkeer dan in bijvoorbeeld Vietnam of Thailand, minder chaos, en genoeg ruimte om al zwabberend en zoekend naar balans mijn eerste rondjes te rijden. De eerste meters voelden onwennig en een beetje wiebelig, maar het went verrassend snel. Binnen een uur reed ik al zonder al te veel nadenken over rustige wegen, en tegen het einde van de dag voelde het al een stuk natuurlijker.
+
+Achteraf ben ik blij dat ik voor Laos als leerplek koos. Het land heeft over het algemeen minder verkeer en een rustiger tempo dan de drukkere buurlanden, wat het een stuk minder overweldigend maakt om voor het eerst te wennen aan gas geven, remmen en bochten nemen. Voel je jezelf ook onzeker over je eerste rit op een scooter? Kies dan bewust voor een rustiger gebied of een minder drukke stad om te oefenen, voordat je je waagt aan drukkere steden of bergwegen.
 
 ## Liever niet zelf rijden?
 
