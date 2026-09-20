@@ -7,7 +7,6 @@ description:
 date: 2026-08-14
 themes: [Wildlife]
 ---
-# Wildlife spotten tijdens een riviercruise op de Kinabatangan
 
 Een neusaap die zich vanuit het niets laat vallen van tak naar tak, een groep speelse langstaartmakaken die over het water zwiepen, en met een beetje geluk zelfs een wilde orang-oetan die aan de oever naar voedsel zoekt. De Kinabatangan rivier, in het oosten van Sabah op Borneo, is een van de beste plekken ter wereld om wildlife in het wild te spotten, en dat allemaal vanuit een comfortabel bootje. Hier lees je alles over het boeken van een tour, wat je kunt verwachten, en waarom deze ervaring me zo goed beviel, ook op ethisch vlak.
 
