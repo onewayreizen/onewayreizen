@@ -8,4 +8,4 @@ date: 2026-08-14
 themes: [Avontuur]
 ---
 
-Zo vier je NYE in Sydney
+Coming soon
