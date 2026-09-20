@@ -1,6 +1,6 @@
 ---
-name: "Hongkong"
-capital: "Hongkong"
+name: "Hong Kong"
+capital: "Hong Kong"
 language: "Kantonees en Engels"
 currency: "Hongkongse dollar"
 reisperiode: "oktober tot december"
