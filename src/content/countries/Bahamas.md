@@ -3,7 +3,7 @@ name: Bahama's
 capital: Nassau
 language: Engels
 currency: Bahamaanse dollar
-reisperiode: mei
+reisperiode: januari tot april
 intro: "Een eilandengroep met ruim 700 eilanden, kristalhelder turquoise water en roze zandstranden. Buiten de drukke toeristeneilanden vind je rustige dorpjes en plekken om te snorkelen en duiken."
 image: /images/bahamas-header.jpg
 ---
