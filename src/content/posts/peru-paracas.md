@@ -31,7 +31,7 @@ Trouwens, waarom liggen die eilanden vol met vogels? Dat heeft alles te maken me
 
 Tegenwoordig is er strenge wetgeving om de overgebleven populaties, waaronder de pinguïns, te beschermen.
 
-## Het Paracas National Reserve: woestijn ontmoet oceaan**
+## Het Paracas National Reserve: woestijn ontmoet oceaan
 Naast de boottour naar de Ballestas eilanden ligt er nog een tweede topper op je te wachten: het Paracas National Reserve. Dit natuurgebied bestaat uit kilometers verlaten kustlijn, dramatische kliffen en een woestijnlandschap dat overgaat in de oceaan. Heel anders dan de eilanden, maar minstens zo mooi.
 
 Je kunt het reservaat op verschillende manieren verkennen. De meest gekozen optie is een georganiseerde tour met een gids, maar je kunt er ook zelf op uit met een scooter, een quad of zelfs een kleine buggy. Wil je alles in je eigen tempo doen en voel je je senang op twee wielen? Ga dan voor de scooter, dat geeft je volledige vrijheid om te stoppen waar jij wilt.
