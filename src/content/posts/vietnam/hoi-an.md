@@ -1,7 +1,7 @@
 ---
 title: Waarom iedereen verliefd wordt op Hoi An
 region: Azië
-country: Bahama's
+country: Vietnam
 destination: Hoi An
 description: 
 date: 2026-08-14
