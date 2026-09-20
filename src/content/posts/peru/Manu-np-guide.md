@@ -1,5 +1,5 @@
 ---
-title: Manu National Park: de Amazone zonder de massa
+title: "Manu National Park: de Amazone zonder de massa"
 region: Zuid-Amerika
 country: Peru
 destination: Amazone
