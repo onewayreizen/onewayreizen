@@ -5,7 +5,7 @@ country: Thailand
 destination: Bangkok
 description: Reisroute
 date: 2026-08-14
-themes: [Reisroute]
+themes: [Reisgidsen]
 ---
 
 Route
