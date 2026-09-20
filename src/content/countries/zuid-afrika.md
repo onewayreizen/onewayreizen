@@ -4,7 +4,7 @@ capital: Pretoria, Kaapstad, Bloemfontein
 language: Engels
 currency: Zuid-Afrikaanse Rand
 reisperiode: meitot september en november tot maart
-intro: Een land dat zoveel te bieden heeft.
+intro: "Een land met veel gezichten: de kust rond Kaapstad, de Drakensbergen, wildparken zoals Kruger en de wijnstreken. Het is goed te bereizen en biedt veel voor je geld."
 image: /images/zuid-afrika-header.jpg
 ---
 
