@@ -48,7 +48,7 @@ const related = (country?.posts ?? []).filter((p) => p.id !== post.id).slice(0, 
   <section class="section">
     <div class="container">
       <div class="prose" data-pagefind-body>
-        <p class="sr-only" data-pagefind-meta="title">{post.title}</p>
+           <h2 class="article-title" data-pagefind-meta="title">{post.title}</h2>
         <Content />
       </div>
       <div class="article-end">
