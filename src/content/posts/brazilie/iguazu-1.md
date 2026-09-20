@@ -3,8 +3,8 @@ title: "Iguazu: Braziliaanse of Argentijnse kant, welke kies je?"
 region: Zuid-Amerika
 country: Brazilië
 otherCountries: [Argentinië]
-destination: Atacama
-description: De droogste plek op aarde verkennen
+destination: Iguazu falls
+description: 
 date: 2026-01-01
 image: /images/BESTANDSNAAM.jpg
 themes: [Backpacken]
