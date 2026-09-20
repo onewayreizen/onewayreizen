@@ -46,6 +46,7 @@ De highlights van het reservaat op een rij:
 **Playa La Mina**. Wil je wél even het water in? Dan is dit jouw strand. De baai ligt beschut tegen de wind, waardoor het water hier rustiger en zwembaar is.
 
 ## Praktische tips voor je bezoek aan Paracas
+
 Hoeveel tijd heb je nodig? Voor de highlights van het reservaat reken je op zo'n anderhalf tot twee uur, exclusief extra stops bij stranden of lunch. Combineer je dit met de boottour naar de Ballestas eilanden, dan ben je al snel een halve dag onderweg. Ik raad aan om minstens twee nachten in Paracas te blijven, zodat je niet hoeft te haasten.
 
 **Wanneer ga je?** Voor de boottour naar de Ballestas eilanden kies je het beste voor de ochtend, tussen 8 en 11 uur, vanwege de rustige zee. Voor Playa Roja is juist het latere ochtendlicht mooier voor foto's, en voor La Catedral is de gouden avondzon een aanrader.
