@@ -1,6 +1,6 @@
 ---
 name: Noord-Amerika
-intro: roadtrip
+intro: "Nationale parken, roadtrips en grote steden."
 image: /images/noord-amerika-header.jpg
 ---
 
