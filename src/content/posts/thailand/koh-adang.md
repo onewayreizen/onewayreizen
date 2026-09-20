@@ -7,7 +7,6 @@ description:
 date: 2026-08-14
 themes: [Island life]
 ---
-# Dagtrip naar Koh Adang vanuit Koh Lipe: de hike naar de top
 
 Ben je toch al op Koh Lipe, met zijn kraakheldere water en verwenresorts, maar zoek je even een dagje ontsnapping aan de drukte? Dan is een dagtrip naar het naburige Koh Adang precies wat je nodig hebt. Dit veel groter en nagenoeg onbewoonde eiland, onderdeel van het Tarutao Marine National Park, biedt een pittige jungle-hike, spectaculaire uitkijkpunten en verlaten strandjes, allemaal op maar een paar minuten varen van Koh Lipe.
 
