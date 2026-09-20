@@ -5,7 +5,7 @@ language: Engels
 currency: Bahamaanse dollar
 reisperiode: januari tot april
 intro: "Een eilandengroep met ruim 700 eilanden, kristalhelder turquoise water en roze zandstranden. Buiten de drukke toeristeneilanden vind je rustige dorpjes en plekken om te snorkelen en duiken."
-image: /images/bahamas-header.jpg
+image: /images/landen-headers/bahamas-header.jpg
 ---
 
 UITLEG: sla dit op in src/content/countries/ met een willekeurige naam, bijv. suriname.md.
