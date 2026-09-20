@@ -6,7 +6,7 @@ description:
 date: 2026-08-14
 themes: [Backpacken]
 ---
-# Singapore in 48 uur: modern, groen en multicultureel
+
 
 Glimmende wolkenkrabbers naast eeuwenoude tempels, een futuristische tuin vol lichtgevende superbomen, en straatvoedsel van wereldklasse voor een paar euro per bord. Singapore is een stad die op het eerste gezicht misschien vooral modern en strak overkomt, maar die bij nader inzien barst van de cultuur, geschiedenis en groen. Met maar twee dagen tijd pak je gelukkig al verrassend veel van de hoogtepunten mee. Hier lees je hoe.
 
