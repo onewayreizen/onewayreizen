@@ -1,6 +1,6 @@
 ---
 name: Oceanië
-intro: Island life
+intro: "Koraalriffen, eilanden en eindeloze kustlijnen."
 image: /images/oceanie-header.jpg
 ---
 
