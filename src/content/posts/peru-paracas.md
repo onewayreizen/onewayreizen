@@ -12,7 +12,6 @@ Zeeleeuwen die luidruchtig liggen te zonnebaden, pinguïns die tussen de rotsen 
 
 ## Waar ligt Paracas?
 Paracas ligt zo'n vier uur rijden ten zuiden van Lima, aan de Peruaanse kust. Het plaatsje waar de meeste reizigers verblijven heet officieel El Chaco, maar iedereen noemt het gewoon Paracas. Denk aan een klein en rustig vissersdorpje met een boulevard vol restaurantjes, waar 's avonds de zon prachtig achter het water zakt.
-
 Veel backpackers combineren Paracas met een bezoek aan Huacachina of Ica, en dat is ook precies waar de meeste routes doorheen Peru je langsleiden. Sla deze plek niet over, ook al hoor je soms reizigers die het als tussenstop overslaan. Dat is best zonde, want Paracas heeft twee absolute toppers te bieden: de Ballestas eilanden en het Paracas National Reserve.
 
 **De Ballestas eilanden: wildlife spotten zonder gids in een oerwoud**
@@ -37,15 +36,24 @@ Naast de boottour naar de Ballestas eilanden ligt er nog een tweede topper op je
 Je kunt het reservaat op verschillende manieren verkennen. De meest gekozen optie is een georganiseerde tour met een gids, maar je kunt er ook zelf op uit met een scooter, een quad of zelfs een kleine buggy. Wil je alles in je eigen tempo doen en voel je je senang op twee wielen? Ga dan voor de scooter, dat geeft je volledige vrijheid om te stoppen waar jij wilt.
 
 De highlights van het reservaat op een rij:
+
 **La Catedral**. Deze indrukwekkende rotsformatie was ooit een enorme natuurlijke boog, ontstaan door duizenden jaren wind en golfslag. Bij een aardbeving in 2007 stortte de boog helaas in, maar het uitzicht vanaf dit punt is nog steeds een van de mooiste van het hele park. Kom hier het liefst rond zonsondergang voor het beste licht.
+
 **Playa** **Roja**. Een van de meest gefotografeerde plekjes van heel Peru. Het strand heeft door geërodeerd vulkanisch gesteente een opvallend dieprode kleur zand, wat een prachtig contrast geeft met de blauwe oceaan eromheen. Zwemmen mag hier niet, maar voor foto's is dit hét plekje.
+
 **Lagunillas**. Een klein, beschut baaitje met vissersbootjes en een handvol lokale restaurantjes. Perfect om even te stoppen voor verse ceviche. Lunchen midden in een kustwoestijn met uitzicht op de oceaan, dat maak je niet elke dag mee.
+
 **Playa La Mina**. Wil je wél even het water in? Dan is dit jouw strand. De baai ligt beschut tegen de wind, waardoor het water hier rustiger en zwembaar is.
-Praktische tips voor je bezoek aan Paracas
+
+## Praktische tips voor je bezoek aan Paracas
 Hoeveel tijd heb je nodig? Voor de highlights van het reservaat reken je op zo'n anderhalf tot twee uur, exclusief extra stops bij stranden of lunch. Combineer je dit met de boottour naar de Ballestas eilanden, dan ben je al snel een halve dag onderweg. Ik raad aan om minstens twee nachten in Paracas te blijven, zodat je niet hoeft te haasten.
+
 **Wanneer ga je?** Voor de boottour naar de Ballestas eilanden kies je het beste voor de ochtend, tussen 8 en 11 uur, vanwege de rustige zee. Voor Playa Roja is juist het latere ochtendlicht mooier voor foto's, en voor La Catedral is de gouden avondzon een aanrader.
+
 **Wat kost het?** De entree voor het reservaat ligt rond de 15 tot 17 soles per persoon. Een tour of scooterverhuur boek je daarbovenop, dus reken in totaal op een paar tientjes voor een complete dag.
+
 **Waar overnachten?** In het dorpje Paracas vind je opties in alle prijsklassen, van simpele hostels met gedeelde kamers tot iets luxere hotels aan de boulevard.
+
 **Wat neem je mee?** Smeer je goed in, want ook hier in de woestijn brand je snel. Een petje of zonnebril is fijn, maar houd ze goed vast: het waait hier flink, vooral bij uitkijkpunten zoals La Catedral.
 
 **Waarom Paracas het verdient om niet overgeslagen te worden**
