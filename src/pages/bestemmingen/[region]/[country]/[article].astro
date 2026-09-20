@@ -8,7 +8,7 @@ import { getData, formatDate } from '../../../../lib/content';
 export async function getStaticPaths() {
   const { posts } = await getData();
   return posts.map((post) => ({
-    params: { region: post.regionSlug, country: post.countrySlug, article: post.entry.id },
+    params: { region: post.regionSlug, country: post.countrySlug, article: post.entry.id.split('/').pop() },
     props: { post },
   }));
 }
