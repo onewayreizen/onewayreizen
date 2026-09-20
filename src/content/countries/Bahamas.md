@@ -4,7 +4,7 @@ capital: Nassau
 language: Engels
 currency: Bahamaanse dollar
 reisperiode: mei
-intro: Parelwitte stranden
+intro: "Een eilandengroep met ruim 700 eilanden, kristalhelder turquoise water en roze zandstranden. Buiten de drukke toeristeneilanden vind je rustige dorpjes en plekken om te snorkelen en duiken."
 image: /images/bahamas-header.jpg
 ---
 
