@@ -10,7 +10,8 @@ themes: [Wildlife]
 
 De grootste onbeschadigde vulkaankrater ter wereld, met de hoogste concentratie wilde dieren van heel Afrika binnen een gebied van maar 260 vierkante kilometer. De Ngorongoro krater staat niet voor niets bekend als een van de zeven wonderen van Afrika. Maar is het de moeite waard om deze plek als dagtour vanuit Arusha te bezoeken, of kun je beter een nacht extra inplannen? Hier lees je alles wat je moet weten voordat je boekt.
 
-![Hyena lopend door het park](/images/tanzania/hyena-ngorongoro.jpg "smal")
+![Hyena](/images/tanzania/hyena-ngorongoro.jpg)
+![Leeuw](/images/tanzania/leeuw-ngorongoro.jpg)
 
 ## Wat maakt de Ngorongoro krater zo bijzonder?
 
