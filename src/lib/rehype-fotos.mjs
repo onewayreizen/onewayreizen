@@ -10,6 +10,8 @@
 // ------------------------------------------------------------
 
 const KEYWORDS = ['links', 'rechts', 'midden', 'klein', 'breed', 'smal', 'vierkant'];
+// Woorden die de vorm van een rij foto's naast elkaar bepalen
+const ROW_KEYWORDS = ['liggend', 'vierkant', 'hoog'];
 
 const isWhitespace = (n) => n.type === 'text' && n.value.trim() === '';
 const isBreak = (n) => n.type === 'element' && n.tagName === 'br';
@@ -46,10 +48,23 @@ function makeFigure(img, inRow) {
 }
 
 function makeRow(imgs) {
+  // Een woord achter een van de foto's (bijv. "hoog") bepaalt de vorm van de hele rij
+  const words = imgs.flatMap((img) =>
+    String((img.properties || {}).title ?? '')
+      .toLowerCase()
+      .split(/\s+/)
+      .filter(Boolean),
+  );
+  const classes = ['foto-rij'];
+  for (const word of words) {
+    if (ROW_KEYWORDS.includes(word) && !classes.includes('foto-rij--' + word)) {
+      classes.push('foto-rij--' + word);
+    }
+  }
   return {
     type: 'element',
     tagName: 'div',
-    properties: { className: ['foto-rij'], style: '--cols:' + Math.min(imgs.length, 3) },
+    properties: { className: classes, style: '--cols:' + Math.min(imgs.length, 3) },
     children: imgs.map((img) => makeFigure(img, true)),
   };
 }

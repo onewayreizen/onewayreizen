@@ -149,3 +149,10 @@
 @media (prefers-reduced-motion: reduce) {
   .to-top, .toc__summary::after { transition: none; }
 }
+
+/* ---- Foto's naast elkaar: standaard iets hoger dan breed ---- */
+
+.prose .foto-rij img { aspect-ratio: 4 / 5; }
+.prose .foto-rij--liggend img { aspect-ratio: 3 / 2; }
+.prose .foto-rij--vierkant img { aspect-ratio: 1 / 1; }
+.prose .foto-rij--hoog img { aspect-ratio: 2 / 3; }
