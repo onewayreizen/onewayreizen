@@ -5,7 +5,7 @@ country: Zuid-Afrika
 description: 
 destination: Kaapstad
 date: 2026-08-14
-image: 
+image: /images/zuid-afrika/kaapstad-guide-header.jpg
 themes: []
 ---
 
@@ -37,15 +37,23 @@ Vanaf hier rijd je door naar Cape Point, aan de zuidpunt van het schiereiland, w
 
 Op de terugweg stop je bij Boulders Beach, wereldberoemd om de kolonie Afrikaanse pinguïns die hier vlak bij het strand rondwaggelen, tussen de gelijknamige grote rotsblokken. Ga bij voorkeur vroeg, zowel om de drukte voor te zijn als om de pinguïns actiever te zien, voordat de hitte van de dag toeslaat. Heb je nog wat tijd en energie over, combineer je bezoek dan met een stop in Simon's Town, een historisch marinestadje met een leuke boulevard, of in Kalk Bay, een sfeervol vissersdorpje met een haventje en de kleurrijke strandhuisjes van St. James op loopafstand.
 
+![](/images/zuid-afrika/boulders-beach-1.jpg)
+![](/images/zuid-afrika/boulders-beach-2.jpg)
+
 ## Dag 4: Table Mountain
 
 Bewaar Table Mountain voor je laatste dag, zodat je wat flexibiliteit hebt mocht het weer op de andere dagen tegenzitten. De berg is namelijk regelmatig gehuld in wolken, ook wel liefkozend "het tafelkleed" genoemd door locals, en zonder helder zicht heeft een bezoek weinig zin.
+
+![](/images/zuid-afrika/table-mountain-1.jpg)
+![](/images/zuid-afrika/table-mountain-2.jpg)
 
 Ga zo vroeg mogelijk naar de kabelbaan, zowel om de rijen voor te zijn als om je kans op een heldere lucht te vergroten, aangezien het in de loop van de dag vaker gaat waaien of bewolken. De kabelbaan zelf is al een belevenis: de vloer draait tijdens de rit, zodat je onderweg een compleet rondje uitzicht krijgt. Boven aangekomen kun je over de relatief vlakke paden wandelen, met uitzicht over de stad, Robben Island en de oceaan aan alle kanten. Houd er rekening mee dat het op de top flink kan waaien, dus neem een extra laag kleding mee, ook als het beneden in de stad warm aanvoelt.
 
 **heb je een strak budget, dan kun je de tafelberg op hiken, maar lees je goed in over de tocht en veiligheid**
 
 Is de berg op de dag dat je gepland had toch bewolkt, dan is Kirstenbosch National Botanical Garden een alternatief, met de bergen op de achtergrond en talloze inheemse planten om doorheen te wandelen. Heb je na Table Mountain nog tijd en energie over, rond de dag dan af op Camps Bay of Clifton Beach, twee van de bekendste stranden van de stad, ideaal om de trip rustig uit te laten bollen met uitzicht op de zonsondergang.
+
+![](/images/zuid-afrika/table-mountain-3.jpg "smal")
 
 ## Praktische tips
 
