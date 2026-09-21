@@ -9,7 +9,7 @@
 //  Hier hoef je normaal nooit iets te veranderen.
 // ------------------------------------------------------------
 
-const KEYWORDS = ['links', 'rechts', 'midden', 'klein', 'breed', 'smal', 'vierkant'];
+const KEYWORDS = ['links', 'rechts', 'midden', 'klein', 'breed', 'smal', 'vierkant', 'liggend', 'hoog'];
 // Woorden die de vorm van een rij foto's naast elkaar bepalen
 const ROW_KEYWORDS = ['liggend', 'vierkant', 'hoog'];
 

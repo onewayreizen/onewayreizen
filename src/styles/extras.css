@@ -156,3 +156,8 @@
 .prose .foto-rij--liggend img { aspect-ratio: 3 / 2; }
 .prose .foto-rij--vierkant img { aspect-ratio: 1 / 1; }
 .prose .foto-rij--hoog img { aspect-ratio: 2 / 3; }
+
+/* ---- Losse foto in een vaste vorm (bijv. "liggend") ---- */
+
+.prose .foto--liggend img { aspect-ratio: 3 / 2; object-fit: cover; }
+.prose .foto--hoog img { aspect-ratio: 2 / 3; object-fit: cover; }
