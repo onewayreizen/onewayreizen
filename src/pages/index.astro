@@ -70,7 +70,7 @@ const latest = posts.slice(0, 3);
             <Card
               href={post.url}
               title={post.title}
-              label={post.destination ?? post.country}
+              label={post.destination || post.country || post.region || 'Artikel'}
               text={post.description}
               meta={formatDate(post.date)}
               image={post.image}
