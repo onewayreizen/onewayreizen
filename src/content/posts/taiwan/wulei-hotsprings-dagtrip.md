@@ -2,9 +2,10 @@
 title: " Wulai: dagtrip vanuit Taipei naar de warmwaterbronnen"
 region: Azië
 country: Taiwan
-description: 
+description: dagtrip vanuit Taipei naar de warmwaterbronnen 
 destination: Wulei
 date: 2026-08-14
+image: /images/taiwan/wulei-hotspring-header.jpg
 themes: []
 ---
 
