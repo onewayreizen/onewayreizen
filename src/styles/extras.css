@@ -161,3 +161,18 @@
 
 .prose .foto--liggend img { aspect-ratio: 3 / 2; object-fit: cover; }
 .prose .foto--hoog img { aspect-ratio: 2 / 3; object-fit: cover; }
+
+/* ---- Fix: de browser zet standaard een marge van 40px links en rechts om een foto.
+        Die halen we weg, zodat foto's precies zo breed zijn als de tekst. ---- */
+
+.prose .foto { margin-inline: 0; }
+.prose .foto--midden { margin-inline: auto; }
+.prose .foto--rechts { margin-left: 1.8rem; }
+.prose .foto--links { margin-right: 1.8rem; }
+
+@media (max-width: 640px) {
+  .prose .foto--links,
+  .prose .foto--rechts,
+  .prose .foto--klein,
+  .prose .foto--midden { margin-inline: 0; }
+}
