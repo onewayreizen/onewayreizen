@@ -5,6 +5,7 @@ country: Indonesië
 description: Wilde orang-oetans, een pijnlijke kennismaking met kogelmieren en een dubbel gevoel over hoe "wild" deze ervaring nou eigenlijk is.
 destination: Sumatra
 date: 2026-08-14
+image: /images/indonesie/sumatra/bukit-lawang-jungle-tour-header.jpg
 themes: [Wildlife]
 ---
 
