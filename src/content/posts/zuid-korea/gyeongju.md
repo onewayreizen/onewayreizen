@@ -5,7 +5,7 @@ country: Zuid-Korea
 destination: Gyeongju
 description: 
 date: 2026-08-14
-themes: [Backpacken]
+themes: 
 ---
 
 Grasgroene heuveltjes die bij nader inzien duizenden jaren oude koningsgraven blijken te zijn, een eeuwenoude tempel die op de UNESCO Werelderfgoedlijst staat, en een grot met een Boeddhabeeld dat al meer dan duizend jaar over de zee uitkijkt. Gyeongju, in het zuidoosten van Zuid-Korea, wordt niet voor niets het "openluchtmuseum van Korea" genoemd. Terwijl de meeste reizigers zich concentreren op Seoul en Busan, biedt dit rustige stadje een compleet andere, historische kant van het land.
