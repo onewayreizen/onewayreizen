@@ -26,6 +26,9 @@ Dit is meteen de vraag waar ik zelf ook mee zat. Het antwoord: het hangt ervan a
 
 En dat laatste is precies wat er bij mij gebeurde. Ik liep in eerste instantie rond zonder iets te vinden dat op een hot spring leek, tot ik een groepje locals de trap naar de rivier af zag lopen. Ik volgde ze gewoon maar eens en zo kwam ik uit bij drie piepkleine, zelfgemaakte poeltjes, verstopt tussen de rotsen. Iedereen keek me nogal verbaasd aan: hoe had deze toerist "hun" plekje nou weten te vinden? Maar zodra de verbazing wegzakte, vonden ze het stiekem ook wel geweldig dat ik er was en werd ik met open armen verwelkomd.
 
+![](/images/taiwan/wulei-hotspring-3.jpg)
+![](/images/taiwan/wulei-hotspring-2.jpg)
+
 Wil je dus zeker weten dat je een hot spring te pakken krijgt en maakt het je niet uit of die "wild" of juist heel gepolijst is? Boek dan bewust een uurtje in een van de hotelspa's langs de rivier. Wil je liever de gok wagen op iets authentieks, gratis en heb je geduld en een beetje geluk nodig? Doe dan wat ik deed: wandel richting de rivier en houd de locals in de gaten.
 
 ## Wat kost een bezoek aan Wulai?
@@ -41,6 +44,8 @@ Deze vraag krijg ik vaker en het antwoord hangt echt af van wat je zoekt.
 **Wulai** ligt verder van de stad, kost je meer reistijd en geeft je geen garantie meer op een gratis, georganiseerde hotspring-ervaring zoals vroeger. Maar wat je er wel voor terugkrijgt, is een schattig bergdorpje met een heel andere sfeer: rivier, groen, een leuke old street met eten van de Atayal en dus de mogelijkheid om, met een beetje mazzel, verstopte plekjes met locals te ontdekken.
 
 Zoek je puur en alleen een gegarandeerde hotspring-ervaring? Ga voor Beitou. Zoek je een leuk dagje weg uit de stad, met natuur, sfeer en een kans op een onverwacht avontuurtje? Dan is Wulai wat mij betreft de betere keuze.
+
+![](/images/taiwan/wulei-hotspring-4.jpg "smal")
 
 ## Is het de moeite waard?
 
