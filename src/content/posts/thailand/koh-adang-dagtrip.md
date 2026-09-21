@@ -11,7 +11,7 @@ themes: [Island life]
 
 Ben je toch al op Koh Lipe, met zijn kraakheldere water en verwenresorts, maar zoek je even een dagje ontsnapping aan de drukte? Dan is een dagtrip naar het naburige Koh Adang precies wat je nodig hebt. Dit veel groter en nagenoeg onbewoonde eiland, onderdeel van het Tarutao Marine National Park, biedt een pittige jungle-hike, spectaculaire uitkijkpunten en verlaten strandjes, allemaal op maar een paar minuten varen van Koh Lipe.
 
-![Koh Lipe vanafKoh Adang](/images/thailand/koh-adang-uitzicht.jpg "liggend")
+![Koh Lipe vanafKoh Adang](/images/thailand/koh-adang-uitzicht.jpg "breed")
 
 ## Hoe kom je van Koh Lipe naar Koh Adang?
 
