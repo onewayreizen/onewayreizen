@@ -21,6 +21,7 @@ Het historische centrum, rond de indrukwekkende Akropolis hoog boven de haven, i
 ## Salina: het groene, rustige zusje
 Waar Lipari en Panarea vooral draaien om gezelligheid en drukte, is Salina precies het tegenovergestelde. Dit op één na grootste eiland van de archipel is opvallend groen, met glooiende heuvels, wijngaarden en capperstruiken die overal langs de wegen groeien. Salina staat vooral bekend om de lokale productie van Malvasia, een zoete, lokale wijnlikeur die je hier op bijna elk terrasje kunt proeven.
 Het eiland telt een handvol kleine dorpjes, waaronder Santa Marina Salina en Malfa, allebei rustig en authentiek. Fijn voor wie op zoek is naar wat meer ontspanning na de drukte van Lipari of Panarea. De natuur is hier het grote hoogtepunt: prachtige wandelpaden door de heuvels, adembenemende uitkijkpunten en een groenere, frissere sfeer dan op de andere eilanden.
+
 **Hoeveel tijd heb je nodig?** Reken op minstens één volledige dag, maar eigenlijk verdient Salina een overnachting om echt van de rust te genieten. Combineer je het met wandelen, dan is twee dagen zeker niet overdreven.
 
 ## Stromboli: de rokende vulkaan
@@ -47,15 +48,14 @@ Wil je Lipari, Salina, Stromboli en Panarea allemaal bezoeken, met een beetje ru
 - 2 dagen Lipari (als basis en vertrekpunt)- 1 tot 2 dagen Salina- 1 tot 2 dagen Stromboli (met minimaal één overnachting)- 1 dag Panarea
 Heb je minder tijd? Kies dan bewust: voor natuur en rust ga je voor Salina, voor pure verwondering en spektakel kies je Stromboli, en voor sfeer en ontspanning is Panarea de beste optie. Lipari kun je eigenlijk altijd meepakken, simpelweg omdat het de makkelijkste uitvalsbasis is voor de rest van je reis.
 
-## Is in één dag eilandhoppen mogelijk?
-Zeker, maar het is wel gehaast. Het is belangrijk voor jezelf de verwachting te stellen dat je door de havendorpjes kunt lopen, maar verder de eilanden niet echt kunt ontdekken. Vanwege de extreme hitte hebben wij besloten in één dag meerdere eilanden langs te gaan, aangezien het toch te heet zou zijn om te wandelen. 
+## Is in één dag eilandhoppen mogelijk?##
+Zeker, maar dan moet je wel wat haast accepteren. Stel jezelf vooraf de verwachting dat je vooral door de havendorpjes wandelt, zonder de eilanden echt te kunnen ontdekken. Vanwege de extreme hitte tijdens ons bezoek kozen wij ervoor om op één dag meerdere eilanden aan te doen: wandelen was toch geen optie, dus waarom niet een rondje varen?
 
-08:10 boot van Lipari naar Salina met Liberty lines. Anderhalfuur rondgekeken, maar het havendorpje zelf heeft niet mega veel te bieden.
-09:45 boot van Salina naar Stromboli. Het dorpje is leuk, hier en daar wat winkeltjes, maar het echte hoogtepunt is natuurlijk zwemmen op het zwarte lava strand met de 926 hoge vulkaan op de achtergrond.
-14:15 boot van Stromboli naar Panarea. Wellicht het meest toeristische eiland van de dag met veel winkels en nog meer toeristen. 
-17:35 boot van Panarea naar Lipari. Is het een gevlieg? Absoluut, maar als je vanwege de hitte of om een andere reden niet goed kunt wandelen, is dit een mooi alternatief om toch nog wat te zien van de Eolische eilanden!
+Om 08:10 vertrokken we met Liberty Lines vanaf Lipari naar Salina, waar we anderhalf uur rondkeken. Veel bood het havendorpje zelf niet. Om 09:45 stapten we op de boot naar Stromboli. Het dorpje is gezellig, met hier en daar een winkeltje, maar het echte hoogtepunt is zwemmen op het zwarte lavastrand met de 926 meter hoge vulkaan op de achtergrond. Om 14:15 voer de boot verder naar Panarea, misschien wel het meest toeristische eiland van de dag, met veel winkels en nog meer toeristen. Om 17:35 zetten we koers terug naar Lipari.
 
-**Wat kost de zelfgeplande boot tour?** Wij hebben de dag ervoor geboekt en de boottickets kwam uit op €60 per persoon. 
+Is het een beetje jachtig? Absoluut. Maar als de hitte — of een andere reden — je verhindert om goed te wandelen, is dit een prima manier om toch iets van de Eolische eilanden te zien.
+
+**Wat kost de zelfgeplande boottour?** Wij boekten de dag van tevoren en kwamen uit op €60 per persoon.
 
 ## Welke moet je kiezen?
 Eerlijk gezegd: als je de kans hebt, kies dan niet. Elk eiland heeft zo'n andere sfeer dat je met een combinatie van minstens twee of drie eilanden het meest complete beeld krijgt van wat de Eolische eilanden te bieden hebben. Heb je maar een paar dagen? Combineer dan Lipari als uitvalsbasis met Stromboli voor het spektakel, of met Salina voor wat meer rust. Hoe je het ook aanpakt, de kans is groot dat je aan het eind van je reis alweer stiekem plannen maakt om terug te gaan naar de eilanden die je nog niet hebt gezien.
