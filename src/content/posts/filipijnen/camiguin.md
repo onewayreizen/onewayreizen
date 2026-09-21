@@ -6,7 +6,7 @@ destination: Camiguin
 description: Vulkanen, witte stranden en groen!
 date: 2026-01-01
 image: /images/BESTANDSNAAM.jpg
-themes: [Backpacken, Island life]
+themes: [Island life]
 ---
 
 # Camiguin: het eiland met meer vulkanen dan steden
