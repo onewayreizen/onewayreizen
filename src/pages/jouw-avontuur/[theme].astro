@@ -38,7 +38,7 @@ const { theme } = Astro.props;
           <Card
             href={post.url}
             title={post.title}
-            label={post.country}
+            label={post.country || post.region || 'Artikel'}
             text={post.description}
             meta={formatDate(post.date)}
             image={post.image}
