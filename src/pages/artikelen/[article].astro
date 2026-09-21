@@ -1,0 +1,19 @@
+---
+// Algemene artikelen zonder land, bijv. /artikelen/scooter-huren-zuidoost-azie/
+import Article from '../../components/Article.astro';
+import { getData } from '../../lib/content';
+
+export async function getStaticPaths() {
+  const { posts } = await getData();
+  return posts
+    .filter((post) => !post.hasCountry)
+    .map((post) => ({
+      params: { article: post.entry.id.split('/').pop() },
+      props: { post },
+    }));
+}
+
+const { post } = Astro.props;
+---
+
+<Article post={post} />

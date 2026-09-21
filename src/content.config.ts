@@ -6,22 +6,29 @@ const optionalText = z.string().nullish().transform((v) => (v ? v : undefined));
 
 const posts = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/posts' }),
-  schema: z.object({
-    title: z.string(),
-    region: z.string(),
-    country: z.string(),
-    destination: optionalText,
-    // Optioneel: andere landen waar dit artikel ook bij hoort, bijv. [Chili]
-    otherCountries: z
-      .union([z.array(z.string()), z.string()])
-      .nullish()
-      .transform((v) => (Array.isArray(v) ? v : v ? [v] : [])),
-    description: z.string().nullish().transform((v) => v ?? ''),
-    // Werkt met en zonder aanhalingstekens: 2026-01-01 of "2026-01-01"
-    date: z.coerce.date(),
-    image: optionalText,
-    themes: z.array(z.string()).nullish().transform((v) => v ?? []),
-  }),
+  schema: z
+    .object({
+      title: z.string(),
+      // Regio en land mag je weglaten voor een algemeen artikel (bijv. "scooter huren")
+      region: optionalText,
+      country: optionalText,
+      // Optioneel: andere landen waar dit artikel ook bij hoort, bijv. [Chili]
+      otherCountries: z
+        .union([z.array(z.string()), z.string()])
+        .nullish()
+        .transform((v) => (Array.isArray(v) ? v : v ? [v] : [])),
+      destination: optionalText,
+      description: z.string().nullish().transform((v) => v ?? ''),
+      // Werkt met en zonder aanhalingstekens: 2026-01-01 of "2026-01-01"
+      date: z.coerce.date(),
+      image: optionalText,
+      themes: z.array(z.string()).nullish().transform((v) => v ?? []),
+    })
+    .refine((d) => !d.country || d.region, {
+      message:
+        'Je hebt een land (country:) ingevuld maar geen regio (region:). Vul allebei in, of laat allebei weg voor een algemeen artikel.',
+      path: ['region'],
+    }),
 });
 
 const countries = defineCollection({

@@ -46,6 +46,7 @@ export type Post = {
   destination?: string;
   destinationSlug?: string;
   themes: { name: string; slug: string }[];
+  hasCountry: boolean;
   url: string;
   entry: CollectionEntry<'posts'>;
 };
@@ -71,6 +72,7 @@ export type RegionGroup = {
   slug: string;
   url: string;
   posts: Post[];
+  generalPosts: Post[];
   countries: CountryGroup[];
   info?: RegionInfo;
   image?: string;
@@ -109,17 +111,21 @@ async function compute(): Promise<SiteData> {
   const posts: Post[] = postEntries
     .map((entry) => {
       const d = entry.data;
-      const regionSlug = slugify(d.region);
-      const countrySlug = slugify(d.country);
+      const regionName = d.region?.trim() ?? '';
+      const countryName = d.country?.trim() ?? '';
+      const regionSlug = slugify(regionName);
+      const countrySlug = slugify(countryName);
+      const hasCountry = countrySlug !== '';
+      const fileSlug = entry.id.split('/').pop() ?? entry.id;
       return {
         id: entry.id,
         title: d.title,
         description: d.description,
         date: d.date,
         image: d.image,
-        region: d.region.trim(),
+        region: regionName,
         regionSlug,
-        country: d.country.trim(),
+        country: countryName,
         countrySlug,
         otherCountries: d.otherCountries.map((c) => c.trim()).filter((c) => c !== ''),
         destination: d.destination?.trim(),
@@ -127,7 +133,10 @@ async function compute(): Promise<SiteData> {
         themes: d.themes
           .map((t) => ({ name: t.trim(), slug: slugify(t) }))
           .filter((t) => t.slug !== ''),
-        url: `/bestemmingen/${regionSlug}/${countrySlug}/${entry.id.split('/').pop()}/`,
+        hasCountry,
+        url: hasCountry
+          ? `/bestemmingen/${regionSlug}/${countrySlug}/${fileSlug}/`
+          : `/artikelen/${fileSlug}/`,
         entry,
       };
     })
@@ -170,6 +179,7 @@ async function compute(): Promise<SiteData> {
 
   // Ronde 1: elk artikel bij zijn eigen land
   for (const post of posts) {
+    if (!post.hasCountry) continue;
     const group =
       countryMap.get(`${post.regionSlug}/${post.countrySlug}`) ??
       createGroup(post.regionSlug, post.region, post.countrySlug, post.country);
@@ -178,6 +188,7 @@ async function compute(): Promise<SiteData> {
 
   // Ronde 2: artikelen die ook bij andere landen horen (otherCountries)
   for (const post of posts) {
+    if (!post.hasCountry) continue;
     for (const otherName of post.otherCountries) {
       const otherSlug = slugify(otherName);
       if (!otherSlug || otherSlug === post.countrySlug) continue;
@@ -206,25 +217,39 @@ async function compute(): Promise<SiteData> {
     regionEntries.map((e) => [slugify(e.data.name), e.data]),
   );
   const regionMap = new Map<string, RegionGroup>();
-  for (const c of countries) {
-    let region = regionMap.get(c.regionSlug);
+
+  function getRegion(slug: string, name: string): RegionGroup {
+    let region = regionMap.get(slug);
     if (!region) {
-      const info = regionInfoBySlug.get(c.regionSlug);
+      const info = regionInfoBySlug.get(slug);
       region = {
-        name: info?.name ?? c.regionName,
-        slug: c.regionSlug,
-        url: `/bestemmingen/${c.regionSlug}/`,
+        name: info?.name ?? name,
+        slug,
+        url: `/bestemmingen/${slug}/`,
         posts: [],
+        generalPosts: [],
         countries: [],
         info,
         image: undefined,
       };
-      regionMap.set(c.regionSlug, region);
+      regionMap.set(slug, region);
     }
+    return region;
+  }
+
+  for (const c of countries) {
+    const region = getRegion(c.regionSlug, c.regionName);
     region.countries.push(c);
     for (const p of c.posts) {
       if (!region.posts.includes(p)) region.posts.push(p);
     }
+  }
+  // Algemene artikelen met wel een regio maar geen land (bijv. "scooter huren in Zuidoost-Azië")
+  for (const post of posts) {
+    if (post.hasCountry || !post.regionSlug) continue;
+    const region = getRegion(post.regionSlug, post.region);
+    region.generalPosts.push(post);
+    region.posts.push(post);
   }
   const regions = [...regionMap.values()].sort(byName);
   for (const r of regions) {

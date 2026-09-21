@@ -1,81 +1,22 @@
 ---
-import { render } from 'astro:content';
-import Layout from '../../../../layouts/Layout.astro';
-import Hero from '../../../../components/Hero.astro';
-import Card from '../../../../components/Card.astro';
-import { getData, formatDate } from '../../../../lib/content';
+import Article from '../../../../components/Article.astro';
+import { getData } from '../../../../lib/content';
 
 export async function getStaticPaths() {
   const { posts } = await getData();
-  return posts.map((post) => ({
-    params: { region: post.regionSlug, country: post.countrySlug, article: post.entry.id.split('/').pop() },
-    props: { post },
-  }));
+  return posts
+    .filter((post) => post.hasCountry)
+    .map((post) => ({
+      params: {
+        region: post.regionSlug,
+        country: post.countrySlug,
+        article: post.entry.id.split('/').pop(),
+      },
+      props: { post },
+    }));
 }
 
 const { post } = Astro.props;
-const { Content } = await render(post.entry);
-
-const { countries } = await getData();
-const country = countries.find(
-  (c) => c.slug === post.countrySlug && c.regionSlug === post.regionSlug,
-);
-const countryName = country?.name ?? post.country;
-const countryUrl = `/bestemmingen/${post.regionSlug}/${post.countrySlug}/`;
-const related = (country?.posts ?? []).filter((p) => p.id !== post.id).slice(0, 3);
 ---
 
-<Layout title={post.title} description={post.description} image={post.image} type="article">
-  <Hero
-    title={post.title}
-    image={post.image}
-    crumbs={[
-      { label: 'Home', href: '/' },
-      { label: 'Bestemmingen', href: '/bestemmingen/' },
-      { label: post.region, href: `/bestemmingen/${post.regionSlug}/` },
-      { label: countryName, href: countryUrl },
-    ]}
-  >
-    <div class="hero__meta">
-      <span>{formatDate(post.date)}</span>
-      <a href={countryUrl}>{countryName}</a>
-      {post.themes.map((theme) => (
-        <a class="tag" href={`/jouw-avontuur/${theme.slug}/`}>{theme.name}</a>
-      ))}
-    </div>
-  </Hero>
-
-  <section class="section">
-    <div class="container">
-      <div class="prose" data-pagefind-body>
-           <h2 class="article-title" data-pagefind-meta="title">{post.title}</h2>
-        <Content />
-      </div>
-      <div class="article-end">
-        <a class="link-more" href={countryUrl}>Meer verhalen over {countryName}</a>
-      </div>
-    </div>
-  </section>
-
-  {related.length > 0 && (
-    <section class="section section--sand">
-      <div class="container">
-        <div class="section-head">
-          <h2 class="section-title">Meer uit {countryName}</h2>
-        </div>
-        <div class="grid">
-          {related.map((p) => (
-            <Card
-              href={p.url}
-              title={p.title}
-              label={p.destination ?? countryName}
-              text={p.description}
-              meta={formatDate(p.date)}
-              image={p.image}
-            />
-          ))}
-        </div>
-      </div>
-    </section>
-  )}
-</Layout>
+<Article post={post} />

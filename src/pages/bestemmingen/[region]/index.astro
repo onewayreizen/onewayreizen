@@ -2,7 +2,7 @@
 import Layout from '../../../layouts/Layout.astro';
 import Hero from '../../../components/Hero.astro';
 import Card from '../../../components/Card.astro';
-import { getData, plural } from '../../../lib/content';
+import { getData, plural, formatDate } from '../../../lib/content';
 
 export async function getStaticPaths() {
   const { regions } = await getData();
@@ -17,7 +17,7 @@ const { region } = Astro.props;
 
 <Layout title={region.name} description={`Alle landen en verhalen in ${region.name}.`} image={region.image}>
   <Hero
-    size="md"
+    size="lg"
     title={region.name}
     text={region.info?.intro}
     image={region.image}
@@ -29,18 +29,38 @@ const { region } = Astro.props;
   />
   <section class="section">
     <div class="container">
-      <div class="grid">
-        {region.countries.map((country) => (
-          <Card
-            href={country.url}
-            title={country.name}
-            label={region.name}
-            text={country.info?.intro}
-            meta={plural(country.posts.length, 'artikel', 'artikelen')}
-            image={country.image}
-          />
-        ))}
-      </div>
+      {region.countries.length > 0 && (
+        <div class="grid">
+          {region.countries.map((country) => (
+            <Card
+              href={country.url}
+              title={country.name}
+              label={region.name}
+              text={country.info?.intro}
+              meta={plural(country.posts.length, 'artikel', 'artikelen')}
+              image={country.image}
+            />
+          ))}
+        </div>
+      )}
+
+      {region.generalPosts.length > 0 && (
+        <div style={region.countries.length > 0 ? 'margin-top:4rem' : undefined}>
+          <h2 class="list-title list-title--first">Algemene artikelen over {region.name}</h2>
+          <div class="grid">
+            {region.generalPosts.map((post) => (
+              <Card
+                href={post.url}
+                title={post.title}
+                label={post.themes[0]?.name ?? region.name}
+                text={post.description}
+                meta={formatDate(post.date)}
+                image={post.image}
+              />
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   </section>
 </Layout>
