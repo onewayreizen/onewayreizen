@@ -8,7 +8,7 @@ date: 2026-08-14
 themes: []
 ---
 
-Vanuit Taipei is Wulai zo gepiept: een bergdorpje met warmwaterbronnen, geliefd bij de Atayal, de inheemse bevolking van het gebied, en al decennia een populaire ontsnapping voor Taipei-bewoners op zoek naar wat rust. Ik ging er met hoge verwachtingen van dampende poelen naartoe, en kwam terug met een heel ander, veel leuker verhaal dan ik had verwacht.
+Vanuit Taipei is Wulai zo gepiept: een bergdorpje met warmwaterbronnen, geliefd bij de Atayal, de inheemse bevolking van het gebied, en al decennia een populaire ontsnapping voor Taipei-bewoners op zoek naar wat rust. Ik ging er met hoge verwachtingen van dampende poelen naartoe en kwam terug met een heel ander, veel leuker verhaal dan ik had verwacht.
 
 ## Hoe kom je van Taipei naar Wulai?
 
