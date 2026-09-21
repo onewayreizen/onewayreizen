@@ -2,7 +2,7 @@
 title: "Orang-oetans spotten in Bukit Lawang: mijn ervaring"
 region: Azië
 country: Indonesië
-description: Een persoonlijk verslag van mijn 3-daagse jungle trek in Bukit Lawang: wilde orang-oetans, een pijnlijke kennismaking met kogelmieren en een dubbel gevoel over hoe "wild" deze ervaring nou eigenlijk is.
+description: Wilde orang-oetans, een pijnlijke kennismaking met kogelmieren en een dubbel gevoel over hoe "wild" deze ervaring nou eigenlijk is.
 destination: Sumatra
 date: 2026-08-14
 themes: [Wildlife]
