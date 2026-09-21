@@ -36,13 +36,26 @@ Rondom het eiland liggen een paar kleine, verspreide baaitjes met kristalhelder 
 **Hoeveel tijd heb je nodig?** Panarea leent zich prima voor een dagtrip vanaf Lipari of Salina, maar omdat het eiland vooral draait om sfeer en ontspanning, is een overnachting zeker een aanrader als je budget dit toelaat.
 
 ## Hoe kom je op de eilanden?
-Je bereikt de Eolische eilanden meestal via de haven van Milazzo op Sicilië, met veerboten of snellere draagvleugelboten (aliscafi). De overtocht naar Lipari duurt ongeveer een uur, en vanaf daar reis je verder naar de andere eilanden. Tussen de eilanden onderling varen ook regelmatig boten, dus eilandhoppen is goed te doen zonder dat je steeds terug naar Sicilië hoeft.
+Je bereikt de Eolische eilanden meestal via de haven van Milazzo op Sicilië, met veerboten of snellere draagvleugelboten (aliscafi). Liberty Lines Fast Ferries vaart het vaakst met 13 vaarten per dag. Deze snellere boot doet er iets meer dan 1 uur over en prijzen beginnen bij €20,-. Siremar vaart 29 keer per week en doet er met 2 uur en 15 minuten een stuk langer over. Prijzen beginnen hier bij €25
 
-**Praktische tip:** koop, als je van plan bent meerdere eilanden te bezoeken, een meerdaags ticket bij de bootmaatschappijen. Dat scheelt vaak flink in de kosten ten opzichte van losse tickets per traject.
+Vanaf Lipari reis je gemakkelijk verder naar de andere eilanden. Tussen de eilanden onderling varen ook regelmatig boten, dus eilandhoppen is goed te doen zonder dat je steeds terug naar Sicilië hoeft.
+
+**Praktische tip:** Hoe dichter bij de vertrekdatum, hoe hoger de prijs.
 
 ## Hoeveel tijd heb je in totaal nodig voor alle vier de eilanden?
 Wil je Lipari, Salina, Stromboli en Panarea allemaal bezoeken, met een beetje ruimte om ook echt van elk eiland te genieten in plaats van alleen maar af te vinken, reken dan op minstens zes tot zeven dagen. Dat geeft je bijvoorbeeld:
 - 2 dagen Lipari (als basis en vertrekpunt)- 1 tot 2 dagen Salina- 1 tot 2 dagen Stromboli (met minimaal één overnachting)- 1 dag Panarea
 Heb je minder tijd? Kies dan bewust: voor natuur en rust ga je voor Salina, voor pure verwondering en spektakel kies je Stromboli, en voor sfeer en ontspanning is Panarea de beste optie. Lipari kun je eigenlijk altijd meepakken, simpelweg omdat het de makkelijkste uitvalsbasis is voor de rest van je reis.
+
+## Is in één dag eilandhoppen mogelijk?
+Zeker, maar het is wel gehaast. Het is belangrijk voor jezelf de verwachting te stellen dat je door de havendorpjes kunt lopen, maar verder de eilanden niet echt kunt ontdekken. Vanwege de extreme hitte hebben wij besloten in één dag meerdere eilanden langs te gaan, aangezien het toch te heet zou zijn om te wandelen. 
+
+08:10 boot van Lipari naar Salina met Liberty lines. Anderhalfuur rondgekeken, maar het havendorpje zelf heeft niet mega veel te bieden.
+09:45 boot van Salina naar Stromboli. Het dorpje is leuk, hier en daar wat winkeltjes, maar het echte hoogtepunt is natuurlijk zwemmen op het zwarte lava strand met de 926 hoge vulkaan op de achtergrond.
+14:15 boot van Stromboli naar Panarea. Wellicht het meest toeristische eiland van de dag met veel winkels en nog meer toeristen. 
+17:35 boot van Panarea naar Lipari. Is het een gevlieg? Absoluut, maar als je vanwege de hitte of om een andere reden niet goed kunt wandelen, is dit een mooi alternatief om toch nog wat te zien van de Eolische eilanden!
+
+**Wat kost de zelfgeplande boot tour?** Wij hebben de dag ervoor geboekt en de boottickets kwam uit op €60 per persoon. 
+
 ## Welke moet je kiezen?
 Eerlijk gezegd: als je de kans hebt, kies dan niet. Elk eiland heeft zo'n andere sfeer dat je met een combinatie van minstens twee of drie eilanden het meest complete beeld krijgt van wat de Eolische eilanden te bieden hebben. Heb je maar een paar dagen? Combineer dan Lipari als uitvalsbasis met Stromboli voor het spektakel, of met Salina voor wat meer rust. Hoe je het ook aanpakt, de kans is groot dat je aan het eind van je reis alweer stiekem plannen maakt om terug te gaan naar de eilanden die je nog niet hebt gezien.
