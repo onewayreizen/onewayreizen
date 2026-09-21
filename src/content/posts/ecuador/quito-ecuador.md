@@ -5,7 +5,7 @@ country: Ecuador
 destination: Quito
 description: Stad
 date: 2026-07-02
-themes: [Backpacken]
+themes: 
 ---
 
 
