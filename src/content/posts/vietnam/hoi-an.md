@@ -5,7 +5,7 @@ country: Vietnam
 destination: Hoi An
 description: 
 date: 2026-08-14
-themes: [Backpacken]
+themes: 
 ---
 # Waarom iedereen verliefd wordt op Hoi An
 
