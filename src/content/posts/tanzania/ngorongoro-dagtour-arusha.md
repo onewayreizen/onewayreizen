@@ -5,6 +5,7 @@ country: Tanzania
 destination: Arusha
 description: Is één dag genoeg voor de Ngorongoro krater? Wat je ziet, wat het kost en of een nacht extra de moeite waard is.
 date: 2026-08-14
+image: /images/tanzania/ngorongoro-header.jpg
 themes: [Wildlife]
 ---
 
