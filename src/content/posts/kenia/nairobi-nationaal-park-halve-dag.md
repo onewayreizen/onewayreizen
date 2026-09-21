@@ -1,4 +1,13 @@
-# Nairobi National Park: een middagsafari zonder de stad te verlaten
+---
+title: "Nairobi National Park: een middagsafari zonder de stad te verlaten"
+region: Afrika
+country: Kenia
+destination: Nairobi
+description: 
+date: 2026-01-01
+image: /images/narobi-nationaal-park-header.jpg
+themes: [Wildlife]
+---
 
 Als je aan een safari denkt, denk je waarschijnlijk niet meteen aan een nationaal park op steenworp afstand van een miljoenenstad. Toch is dat precies wat Nairobi National Park is: het enige nationale park ter wereld dat binnen de grenzen van een hoofdstad ligt. Op nog geen 10 kilometer van het centrum van Nairobi rijd je zo van de drukke stadswegen de savanne op, met de wolkenkrabbers van de stad nog zichtbaar op de achtergrond.
 
