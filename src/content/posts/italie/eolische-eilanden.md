@@ -3,6 +3,7 @@ title: "Eolische eilanden welke kies je"
 region: Europa
 country: Italië
 description: 
+destination: Eolische eilanden
 date: 2026-08-14
 themes: [Island life]
 ---
