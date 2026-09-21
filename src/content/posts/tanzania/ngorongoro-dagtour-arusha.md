@@ -3,7 +3,7 @@ title: "Ngorongoro als dagtour vanuit Arusha: is één dag genoeg?"
 region: Afrika
 country: Tanzania
 destination: Arusha
-description: Safari
+description: Is één dag genoeg voor de Ngorongoro krater? Wat je ziet, wat het kost en of een nacht extra de moeite waard is.
 date: 2026-08-14
 themes: [Wildlife]
 ---
