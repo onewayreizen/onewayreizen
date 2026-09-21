@@ -5,7 +5,7 @@ country: Kenia
 destination: Nairobi
 description: 
 date: 2026-01-01
-image: /images/narobi-nationaal-park-header.jpg
+image: /images/kenia/nairobi-nationaal-park-header.jpg
 themes: [Wildlife]
 ---
 
