@@ -27,6 +27,10 @@ Een typische dagtour vanuit Arusha begint vroeg in de ochtend, vaak bij zonsopga
 
 Aan het einde van de dag klim je weer uit de krater omhoog en rijd je terug naar Arusha, waarbij je aankomst vaak pas in de late namiddag of vroege avond is.
 
+![](/images/tanzania/zebra-en-impala-ngorongoro.jpg)
+![](/images/tanzania/zebra-ngorongoro.jpg)
+
+
 ## Is één dag genoeg?
 
 Dit is de grote vraag, en het eerlijke antwoord is: het hangt af van wat je ervan verwacht. Een dagtour geeft je met zes uur in de krater zelf ruim voldoende tijd om een indrukwekkende variëteit aan dieren te spotten, simpelweg omdat het gebied relatief compact en overzichtelijk is vergeleken met bijvoorbeeld de Serengeti. Voor de meeste reizigers, zeker met een beperkt aantal dagen in Tanzania, is een dagtrip dan ook een uitstekende en betaalbare manier om de krater mee te pikken.
