@@ -4,7 +4,7 @@ region: Europa
 country: Italië
 description: 
 date: 2026-08-14
-themes: [Backpacken]
+themes: [Island life]
 ---
 # De Eolische eilanden: welke kies je en hoeveel tijd heb je nodig?
 Turquoise water, rokende vulkanen en dorpjes die eruitzien alsof de tijd er heeft stilgestaan. De Eolische eilanden, ten noorden van Sicilië, zijn een van die bestemmingen waar je eigenlijk nooit genoeg tijd voor hebt. Zeven eilanden, allemaal met hun eigen karakter, en de kans is groot dat je na één bezoek alweer plannen maakt om terug te gaan. Wij bezochten Lipari, Salina, Stromboli en Panarea, en zetten de verschillen en overeenkomsten voor je op een rij, inclusief hoeveel tijd je per eiland nodig hebt.
