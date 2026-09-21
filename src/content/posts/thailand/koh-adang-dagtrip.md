@@ -11,7 +11,7 @@ themes: [Island life]
 
 Ben je toch al op Koh Lipe, met zijn kraakheldere water en verwenresorts, maar zoek je even een dagje ontsnapping aan de drukte? Dan is een dagtrip naar het naburige Koh Adang precies wat je nodig hebt. Dit veel groter en nagenoeg onbewoonde eiland, onderdeel van het Tarutao Marine National Park, biedt een pittige jungle-hike, spectaculaire uitkijkpunten en verlaten strandjes, allemaal op maar een paar minuten varen van Koh Lipe.
 
-![Koh Lipe vanafKoh Adang](/images/thailand/koh-adang-uitzicht.jpg)
+![Koh Lipe vanafKoh Adang](/images/thailand/koh-adang-uitzicht.jpg "liggend")
 
 ## Hoe kom je van Koh Lipe naar Koh Adang?
 
@@ -32,17 +32,17 @@ De wandeling telt in totaal drie uitkijkpunten:
 
 **Uitkijkpunt 1.** Na ongeveer 15 minuten klimmen bereik je het eerste punt. Het uitzicht is hier al aardig, maar wordt gedeeltelijk belemmerd door de begroeiing. De meeste bezoekers lopen hier vooral doorheen, op weg naar de betere uitzichten verderop.
 
-![](/images/thailand/koh-adang-uitzicht-1.jpg)
+![](/images/thailand/koh-adang-uitzicht-1.jpg "liggend")
 
 **Uitkijkpunt 2.** Weer een stukje verder, met een aanzienlijk beter en opener uitzicht. Voel je de hitte al flink opspelen, of ben je niet zo van de stevige klim? Dan is dit een prima plek om het hierbij te laten.
 
-![](/images/thailand/koh-adang-uitzicht-2.jpg)
+![](/images/thailand/koh-adang-uitzicht-2.jpg "liggend")
 
 **Uitkijkpunt 3.** Het echte hoogtepunt, letterlijk en figuurlijk. Reken op ongeveer 45 minuten totale wandeltijd om hier te komen, inclusief wat pauzes voor foto's onderweg. Vanaf hier heb je een adembenemend uitzicht over zowel Sunrise als Sunset Beach op Koh Lipe, de omliggende eilandjes en het kristalheldere, turquoise water eromheen. Een van de mooiste vergezichten die je in Zuid-Thailand kunt vinden.
 
 Vlak onder het derde uitkijkpunt loopt nog een klein zijpaadje, weg van de zee, dat je een mooi zicht geeft op de hoogste berg van Koh Adang en de beboste vallei ertussen. Zeker de moeite waard om ook nog even te bezoeken voor je de afdaling inzet.
 
-![](/images/thailand/koh-adang-uitzicht-3.jpg)
+![](/images/thailand/koh-adang-uitzicht-3.jpg "liggend")
 
 ## Praktische tips voor de hike
 
