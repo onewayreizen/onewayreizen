@@ -13,7 +13,7 @@ Als je aan een safari denkt, denk je waarschijnlijk niet meteen aan een nationaa
 
 ## Een makkelijke, korte safari-optie
 
-Voor wie Nairobi aandoet als tussenstop, weinig tijd heeft, of gewoon een eerste, laagdrempelige kennismaking met een safari wil, is dit park ideaal. Je hoeft er niet voor te overnachten en ook geen dagen verder het land in te reizen: een middagje is genoeg. Ik boekte een middagsafari, die me rond het middaguur bij mijn accommodatie kwam ophalen en me daar aan het eind van de middag ook weer terugbracht. Simpeler kan bijna niet.
+Voor wie Nairobi aandoet als tussenstop, weinig tijd heeft, of gewoon een eerste, laagdrempelige kennismaking met een safari wil, is dit park ideaal. Je hoeft er niet voor te overnachten en ook geen dagen verder het land in te reizen: een middagje is genoeg. Ik boekte een middagsafari, die mije rond het middaguur bij mijn accommodatie kwam ophalen en mij daar aan het eind van de middag ook weer terugbracht. Simpeler kan bijna niet.
 
 De prijs die ik betaalde: 29 euro per persoon, inclusief ophalen en terugbrengen. Vergelijk dat met een safari in bijvoorbeeld de Maasai Mara of Serengeti, waar je al snel het tienvoudige kwijt bent, en het wordt meteen duidelijk waarom dit zo'n populaire optie is voor wie net begint met reizen door Kenia, of gewoon een paar uur over heeft in Nairobi.
 
@@ -21,13 +21,13 @@ De prijs die ik betaalde: 29 euro per persoon, inclusief ophalen en terugbrengen
 
 Ondanks de bescheiden entree en het feit dat je nooit echt "weg" bent van de stad, is de variatie aan dieren in dit park verrassend groot. In een paar uur tijd zag ik:
 
-- Aapjes
+- Apen
 - Giraffen
 - Een krokodil
 - Zebra's
 - Gazelles en antilopen
 - Leeuwen
-- Een nijlpaard
+- Nijlpaarden
 - Buffels
 - Struisvogels
 - En een enorme hoeveelheid verschillende vogels
