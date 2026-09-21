@@ -5,7 +5,7 @@ country: Australië
 destination: Sydney
 description: NYE in Sudney
 date: 2026-08-14
-themes: [Avontuur]
+themes: 
 ---
 
 Coming soon
