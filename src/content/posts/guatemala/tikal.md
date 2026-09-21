@@ -5,7 +5,7 @@ country: Guatemala
 destination: Tikal
 description: 
 date: 2026-08-14
-themes: [Backpacken]
+themes: []
 ---
 
 Het geluid van brulapen dat door het donker galmt, de eerste vogels die wakker worden, en de contouren van eeuwenoude Maya-tempels die langzaam boven de jungle uit oprijzen terwijl de lucht van zwart naar oranje kleurt. De zonsopgang boven Tikal wordt terecht een van de meest magische ervaringen van heel Midden-Amerika genoemd. Wil je hier optimaal van genieten, dan is één ding cruciaal: overnachten vlakbij het park.
