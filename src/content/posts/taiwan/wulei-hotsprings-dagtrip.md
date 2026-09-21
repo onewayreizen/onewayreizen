@@ -11,6 +11,9 @@ themes: []
 
 Vanuit Taipei is Wulai zo gepiept: een bergdorpje met warmwaterbronnen, geliefd bij de Atayal, de inheemse bevolking van het gebied, en al decennia een populaire ontsnapping voor Taipei-bewoners op zoek naar wat rust. Ik ging er met hoge verwachtingen van dampende poelen naartoe en kwam terug met een heel ander, veel leuker verhaal dan ik had verwacht.
 
+![](/images/taiwan/wulei-hotspring-6.jpg)
+![](/images/taiwan/wulei-hotspring-5.jpg)
+
 ## Hoe kom je van Taipei naar Wulai?
 
 Neem de metro (rode lijn) naar het eindstation Xindian. Buiten het station, aan de hoofdweg (Beixin Road), vind je de bushalte voor bus 849 naar Wulai. De rit duurt zo'n 40 minuten (in het weekend langer) en kost NT$15, prima te betalen met je EasyCard. Wulai is de eindhalte, dus je hoeft niet op te letten wanneer je moet uitstappen.
