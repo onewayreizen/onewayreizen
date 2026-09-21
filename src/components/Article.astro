@@ -7,13 +7,14 @@ import Hero from './Hero.astro';
 import Card from './Card.astro';
 import { getData, formatDate } from '../lib/content';
 import type { Post } from '../lib/content';
+import { site } from '../data/site';
 
 interface Props {
   post: Post;
 }
 
 const { post } = Astro.props;
-const { Content } = await render(post.entry);
+const { Content, headings } = await render(post.entry);
 const { countries, regions, posts } = await getData();
 
 const country = post.hasCountry
@@ -24,7 +25,7 @@ const countryUrl = post.hasCountry ? `/bestemmingen/${post.regionSlug}/${post.co
 const regionName = regions.find((r) => r.slug === post.regionSlug)?.name ?? post.region;
 const firstTheme = post.themes[0];
 
-// Broodkruimelpad bovenaan
+// ---- Broodkruimelpad bovenaan ----
 const crumbs = [{ label: 'Home', href: '/' }];
 if (post.regionSlug) {
   crumbs.push({ label: 'Bestemmingen', href: '/bestemmingen/' });
@@ -35,19 +36,45 @@ if (post.regionSlug) {
 }
 if (post.hasCountry && countryUrl) crumbs.push({ label: countryName, href: countryUrl });
 
-// Onderaan: meer verhalen uit hetzelfde land, of anders over hetzelfde thema
-let related: Post[] = [];
-let relatedTitle = '';
+// ---- Inhoudsopgave (alleen als er minstens 2 subkopjes zijn) ----
+const toc = headings.filter((h) => h.depth === 2);
+const hasToc = toc.length >= 2;
+
+// ---- Schrijversblokje ----
+const authorText = site.about.short ?? site.about.paragraphs[0];
+
+// ---- Lees hierna: 4 aanbevolen artikelen ----
+// 2 uit hetzelfde land + 2 met hetzelfde thema. Is er van een van beide te weinig,
+// dan vult de andere aan. Daarna: zelfde regio, en als laatste de nieuwste artikelen.
+const MAX = 4;
+const picked: Post[] = [];
+const used = new Set<string>([post.id]);
+function add(list: Post[], limit: number) {
+  for (const p of list) {
+    if (picked.length >= limit) break;
+    if (used.has(p.id)) continue;
+    used.add(p.id);
+    picked.push(p);
+  }
+}
+const sameCountry = country ? country.posts : [];
+const themeSlugs = new Set(post.themes.map((t) => t.slug));
+const sameTheme = posts.filter((p) => p.themes.some((t) => themeSlugs.has(t.slug)));
+const sameRegion = post.regionSlug ? posts.filter((p) => p.regionSlug === post.regionSlug) : [];
+
+add(sameCountry, 2);
+const countryGot = picked.length;
+add(sameTheme, picked.length + 2);
+const fillOrder = countryGot < 2 ? [sameTheme, sameCountry] : [sameCountry, sameTheme];
+fillOrder.forEach((list) => add(list, MAX));
+add(sameRegion, MAX);
+add(posts, MAX);
+
+// ---- Link onder het artikel ----
 let endLink: { label: string; href: string } | undefined;
 if (country && countryUrl) {
-  related = country.posts.filter((p) => p.id !== post.id).slice(0, 3);
-  relatedTitle = `Meer uit ${countryName}`;
   endLink = { label: `Meer verhalen over ${countryName}`, href: countryUrl };
 } else if (firstTheme) {
-  related = posts
-    .filter((p) => p.id !== post.id && p.themes.some((t) => t.slug === firstTheme.slug))
-    .slice(0, 3);
-  relatedTitle = `Meer over ${firstTheme.name}`;
   endLink = { label: `Meer verhalen over ${firstTheme.name}`, href: `/jouw-avontuur/${firstTheme.slug}/` };
 }
 ---
@@ -64,27 +91,60 @@ if (country && countryUrl) {
   </Hero>
 
   <section class="section">
-    <div class="container">
-      <div class="prose" data-pagefind-body>
-        <h2 class="article-title" data-pagefind-meta="title">{post.title}</h2>
-        <Content />
-      </div>
-      {endLink && (
-        <div class="article-end">
-          <a class="link-more" href={endLink.href}>{endLink.label}</a>
+    <div class:list={['container', 'article-layout', hasToc && 'article-layout--toc']}>
+      <div class="article-main">
+        <div class="prose" data-pagefind-body>
+          <h2 class="article-title" data-pagefind-meta="title">{post.title}</h2>
+          <Content />
         </div>
+
+        <div class="author">
+          <div class="author__photo" style={`--about-image: url('${site.about.image}')`}></div>
+          <div>
+            <p class="author__title">{site.about.title}</p>
+            <p class="author__text">{authorText}</p>
+            <a class="author__link" href="/over-mij/">Meer over mij</a>
+          </div>
+        </div>
+
+        {endLink && (
+          <div class="article-end">
+            <a class="link-more" href={endLink.href}>{endLink.label}</a>
+          </div>
+        )}
+      </div>
+
+      {hasToc && (
+        <aside class="toc" aria-label="In dit artikel">
+          <details class="toc__box" open>
+            <summary class="toc__summary">In dit artikel</summary>
+            <ul class="toc__list">
+              {toc.map((h) => (
+                <li><a href={`#${h.slug}`}>{h.text}</a></li>
+              ))}
+            </ul>
+          </details>
+        </aside>
       )}
     </div>
   </section>
 
-  {related.length > 0 && (
+  <script is:inline>
+    // Op telefoon en tablet staat de inhoudsopgave standaard dicht
+    (function () {
+      var box = document.querySelector('.toc__box');
+      if (box && !window.matchMedia('(min-width: 1101px)').matches) box.removeAttribute('open');
+    })();
+  </script>
+
+  {picked.length > 0 && (
     <section class="section section--sand">
       <div class="container">
         <div class="section-head">
-          <h2 class="section-title">{relatedTitle}</h2>
+          <h2 class="section-title">Lees hierna</h2>
         </div>
-        <div class="grid">
-          {related.map((p) => (
+        <div class="grid grid--four">
+          {picked.map((p) => (
             <Card
               href={p.url}
               title={p.title}
@@ -99,3 +159,25 @@ if (country && countryUrl) {
     </section>
   )}
 </Layout>
+
+<script>
+  // Markeert in de inhoudsopgave het stuk waar je nu bent
+  const pairs = Array.from(document.querySelectorAll('.toc__list a'))
+    .map((a) => {
+      const id = decodeURIComponent((a.getAttribute('href') || '').slice(1));
+      return { a, el: document.getElementById(id) };
+    })
+    .filter((pair) => pair.el);
+
+  if (pairs.length > 0) {
+    const update = () => {
+      let current = null;
+      for (const pair of pairs) {
+        if (pair.el.getBoundingClientRect().top <= 150) current = pair;
+      }
+      pairs.forEach((pair) => pair.a.classList.toggle('is-active', pair === current));
+    };
+    update();
+    window.addEventListener('scroll', () => requestAnimationFrame(update), { passive: true });
+  }
+</script>

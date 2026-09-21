@@ -1,0 +1,151 @@
+/* ============================================================
+   EXTRA STIJLEN: inhoudsopgave, schrijversblokje, "Lees hierna"
+   en de knop om terug naar boven te gaan.
+   Staat los van global.css zodat je die niet kwijt raakt bij een update.
+   ============================================================ */
+
+/* ---- Artikel met inhoudsopgave ernaast ---- */
+
+.article-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 68ch);
+  justify-content: center;
+  gap: 2rem;
+}
+.article-layout .toc { order: -1; }
+
+@media (min-width: 1101px) {
+  .article-layout--toc {
+    grid-template-columns: minmax(0, 68ch) 16rem;
+    gap: 4.5rem;
+  }
+  .article-layout--toc .toc {
+    order: 0;
+    position: sticky;
+    top: calc(var(--header-h) + 1.5rem);
+    align-self: start;
+  }
+  /* Met een inhoudsopgave ernaast is "breed" even breed als de tekstkolom */
+  .article-layout--toc .prose .foto--breed {
+    left: 0;
+    width: 100%;
+    transform: none;
+  }
+  .toc__summary { pointer-events: none; }
+  .toc__summary::after { display: none; }
+}
+
+.toc__box {
+  border-left: 2px solid var(--line);
+  padding-left: 1.3rem;
+}
+.toc__summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.1rem 0 0.7rem;
+  font-family: var(--font-head);
+  font-size: 1.2rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  list-style: none;
+  cursor: pointer;
+}
+.toc__summary::-webkit-details-marker { display: none; }
+.toc__summary::after {
+  content: '';
+  width: 9px;
+  height: 9px;
+  margin-right: 0.3rem;
+  border-right: 2px solid var(--ink-soft);
+  border-bottom: 2px solid var(--ink-soft);
+  transform: rotate(45deg);
+  transition: transform 0.25s;
+}
+.toc__box[open] .toc__summary::after { transform: rotate(-135deg); }
+
+.toc__list { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.1rem; }
+.toc__list a {
+  display: block;
+  padding: 0.4rem 0;
+  font-size: 0.92rem;
+  line-height: 1.4;
+  color: var(--ink-soft);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.toc__list a:hover { color: var(--clay-dark); }
+.toc__list a.is-active { color: var(--clay-dark); font-weight: 600; }
+
+@media (max-width: 1100px) {
+  .toc__box {
+    padding: 0.9rem 1.3rem;
+    border: 1.5px solid var(--line);
+    border-radius: 10px;
+    background: #fff;
+  }
+  .toc__summary { padding-bottom: 0.2rem; }
+  .toc__box[open] .toc__summary { padding-bottom: 0.7rem; }
+}
+
+/* ---- Blokje over de schrijver ---- */
+
+.author {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 3.5rem;
+  padding: 1.6rem;
+  background: var(--sand);
+  border-radius: 12px;
+}
+.author__photo {
+  flex: none;
+  width: 92px;
+  height: 92px;
+  border-radius: 50%;
+  background-color: var(--olive);
+  background-image: var(--about-image, none), linear-gradient(150deg, #2E3B29, #53663F);
+  background-size: cover;
+  background-position: center;
+}
+.author__title { font-family: var(--font-head); font-size: 1.3rem; font-weight: 600; }
+.author__text { margin-top: 0.3rem; font-size: 0.95rem; line-height: 1.6; color: var(--ink-soft); }
+.author__link { display: inline-block; margin-top: 0.6rem; font-weight: 600; font-size: 0.92rem; color: var(--clay-dark); }
+@media (max-width: 560px) {
+  .author { flex-direction: column; align-items: flex-start; }
+}
+
+/* ---- "Lees hierna": vier kaarten naast elkaar ---- */
+
+.grid--four { grid-template-columns: repeat(auto-fill, minmax(min(100%, 240px), 1fr)); }
+
+/* ---- Knop om terug naar boven te gaan ---- */
+
+.to-top {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  z-index: 40;
+  display: grid;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: var(--clay-dark);
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0 8px 22px rgba(33, 26, 20, 0.28);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: opacity 0.25s, transform 0.25s, visibility 0.25s, background-color 0.2s;
+}
+.to-top.is-visible { opacity: 1; visibility: visible; transform: none; }
+.to-top:hover { background: #7F3C1B; }
+
+@media (prefers-reduced-motion: reduce) {
+  .to-top, .toc__summary::after { transition: none; }
+}
