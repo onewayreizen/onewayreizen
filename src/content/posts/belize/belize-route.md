@@ -34,6 +34,7 @@ Vanaf Caye Caulker kun je ook prima het rif op: snorkel- en duiktrips naar de Ho
 
 Verder is er op Caye Caulker weinig te "doen" in de klassieke zin, en dat is precies het punt. Een boek lezen in een hangmat, een zonsondergang bij The Split, en af en toe een snorkeltrip: het eiland leent zich perfect voor een paar dagen bijkomen na het actieve San Ignacio.
 
+[Hier meer tips over Caye Caulker] /src/content/posts/belize
 ## De grenzen over: Guatemala en Mexico
 
 Wat Belize extra interessant maakt om te bereizen, is dat je het land bijna automatisch combineert met zijn buren. Zelf kwam ik Belize binnen vanuit Guatemala en vertrok ik weer via Mexico, en dat werkt in de praktijk verrassend soepel.
