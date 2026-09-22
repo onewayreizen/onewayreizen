@@ -6,7 +6,7 @@ destination: Salento
 description: 
 date: 2026-01-01
 image: /images/cocora-header.jpg
-themes: []
+themes: [Hiken]
 ---
 # Wandelen door het Cocora-dal bij Salento
 
@@ -48,4 +48,4 @@ De combinatie van dat afwisselende landschap met de unieke, bijna onwerkelijke a
 
 **Onderweg:** stop eventueel bij Acaime voor een moment met kolibries en een warme drank, tegen een kleine vergoeding.
 
-Een dagje wandelen door het Cocora-dal hoort voor mij bij de vaste hoogtepunten van een reis door Colombia, en is precies het soort ervaring waarvoor je die vroege jeep de moeite waard vindt.
+Een dagje wandelen door het Cocora-dal hoort voor mij bij de vaste hoogtepunten van een reis door Colombia en is precies het soort ervaring waarvoor je die vroege jeep de moeite waard vindt.
