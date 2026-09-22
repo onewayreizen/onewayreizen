@@ -1,8 +1,7 @@
 ---
-title: Costa Rica route
+title: "Costa Rica rondreizen: complete route met praktische tips"
 region: Midden-Amerika
 country: Costa Rica
-destination: Puerto Viejo
 description: Ultieme guide voor Costa Rica
 date: 2026-08-14
 themes: [Reisgidsen]
