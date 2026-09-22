@@ -5,7 +5,7 @@ country: Chili
 destination: Atacama
 description: De droogste plek op aarde verkennen
 date: 2026-01-01
-image: /images/BESTANDSNAAM.jpg
+image: /images/atacama-header.jpg
 themes: [Avontuur]
 ---
 
