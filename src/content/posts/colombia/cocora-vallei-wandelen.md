@@ -3,7 +3,7 @@ title: Wandelen door het Cocora-dal bij Salento
 region: Zuid-Amerika
 country: Colombia
 destination: Salento
-description: 
+description: Voor een wandeling tussen de hoogste palmbomen ter wereld hoef je maar een korte jeepritje vanaf Salento te maken. Alles wat je moet weten over route, tijden en tips voor het Cocora-dal.
 date: 2026-01-01
 image: /images/cocora-header.jpg
 themes: [Hiken]
