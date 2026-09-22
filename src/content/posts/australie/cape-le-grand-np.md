@@ -6,7 +6,7 @@ destination: WA
 description: 
 image: /images/australie/cape-le-grand-np-header.jpg
 date: 2026-08-14
-themes: [Reisvoorbereiding] 
+themes: [] 
 ---
 
 Op zo'n 50 kilometer ten oosten van het afgelegen Esperance, in het zuiden van West-Australië, ligt een van de mooiste nationale parken van het hele land: Cape Le Grand. Verwacht hier geen drukke toeristenmassa's, maar juist verlaten, spierwitte stranden, kristalhelder turquoise water, ruige granieten rotsformaties, en de bewoners waar het park wereldberoemd om is: kangoeroes die gewoon op het strand rondhangen alsof het de normaalste zaak van de wereld is.
