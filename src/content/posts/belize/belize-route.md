@@ -1,5 +1,5 @@
 ---
-title: Belize rondreizen: complete route met praktische tips
+title: "Belize rondreizen: complete route met praktische tips"
 region: Midden-Amerika
 country: Belize
 description: Belize Route
@@ -7,7 +7,6 @@ image: /images/belize/belize-guide-header.jpg
 date: 2026-08-14
 themes: [Reisgidsen]
 ---
-# Belize rondreizen: complete route met praktische tips
 
 Belize is misschien wel een van de meest onderschatte bestemmingen van Midden-Amerika. Een piepklein land, met een bevolking van nog geen half miljoen mensen, maar met een verbazingwekkende variatie aan landschap: van dichte jungle en eeuwenoude Maya-ruïnes in het binnenland, tot Caribische eilandjes en het op één na grootste barrièrerif ter wereld voor de kust. Omdat Belize grenst aan zowel Guatemala als Mexico, is het bovendien een ontzettend logische schakel in een grotere Midden-Amerika reis: je reist het land simpelweg over land in en uit. Twee stops die op vrijwel elke Belize-route thuishoren: San Ignacio en Caye Caulker.
 
