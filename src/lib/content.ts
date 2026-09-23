@@ -271,7 +271,7 @@ async function compute(): Promise<SiteData> {
         group = {
           name: info?.name ?? t.name,
           slug: t.slug,
-          url: `/jouw-avontuur/${t.slug}/`,
+          url: t.slug === 'reisgidsen' ? '/reisgidsen/' : `/jouw-avontuur/${t.slug}/`,
           posts: [],
           info,
           image: undefined,

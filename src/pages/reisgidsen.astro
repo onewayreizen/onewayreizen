@@ -1,0 +1,48 @@
+---
+// Eigen sectie voor "Reisgidsen": los van "Jouw avontuur", met eigen webadres
+// (/reisgidsen/) en eigen broodkruimel. Inhoudelijk werkt het als een thema:
+// zet bij een artikel gewoon themes: [Reisgidsen].
+import Layout from '../layouts/Layout.astro';
+import Hero from '../components/Hero.astro';
+import Card from '../components/Card.astro';
+import { getData, formatDate } from '../lib/content';
+
+const { themes } = await getData();
+const section = themes.find((t) => t.slug === 'reisgidsen');
+const title = section?.name ?? 'Reisgidsen';
+const posts = section?.posts ?? [];
+---
+
+<Layout
+  title={title}
+  description={section?.info?.intro ?? 'Praktische reisgidsen, los van een specifiek land of thema.'}
+  image={section?.image}
+>
+  <Hero
+    size="lg"
+    title={title}
+    text={section?.info?.intro}
+    image={section?.image}
+    crumbs={[{ label: 'Home', href: '/' }, { label: title }]}
+  />
+  <section class="section">
+    <div class="container">
+      {posts.length === 0 ? (
+        <p class="empty">Hier verschijnen artikelen zodra je er een aanmaakt met themes: [Reisgidsen].</p>
+      ) : (
+        <div class="grid">
+          {posts.map((post) => (
+            <Card
+              href={post.url}
+              title={post.title}
+              label={post.country || post.region || title}
+              text={post.description}
+              meta={formatDate(post.date)}
+              image={post.image}
+            />
+          ))}
+        </div>
+      )}
+    </div>
+  </section>
+</Layout>

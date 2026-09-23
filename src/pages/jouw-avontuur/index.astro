@@ -4,12 +4,13 @@ import Hero from '../../components/Hero.astro';
 import Card from '../../components/Card.astro';
 import { getData, plural } from '../../lib/content';
 
-const { themes } = await getData();
+const { themes: allThemes } = await getData();
+const themes = allThemes.filter((t) => t.slug !== 'reisgidsen');
 ---
 
 <Layout title="Jouw avontuur" description="Verhalen en gidsen per soort avontuur, dwars door alle landen heen.">
   <Hero
-   size="lg"
+    size="md"
     title="Jouw avontuur"
     text="Kies wat bij je past. Elk thema loopt dwars door alle landen heen."
     crumbs={[{ label: 'Home', href: '/' }, { label: 'Jouw avontuur' }]}

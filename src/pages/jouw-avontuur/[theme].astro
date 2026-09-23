@@ -6,10 +6,13 @@ import { getData, formatDate } from '../../lib/content';
 
 export async function getStaticPaths() {
   const { themes } = await getData();
-  return themes.map((theme) => ({
-    params: { theme: theme.slug },
-    props: { theme },
-  }));
+  // Reisgidsen heeft een eigen pagina op /reisgidsen/, dus niet hier nog eens bouwen
+  return themes
+    .filter((theme) => theme.slug !== 'reisgidsen')
+    .map((theme) => ({
+      params: { theme: theme.slug },
+      props: { theme },
+    }));
 }
 
 const { theme } = Astro.props;
@@ -21,7 +24,7 @@ const { theme } = Astro.props;
   image={theme.image}
 >
   <Hero
-    size="lg"
+    size="md"
     title={theme.name}
     text={theme.info?.intro}
     image={theme.image}
