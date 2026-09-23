@@ -1,5 +1,5 @@
 ---
-title: Route El Salvador
+title: "El Salvador rondreizen: complete route met praktische tips"
 region: Midden-Amerika
 country: El Salvador
 destination: 
