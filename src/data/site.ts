@@ -33,8 +33,7 @@ export const site = {
     headerImage: '/images/over-mij-header.jpg',
     paragraphs: [
       'Hi, ik ben Suus!
-      Na mijn master kocht ik een one way ticket. Het idee was een tussenjaar. Drie jaar later ben ik nog steeds onderweg, want zodra het leuk werd had ik geen zin om te stoppen.
-     Ik reis vooral als backpacker, zo veel mogelijk zelf uitzoeken, geen vaste planning en niet elke euro omdraaien. Als er iets langskomt dat het waard is, een bijzondere tocht, een ervaring die je niet nog een keer tegenkomt, dan geef ik het geld daaraan uit. Inmiddels heb ik 65+ landen gezien, van drukke steden tot plekken waar bijna niemand komt. Ik heb onderweg genoeg geleerd en meegemaakt om een boek te vullen, en ben nog steeds aan het uitzoeken hoe ik dat het best kan delen. Deze site is die poging: praktische gidsen en eerlijke verhalen, geen onzin.',
+      Na mijn master kocht ik een one way ticket. Het idee was een tussenjaar. Drie jaar later ben ik nog steeds onderweg, want zodra het leuk werd had ik geen zin om te stoppen. Ik reis vooral als backpacker, zo veel mogelijk zelf uitzoeken, geen vaste planning en niet elke euro omdraaien. Als er iets langskomt dat het waard is, een bijzondere tocht, een ervaring die je niet nog een keer tegenkomt, dan geef ik het geld daaraan uit. Inmiddels heb ik 65+ landen gezien, van drukke steden tot plekken waar bijna niemand komt. Ik heb onderweg genoeg geleerd en meegemaakt om een boek te vullen, en ben nog steeds aan het uitzoeken hoe ik dat het best kan delen. Deze site is die poging: praktische gidsen en eerlijke verhalen, geen onzin.',
     ],
   },
 
