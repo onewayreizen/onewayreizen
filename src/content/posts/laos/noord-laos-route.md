@@ -64,7 +64,7 @@ De meest logische volgorde is Luang Prabang, dan Vang Vieng en als laatste Vient
 
 ## Praktische tips
 
-**Vervoer tussen de steden:** de nieuwe hogesnelheidstrein is comfortabel, snel en betaalbaar en verreweg de makkelijkste manier om door Noord-Laos te reizen. Minivans en bussen zijn goedkoper, maar een stuk langzamer en minder comfortabel op de bochtige wegen.
+**Vervoer tussen de steden:** de nieuwe hogesnelheidstrein is comfortabel, snel en betaalbaar en verreweg de makkelijkste manier om door Noord-Laos te reizen. Minivans en bussen zijn goedkoper, maar een stuk langzamer en minder comfortabel op de bochtige wegen. Zorg dat je deze trein ruim van tevoren boekt, want tickets zijn snel uitverkocht.
 
 **Alms giving ceremony:** wil je dit ritueel op een respectvolle, authentieke manier meemaken, vermijd dan de drukke hoofdstraat en zoek een rustiger straatje op, het liefst zonder verkopers die je rijst proberen te verkopen.
 
