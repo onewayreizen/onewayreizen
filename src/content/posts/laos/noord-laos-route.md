@@ -25,7 +25,7 @@ Luang Prabang is voor de meeste reizigers de reden om naar Laos te komen, en dat
 
 **Kuang Si en Tad Sae.** Buiten de stad liggen twee bekende watervallen, allebei met dat onwerkelijke, turquoise water waar Laos om bekend staat. Ik schrijf hier binnenkort een aparte post over met een vergelijking tussen de twee, want ze verschillen meer van elkaar dan je zou verwachten.
 
-![hier meer over Kuang Si en Tad Sae] (/bestemmingen/azie/laos/kuang-si-vs-tad-sae/)
+[hier meer over Kuang Si en Tad Sae](/bestemmingen/azie/laos/kuang-si-vs-tad-sae/)
 
 Voor Luang Prabang zelf, inclusief een dagtrip naar de watervallen, zou ik minimaal drie dagen aanhouden. Minder kan, maar dan jaag je jezelf onnodig op in een stad die juist vraagt om het rustig aan te doen.
 
