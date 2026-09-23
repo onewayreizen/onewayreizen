@@ -252,7 +252,7 @@ a { color: inherit; }
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
-  width: 15rem;
+  width: var(--kolombreedte, 15rem);
   flex: none;
 }
 .drop--wide .drop__col { margin-bottom: 0; }

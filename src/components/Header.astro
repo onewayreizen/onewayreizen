@@ -28,8 +28,11 @@ function verdeelInKolommen(regions, aantalKolommen) {
     .map((k) => k.regions.sort((a, b) => a.name.localeCompare(b.name, 'nl')))
     .filter((r) => r.length > 0);
 }
-const aantalKolommen = Math.min(3, Math.max(regions.length, 1));
+// Probeert eerst 4 kolommen (lager en breder, geen scrollbalk nodig), en pas als er
+// weinig werelddelen zijn, minder kolommen, zodat een kolom niet leeg of heel smal is.
+const aantalKolommen = Math.min(4, Math.max(regions.length, 1));
 const megaKolommen = verdeelInKolommen(regions, aantalKolommen);
+const kolombreedte = aantalKolommen >= 4 ? '13rem' : '15rem';
 ---
 
 <header
@@ -50,7 +53,7 @@ const megaKolommen = verdeelInKolommen(regions, aantalKolommen);
           <svg class="chevron" viewBox="0 0 12 8" width="10" height="7" aria-hidden="true"><path d="M1 1.5l5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
         </a>
         <div class="drop drop--wide">
-          <div class="drop__inner">
+          <div class="drop__inner" style={`--kolombreedte:${kolombreedte}`}>
             {regions.length === 0 && <p class="drop__empty">Binnenkort meer bestemmingen.</p>}
             {megaKolommen.map((kolom) => (
               <div class="drop__column">
