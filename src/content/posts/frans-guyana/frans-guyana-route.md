@@ -1,5 +1,5 @@
 ---
-title: Route Frans-Guyana
+title: "Frans-Guyana rondreizen: complete route met praktische tips"
 region: Zuid-Amerika
 country: Frans-Guyana
 destination: 
