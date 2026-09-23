@@ -23,9 +23,7 @@ Luang Prabang is voor de meeste reizigers de reden om naar Laos te komen, en dat
 
 **De alms giving ceremony: gemengde gevoelens.** 's Ochtends vroeg lopen tientallen monniken in oranje gewaden door de straten om aalmoezen (meestal rijst) in ontvangst te nemen, een eeuwenoud ritueel. Op de hoofdstraat, waar de meeste toeristen zich verzamelen, voelt het inmiddels helaas meer als een georganiseerde toeristenattractie dan als een authentiek moment: rijen mensen met camera's, verkopers die je rijst opdringen om te "doneren", en weinig van de stilte die het ritueel ooit had. Loop echter een paar straatjes verder, weg van de hoofdtoeristenroute, en het verandert compleet: daar zie je het ritueel zoals het bedoeld is, rustig en oprecht, zonder de drukte. Mijn advies: sla de hoofdstraat over, en zoek een rustiger hoekje op.
 
-**Kuang Si en Tad Sae.** Buiten de stad liggen twee bekende watervallen, allebei met dat onwerkelijke, turquoise water waar Laos om bekend staat. Ik schrijf hier binnenkort een aparte post over met een vergelijking tussen de twee, want ze verschillen meer van elkaar dan je zou verwachten.
-
-**[Hier meer over Kuang Si en Tad Sae](/bestemmingen/azie/laos/kuang-si-vs-tad-sae/)**
+**Kuang Si en Tad Sae.** Buiten de stad liggen twee bekende watervallen, allebei met dat onwerkelijke, turquoise water waar Laos om bekend staat. Ik schrijf hier binnenkort een aparte post over met een vergelijking tussen de twee, want ze verschillen meer van elkaar dan je zou verwachten. **[Hier meer over Kuang Si vs. Tad Sae](/bestemmingen/azie/laos/kuang-si-vs-tad-sae/)**
 
 Voor Luang Prabang zelf, inclusief een dagtrip naar de watervallen, zou ik minimaal drie dagen aanhouden. Minder kan, maar dan jaag je jezelf onnodig op in een stad die juist vraagt om het rustig aan te doen.
 
