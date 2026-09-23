@@ -28,7 +28,7 @@ Vanaf Caye Caulker kun je ook prima het rif op: snorkel- en duiktrips naar de Ho
 
 Verder is er op Caye Caulker weinig te "doen" in de klassieke zin en dat is precies het punt. Een boek lezen in een hangmat, een zonsondergang bij The Split, en af en toe een snorkeltrip: het eiland leent zich perfect voor een paar dagen bijkomen na het actieve San Ignacio.
 
-[Hier meer info over Caye Caulker](/bestemmingen/midden-amerika/belize/caye-caulker-tips/)
+**[Hier meer info over Caye Caulker](/bestemmingen/midden-amerika/belize/caye-caulker-tips/)**
 
 ## De grenzen over: Guatemala en Mexico
 
