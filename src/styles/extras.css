@@ -189,3 +189,7 @@
 .hero--center .hero__text { max-width: 46ch; }
 .hero--center .crumbs { justify-content: center; }
 .hero--center .hero__actions { justify-content: center; }
+
+/* ---- Homepage: tekst ook verticaal gecentreerd in de hero-foto ---- */
+
+.hero--center { align-items: center; }
