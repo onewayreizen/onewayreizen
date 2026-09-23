@@ -40,6 +40,7 @@ Vang Vieng heeft een nogal beruchte reputatie opgebouwd als feestbestemming, maa
 **Tempels.** Ook Vang Vieng heeft een aantal rustige tempels verspreid door en rond het stadje, een fijne, laagdrempelige manier om een ochtend te vullen tussen de actievere activiteiten door.
 
 **Nam Xay Viewpoint.** Een van de bekendste uitzichtpunten van de regio, met een adembenemend panorama over de karstbergen en de rijstvelden eronder. Houd er rekening mee dat de klim steil en zweterig is, en dat het rond zonsondergang behoorlijk druk kan worden.
+**[Hier meer over Nam Xay Viewpoint](/bestemmingen/azie/laos/nam-xay-viewpoint-hike/)**
 
 **Blue Lagoon 1 en Blue Lagoon 3.** Twee van de populairste zwemplekken rond Vang Vieng, allebei met dat helderblauwe water waar je zo van foto's ziet. Blue Lagoon 1 is de bekendste en drukste, met een boom om vanaf te springen. Blue Lagoon 3 ligt verder weg en is daardoor beduidend rustiger, ideaal als je liever niet tussen de massa zwemt.
 
