@@ -30,7 +30,7 @@ Het pad bestaat grotendeels uit rotsen, keien en aarde, met hier en daar touwen 
 
 ## Wat vind je boven?
 
-De beloning: een van de mooiste vergezichten van heel Laos, met een uitkijkplatform en de inmiddels iconische motor waar bijna iedereen een foto op maakt. Sommige plekken hebben er inmiddels zelfs een tweede motor bijgezet, puur om de drukte en wachtrijen voor de foto wat te spreiden. Het is ook een van de populairste plekken in de omgeving om de zonsondergang te bekijken, met uitzicht over de hele vallei terwijl de zon achter de bergen wegzakt.
+De beloning: een van de mooiste vergezichten van heel Laos met een uitkijkplatform en de inmiddels iconische motor waar bijna iedereen een foto op maakt. Er staat inmiddels zelfs een tweede motor bij, puur om de drukte en wachtrijen voor de foto wat te spreiden. Het is ook een van de populairste plekken in de omgeving om de zonsondergang te bekijken, met uitzicht over de hele vallei terwijl de zon achter de bergen wegzakt.
 
 Houd er wel rekening mee dat een zonsondergang-hike betekent dat je de afdaling in het (bijna) donker moet doen. Op dit rotsachtige, oneffen pad is dat geen pretje zonder licht, dus neem altijd een hoofdlamp of op zijn minst een telefoon met werkende zaklampfunctie mee.
 
@@ -38,16 +38,16 @@ Houd er wel rekening mee dat een zonsondergang-hike betekent dat je de afdaling 
 
 **Entree:** ongeveer 20.000 kip per persoon (net iets meer dan een euro), te betalen bij de ingang.
 
-**Openingstijden:** doorgaans van 6:00 tot 18:00 uur, al varieert dit soms per bron. Ga je vroeger dan de officiële openingstijd, dan is er meestal niemand aanwezig om je entree te innen; betaal dan gewoon netjes op de terugweg, het geld gaat naar onderhoud van het pad.
+**Openingstijden:** doorgaans van 6:00 tot 18:00 uur, al varieert dit soms. Ga je vroeger dan de officiële openingstijd, dan is er meestal niemand aanwezig om je entree te innen; betaal dan gewoon netjes op de terugweg, het geld gaat naar onderhoud van het pad.
 
 **Schoeisel:** stevige, dichte schoenen of hikingschoenen zijn een must. Op slippers waag je je hier echt in de problemen, gezien het rotsachtige, soms bijna klimmende terrein.
 
-**Wat neem je mee:** ruim voldoende water (het is warm en zweterig werk, ook al is de afstand kort), en bij een zonsondergang-hike sowieso een lamp voor de afdaling in het donker.
+**Wat neem je mee:** ruim voldoende water (het is warm en zweterig werk, ook al is de afstand kort) en bij een zonsondergang-hike sowieso een lamp voor de afdaling in het donker.
 
 **Conditie:** de hike wordt vaak omschreven als gemiddeld tot moeilijk. Ben je niet gewend aan klimmen of heb je last van hoogtevrees op steile, rotsachtige paden, houd hier dan rekening mee.
 
-**Beste moment:** vroeg in de ochtend voor rust, koelte en minder wachtrij bij de motor, of tegen zonsondergang voor het mooiste licht, al is het dan drukker en moet je rekening houden met de afdaling in het donker.
+**Beste moment:** vroeg in de ochtend voor rust, koelte en minder wachtrij bij de motor of tegen zonsondergang voor het mooiste licht, al is het dan drukker en moet je rekening houden met de afdaling in het donker.
 
 **Combineer met:** Blue Lagoon 3 ligt niet ver van Nam Xay en is een fijne, rustigere plek om na de klim af te koelen, met minder drukte dan de bekendere Blue Lagoon 1.
 
-Onderschat deze hike niet vanwege de korte afstand: die 350 meter voelt door de steilte en het ruige terrein al snel als een veel grotere onderneming, maar het uitzicht boven maakt alles goed.
+Onderschat deze hike niet vanwege de korte afstand: die 350 meter voelt door de steilte en het ruige terrein al snel als een veel grotere onderneming, maar het uitzicht boven maakt alles goed. 
