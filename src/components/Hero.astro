@@ -13,12 +13,13 @@ interface Props {
   image?: string;
   crumbs?: Crumb[];
   size?: 'xl' | 'lg' | 'md';
+  center?: boolean;
 }
-const { title, eyebrow, text, image, crumbs = [], size = 'lg' } = Astro.props;
+const { title, eyebrow, text, image, crumbs = [], size = 'lg', center = false } = Astro.props;
 const heroImage = image ?? site.heroImage;
 ---
 
-<section class={`hero hero--${size}`} style={`--hero-image: url('${heroImage}')`}>
+<section class:list={['hero', `hero--${size}`, center && 'hero--center']} style={`--hero-image: url('${heroImage}')`}>
   <div class="container hero__inner">
     {crumbs.length > 0 && (
       <nav class="crumbs" aria-label="Broodkruimelpad">

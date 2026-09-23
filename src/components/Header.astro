@@ -7,6 +7,11 @@ interface Props {
 }
 const { overlay = true } = Astro.props;
 const { regions, themes } = await getData();
+// "Reisgidsen" staat als los menu-item tussen Jouw avontuur en Over mij,
+// en dus niet meer in de uitklaplijst van Jouw avontuur.
+const REISGIDSEN_SLUG = 'reisgidsen';
+const reisgidsenTheme = themes.find((t) => t.slug === REISGIDSEN_SLUG);
+const dropdownThemes = themes.filter((t) => t.slug !== REISGIDSEN_SLUG);
 const cols = Math.min(Math.max(regions.length, 1), 4);
 ---
 
@@ -52,9 +57,9 @@ const cols = Math.min(Math.max(regions.length, 1), 4);
         <div class="drop">
           <div class="drop__inner">
             <div class="drop__col">
-              {themes.length === 0 && <p class="drop__empty">Binnenkort meer thema's.</p>}
+              {dropdownThemes.length === 0 && <p class="drop__empty">Binnenkort meer thema's.</p>}
               <ul>
-                {themes.map((theme) => (
+                {dropdownThemes.map((theme) => (
                   <li><a href={theme.url}>{theme.name}</a></li>
                 ))}
               </ul>
@@ -62,6 +67,12 @@ const cols = Math.min(Math.max(regions.length, 1), 4);
           </div>
         </div>
       </div>
+
+      {reisgidsenTheme && (
+        <div class="nav__item">
+          <a class="nav__link" href={reisgidsenTheme.url}>{reisgidsenTheme.name}</a>
+        </div>
+      )}
 
       <div class="nav__item">
         <a class="nav__link" href="/over-mij/">Over mij</a>
@@ -99,11 +110,14 @@ const cols = Math.min(Math.max(regions.length, 1), 4);
         <summary>Jouw avontuur</summary>
         <div class="mobile-menu__sub">
           <a class="mobile-menu__all" href="/jouw-avontuur/">Alle thema's</a>
-          {themes.map((theme) => (
+          {dropdownThemes.map((theme) => (
             <a href={theme.url}>{theme.name}</a>
           ))}
         </div>
       </details>
+      {reisgidsenTheme && (
+        <a class="mobile-menu__link" href={reisgidsenTheme.url}>{reisgidsenTheme.name}</a>
+      )}
       <a class="mobile-menu__link" href="/over-mij/">Over mij</a>
       <a class="mobile-menu__link" href="/zoeken/">Zoeken</a>
     </div>

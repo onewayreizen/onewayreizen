@@ -176,3 +176,16 @@
   .prose .foto--klein,
   .prose .foto--midden { margin-inline: 0; }
 }
+
+/* ---- Homepage: hero-tekst gecentreerd i.p.v. links uitgelijnd ---- */
+
+.hero--center .hero__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.hero--center .hero__title,
+.hero--center .hero__text { max-width: 46ch; }
+.hero--center .crumbs { justify-content: center; }
+.hero--center .hero__actions { justify-content: center; }
