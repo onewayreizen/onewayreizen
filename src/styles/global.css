@@ -231,29 +231,31 @@ a { color: inherit; }
 }
 .drop li a:hover { color: var(--clay-dark); }
 
-/* Bestemmingen: regio's als kolommen naast elkaar, alfabetisch, zonder gaten */
+/* Bestemmingen: regio's slim verdeeld over kolommen (zie Header.astro),
+   zodat een werelddeel nooit halverwege afbreekt of buiten beeld valt. */
 .nav__item--mega { position: static; }
 .drop--wide {
   left: auto;
   right: 0;
-  width: min(calc(var(--cols, 3) * 15rem), 100%);
+  width: auto;
 }
 .drop--wide .drop__inner {
-  display: block;
+  display: flex;
+  align-items: flex-start;
+  gap: 2.5rem;
   width: auto;
   max-width: none;
-  column-count: var(--cols, 3);
-  column-gap: 2.5rem;
+  max-height: calc(100vh - var(--header-h) - 2.5rem);
+  overflow-y: auto;
 }
-.drop--wide .drop__col {
-  display: inline-block;
-  width: 100%;
-  vertical-align: top;
-  margin-bottom: 1.5rem;
-  break-inside: avoid;
-  -webkit-column-break-inside: avoid;
-  page-break-inside: avoid;
+.drop--wide .drop__column {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  width: 15rem;
+  flex: none;
 }
+.drop--wide .drop__col { margin-bottom: 0; }
 
 /* Hamburgerknop (alleen op telefoon/tablet) */
 .burger {
@@ -359,7 +361,7 @@ a { color: inherit; }
   position: relative;
   display: flex;
   align-items: flex-end;
-     min-height: 70vh;
+  min-height: 54vh;
   padding: calc(var(--header-h) + 3.5rem) 0 clamp(2.5rem, 5vw, 4rem);
   color: #fff;
   background-color: var(--olive);
@@ -371,7 +373,7 @@ a { color: inherit; }
   background-position: center;
 }
 .hero--xl { min-height: 92vh; min-height: 92svh; }
-   .hero--md { min-height: 52vh; }
+.hero--md { min-height: 40vh; }
 
 .hero__inner { position: relative; }
 
@@ -719,20 +721,15 @@ a.tag:hover { background: rgba(255, 255, 255, 0.3); text-decoration: none; }
   line-height: 1.8;
 }
 .prose > * + * { margin-top: 1.25em; }
-   .prose > .article-title {
-     margin: 0 0 1.2rem;
-     font-size: clamp(2.1rem, 1.4rem + 2.6vw, 3.2rem);
-     letter-spacing: -0.025em;
-   }
-   .prose > .article-title {
+.prose > .article-title {
   margin: 0 0 1.2rem;
-  font-size: clamp(2.3rem, 1.5rem + 3.2vw, 3.8rem);
-  text-wrap: wrap;
+  font-size: clamp(1.9rem, 1.3rem + 2.2vw, 2.8rem);
   letter-spacing: -0.025em;
 }
+.prose > .article-title + p { font-size: 1.28rem; line-height: 1.65; }
 .prose h2 { clear: both; margin-top: 2.4em; font-size: 1.8rem; }
 .prose h3 { clear: both; margin-top: 2em; font-size: 1.35rem; }
-.prose a { color: var(--clay-dark); font-weight: 600; text-underline-offset: 3px; }
+.prose a { color: var(--clay-dark); text-underline-offset: 3px; }
 .prose a:hover { color: var(--ink); }
 .prose img { display: block; width: 100%; height: auto; margin-block: 2rem; border-radius: var(--radius-card); }
 .prose ul, .prose ol { padding-left: 1.3em; }
