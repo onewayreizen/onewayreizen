@@ -4,7 +4,7 @@ region: Europa
 country: Griekenland
 destination: Athene
 description: 
-date: 2022-08-23
+date: 2022-08-22
 themes: []
 ---
 
