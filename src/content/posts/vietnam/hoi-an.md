@@ -4,10 +4,9 @@ region: Azië
 country: Vietnam
 destination: Hoi An
 description: 
-date: 2026-08-14
-themes: 
+date: 2023-11-04
+themes: [Reisgids]
 ---
-# Waarom iedereen verliefd wordt op Hoi An
 
 Er zijn van die steden waar je van tevoren al veel over hoort, en waar de verwachtingen dus torenhoog liggen. Meestal valt dat dan een beetje tegen. Bij Hoi An is dat zelden het geval. Zodra de zon ondergaat en duizenden kleurrijke lantaarns de smalle straatjes van de oude stad verlichten, snap je meteen waarom bijna iedere reiziger die hier komt, hopeloos verliefd wordt op dit stadje in centraal Vietnam.
 
