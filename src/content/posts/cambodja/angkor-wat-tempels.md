@@ -4,7 +4,7 @@ region: Azië
 country: Cambodja
 destination: Angkor Wat
 description: Uitgebreide tempel-voor-tempel gids met geschiedenis en weetjes, zodat je zelf kunt kiezen.
-date: 2026-01-01
+date: 2023-10-17
 image: /images/angkor-wat-tempels.jpg
 themes: []
 ---
