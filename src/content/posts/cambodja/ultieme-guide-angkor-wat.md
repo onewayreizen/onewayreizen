@@ -1,4 +1,13 @@
-# De ultieme gids voor Angkor Wat: alles wat je moet weten
+---
+title: "De ultieme guide voor Angkor Wat: alles wat je moet weten"
+region: Azië
+country: Cambodja
+destination: Angkor Wat
+description: 
+date: 2026-01-01
+image: /images/angkor-wat-guide.jpg
+themes: []
+---
 
 Angkor Wat is niet zomaar een tempel die je even inplant tussen andere activiteiten door: het is het grootste religieuze bouwwerk ter wereld, onderdeel van een archeologisch park van meer dan 400 vierkante kilometer met tientallen tempels. Om er het maximale uit te halen, en niet halverwege verdwaald te raken in praktische vragen, hier de complete gids: van tickets tot vervoer tot welke tempels je echt niet mag missen.
 
