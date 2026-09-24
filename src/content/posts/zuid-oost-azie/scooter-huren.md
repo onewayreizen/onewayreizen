@@ -4,6 +4,7 @@ region: Azië
 country: 
 destination: 
 description: 
+image: /images/hero.jpg
 date: 2026-08-14
 themes: [Backpacken]
 ---
