@@ -1,6 +1,6 @@
 ---
 title: "Voedselvergiftiging in het buitenland: wat kun je doen?"
-region: [Azië, Zuid-Amerika, Afrika, West-Azië]
+region: Azië
 country: 
 destination: 
 description: 
