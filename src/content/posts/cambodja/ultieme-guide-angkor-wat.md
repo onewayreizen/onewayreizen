@@ -18,6 +18,7 @@ Siem Reap, de stad vanwaaruit je Angkor bezoekt, is prima bereikbaar via meerder
 - **Vliegen.** Siem Reap heeft een eigen internationale luchthaven, met verbindingen vanuit onder andere Bangkok, Ho Chi Minh Stad en andere regionale hubs.
 - **Bus vanuit Phnom Penh.** Een rit van ongeveer 6 uur, met meerdere busmaatschappijen die dagelijks vertrekken.
 - **Overland vanuit Thailand.** Via de grensovergang bij Poipet kun je vanuit Bangkok naar Siem Reap reizen, meestal met een combinatie van bus en verdere doorreis na de grens. Reken op een lange dag reizen, en wees alert op de bekende oplichterspraktijken rond deze grensovergang (mensen die zich voordoen als officials en extra geld vragen).
+**let op: lees je goed in over de huide situatie rondom de grensovergang tussen Thailand en Cambodja**
 
 ## Tickets: de Angkor Pass
 
