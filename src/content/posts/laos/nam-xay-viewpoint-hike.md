@@ -4,7 +4,7 @@ region: Azië
 country: Laos
 destination: Vang Vieng
 description: Praktische tips voor het hiken naar het uitzicht.
-date: 2026-01-01
+date: 2023-11-22
 image: /images/nam-xay-viewpoint-header.jpg
 themes: [Hiken]
 ---
