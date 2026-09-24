@@ -3,7 +3,7 @@ title: "De beste tempels van Angkor: uitgebreide lijst om uit te kiezen"
 region: Azië
 country: Cambodja
 destination: Angkor Wat
-description: 
+description: Uitgebreide tempel-voor-tempel gids met geschiedenis en weetjes, zodat je zelf kunt kiezen.
 date: 2026-01-01
 image: /images/angkor-wat-tempels.jpg
 themes: []
