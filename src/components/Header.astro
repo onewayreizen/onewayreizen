@@ -28,11 +28,12 @@ function verdeelInKolommen(regions, aantalKolommen) {
     .map((k) => k.regions.sort((a, b) => a.name.localeCompare(b.name, 'nl')))
     .filter((r) => r.length > 0);
 }
-// Probeert eerst 4 kolommen (lager en breder, geen scrollbalk nodig), en pas als er
-// weinig werelddelen zijn, minder kolommen, zodat een kolom niet leeg of heel smal is.
-const aantalKolommen = Math.min(4, Math.max(regions.length, 1));
+// Probeert zoveel mogelijk kolommen te vullen (tot 5), zodat elke kolom lager wordt
+// en er geen scrollbalk nodig is. Bij weinig werelddelen komen er vanzelf minder kolommen,
+// zodat een kolom niet leeg of heel smal blijft.
+const aantalKolommen = Math.min(5, Math.max(regions.length, 1));
 const megaKolommen = verdeelInKolommen(regions, aantalKolommen);
-const kolombreedte = aantalKolommen >= 4 ? '13rem' : '15rem';
+const kolombreedte = aantalKolommen >= 5 ? '11.5rem' : aantalKolommen === 4 ? '13rem' : '15rem';
 ---
 
 <header
