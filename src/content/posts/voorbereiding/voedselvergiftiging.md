@@ -1,8 +1,8 @@
 ---
 title: "Voedselvergiftiging in het buitenland: wat kun je doen?"
-region: Oceanië
-country: Australië
-destination: WA
+region: 
+country: 
+destination: 
 description: 
 image: /images/australie/cape-le-grand-np-header.jpg
 date: 2026-08-14
