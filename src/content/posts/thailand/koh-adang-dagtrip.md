@@ -4,7 +4,7 @@ region: Azië
 country: Thailand
 destination: Koh Lipe
 description: 
-date: 2026-08-14
+date: 2023-12-20
 image: /images/thailand/koh-adang-header.jpg
 themes: [Island life]
 ---
