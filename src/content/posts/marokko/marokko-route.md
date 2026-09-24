@@ -4,7 +4,7 @@ region: Afrika
 country: Marokko
 destination: 
 description: Routegids
-date: 2026-01-01
+date: 2020-01-27
 image: /images/marokko-header.jpg
 themes: [Reisgidsen]
 ---
