@@ -3,6 +3,7 @@ title: "Een lange stop in Abu Dhabi: wat kan je in een paar uur doen?"
 region: West-Azië
 country: Verenigde Arabische Emiraten
 destination: Abu Dhabi
+image: /images/landen-headers/verenigde-arabische-emiraten-header.jpg
 description: 
 date: 2026-02-20
 themes: []
