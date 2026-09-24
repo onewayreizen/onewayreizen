@@ -1,7 +1,7 @@
 ---
-title: "Vaticaan guide"
+title: "Vaticaanstad guide"
 region: Europa
-country: Vaticaan
+country: Vaticaanstad
 destination: 
 description: 
 date: 2022-08-23
