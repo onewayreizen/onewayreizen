@@ -4,7 +4,7 @@ region: Azië
 country: Laos
 destination: Luang Prabang
 description: Twee prachtige watervallen, maar als je maar tijd heb om één te bezoeken, welke kies je dan?
-date: 2026-01-01
+date: 2023-11-19
 image: /images/kuang-si-header.jpg
 themes: []
 ---
