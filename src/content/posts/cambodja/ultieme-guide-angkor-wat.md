@@ -31,11 +31,11 @@ Dit is het belangrijkste onderdeel om vooraf goed te regelen. Alle bezoekers heb
 
 Een groot voordeel: de dagen van het 3- en 7-daagse pass hoeven niet aaneengesloten te zijn. Je kunt dus prima een rustdag inlassen tussen je tempelbezoeken.
 
-**Waar koop je het?** Alleen bij het officiële ticketkantoor aan Road 60 in Siem Reap, of online via angkorenterprise.gov.kh. Koop je 'm ergens anders, bijvoorbeeld via een wagen of "agent" onderweg, dan loop je het risico op een ongeldig ticket. Bij aankoop wordt een foto van je gemaakt (voor het 3- en 7-daagse pass), die bij elke ingang gecontroleerd wordt, dus zorg dat je een geldig identiteitsbewijs bij je hebt.
+**Waar koop je het?** Alleen bij het officiële ticketkantoor aan Road 60 in Siem Reap, of online via de officiele ticket verkoop. Koop je 'm ergens anders, bijvoorbeeld via een wagen of "agent" onderweg, dan loop je het risico op een ongeldig ticket. Bij aankoop wordt een foto van je gemaakt (voor het 3- en 7-daagse pass), die bij elke ingang gecontroleerd wordt, dus zorg dat je een geldig identiteitsbewijs bij je hebt.
 
 **Kinderen onder de 12 jaar** mogen gratis naar binnen, met een paspoort als leeftijdsbewijs.
 
-**De 4:45 uur-truc:** koop je je ticket na 16:45 uur voor de volgende dag, dan mag je daarmee dezelfde avond nog gratis naar binnen voor de zonsondergang. Een leuke, gratis bonus als je je pas laat op de dag regelt.
+**De 4:45 uur-truc:** koop je je ticket na 16:45 uur voor de volgende dag, dan mag je daarmee dezelfde avond nog gratis naar binnen voor de zonsondergang. Een leuke, gratis bonus als je je ticket laat op de dag regelt.
 
 ## Hoe verplaats je je door het park?
 
