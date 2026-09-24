@@ -13,7 +13,7 @@ Cambodja combineert twee compleet verschillende kanten van Zuidoost-Azië: de in
 
 ## Siem Reap: de tempels van Angkor
 
-Siem Reap is voor vrijwel iedereen de reden om naar Cambodja te komen, dankzij de nabijgelegen Angkor-tempels, een van de grootste religieuze complexen ter wereld. Angkor Wat zelf, het bekendste en grootste tempelcomplex, is het meest indrukwekkend bij zonsopgang, wanneer de silhouetten van de torens oprijzen tegen een oranje lucht. Combineer dit met Angkor Thom en de bekende, met bomen overwoekerde Ta Prohm-tempel (bekend van Tomb Raider), en je hebt al snel een volle dag of twee te pakken. [Hier meer over het Angkor Wat compelex]()
+Siem Reap is voor vrijwel iedereen de reden om naar Cambodja te komen, dankzij de nabijgelegen Angkor-tempels, een van de grootste religieuze complexen ter wereld. Angkor Wat zelf, het bekendste en grootste tempelcomplex, is het meest indrukwekkend bij zonsopgang, wanneer de silhouetten van de torens oprijzen tegen een oranje lucht. Combineer dit met Angkor Thom en de bekende, met bomen overwoekerde Ta Prohm-tempel (bekend van Tomb Raider), en je hebt al snel een volle dag of twee te pakken. **[Hier meer over het Angkor Wat compelex](/bestemmingen/azie/cambodja/ultieme-guide-angkor-wat/)**
 
 Naast de tempels zelf is de stad Siem Reap ook leuk om in rond te lopen: Pub Street voor de avondsfeer, en de lokale markten voor eten en souvenirs. Reken voor Siem Reap en de tempels op minimaal twee tot drie dagen.
 
