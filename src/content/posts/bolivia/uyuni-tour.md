@@ -1,20 +1,20 @@
 ---
-title: "Torotoro Nationaal Park"
+title: "De zoutvlakte van Uyuni: hoe je een tour boekt (en waar je op moet letten)"
 region: Zuid-Amerika
 country: Bolivia
-destination: Torotoro NP
+destination: Uyuni
 description: dinosaurussporen en canyons in Bolivia's minst bezochte park
 date: 2026-01-01
 image: /images/uyuni-tour-header.jpg
 themes: [Avontuur]
 ---
-# De zoutvlakte van Uyuni: hoe je een tour boekt (en waar je op moet letten)
+
 
 Een spiegelend wit landschap dat zich tot aan de horizon uitstrekt, vlammend rode lagunes vol flamingo's en woestijnlandschappen die eruitzien alsof je zo op Mars bent beland. De Salar de Uyuni is een van de meest bijzondere plekken die je in Zuid-Amerika kunt bezoeken, en tegelijk een van de plekken waar je echt goed moet uitzoeken bij wie je boekt. Hier lees je hoe je een tour regelt, wat je kunt verwachten, en vooral: waar je op moet letten voordat je in een jeep stapt.
 
 ## Vanuit welke plek boek je je tour?
 
-Je kunt een tour naar de zoutvlakte vanuit verschillende plekken boeken, en dat bepaalt meteen ook een deel van je reisroute.
+Je kunt een tour naar de zoutvlakte vanuit verschillende plekken boeken en dat bepaalt meteen ook een deel van je reisroute.
 
 **Vanuit Uyuni (Bolivia).** De meest gekozen optie, simpelweg omdat het dorpje het dichtst bij de zoutvlakte ligt en het grootste aanbod aan touroperators heeft. Je begint en eindigt hier meestal ook weer in Uyuni, al kun je de tour ook laten eindigen in San Pedro de Atacama in Chili voor een kleine meerprijs.
 
@@ -67,4 +67,4 @@ De overnachtingen tijdens de tour zijn simpel: denk aan basale hostels, en op so
 
 ## Is het de moeite waard?
 
-Zonder twijfel. Ondanks de soms wat basale omstandigheden en het belang van een goede voorbereiding, behoort een tour over de Salar de Uyuni tot een van de meest indrukwekkende ervaringen die je in heel Zuid-Amerika kunt hebben. Doe je huiswerk goed bij het kiezen van een betrouwbare aanbieder, pak warme kleding in, en je staat binnen een paar dagen op een van de meest surrealistische plekken op aarde.
+Zonder twijfel. Ondanks de soms wat basale omstandigheden en het belang van een goede voorbereiding, behoort een tour over de Salar de Uyuni tot een van de meest indrukwekkende ervaringen die je in heel Zuid-Amerika kunt hebben. Doe je huiswerk goed bij het kiezen van een betrouwbare aanbieder, pak warme kleding in en je staat binnen een paar dagen op een van de meest surrealistische plekken op aarde.
