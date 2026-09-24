@@ -8,7 +8,6 @@ date: 2023-10-30
 image: /images/vietnam-route.jpg
 themes: [Reisgidsen]
 ---
-# Vietnam rondreizen: complete route met praktische tips
 
 Vietnam is een van die landen waar je in een paar weken tijd het gevoel hebt meerdere landen te hebben bezocht: de chaotische energie van Ho Chi Minh Stad, de rust van oude handelsstadjes, keizerlijke geschiedenis, en natuur die je bijna niet kunt geloven dat echt bestaat. De klassieke route loopt van zuid naar noord: Ho Chi Minh Stad, Da Nang, Hoi An, Hue, Hanoi, Halong Bay en Ninh Binh.
 
