@@ -2,9 +2,9 @@
 title: "Cambodja rondreizen: complete route met praktische tips"
 region: Azië
 country: Cambodja
-destination:
+destination: "Van de tempels van Angkor tot eilandhoppen en Phnom Penh: complete route met transport en dagindeling."
 description: Routegids
-date: 2026-01-01
+date: 2023-10-16
 image: /images/cambodja-route.jpg
 themes: [Reisgidsen]
 ---
