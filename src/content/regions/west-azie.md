@@ -1,5 +1,5 @@
 ---
 name: West-Azië
 intro: Woestijnen, ruïnes en grenzeloze gastvrijheid.
-image: /images/west-azie-header.jpg
+Image: /images/landen-headers/verenigde-arabische-emiraten-header.jpg
 ---
