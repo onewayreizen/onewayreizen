@@ -57,7 +57,7 @@ Het park is opgedeeld in een klein en een groot circuit, plus verder afgelegen t
 
 Heb je maar één dag, houd het dan bij de small circuit. Heb je twee tot drie dagen (waarvoor het 3-daagse pass ideaal is), voeg dan de grand circuit en Banteay Srei toe.
 
-**[Hier meer over de verschillende tempels](/bestemmingen/azie/cambodja/ultieme-guide-angkor-wat/)**
+**[Hier meer over de verschillende tempels](/bestemmingen/azie/cambodja/angkor-wat-tempels/)**
 
 ## Zonsopgang of zonsondergang?
 
