@@ -3,8 +3,8 @@ title: "De ultieme guide voor Angkor Wat: alles wat je moet weten"
 region: Azië
 country: Cambodja
 destination: Angkor Wat
-description: 
-date: 2026-01-01
+description: Alles over tickets, vervoer en circuits, zodat je goed voorbereid het tempelcomplex induikt.
+date: 2023-10-17
 image: /images/angkor-wat-guide.jpg
 themes: []
 ---
