@@ -68,9 +68,21 @@ Naast dat zwaardere stuk geschiedenis heeft de stad ook een levendigere kant: he
 
 Twee dagen is voldoende om zowel de geschiedenis als de levendigere kant van de stad mee te maken.
 
-## De route samengevat
+## Dag-voor-dag overzicht:
 
-In totaal, met wat ruimte voor de lange reisdagen tussen de eilanden en het vasteland, reken je op een route van ongeveer 14 tot 17 dagen: twee tot drie dagen Siem Reap, vier tot vijf dagen verdeeld over Koh Rong en Koh Rong Sanloem, twee tot drie dagen Kampot, en twee dagen Phnom Penh, plus de reisdagen ertussen.
+Dag 1: aankomst Siem Reap, wennen en rondlopen
+Dag 2 en 3: Angkor Wat en omliggende tempels (Angkor Thom, Ta Prohm)
+Dag 4: reisdag naar Sihanoukville (bus of vlucht)
+Dag 5: ferry naar Koh Rong, eerste strandmomenten
+Dag 6 en 7: Koh Rong (stranden, snorkelen, feestsfeer)
+Dag 8: ferry naar Koh Rong Sanloem
+Dag 9 en 10: Koh Rong Sanloem (Saracen Bay of M'Pay Bay, rust)
+Dag 11: ferry terug naar Sihanoukville, doorreis naar Kampot
+Dag 12 en 13: Kampot (pepperfarm, rivier, eventueel Bokor National Park of Kep)
+Dag 14: reisdag naar Phnom Penh
+Dag 15 en 16: Phnom Penh (Tuol Sleng, Killing Fields, Koninklijk Paleis, rivieroever)
+
+In totaal dus zo'n 16 dagen, iets uit te breiden of in te korten afhankelijk van hoeveel rust je op de eilanden wilt inbouwen.
 
 ## Praktische tips
 
