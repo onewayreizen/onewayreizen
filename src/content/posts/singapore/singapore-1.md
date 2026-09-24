@@ -3,7 +3,7 @@ title: "Singapore in 48 uur: modern, groen en multicultureel"
 region: Azië
 country: Singapore
 description: 
-date: 2026-08-14
+date: 2023-09-18
 themes: 
 ---
 
