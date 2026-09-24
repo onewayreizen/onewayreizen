@@ -8,15 +8,15 @@ date: 2022-08-22
 themes: []
 ---
 
-Athene wordt door veel reizigers behandeld als een verplichte tussenstop op weg naar de Griekse eilanden, en dat is jammer. De stad heeft namelijk meer dan genoeg te bieden voor een paar volwaardige dagen: duizenden jaren geschiedenis, levendige buurten, en verrassend goed eten, allemaal binnen loopafstand van elkaar. Hier de complete gids voor drie dagen Athene.
+Athene wordt door veel reizigers behandeld als een verplichte tussenstop op weg naar de Griekse eilanden en dat is jammer. De stad heeft namelijk meer dan genoeg te bieden voor een paar volwaardige dagen: duizenden jaren geschiedenis, levendige buurten en verrassend goed eten, allemaal binnen loopafstand van elkaar. Hier de complete gids voor drie dagen Athene.
 
 ## Dag 1: de Akropolis en de heuvel eromheen
 
 Begin je eerste dag bij het absolute hoogtepunt van de stad: de Akropolis. Ga bij voorkeur zo vroeg mogelijk (de poorten openen om 8:00 uur) of juist laat in de middag, om zowel de hitte als de drukte van rondreizende cruisegroepen (meestal tussen 10:00 en 14:00 uur) te vermijden. Boven aangekomen loop je langs de Parthenon, het Erechtheion met zijn beroemde Karyatiden (zuilen in vrouwvorm, al zijn de originelen inmiddels in het museum te bewonderen en zie je hier kopieën), de Propylaea-poort en de kleine Tempel van Athena Nike.
 
-Ga daarna naar beneden voor het Akropolis Museum, aan de voet van de heuvel. Dit moderne museum herbergt de originele beeldhouwwerken en artefacten van de site, en is minstens zo indrukwekkend als de ruïnes zelf. Let op: dit is een apart ticket, los van je Akropolis-toegang.
+Ga daarna naar beneden voor het Akropolis Museum, aan de voet van de heuvel. Dit moderne museum herbergt de originele beeldhouwwerken en artefacten van de site en is minstens zo indrukwekkend als de ruïnes zelf. Let op: dit is een apart ticket, los van je Akropolis-toegang.
 
-Sluit de dag af met een wandeling door Plaka, de oudste en meest pittoreske wijk van Athene, met smalle straatjes, bougainville over de balkons, en talloze kleine tavernes voor je avondeten.
+Sluit de dag af met een wandeling door Plaka, de oudste en meest pittoreske wijk van Athene, met smalle straatjes, bougainville over de balkons en talloze kleine tavernes voor je avondeten.
 
 ## Dag 2: markten, pleinen en musea
 
@@ -42,7 +42,7 @@ Voor je derde dag zijn er een paar goede opties, afhankelijk van je interesse en
 
 **Ben je EU-burger en jonger dan 25?** Dan mag je helemaal gratis naar binnen bij de Akropolis (en de meeste andere archeologische sites in Griekenland). Let op: je moet nog steeds vooraf een "gratis" ticket met tijdslot boeken via de officiële website en je moet een geldig identiteitsbewijs of paspoort kunnen laten zien bij de ingang.
 
-**Overige kortingen:** niet-EU-burgers tussen de 6 en 25 jaar, en (in sommige periodes) EU-senioren van 65 jaar en ouder, betalen een gereduceerd tarief. Regels en prijzen veranderen bij de Griekse overheid regelmatig, dus check altijd de actuele voorwaarden op de officiële site voordat je boekt.
+**Overige kortingen:** niet-EU-burgers tussen de 6 en 25 jaar en (in sommige periodes) EU-senioren van 65 jaar en ouder, betalen een gereduceerd tarief. Regels en prijzen veranderen bij de Griekse overheid regelmatig, dus check altijd de actuele voorwaarden op de officiële site voordat je boekt.
 
 **Standaardprijs:** een normaal ticket voor de Akropolis kost 30 euro. Losse tickets voor andere sites (Ancient Agora, Romeinse Agora, Tempel van Olympische Zeus, etc.) koop je apart, tenzij er op het moment van je bezoek weer een combi-ticket beschikbaar is.
 
@@ -54,6 +54,6 @@ Voor je derde dag zijn er een paar goede opties, afhankelijk van je interesse en
 
 **Hitte in de zomer:** bij extreme hitte in juli en augustus kan de Akropolis tijdelijk (met weinig aankondiging vooraf) 's middags gesloten worden. Check dus vlak voor je bezoek nog even het laatste nieuws als je in deze periode reist.
 
-**Eten:** probeer souvlaki bij een van de kleine tentjes in Monastiraki, en neem de tijd voor een uitgebreid diner in Plaka met uitzicht op de verlichte Akropolis.
+**Eten:** probeer souvlaki bij een van de kleine tentjes in Monastiraki en neem de tijd voor een uitgebreid diner in Plaka met uitzicht op de verlichte Akropolis.
 
 Drie dagen geven je precies genoeg tijd om zowel de absolute klassiekers van Athene te zien, als om iets verder te kijken dan alleen de Akropolis: van pleinen en musea tot een dagtrip die de stad in perspectief plaatst binnen de rest van Griekenland.
