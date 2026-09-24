@@ -4,7 +4,7 @@ region: [Azië, Zuid-Amerika, Afrika, West-Azië]
 country: 
 destination: 
 description: 
-image: /images/australie/hero.jpg
+image: /images/hero.jpg
 date: 2026-08-14
 themes: [Reisvoorbereiding] 
 ---
