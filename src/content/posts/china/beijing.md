@@ -4,6 +4,7 @@ region: Azië
 country: China
 destination: Beijing
 description: 
+image: /images/china/beijing-guide-header.jpg
 date: 2026-08-14
 themes: []
 ---
