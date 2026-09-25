@@ -3,7 +3,7 @@ title: "Belize rondreizen: complete route met praktische tips"
 region: Midden-Amerika
 country: Belize
 description: Ultieme guide voor Belize
-image: /images/landen-headers/belize-header.jpg
+image: /images/belize/belize-route-header.jpg
 date: 2026-08-14
 themes: [Reisgidsen]
 ---
