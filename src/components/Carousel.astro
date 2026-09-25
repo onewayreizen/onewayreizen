@@ -8,11 +8,13 @@ import { formatDate } from '../lib/content';
 interface Props {
   posts: Post[];
   id: string;
+  // split: iets smallere kaarten, voor gebruik naast een tekstkolom (zie "Nieuwste verhalen")
+  split?: boolean;
 }
-const { posts, id } = Astro.props;
+const { posts, id, split = false } = Astro.props;
 ---
 
-<div class="carousel" data-carousel={id}>
+<div class:list={['carousel', split && 'carousel--split']} data-carousel={id}>
   <div class="carousel__track" role="list">
     {posts.map((post) => (
       <div class="carousel__item" role="listitem">

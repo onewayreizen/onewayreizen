@@ -14,8 +14,9 @@ const { posts, themes } = await getData();
 // favorieten zijn gemarkeerd.
 const avontuur = kiesUitverschillendeLanden(posts, 4);
 
-// "Nieuwste verhalen": gewoon de nieuwste artikelen van de site
-const nieuwste = posts.slice(0, 4);
+// "Nieuwste verhalen": gewoon de nieuwste artikelen van de site (meer dan 4, want dit
+// is nu een carousel om doorheen te scrollen, geen vaste rij van 4)
+const nieuwste = posts.slice(0, 8);
 
 // "Reisgidsen": alle artikelen met themes: [Reisgidsen]
 const reisgidsen = themes.find((t) => t.slug === 'reisgidsen');
@@ -93,23 +94,17 @@ const reisgidsen = themes.find((t) => t.slug === 'reisgidsen');
 
   {nieuwste.length > 0 && (
     <section class="section section--sand">
-      <div class="container">
-        <div class="section-head section-head--center">
+      <div class="container split">
+        <div class="split__text">
           <p class="section-eyebrow">Vers van de pers</p>
           <h2 class="section-title">{site.home.latestTitle}</h2>
+          <p class="split__lead">
+            De laatste verhalen, tips en routes, rechtstreeks van onderweg.
+          </p>
+          <a class="btn btn--primary" href="/bestemmingen/">Bekijk alle bestemmingen</a>
         </div>
-        <div class="grid grid--home">
-          {nieuwste.map((post) => (
-            <Card
-              href={post.url}
-              title={post.title}
-              label={post.destination || post.country || post.region || 'Artikel'}
-              text={post.description}
-              meta={formatDate(post.date)}
-              image={post.image}
-              compact
-            />
-          ))}
+        <div class="split__carousel">
+          <Carousel posts={nieuwste} id="nieuwste" split />
         </div>
       </div>
     </section>

@@ -252,7 +252,7 @@
 .spotlight {
   position: relative;
   display: block;
-  min-height: 46vh;
+  min-height: 68vh;
   overflow: hidden;
   isolation: isolate;
   border-radius: 16px;
@@ -279,40 +279,37 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
-  min-height: 46vh;
-  max-width: 34rem;
-  padding: clamp(2rem, 5vw, 3.5rem);
+  min-height: 68vh;
+  max-width: 40rem;
+  padding: clamp(2.5rem, 6vw, 4.5rem);
 }
 .spotlight__eyebrow {
-  font-weight: 600;
-  font-size: 0.95rem;
+  font-weight: 700;
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
   color: var(--clay-light);
 }
 .spotlight__title {
-  margin-top: 0.3rem;
+  margin-top: 0.4rem;
   font-family: var(--font-head);
-  font-size: clamp(2rem, 1.2rem + 3vw, 3.2rem);
+  font-size: clamp(3rem, 1.4rem + 6vw, 5.5rem);
   font-weight: 600;
-  letter-spacing: -0.025em;
-  line-height: 1.05;
+  letter-spacing: -0.03em;
+  line-height: 0.98;
+  text-shadow: 0 2px 30px rgba(0, 0, 0, 0.3);
 }
 .spotlight__text {
-  margin-top: 1rem;
-  font-size: 1.05rem;
+  margin-top: 1.4rem;
+  max-width: 34ch;
+  font-size: 1.15rem;
   line-height: 1.6;
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 0.92);
 }
 .spotlight__cta {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  margin-top: 1.6rem;
-  font-weight: 600;
-  transition: gap 0.2s;
+  margin-top: 2.2rem;
 }
-.spotlight:hover .spotlight__cta { gap: 0.8rem; }
 @media (max-width: 700px) {
-  .spotlight, .spotlight__body { min-height: 60vh; }
+  .spotlight, .spotlight__body { min-height: 72vh; }
 }
 
 /* ---- Carousel (Reisgidsen op de homepage) ---- */
@@ -386,3 +383,31 @@
 .chip--1 { border-bottom-color: var(--moss); }
 .chip--2 { border-bottom-color: var(--clay-light); }
 .chip:hover { border-bottom-color: var(--clay-dark); }
+
+
+/* ---- "Nieuwste verhalen": tekst links, carousel met peek rechts ---- */
+
+.split {
+  display: grid;
+  grid-template-columns: minmax(220px, 320px) 1fr;
+  gap: clamp(2.5rem, 6vw, 5rem);
+  align-items: center;
+}
+.split__text { max-width: 30rem; }
+.split__text .section-title { margin-bottom: 1rem; text-align: left; }
+.split__lead {
+  margin-bottom: 1.8rem;
+  color: var(--ink-soft);
+  line-height: 1.6;
+}
+.split__carousel { min-width: 0; }
+
+.carousel--split .carousel__item { width: min(230px, 55vw); }
+.carousel--split .carousel__controls { justify-content: flex-start; }
+
+@media (max-width: 860px) {
+  .split { grid-template-columns: 1fr; }
+  .split__text { max-width: none; text-align: center; }
+  .split__text .section-title { text-align: center; }
+  .split__text .btn { margin-inline: auto; }
+}
