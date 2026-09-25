@@ -13,27 +13,11 @@ const REISGIDSEN_SLUG = 'reisgidsen';
 const reisgidsenTheme = themes.find((t) => t.slug === REISGIDSEN_SLUG);
 const dropdownThemes = themes.filter((t) => t.slug !== REISGIDSEN_SLUG);
 
-// Verdeelt de werelddelen slim over kolommen: elk werelddeel blijft heel (splitst nooit
-// halverwege), en de kolommen worden zo gelijk mogelijk gevuld naar aantal landen.
-// Past zich vanzelf aan als er werelddelen of landen bij komen.
-function verdeelInKolommen(regions, aantalKolommen) {
-  const kolommen = Array.from({ length: aantalKolommen }, () => ({ regions: [], gewicht: 0 }));
-  const volgorde = [...regions].sort((a, b) => b.countries.length - a.countries.length);
-  for (const region of volgorde) {
-    kolommen.sort((a, b) => a.gewicht - b.gewicht);
-    kolommen[0].regions.push(region);
-    kolommen[0].gewicht += region.countries.length + 1;
-  }
-  return kolommen
-    .map((k) => k.regions.sort((a, b) => a.name.localeCompare(b.name, 'nl')))
-    .filter((r) => r.length > 0);
-}
-// Probeert zoveel mogelijk kolommen te vullen (tot 5), zodat elke kolom lager wordt
-// en er geen scrollbalk nodig is. Bij weinig werelddelen komen er vanzelf minder kolommen,
-// zodat een kolom niet leeg of heel smal blijft.
-const aantalKolommen = Math.min(5, Math.max(regions.length, 1));
-const megaKolommen = verdeelInKolommen(regions, aantalKolommen);
-const kolombreedte = aantalKolommen >= 5 ? '11.5rem' : aantalKolommen === 4 ? '13rem' : '15rem';
+// De regio's staan hieronder gewoon op alfabet (regions komt al gesorteerd uit getData()).
+// De verdeling in kolommen doet de browser zelf, met CSS (zie global.css): een lang
+// werelddeel zoals Europa mag daardoor over twee kolommetjes uitwaaieren in plaats van
+// dat het altijd één hoog, ondeelbaar blok blijft. Dit past zich vanzelf aan naarmate
+// er meer werelddelen of landen bijkomen, zonder dat hier iets voor hoeft te veranderen.
 ---
 
 <header
@@ -54,20 +38,16 @@ const kolombreedte = aantalKolommen >= 5 ? '11.5rem' : aantalKolommen === 4 ? '1
           <svg class="chevron" viewBox="0 0 12 8" width="10" height="7" aria-hidden="true"><path d="M1 1.5l5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
         </a>
         <div class="drop drop--wide">
-          <div class="drop__inner" style={`--kolombreedte:${kolombreedte}`}>
+          <div class="drop__inner">
             {regions.length === 0 && <p class="drop__empty">Binnenkort meer bestemmingen.</p>}
-            {megaKolommen.map((kolom) => (
-              <div class="drop__column">
-                {kolom.map((region) => (
-                  <div class="drop__col">
-                    <a class="drop__region" href={region.url}>{region.name}</a>
-                    <ul>
-                      {region.countries.map((country) => (
-                        <li><a href={country.url}>{country.name}</a></li>
-                      ))}
-                    </ul>
-                  </div>
-                ))}
+            {regions.map((region) => (
+              <div class="drop__col">
+                <a class="drop__region" href={region.url}>{region.name}</a>
+                <ul>
+                  {region.countries.map((country) => (
+                    <li><a href={country.url}>{country.name}</a></li>
+                  ))}
+                </ul>
               </div>
             ))}
           </div>

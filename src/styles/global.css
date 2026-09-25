@@ -231,8 +231,12 @@ a { color: inherit; }
 }
 .drop li a:hover { color: var(--clay-dark); }
 
-/* Bestemmingen: regio's slim verdeeld over kolommen (zie Header.astro),
-   zodat een werelddeel nooit halverwege afbreekt of buiten beeld valt. */
+/* Bestemmingen: newspaper-achtige kolommen. De browser verdeelt zelf op basis van de
+   echte hoogte van elk werelddeel (zie Header.astro). Elke kolom is minstens 11.5rem
+   breed, tot een maximum van 5 kolommen. Past een werelddeel niet meer op één kolom
+   (zoals Europa straks), dan loopt de lijst gewoon door in de volgende kolom, met de
+   naam van het werelddeel bovenaan die kolom mee. De scrollbalk blijft als allerlaatste
+   noodgreep staan, voor als het totaal ooit niet meer past. */
 .nav__item--mega { position: static; }
 .drop--wide {
   left: auto;
@@ -240,22 +244,24 @@ a { color: inherit; }
   width: auto;
 }
 .drop--wide .drop__inner {
-  display: flex;
-  align-items: flex-start;
-  gap: 2.5rem;
+  columns: 11.5rem 5;
+  column-gap: 2.5rem;
   width: auto;
   max-width: none;
   max-height: calc(100vh - var(--header-h) - 2.5rem);
   overflow-y: auto;
 }
-.drop--wide .drop__column {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-  width: var(--kolombreedte, 15rem);
-  flex: none;
+.drop--wide .drop__col {
+  margin-bottom: 1.5rem;
+  break-inside: auto;
 }
-.drop--wide .drop__col { margin-bottom: 0; }
+.drop--wide .drop__region {
+  break-after: avoid;
+  break-inside: avoid;
+}
+.drop--wide .drop__col li {
+  break-inside: avoid;
+}
 
 /* Hamburgerknop (alleen op telefoon/tablet) */
 .burger {
