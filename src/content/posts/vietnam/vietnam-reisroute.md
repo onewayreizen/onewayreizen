@@ -2,8 +2,8 @@
 title: "Vietnam rondreizen: complete route met praktische tips"
 region: Azië
 country: Vietnam
-destination: "Van Ho Chi Minh Stad tot Ninh Binh: complete route met transport, dagindeling en praktische tips."
-description: Routegids
+destination: 
+description: "Van Ho Chi Minh Stad tot Ninh Binh: complete route met transport, dagindeling en praktische tips."
 date: 2023-10-30
 image: /images/vietnam-route.jpg
 themes: [Reisgidsen]
