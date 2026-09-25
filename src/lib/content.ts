@@ -43,6 +43,8 @@ export type Post = {
   country: string;
   countrySlug: string;
   otherCountries: string[];
+  otherRegions: string[];
+  featured: boolean;
   destination?: string;
   destinationSlug?: string;
   themes: { name: string; slug: string }[];
@@ -128,6 +130,8 @@ async function compute(): Promise<SiteData> {
         country: countryName,
         countrySlug,
         otherCountries: d.otherCountries.map((c) => c.trim()).filter((c) => c !== ''),
+        otherRegions: d.otherRegions.map((r) => r.trim()).filter((r) => r !== ''),
+        featured: d.featured,
         destination: d.destination?.trim(),
         destinationSlug: d.destination ? slugify(d.destination) : undefined,
         themes: d.themes
@@ -251,6 +255,18 @@ async function compute(): Promise<SiteData> {
     region.generalPosts.push(post);
     region.posts.push(post);
   }
+  // Diezelfde algemene artikelen, ook tonen bij andere regio's (otherRegions), bijv. een
+  // artikel over voedselvergiftiging dat bij Azië, Afrika én Zuid-Amerika moet verschijnen
+  for (const post of posts) {
+    if (post.hasCountry) continue;
+    for (const otherName of post.otherRegions) {
+      const otherSlug = slugify(otherName);
+      if (!otherSlug || otherSlug === post.regionSlug) continue;
+      const region = getRegion(otherSlug, otherName);
+      if (!region.generalPosts.includes(post)) region.generalPosts.push(post);
+      if (!region.posts.includes(post)) region.posts.push(post);
+    }
+  }
   const regions = [...regionMap.values()].sort(byName);
   for (const r of regions) {
     r.posts.sort((a, b) => b.date.valueOf() - a.date.valueOf());
@@ -287,6 +303,28 @@ async function compute(): Promise<SiteData> {
   }
 
   return { posts, countries, regions, themes };
+}
+
+// Kiest tot "max" artikelen, maar nooit twee uit hetzelfde land (of, bij een algemeen
+// artikel zonder land, gewoon dat ene artikel). Favoriete artikelen (featured: true in
+// het artikel zelf) gaan voor; is dat er niet genoeg, dan vult de nieuwste artikelen aan
+// uit landen die nog niet aan bod kwamen. Gebruikt voor "Jouw volgende avontuur" op de
+// homepage, waar bewust nooit twee kaarten van hetzelfde land naast elkaar mogen staan.
+export function kiesUitverschillendeLanden(posts: Post[], max: number): Post[] {
+  const gekozen: Post[] = [];
+  const gebruikt = new Set<string>();
+  function voegToe(lijst: Post[]) {
+    for (const post of lijst) {
+      if (gekozen.length >= max) return;
+      const sleutel = post.hasCountry ? `${post.regionSlug}/${post.countrySlug}` : post.id;
+      if (gebruikt.has(sleutel)) continue;
+      gebruikt.add(sleutel);
+      gekozen.push(post);
+    }
+  }
+  voegToe(posts.filter((p) => p.featured));
+  voegToe(posts);
+  return gekozen;
 }
 
 let cache: Promise<SiteData> | undefined;

@@ -2,11 +2,23 @@
 import Layout from '../layouts/Layout.astro';
 import Hero from '../components/Hero.astro';
 import Card from '../components/Card.astro';
-import { getData, plural, formatDate } from '../lib/content';
+import Spotlight from '../components/Spotlight.astro';
+import Carousel from '../components/Carousel.astro';
+import { getData, formatDate, kiesUitverschillendeLanden } from '../lib/content';
 import { site } from '../data/site';
 
-const { regions, posts, themes } = await getData();
-const latest = posts.slice(0, 3);
+const { posts, themes } = await getData();
+
+// "Jouw volgende avontuur": favoriete artikelen (featured: true), altijd uit
+// verschillende landen, aangevuld met de nieuwste artikelen als er nog geen 4
+// favorieten zijn gemarkeerd.
+const avontuur = kiesUitverschillendeLanden(posts, 4);
+
+// "Nieuwste verhalen": gewoon de nieuwste artikelen van de site
+const nieuwste = posts.slice(0, 4);
+
+// "Reisgidsen": alle artikelen met themes: [Reisgidsen]
+const reisgidsen = themes.find((t) => t.slug === 'reisgidsen');
 ---
 
 <Layout>
@@ -36,38 +48,15 @@ const latest = posts.slice(0, 3);
     </div>
   )}
 
-  <section class="section">
-    <div class="container">
-      <div class="section-head">
-        <h2 class="section-title">{site.home.regionsTitle}</h2>
-        <a class="link-more" href="/bestemmingen/">Alle bestemmingen</a>
-      </div>
-      {regions.length === 0 ? (
-        <p class="empty">Hier verschijnen de regio's zodra het eerste artikel online staat.</p>
-      ) : (
-        <div class="grid">
-          {regions.map((region) => (
-            <Card
-              href={region.url}
-              title={region.name}
-              label="Regio"
-              meta={plural(region.countries.length, 'land', 'landen')}
-              image={region.image}
-            />
-          ))}
-        </div>
-      )}
-    </div>
-  </section>
-
-  {latest.length > 0 && (
-    <section class="section section--sand">
+  {avontuur.length > 0 && (
+    <section class="section">
       <div class="container">
-        <div class="section-head">
-          <h2 class="section-title">{site.home.latestTitle}</h2>
+        <div class="section-head section-head--center">
+          <p class="section-eyebrow">Waar ga je heen?</p>
+          <h2 class="section-title">Jouw volgende avontuur</h2>
         </div>
-        <div class="grid">
-          {latest.map((post) => (
+        <div class="grid grid--home">
+          {avontuur.map((post) => (
             <Card
               href={post.url}
               title={post.title}
@@ -75,12 +64,15 @@ const latest = posts.slice(0, 3);
               text={post.description}
               meta={formatDate(post.date)}
               image={post.image}
+              compact
             />
           ))}
         </div>
       </div>
     </section>
   )}
+
+  <Spotlight />
 
   {themes.length > 0 && (
     <section class="section section--dark">
@@ -89,11 +81,50 @@ const latest = posts.slice(0, 3);
           <h2 class="section-title">{site.home.themesTitle}</h2>
         </div>
         <div class="chips">
-          {themes.map((theme) => (
-            <a class="chip" href={theme.url}>
+          {themes.map((theme, i) => (
+            <a class:list={['chip', `chip--${i % 3}`]} href={theme.url}>
               {theme.name}<span class="chip__count">{theme.posts.length}</span>
             </a>
           ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {nieuwste.length > 0 && (
+    <section class="section section--sand">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <p class="section-eyebrow">Vers van de pers</p>
+          <h2 class="section-title">{site.home.latestTitle}</h2>
+        </div>
+        <div class="grid grid--home">
+          {nieuwste.map((post) => (
+            <Card
+              href={post.url}
+              title={post.title}
+              label={post.destination || post.country || post.region || 'Artikel'}
+              text={post.description}
+              meta={formatDate(post.date)}
+              image={post.image}
+              compact
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {reisgidsen && reisgidsen.posts.length > 0 && (
+    <section class="section">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <p class="section-eyebrow">Praktisch en overzichtelijk</p>
+          <h2 class="section-title">{reisgidsen.name}</h2>
+        </div>
+        <Carousel posts={reisgidsen.posts} id="reisgidsen" />
+        <div class="carousel-more">
+          <a class="link-more" href="/reisgidsen/">Alle reisgidsen</a>
         </div>
       </div>
     </section>

@@ -193,3 +193,196 @@
 /* ---- Homepage: tekst ook verticaal gecentreerd in de hero-foto ---- */
 
 .hero--center { align-items: center; }
+
+/* ============================================================
+   HOMEPAGE HERONTWERP: gecentreerde koppen, kleinere kaarten,
+   spotlight-banner ("Enkele reis naar.."), carousel (Reisgidsen)
+   en wat kleuraccenten zodat de site minder "saai" oogt.
+   ============================================================ */
+
+/* ---- Gecentreerde sectiekoppen (Jouw volgende avontuur, Nieuwste
+        verhalen, Reisgidsen) ---- */
+
+.section-head--center {
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.section-eyebrow {
+  margin: 0 0 0.5rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--clay-dark);
+}
+.section--dark .section-eyebrow { color: var(--clay-light); }
+
+/* ---- Kleinere kaarten voor de homepage: 4 op een rij ---- */
+
+.grid--home {
+  grid-template-columns: repeat(4, 1fr);
+}
+@media (max-width: 900px) {
+  .grid--home { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 520px) {
+  .grid--home { grid-template-columns: 1fr; }
+}
+
+.card--compact { aspect-ratio: 3 / 4; }
+.card--compact .card__body { padding: 1.1rem; }
+.card--compact .card__label {
+  margin-bottom: 0.5rem;
+  padding: 0.15rem 0.6rem;
+  font-size: 0.72rem;
+}
+.card--compact .card__title { font-size: 1.18rem; }
+.card--compact .card__text {
+  -webkit-line-clamp: 2;
+  margin-top: 0.4rem;
+  font-size: 0.85rem;
+}
+.card--compact .card__meta { margin-top: 0.5rem; font-size: 0.76rem; }
+@media (max-width: 600px) {
+  .card--compact { aspect-ratio: 5 / 4; }
+}
+
+/* ---- Spotlight-banner: "Enkele reis naar.." ---- */
+
+.spotlight-wrap { padding-block: clamp(1rem, 3vw, 2rem); }
+.spotlight {
+  position: relative;
+  display: block;
+  min-height: 46vh;
+  overflow: hidden;
+  isolation: isolate;
+  border-radius: 16px;
+  color: #fff;
+  text-decoration: none;
+}
+.spotlight__bg {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background-color: var(--olive);
+  background-image:
+    linear-gradient(100deg, rgba(18, 13, 9, 0.78) 0%, rgba(18, 13, 9, 0.4) 45%, rgba(18, 13, 9, 0.15) 100%),
+    var(--spotlight-image, none),
+    linear-gradient(135deg, #1F2B1C 0%, #465A3B 48%, #8E6A47 100%);
+  background-size: cover;
+  background-position: center;
+  transition: transform 0.9s cubic-bezier(0.2, 0.6, 0.2, 1);
+}
+.spotlight:hover .spotlight__bg { transform: scale(1.04); }
+.spotlight__body {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  min-height: 46vh;
+  max-width: 34rem;
+  padding: clamp(2rem, 5vw, 3.5rem);
+}
+.spotlight__eyebrow {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--clay-light);
+}
+.spotlight__title {
+  margin-top: 0.3rem;
+  font-family: var(--font-head);
+  font-size: clamp(2rem, 1.2rem + 3vw, 3.2rem);
+  font-weight: 600;
+  letter-spacing: -0.025em;
+  line-height: 1.05;
+}
+.spotlight__text {
+  margin-top: 1rem;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.9);
+}
+.spotlight__cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1.6rem;
+  font-weight: 600;
+  transition: gap 0.2s;
+}
+.spotlight:hover .spotlight__cta { gap: 0.8rem; }
+@media (max-width: 700px) {
+  .spotlight, .spotlight__body { min-height: 60vh; }
+}
+
+/* ---- Carousel (Reisgidsen op de homepage) ---- */
+
+.carousel { position: relative; }
+.carousel__track {
+  display: flex;
+  gap: 1.25rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-padding-left: 0;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 0.3rem;
+  /* scrollbalk verbergen, swipen blijft gewoon werken */
+  scrollbar-width: none;
+}
+.carousel__track::-webkit-scrollbar { display: none; }
+.carousel__item {
+  flex: 0 0 auto;
+  width: min(260px, 42vw);
+  scroll-snap-align: start;
+}
+@media (max-width: 640px) {
+  .carousel__item { width: min(240px, 62vw); }
+}
+
+.carousel__controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.2rem;
+  margin-top: 1.6rem;
+}
+.carousel__arrow {
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  padding: 0;
+  border: 1.5px solid var(--line);
+  border-radius: 50%;
+  background: #fff;
+  color: var(--ink);
+  cursor: pointer;
+  transition: background-color 0.2s, border-color 0.2s, color 0.2s;
+}
+.carousel__arrow:hover { background: var(--clay-dark); border-color: var(--clay-dark); color: #fff; }
+
+.carousel__dots { display: flex; align-items: center; gap: 0.5rem; }
+.carousel__dot {
+  width: 8px;
+  height: 8px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: var(--line);
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.2s;
+}
+.carousel__dot.is-active { background: var(--clay-dark); transform: scale(1.3); }
+
+.carousel-more { display: flex; justify-content: center; margin-top: 1.8rem; }
+
+/* ---- Kleuraccent op de thema-chips, ook zonder hover ---- */
+
+.chip {
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+}
+.chip--0 { border-bottom-color: var(--clay); }
+.chip--1 { border-bottom-color: var(--moss); }
+.chip--2 { border-bottom-color: var(--clay-light); }
+.chip:hover { border-bottom-color: var(--clay-dark); }

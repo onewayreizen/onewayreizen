@@ -17,6 +17,13 @@ const posts = defineCollection({
         .union([z.array(z.string()), z.string()])
         .nullish()
         .transform((v) => (Array.isArray(v) ? v : v ? [v] : [])),
+      // Optioneel: andere regio's waar dit (algemene) artikel ook bij hoort, bijv. [Afrika, Zuid-Amerika]
+      otherRegions: z
+        .union([z.array(z.string()), z.string()])
+        .nullish()
+        .transform((v) => (Array.isArray(v) ? v : v ? [v] : [])),
+      // Zet featured: true om dit artikel kans te geven in "Jouw volgende avontuur" op de homepage
+      featured: z.boolean().nullish().transform((v) => v ?? false),
       destination: optionalText,
       description: z.string().nullish().transform((v) => v ?? ''),
       // Werkt met en zonder aanhalingstekens: 2026-01-01 of "2026-01-01"
@@ -63,4 +70,13 @@ const regions = defineCollection({
   }),
 });
 
-export const collections = { posts, countries, themes, regions };
+const spotlight = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/spotlight' }),
+  schema: z.object({
+    // Naam van een land, precies zoals in je landbestanden, bijv. Japan
+    country: z.string(),
+    beschrijving: z.string(),
+  }),
+});
+
+export const collections = { posts, countries, themes, regions, spotlight };

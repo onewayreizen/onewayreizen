@@ -2,12 +2,12 @@
 title: TITEL HIER
 region: Zuid-Amerika
 country: LAND HIER (bijv. Ecuador)
-otherCountries: [ANDER LAND HIER]
 destination: PLEK HIER, optioneel (bijv. Siargao). Verwijder deze hele regel als het niet van toepassing is
 description: KORTE OMSCHRIJVING HIER (1 zin, verschijnt op de kaartjes)
 date: 2026-01-01
 image: /images/BESTANDSNAAM.jpg
 themes: [Hiken, Backpacken]
+featured: false
 ---
 
 INTRO HIER: 2-3 zinnen die de bestemming of het onderwerp voorstellen. Dit lees je als eerste, dus maak het persoonlijk en concreet.
@@ -35,7 +35,12 @@ UITLEG (mag je laten staan of weghalen)
 - Aanhalingstekens rond de datum hoeven niet meer.
 - image, destination en themes mag je weglaten. Zonder image wordt de standaardfoto gebruikt.
 - Schrijf het land en de regio steeds precies hetzelfde, dan komen artikelen vanzelf bij elkaar.
-- otherCountries hoort alleen in je artikel als het ook bij een ander land past, bijv. [Chili] of [Chili, Bolivia]. Hoort het maar bij één land, verwijder dan de hele regel.
+- featured: true zet een artikel in de pot voor "Jouw volgende avontuur" op de homepage. Er
+  worden er 4 getoond, altijd uit verschillende landen. Zijn er te weinig favorieten, dan vult
+  de site aan met de nieuwste artikelen uit landen die nog niet aan bod kwamen.
+- otherRegions: alleen voor een algemeen artikel (zonder land). Laat het artikel ook verschijnen
+  bij andere werelddelen, bijv. otherRegions: [Afrika, Zuid-Amerika]. Werkt hetzelfde als
+  otherCountries, maar dan voor regio's.
 
 FOTO'S IN DE TEKST
 - Zonder bijschrift:      ![](/images/foto.jpg)

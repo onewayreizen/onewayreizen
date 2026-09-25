@@ -9,12 +9,14 @@ interface Props {
   meta?: string;
   image?: string;
   dest?: string;
+  // compact: kleinere kaart, gebruikt op de homepage (4 op een rij, carousel)
+  compact?: boolean;
 }
-const { href, title, label, text, meta, image, dest } = Astro.props;
+const { href, title, label, text, meta, image, dest, compact = false } = Astro.props;
 const style = image ? `--card-image: url('${image}')` : undefined;
 ---
 
-<a class="card" href={href} style={style} data-dest={dest}>
+<a class:list={['card', compact && 'card--compact']} href={href} style={style} data-dest={dest}>
   <span class="card__bg"></span>
   <span class="card__body">
     {label && <span class="card__label">{label}</span>}
@@ -23,3 +25,4 @@ const style = image ? `--card-image: url('${image}')` : undefined;
     {meta && <span class="card__meta">{meta}</span>}
   </span>
 </a>
+

@@ -1,0 +1,38 @@
+---
+// "Enkele reis naar.." — de uitgelichte-land-banner op de homepage.
+// Wordt gevuld vanuit één bestand: src/content/spotlight/enkele-reis.md
+// Daarin zet je alleen: country (het land) en beschrijving (korte tekst).
+// De titel ("Enkele reis naar [land]") en de foto komen automatisch mee
+// vanuit het landbestand van dat land.
+import { getEntry } from 'astro:content';
+import { getData, slugify } from '../lib/content';
+
+const entry = await getEntry('spotlight', 'enkele-reis');
+const { countries } = entry ? await getData() : { countries: [] };
+const countrySlug = entry ? slugify(entry.data.country) : '';
+const country = entry ? countries.find((c) => c.slug === countrySlug) : undefined;
+
+if (entry && !country) {
+  console.warn(
+    `[One Way Reizen] Let op: "Enkele reis naar.." verwijst naar "${entry.data.country}", ` +
+      `maar dat land bestaat nog niet (geen landbestand of geen artikel). Controleer de ` +
+      `spelling in src/content/spotlight/enkele-reis.md.`,
+  );
+}
+---
+
+{country && (
+  <section class="section spotlight-wrap">
+    <div class="container">
+      <a class="spotlight" href={country.url} style={`--spotlight-image: url('${country.image}')`}>
+        <span class="spotlight__bg"></span>
+        <span class="spotlight__body">
+          <span class="spotlight__eyebrow">Enkele reis naar..</span>
+          <span class="spotlight__title">{country.name}</span>
+          <span class="spotlight__text">{entry.data.beschrijving}</span>
+          <span class="spotlight__cta">Bekijk {country.name} <span aria-hidden="true">→</span></span>
+        </span>
+      </a>
+    </div>
+  </section>
+)}

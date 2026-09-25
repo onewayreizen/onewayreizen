@@ -1,0 +1,107 @@
+---
+// Horizontale kaarten-carousel met "peek" (de volgende kaart is deels zichtbaar),
+// pijltjes, bolletjes en swipen. Gebruikt nu voor Reisgidsen op de homepage.
+import Card from './Card.astro';
+import type { Post } from '../lib/content';
+import { formatDate } from '../lib/content';
+
+interface Props {
+  posts: Post[];
+  id: string;
+}
+const { posts, id } = Astro.props;
+---
+
+<div class="carousel" data-carousel={id}>
+  <div class="carousel__track" role="list">
+    {posts.map((post) => (
+      <div class="carousel__item" role="listitem">
+        <Card
+          href={post.url}
+          title={post.title}
+          label={post.destination || post.country || post.region || 'Artikel'}
+          text={post.description}
+          meta={formatDate(post.date)}
+          image={post.image}
+          compact
+        />
+      </div>
+    ))}
+  </div>
+
+  {posts.length > 1 && (
+    <div class="carousel__controls">
+      <button class="carousel__arrow" type="button" data-dir="-1" aria-label="Vorige">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <div class="carousel__dots" role="tablist" aria-label="Ga naar kaart">
+        {posts.map((_, i) => (
+          <button class="carousel__dot" type="button" data-index={i} aria-label={`Kaart ${i + 1}`}></button>
+        ))}
+      </div>
+      <button class="carousel__arrow" type="button" data-dir="1" aria-label="Volgende">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  )}
+</div>
+
+<script>
+  // Eén script werkt voor elke carousel op de pagina (data-carousel als anker)
+  document.querySelectorAll('.carousel').forEach((carousel) => {
+    const track = carousel.querySelector('.carousel__track');
+    const items = Array.from(carousel.querySelectorAll('.carousel__item'));
+    const dots = Array.from(carousel.querySelectorAll('.carousel__dot'));
+    const arrows = carousel.querySelectorAll('.carousel__arrow');
+    if (!track || items.length === 0) return;
+
+    function scrollToIndex(i) {
+      const clamped = Math.max(0, Math.min(i, items.length - 1));
+      items[clamped].scrollIntoView({ behavior: 'smooth', inline: 'start', block: 'nearest' });
+    }
+
+    function huidigeIndex() {
+      const trackLeft = track.getBoundingClientRect().left;
+      let dichtsbij = 0;
+      let kleinsteAfstand = Infinity;
+      items.forEach((item, i) => {
+        const afstand = Math.abs(item.getBoundingClientRect().left - trackLeft);
+        if (afstand < kleinsteAfstand) {
+          kleinsteAfstand = afstand;
+          dichtsbij = i;
+        }
+      });
+      return dichtsbij;
+    }
+
+    function updateDots() {
+      const i = huidigeIndex();
+      dots.forEach((dot, di) => dot.classList.toggle('is-active', di === i));
+    }
+
+    arrows.forEach((arrow) => {
+      arrow.addEventListener('click', () => {
+        const dir = Number(arrow.getAttribute('data-dir'));
+        scrollToIndex(huidigeIndex() + dir);
+      });
+    });
+    dots.forEach((dot) => {
+      dot.addEventListener('click', () => scrollToIndex(Number(dot.getAttribute('data-index'))));
+    });
+
+    let ticking = false;
+    track.addEventListener(
+      'scroll',
+      () => {
+        if (ticking) return;
+        ticking = true;
+        requestAnimationFrame(() => {
+          updateDots();
+          ticking = false;
+        });
+      },
+      { passive: true },
+    );
+    updateDots();
+  });
+</script>
