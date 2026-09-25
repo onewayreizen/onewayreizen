@@ -285,8 +285,8 @@
 }
 .spotlight__eyebrow {
   font-weight: 700;
-  font-size: 1.05rem;
-  letter-spacing: 0.02em;
+  font-size: clamp(1.4rem, 0.9rem + 1.8vw, 2.3rem);
+  letter-spacing: -0.01em;
   color: var(--clay-light);
 }
 .spotlight__title {
@@ -410,4 +410,20 @@
   .split__text { max-width: none; text-align: center; }
   .split__text .section-title { text-align: center; }
   .split__text .btn { margin-inline: auto; }
+}
+
+
+/* ---- "Zoek je avontuur" op de homepage: minder hoge donkere balk ---- */
+
+.section--dark { padding-block: clamp(2.4rem, 4vw, 3.4rem); }
+
+/* ---- Vangnet: een kaart-label mag nooit uitgroeien tot een enorme bubbel,
+        ook niet als er per ongeluk een lange zin in een destination/land-veld
+        staat in plaats van een korte naam. ---- */
+
+.card__label {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
