@@ -13,11 +13,24 @@ const REISGIDSEN_SLUG = 'reisgidsen';
 const reisgidsenTheme = themes.find((t) => t.slug === REISGIDSEN_SLUG);
 const dropdownThemes = themes.filter((t) => t.slug !== REISGIDSEN_SLUG);
 
-// De regio's staan hieronder gewoon op alfabet (regions komt al gesorteerd uit getData()).
-// De verdeling in kolommen doet de browser zelf, met CSS (zie global.css): een lang
-// werelddeel zoals Europa mag daardoor over twee kolommetjes uitwaaieren in plaats van
-// dat het altijd één hoog, ondeelbaar blok blijft. Dit past zich vanzelf aan naarmate
-// er meer werelddelen of landen bijkomen, zonder dat hier iets voor hoeft te veranderen.
+// Verdeelt de werelddelen over kolommen, zonder er ooit één middenin te knippen
+// (dan zou bijv. "Japan" los komen te bungelen zonder herhaald "Azië"-kopje erboven).
+// Elke kolom wordt zo gelijk mogelijk gevuld naar aantal landen, tot een maximum
+// van 6 kolommen. Past zich vanzelf aan als er werelddelen of landen bijkomen.
+function verdeelInKolommen(regions, aantalKolommen) {
+  const kolommen = Array.from({ length: aantalKolommen }, () => ({ regions: [], gewicht: 0 }));
+  const volgorde = [...regions].sort((a, b) => b.countries.length - a.countries.length);
+  for (const region of volgorde) {
+    kolommen.sort((a, b) => a.gewicht - b.gewicht);
+    kolommen[0].regions.push(region);
+    kolommen[0].gewicht += region.countries.length + 1;
+  }
+  return kolommen
+    .map((k) => k.regions.sort((a, b) => a.name.localeCompare(b.name, 'nl')))
+    .filter((r) => r.length > 0);
+}
+const aantalKolommen = Math.min(6, Math.max(regions.length, 1));
+const megaKolommen = verdeelInKolommen(regions, aantalKolommen);
 ---
 
 <header
@@ -40,14 +53,18 @@ const dropdownThemes = themes.filter((t) => t.slug !== REISGIDSEN_SLUG);
         <div class="drop drop--wide">
           <div class="drop__inner">
             {regions.length === 0 && <p class="drop__empty">Binnenkort meer bestemmingen.</p>}
-            {regions.map((region) => (
-              <div class="drop__col">
-                <a class="drop__region" href={region.url}>{region.name}</a>
-                <ul>
-                  {region.countries.map((country) => (
-                    <li><a href={country.url}>{country.name}</a></li>
-                  ))}
-                </ul>
+            {megaKolommen.map((kolom) => (
+              <div class="drop__column">
+                {kolom.map((region) => (
+                  <div class="drop__col">
+                    <a class="drop__region" href={region.url}>{region.name}</a>
+                    <ul>
+                      {region.countries.map((country) => (
+                        <li><a href={country.url}>{country.name}</a></li>
+                      ))}
+                    </ul>
+                  </div>
+                ))}
               </div>
             ))}
           </div>
