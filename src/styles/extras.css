@@ -379,9 +379,7 @@
   border-bottom-width: 2px;
   border-bottom-style: solid;
 }
-.chip--0 { border-bottom-color: var(--clay); }
-.chip--1 { border-bottom-color: var(--moss); }
-.chip--2 { border-bottom-color: var(--clay-light); }
+.chip--0, .chip--1, .chip--2 { border-bottom-color: var(--clay); }
 .chip:hover { border-bottom-color: var(--clay-dark); }
 
 
