@@ -3,7 +3,7 @@ title: "Noord Laos rondreizen: complete route met praktische tips"
 region: Azië
 country: Laos
 destination:
-description: Routegids
+description: "Bergdorpen, riviertochten en rust ver van de toeristenpaden: ontdek Noord-Laos met deze route vol praktische tips."
 date: 2023-11-15
 image: /images/laos-route.jpg
 themes: [Reisgidsen]
