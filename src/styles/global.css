@@ -233,13 +233,15 @@ a { color: inherit; }
 
 /* Bestemmingen: werelddelen slim verdeeld over kolommen (zie Header.astro), altijd
    heel per werelddeel, zodat een lijst nooit halverwege afbreekt zonder herhaald
-   kopje. Scrollbalk blijft als allerlaatste noodgreep staan, mocht het totaal ooit
-   niet meer passen, ook niet verdeeld over 6 kolommen. */
+   kopje. Twee noodgrepen zorgen dat er nooit iets onbereikbaar wordt: een verticale
+   scrollbalk als de inhoud niet in de hoogte past, én een horizontale als 6 kolommen
+   samen breder zijn dan het scherm (zoals op een smaller laptopscherm kan gebeuren). */
 .nav__item--mega { position: static; }
 .drop--wide {
   left: auto;
   right: 0;
   width: auto;
+  max-width: calc(100vw - 2rem);
 }
 .drop--wide .drop__inner {
   display: flex;
@@ -247,15 +249,16 @@ a { color: inherit; }
   align-items: flex-start;
   gap: 2.5rem;
   width: auto;
-  max-width: none;
+  max-width: 100%;
   max-height: calc(100vh - var(--header-h) - 2.5rem);
+  overflow-x: auto;
   overflow-y: auto;
 }
 .drop--wide .drop__column {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
-  width: 12rem;
+  width: 11rem;
   flex: none;
 }
 .drop--wide .drop__col { margin-bottom: 0; }
