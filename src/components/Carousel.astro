@@ -58,24 +58,39 @@ const { posts, id, split = false } = Astro.props;
     const arrows = carousel.querySelectorAll('.carousel__arrow');
     if (!track || items.length === 0) return;
 
-    // Positie van een kaart binnen de scrollbare inhoud (niet: positie op het scherm),
-    // zodat dit altijd klopt, ook als de laatste kaarten niet meer helemaal naar links
-    // kunnen schuiven omdat de inhoud daar simpelweg op is.
+    // Positie van een kaart binnen de scrollbare inhoud (niet: positie op het scherm)
     function itemPositie(item) {
       return item.getBoundingClientRect().left - track.getBoundingClientRect().left + track.scrollLeft;
     }
-
     function maxScroll() {
       return Math.max(0, track.scrollWidth - track.clientWidth);
     }
 
-    function scrollNaarItem(i) {
-      const clamped = Math.max(0, Math.min(i, items.length - 1));
-      const doel = Math.min(itemPositie(items[clamped]), maxScroll());
+    // De site onthoudt zelf bij welke kaart je bent (in plaats van dat steeds te
+    // gokken op basis van de scrollpositie). Zo klopt het bolletje altijd, ook bij
+    // de laatste paar kaarten die niet meer helemaal naar links kunnen schuiven.
+    // Voorbij de laatste kaart klikken springt terug naar de eerste, en andersom.
+    let huidige = 0;
+
+    function gaNaarIndex(i) {
+      huidige = ((i % items.length) + items.length) % items.length;
+      const doel = Math.min(itemPositie(items[huidige]), maxScroll());
       track.scrollTo({ left: doel, behavior: 'smooth' });
+      dots.forEach((dot, di) => dot.classList.toggle('is-active', di === huidige));
     }
 
-    function huidigeIndex() {
+    arrows.forEach((arrow) => {
+      arrow.addEventListener('click', () => {
+        const dir = Number(arrow.getAttribute('data-dir'));
+        gaNaarIndex(huidige + dir);
+      });
+    });
+    dots.forEach((dot) => {
+      dot.addEventListener('click', () => gaNaarIndex(Number(dot.getAttribute('data-index'))));
+    });
+
+    // Bij handmatig swipen/slepen het dichtstbijzijnde bolletje bijwerken
+    function dichtstbijzijndeIndex() {
       const max = maxScroll();
       let dichtsbij = 0;
       let kleinsteAfstand = Infinity;
@@ -90,21 +105,6 @@ const { posts, id, split = false } = Astro.props;
       return dichtsbij;
     }
 
-    function updateDots() {
-      const i = huidigeIndex();
-      dots.forEach((dot, di) => dot.classList.toggle('is-active', di === i));
-    }
-
-    arrows.forEach((arrow) => {
-      arrow.addEventListener('click', () => {
-        const dir = Number(arrow.getAttribute('data-dir'));
-        scrollNaarItem(huidigeIndex() + dir);
-      });
-    });
-    dots.forEach((dot) => {
-      dot.addEventListener('click', () => scrollNaarItem(Number(dot.getAttribute('data-index'))));
-    });
-
     let ticking = false;
     track.addEventListener(
       'scroll',
@@ -112,12 +112,14 @@ const { posts, id, split = false } = Astro.props;
         if (ticking) return;
         ticking = true;
         requestAnimationFrame(() => {
-          updateDots();
+          huidige = dichtstbijzijndeIndex();
+          dots.forEach((dot, di) => dot.classList.toggle('is-active', di === huidige));
           ticking = false;
         });
       },
       { passive: true },
     );
-    updateDots();
+
+    dots.forEach((dot, di) => dot.classList.toggle('is-active', di === 0));
   });
 </script>
