@@ -1,5 +1,5 @@
 ---
-title: Route Indonesië
+title: "Indonesië rondreizen: complete route met praktische tips"
 region: Azië
 country: Indonesië
 destination: 
