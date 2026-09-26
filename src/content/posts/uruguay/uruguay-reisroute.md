@@ -1,5 +1,5 @@
 ---
-title: De ultieme reisroute voor Uruguay + tips
+title: "Uruguay rondreizen: complete route met praktische tips"
 region: Zuid-Amerika
 country: Uruguay
 description: "Ontdek Uruguay met deze complete rondreis-route, inclusief praktische tips over budget, vervoer en de mooiste plekken."
