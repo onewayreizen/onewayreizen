@@ -418,6 +418,12 @@
 .section--dark { padding-block: clamp(1.6rem, 2.5vw, 2.2rem); }
 .section--dark .section-title { font-size: clamp(1.4rem, 1.1rem + 1vw, 1.9rem); }
 .section--dark .section-head { margin-bottom: 1.2rem; }
+.section--dark .section-head {
+  text-align: center;
+}
+.section--dark .chips {
+  justify-content: center;
+}
 
 /* ---- Vangnet: een kaart-label mag nooit uitgroeien tot een enorme bubbel,
         ook niet als er per ongeluk een lange zin in een destination/land-veld
