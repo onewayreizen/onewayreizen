@@ -1,7 +1,12 @@
 ---
 // Horizontale kaarten-carousel met "peek" (de volgende kaart is deels zichtbaar),
 // pijltjes, bolletjes en swipen. Gebruikt voor Reisgidsen en Nieuwste verhalen.
-// Elk bolletje is precies één kaart, en de pijltjes gaan per klik één kaart verder.
+//
+// Voelt echt "rond": vóór de eerste en na de laatste kaart staan onzichtbare
+// kopieën van dezelfde kaarten. Klik je door voorbij de laatste, dan schuift de
+// (identieke) kopie van de eerste kaart gewoon in beeld, en springt de site
+// daarna onzichtbaar terug naar de echte eerste kaart. Zo lijkt het net alsof
+// het altijd doorloopt, in beide richtingen.
 import Card from './Card.astro';
 import type { Post } from '../lib/content';
 import { formatDate } from '../lib/content';
@@ -15,10 +20,39 @@ interface Props {
 const { posts, id, split = false } = Astro.props;
 ---
 
-<div class:list={['carousel', split && 'carousel--split']} data-carousel={id}>
+<div class:list={['carousel', split && 'carousel--split']} data-carousel={id} data-count={posts.length}>
   <div class="carousel__track" role="list">
+    {/* Onzichtbare kopieën vóór het begin, voor het "vorige" rondje */}
     {posts.map((post) => (
-      <div class="carousel__item" role="listitem">
+      <div class="carousel__item" role="presentation" aria-hidden="true" data-clone="true">
+        <Card
+          href={post.url}
+          title={post.title}
+          label={post.destination || post.country || post.region || 'Artikel'}
+          text={post.description}
+          meta={formatDate(post.date)}
+          image={post.image}
+          compact
+        />
+      </div>
+    ))}
+    {/* De echte kaarten */}
+    {posts.map((post) => (
+      <div class="carousel__item" role="listitem" data-real="true">
+        <Card
+          href={post.url}
+          title={post.title}
+          label={post.destination || post.country || post.region || 'Artikel'}
+          text={post.description}
+          meta={formatDate(post.date)}
+          image={post.image}
+          compact
+        />
+      </div>
+    ))}
+    {/* Onzichtbare kopieën na het einde, voor het "volgende" rondje */}
+    {posts.map((post) => (
+      <div class="carousel__item" role="presentation" aria-hidden="true" data-clone="true">
         <Card
           href={post.url}
           title={post.title}
@@ -53,12 +87,21 @@ const { posts, id, split = false } = Astro.props;
   // Eén script werkt voor elke carousel op de pagina (data-carousel als anker)
   document.querySelectorAll('.carousel').forEach((carousel) => {
     const track = carousel.querySelector('.carousel__track');
-    const items = Array.from(carousel.querySelectorAll('.carousel__item'));
+    const alleKaarten = Array.from(carousel.querySelectorAll('.carousel__item'));
     const dots = Array.from(carousel.querySelectorAll('.carousel__dot'));
     const arrows = carousel.querySelectorAll('.carousel__arrow');
-    if (!track || items.length === 0) return;
+    const N = Number(carousel.getAttribute('data-count')) || 0;
+    if (!track || N === 0 || alleKaarten.length !== N * 3) return;
 
-    // Positie van een kaart binnen de scrollbare inhoud (niet: positie op het scherm)
+    // De middelste N kaarten in de track zijn de "echte" kaarten; ervoor en
+    // erna staan onzichtbare kopieën. Elke echte kaart en zijn twee kopieën
+    // staan op dezelfde relatieve positie (pixel-identiek).
+    alleKaarten.forEach((el) => {
+      if (el.hasAttribute('data-clone')) {
+        el.querySelectorAll('a').forEach((a) => a.setAttribute('tabindex', '-1'));
+      }
+    });
+
     function itemPositie(item) {
       return item.getBoundingClientRect().left - track.getBoundingClientRect().left + track.scrollLeft;
     }
@@ -66,17 +109,40 @@ const { posts, id, split = false } = Astro.props;
       return Math.max(0, track.scrollWidth - track.clientWidth);
     }
 
-    // De site onthoudt zelf bij welke kaart je bent (in plaats van dat steeds te
-    // gokken op basis van de scrollpositie). Zo klopt het bolletje altijd, ook bij
-    // de laatste paar kaarten die niet meer helemaal naar links kunnen schuiven.
-    // Voorbij de laatste kaart klikken springt terug naar de eerste, en andersom.
+    // huidige loopt niet per se tussen 0 en N-1: tijdelijk mag hij ook in het
+    // kopie-blok ervoor (< 0) of erna (>= N) staan, zodat het schuiven zelf
+    // altijd doorloopt. Na het schuiven springt hij (zonder animatie, dus
+    // onzichtbaar) terug naar het overeenkomstige echte bereik 0..N-1.
     let huidige = 0;
+    let terugspringTimer;
+
+    function domIndex(i) {
+      return N + i; // i=0..N-1 zijn de echte kaarten, in het midden van de track
+    }
+
+    function toonActieveDot(i) {
+      const echt = ((i % N) + N) % N;
+      dots.forEach((dot, di) => dot.classList.toggle('is-active', di === echt));
+    }
+
+    function scrollNaar(i, gedrag) {
+      const doel = Math.min(Math.max(itemPositie(alleKaarten[domIndex(i)]), 0), maxScroll());
+      track.scrollTo({ left: doel, behavior: gedrag });
+    }
 
     function gaNaarIndex(i) {
-      huidige = ((i % items.length) + items.length) % items.length;
-      const doel = Math.min(itemPositie(items[huidige]), maxScroll());
-      track.scrollTo({ left: doel, behavior: 'smooth' });
-      dots.forEach((dot, di) => dot.classList.toggle('is-active', di === huidige));
+      clearTimeout(terugspringTimer);
+      huidige = i;
+      scrollNaar(huidige, 'smooth');
+      toonActieveDot(huidige);
+      // Wachten tot de scroll-animatie klaar is, dan onzichtbaar terugspringen
+      // als we in een kopie-blok zijn beland
+      terugspringTimer = setTimeout(() => {
+        if (huidige < 0 || huidige >= N) {
+          huidige = ((huidige % N) + N) % N;
+          scrollNaar(huidige, 'auto');
+        }
+      }, 420);
     }
 
     arrows.forEach((arrow) => {
@@ -94,32 +160,37 @@ const { posts, id, split = false } = Astro.props;
       const max = maxScroll();
       let dichtsbij = 0;
       let kleinsteAfstand = Infinity;
-      items.forEach((item, i) => {
+      alleKaarten.forEach((item, di) => {
         const doel = Math.min(itemPositie(item), max);
         const afstand = Math.abs(doel - track.scrollLeft);
         if (afstand < kleinsteAfstand) {
           kleinsteAfstand = afstand;
-          dichtsbij = i;
+          dichtsbij = di - N;
         }
       });
       return dichtsbij;
     }
 
-    let ticking = false;
+    let scrollEindTimer;
     track.addEventListener(
       'scroll',
       () => {
-        if (ticking) return;
-        ticking = true;
-        requestAnimationFrame(() => {
-          huidige = dichtstbijzijndeIndex();
-          dots.forEach((dot, di) => dot.classList.toggle('is-active', di === huidige));
-          ticking = false;
-        });
+        huidige = dichtstbijzijndeIndex();
+        toonActieveDot(huidige);
+        // Na handmatig swipen ook terugspringen als je in een kopie-blok bent beland
+        clearTimeout(scrollEindTimer);
+        scrollEindTimer = setTimeout(() => {
+          if (huidige < 0 || huidige >= N) {
+            huidige = ((huidige % N) + N) % N;
+            scrollNaar(huidige, 'auto');
+          }
+        }, 150);
       },
       { passive: true },
     );
 
-    dots.forEach((dot, di) => dot.classList.toggle('is-active', di === 0));
+    // Start gewoon bij de eerste échte kaart, zonder animatie
+    scrollNaar(0, 'auto');
+    toonActieveDot(0);
   });
 </script>
