@@ -58,17 +58,30 @@ const { posts, id, split = false } = Astro.props;
     const arrows = carousel.querySelectorAll('.carousel__arrow');
     if (!track || items.length === 0) return;
 
-    function scrollToIndex(i) {
+    // Positie van een kaart binnen de scrollbare inhoud (niet: positie op het scherm),
+    // zodat dit altijd klopt, ook als de laatste kaarten niet meer helemaal naar links
+    // kunnen schuiven omdat de inhoud daar simpelweg op is.
+    function itemPositie(item) {
+      return item.getBoundingClientRect().left - track.getBoundingClientRect().left + track.scrollLeft;
+    }
+
+    function maxScroll() {
+      return Math.max(0, track.scrollWidth - track.clientWidth);
+    }
+
+    function scrollNaarItem(i) {
       const clamped = Math.max(0, Math.min(i, items.length - 1));
-      items[clamped].scrollIntoView({ behavior: 'smooth', inline: 'start', block: 'nearest' });
+      const doel = Math.min(itemPositie(items[clamped]), maxScroll());
+      track.scrollTo({ left: doel, behavior: 'smooth' });
     }
 
     function huidigeIndex() {
-      const trackLeft = track.getBoundingClientRect().left;
+      const max = maxScroll();
       let dichtsbij = 0;
       let kleinsteAfstand = Infinity;
       items.forEach((item, i) => {
-        const afstand = Math.abs(item.getBoundingClientRect().left - trackLeft);
+        const doel = Math.min(itemPositie(item), max);
+        const afstand = Math.abs(doel - track.scrollLeft);
         if (afstand < kleinsteAfstand) {
           kleinsteAfstand = afstand;
           dichtsbij = i;
@@ -85,11 +98,11 @@ const { posts, id, split = false } = Astro.props;
     arrows.forEach((arrow) => {
       arrow.addEventListener('click', () => {
         const dir = Number(arrow.getAttribute('data-dir'));
-        scrollToIndex(huidigeIndex() + dir);
+        scrollNaarItem(huidigeIndex() + dir);
       });
     });
     dots.forEach((dot) => {
-      dot.addEventListener('click', () => scrollToIndex(Number(dot.getAttribute('data-index'))));
+      dot.addEventListener('click', () => scrollNaarItem(Number(dot.getAttribute('data-index'))));
     });
 
     let ticking = false;
