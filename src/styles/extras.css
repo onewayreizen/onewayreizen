@@ -376,7 +376,7 @@
 /* ---- Kleuraccent op de thema-chips, ook zonder hover ---- */
 
 .chip {
-  border-bottom-width: 3px;
+  border-bottom-width: 2px;
   border-bottom-style: solid;
 }
 .chip--0 { border-bottom-color: var(--clay); }
