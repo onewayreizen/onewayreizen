@@ -598,10 +598,11 @@ a.tag:hover { background: rgba(255, 255, 255, 0.3); text-decoration: none; }
 
 .chips { display: flex; flex-wrap: wrap; gap: 0.8rem; }
 .chip {
-  padding: 0.85rem 1.5rem;
+  padding: 0.55rem 1.1rem;
   border: 1.5px solid rgba(241, 236, 225, 0.35);
   border-radius: 999px;
   font-weight: 600;
+  font-size: 0.9rem;
   text-decoration: none;
   color: var(--on-dark);
   transition: background-color 0.2s, border-color 0.2s;
