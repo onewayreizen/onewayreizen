@@ -1,6 +1,7 @@
 ---
 // Horizontale kaarten-carousel met "peek" (de volgende kaart is deels zichtbaar),
 // pijltjes, bolletjes en swipen. Gebruikt voor Reisgidsen en Nieuwste verhalen.
+// Elk bolletje is precies één kaart, en de pijltjes gaan per klik één kaart verder.
 import Card from './Card.astro';
 import type { Post } from '../lib/content';
 import { formatDate } from '../lib/content';
@@ -36,10 +37,11 @@ const { posts, id, split = false } = Astro.props;
       <button class="carousel__arrow" type="button" data-dir="-1" aria-label="Vorige">
         <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </button>
-      <!-- De bolletjes hieronder worden met JS gevuld: het aantal hangt af van
-           hoeveel kaarten tegelijk zichtbaar zijn (dat verschilt per schermbreedte),
-           niet van het totale aantal artikelen. -->
-      <div class="carousel__dots" role="tablist" aria-label="Ga naar pagina"></div>
+      <div class="carousel__dots" role="tablist" aria-label="Ga naar kaart">
+        {posts.map((_, i) => (
+          <button class="carousel__dot" type="button" data-index={i} aria-label={`Kaart ${i + 1}`}></button>
+        ))}
+      </div>
       <button class="carousel__arrow" type="button" data-dir="1" aria-label="Volgende">
         <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </button>
@@ -52,46 +54,16 @@ const { posts, id, split = false } = Astro.props;
   document.querySelectorAll('.carousel').forEach((carousel) => {
     const track = carousel.querySelector('.carousel__track');
     const items = Array.from(carousel.querySelectorAll('.carousel__item'));
-    const dotsBox = carousel.querySelector('.carousel__dots');
+    const dots = Array.from(carousel.querySelectorAll('.carousel__dot'));
     const arrows = carousel.querySelectorAll('.carousel__arrow');
-    if (!track || !dotsBox || items.length === 0) return;
+    if (!track || items.length === 0) return;
 
-    let itemsPerPagina = 1;
-    let aantalPaginas = 1;
-    let dots = [];
-
-    // Hoeveel kaarten passen er nu (bij deze schermbreedte) tegelijk in beeld?
-    function meetItemsPerPagina() {
-      const itemBreedte = items[0].getBoundingClientRect().width;
-      const gap = parseFloat(getComputedStyle(track).columnGap || getComputedStyle(track).gap || '0') || 0;
-      const zichtbareBreedte = track.getBoundingClientRect().width;
-      const per = Math.round((zichtbareBreedte + gap) / (itemBreedte + gap));
-      return Math.max(1, Math.min(per, items.length));
+    function scrollToIndex(i) {
+      const clamped = Math.max(0, Math.min(i, items.length - 1));
+      items[clamped].scrollIntoView({ behavior: 'smooth', inline: 'start', block: 'nearest' });
     }
 
-    function bouwDots() {
-      itemsPerPagina = meetItemsPerPagina();
-      aantalPaginas = Math.max(1, Math.ceil(items.length / itemsPerPagina));
-      dotsBox.innerHTML = '';
-      dots = [];
-      for (let p = 0; p < aantalPaginas; p++) {
-        const dot = document.createElement('button');
-        dot.type = 'button';
-        dot.className = 'carousel__dot';
-        dot.setAttribute('aria-label', `Pagina ${p + 1}`);
-        dot.addEventListener('click', () => scrollNaarPagina(p));
-        dotsBox.appendChild(dot);
-        dots.push(dot);
-      }
-    }
-
-    function scrollNaarPagina(p) {
-      const clamped = Math.max(0, Math.min(p, aantalPaginas - 1));
-      const doelIndex = Math.min(clamped * itemsPerPagina, items.length - 1);
-      items[doelIndex].scrollIntoView({ behavior: 'smooth', inline: 'start', block: 'nearest' });
-    }
-
-    function huidigePagina() {
+    function huidigeIndex() {
       const trackLeft = track.getBoundingClientRect().left;
       let dichtsbij = 0;
       let kleinsteAfstand = Infinity;
@@ -102,19 +74,22 @@ const { posts, id, split = false } = Astro.props;
           dichtsbij = i;
         }
       });
-      return Math.min(Math.round(dichtsbij / itemsPerPagina), aantalPaginas - 1);
+      return dichtsbij;
     }
 
     function updateDots() {
-      const p = huidigePagina();
-      dots.forEach((dot, di) => dot.classList.toggle('is-active', di === p));
+      const i = huidigeIndex();
+      dots.forEach((dot, di) => dot.classList.toggle('is-active', di === i));
     }
 
     arrows.forEach((arrow) => {
       arrow.addEventListener('click', () => {
         const dir = Number(arrow.getAttribute('data-dir'));
-        scrollNaarPagina(huidigePagina() + dir);
+        scrollToIndex(huidigeIndex() + dir);
       });
+    });
+    dots.forEach((dot) => {
+      dot.addEventListener('click', () => scrollToIndex(Number(dot.getAttribute('data-index'))));
     });
 
     let ticking = false;
@@ -130,17 +105,6 @@ const { posts, id, split = false } = Astro.props;
       },
       { passive: true },
     );
-
-    let resizeTimer;
-    window.addEventListener('resize', () => {
-      clearTimeout(resizeTimer);
-      resizeTimer = setTimeout(() => {
-        bouwDots();
-        updateDots();
-      }, 150);
-    });
-
-    bouwDots();
     updateDots();
   });
 </script>

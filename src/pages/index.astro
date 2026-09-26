@@ -14,9 +14,8 @@ const { posts, themes } = await getData();
 // favorieten zijn gemarkeerd.
 const avontuur = kiesUitverschillendeLanden(posts, 4);
 
-// "Nieuwste verhalen": gewoon de nieuwste artikelen van de site (meer dan 4, want dit
-// is nu een carousel om doorheen te scrollen, geen vaste rij van 4)
-const nieuwste = posts.slice(0, 8);
+// "Nieuwste verhalen": de 6 nieuwste artikelen van de site, in een carousel
+const nieuwste = posts.slice(0, 6);
 
 // "Reisgidsen": alle artikelen met themes: [Reisgidsen]
 const reisgidsen = themes.find((t) => t.slug === 'reisgidsen');
@@ -117,7 +116,7 @@ const reisgidsen = themes.find((t) => t.slug === 'reisgidsen');
           <p class="section-eyebrow">Praktisch en overzichtelijk</p>
           <h2 class="section-title">{reisgidsen.name}</h2>
         </div>
-        <Carousel posts={reisgidsen.posts} id="reisgidsen" />
+        <Carousel posts={reisgidsen.posts.slice(0, 10)} id="reisgidsen" />
         <div class="carousel-more">
           <a class="link-more" href="/reisgidsen/">Alle reisgidsen</a>
         </div>
