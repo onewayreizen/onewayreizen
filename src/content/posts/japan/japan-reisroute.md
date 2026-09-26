@@ -3,7 +3,7 @@ title: "Japan rondreizen: complete route met praktische tips"
 region: Azië
 country: Japan
 destination: 
-description: Reisgids
+description: "Tempels, neonlichten en adembenemende natuur: deze route neemt je mee langs Japans mooiste plekken, met tips voor budget en vervoer."
 date: 2026-01-01
 image: /images/japan-reisgids-header.jpg
 themes: [Reisgidsen]
