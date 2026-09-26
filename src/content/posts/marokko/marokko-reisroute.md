@@ -1,5 +1,5 @@
 ---
-title: Route Marokko
+title: "Marokko rondreizen: complete route met praktische tips"
 region: Afrika
 country: Marokko
 destination: 
