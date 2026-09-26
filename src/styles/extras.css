@@ -415,7 +415,9 @@
 
 /* ---- "Zoek je avontuur" op de homepage: minder hoge donkere balk ---- */
 
-.section--dark { padding-block: clamp(2.4rem, 4vw, 3.4rem); }
+.section--dark { padding-block: clamp(1.6rem, 2.5vw, 2.2rem); }
+.section--dark .section-title { font-size: clamp(1.4rem, 1.1rem + 1vw, 1.9rem); }
+.section--dark .section-head { margin-bottom: 1.2rem; }
 
 /* ---- Vangnet: een kaart-label mag nooit uitgroeien tot een enorme bubbel,
         ook niet als er per ongeluk een lange zin in een destination/land-veld
