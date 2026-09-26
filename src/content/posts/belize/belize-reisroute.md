@@ -2,7 +2,7 @@
 title: "Belize rondreizen: complete route met praktische tips"
 region: Midden-Amerika
 country: Belize
-description: Ultieme guide voor Belize
+description: "Jungle, Maya-tempels en het op één na grootste rif ter wereld: zo ontdek je Belize met deze praktische rondreis-route."
 image: /images/belize/belize-route-header.jpg
 date: 2026-08-14
 themes: [Reisgidsen]
