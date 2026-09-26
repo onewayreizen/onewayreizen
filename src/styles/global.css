@@ -233,7 +233,7 @@ a { color: inherit; }
 
 /* Bestemmingen: newspaper-achtige kolommen. De browser verdeelt zelf op basis van de
    echte hoogte van elk werelddeel (zie Header.astro). Elke kolom is minstens 11.5rem
-   breed, tot een maximum van 5 kolommen. Past een werelddeel niet meer op één kolom
+   breed, tot een maximum van 6 kolommen. Past een werelddeel niet meer op één kolom
    (zoals Europa straks), dan loopt de lijst gewoon door in de volgende kolom, met de
    naam van het werelddeel bovenaan die kolom mee. De scrollbalk blijft als allerlaatste
    noodgreep staan, voor als het totaal ooit niet meer past. */
@@ -244,7 +244,8 @@ a { color: inherit; }
   width: auto;
 }
 .drop--wide .drop__inner {
-  columns: 11.5rem 5;
+  display: block;
+  columns: 11.5rem 6;
   column-gap: 2.5rem;
   width: auto;
   max-width: none;
