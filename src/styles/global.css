@@ -247,7 +247,7 @@ a { color: inherit; }
   display: flex;
   flex-wrap: nowrap;
   align-items: flex-start;
-  gap: 2.5rem;
+  gap: 2rem;
   width: auto;
   max-width: 100%;
   max-height: calc(100vh - var(--header-h) - 2.5rem);
@@ -258,7 +258,7 @@ a { color: inherit; }
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
-  width: 11rem;
+  width: 10rem;
   flex: none;
 }
 .drop--wide .drop__col { margin-bottom: 0; }
