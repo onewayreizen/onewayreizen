@@ -3,7 +3,7 @@ title: "Beijing in 3 dagen: Verboden Stad tot Muur van China"
 region: Azië
 country: China
 destination: Beijing
-description: 
+description: "Van de Verboden Stad en het Tiananmenplein tot een dagtrip naar de Chinese Muur: complete route met praktische tips."
 image: /images/china/beijing-guide-header.jpg
 date: 2026-08-14
 themes: []
