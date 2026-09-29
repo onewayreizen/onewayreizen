@@ -58,4 +58,4 @@ De rit zelf voert je van de hoogvlakte rond Quito, langs kronkelende bergwegen, 
 
 Voor een tochtje van maar een paar uur, tegen een fractie van de prijs van een privétaxi, blijft de bus vanaf Terminal La Ofelia verreweg de meest voor de hand liggende manier om van Quito naar Mindo te reizen. Neem gewoon de tijd om vooraf je vervoer naar het terminal te regelen, houd je spullen goed in de gaten onderweg, en je bent voor je het weet middenin het nevelwoud.
 
-[Benieuwd naar wat er te doen is in Mindo? Klik hier.](/bestemmingen/zuid-amerika/ecuador/twee-dagen-in-mindo/)
+**[Benieuwd naar wat er te doen is in Mindo? Klik hier.](/bestemmingen/zuid-amerika/ecuador/twee-dagen-in-mindo/)**
