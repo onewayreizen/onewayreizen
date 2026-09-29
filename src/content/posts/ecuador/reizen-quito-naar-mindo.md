@@ -2,8 +2,7 @@
 title: Bus Quito - Mindo
 region: Zuid-Amerika
 country: Ecuador
-destination: Mindo
-otherdestination: [Quito]
+destination: [Quito,Mindo]
 description: KORTE OMSCHRIJVING HIER (1 zin, verschijnt op de kaartjes)
 date: 2026-01-01
 image: /images/BESTANDSNAAM.jpg
