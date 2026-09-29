@@ -1,13 +1,12 @@
 ---
-title: "Mindo guide"
+title: "Twee dagen in Mindo: complete planning"
 region: Zuid-Amerika
 country: Ecuador
 destination: Mindo
-description: Guide voor Mindo.
+description: Guide voor 2 dagen in Mindo.
 date: 2026-09-29
 image: /images/BESTANDSNAAM.jpg
 ---
-# Twee dagen in Mindo: complete planning
 
 Mindo, het kleine nevelwouddorpje op zo'n twee uur van Quito, is precies groot genoeg voor twee dagen: genoeg om de belangrijkste hoogtepunten mee te pikken, zonder dat je je hoeft te haasten. Hieronder een uitgewerkte planning voor beide dagen, inclusief prijzen en een aantal alternatieven.
 
