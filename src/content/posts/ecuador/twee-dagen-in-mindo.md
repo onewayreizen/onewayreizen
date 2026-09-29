@@ -3,7 +3,7 @@ title: "Twee dagen in Mindo: complete planning"
 region: Zuid-Amerika
 country: Ecuador
 destination: Mindo
-description: Guide voor 2 dagen in Mindo.
+description: Guide voor 2 dagen in Mindo; wat te zien en doen.
 date: 2026-09-29
 image: /images/BESTANDSNAAM.jpg
 ---
