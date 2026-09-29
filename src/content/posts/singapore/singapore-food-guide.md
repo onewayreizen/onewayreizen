@@ -2,7 +2,7 @@
 title: "Singapore food guide: alles wat je moet proeven"
 region: Azië
 country: Singapore
-description: 
+description: "Van de goedkoopste Michelin-ster ter wereld tot chili crab en sugar cane juice: complete gids langs de beste hawker-gerechten van Singapore."
 date: 2023-09-18
 themes: 
 ---
@@ -49,9 +49,45 @@ Van gestoomde xiao long bao (soepdumplings) tot gefrituurde wontons als bijgerec
 
 **Ice kacang.** Niet per se een drankje, maar een dessert dat verkoeling net zo goed verdient: geschaafd ijs met daaronder een mix van rode bonen, mais, gelei en vaak siropen in felle kleuren. Vreemd ogend voor wie het niet kent, maar verrassend verfrissend.
 
-## Waar ga je heen?
+# Welke hawker centres kies je?
 
-Voor de beste ervaring, bezoek een van de bekende hawker centres: Maxwell Food Centre (dicht bij Chinatown, met onder andere de beroemde Tian Tian Hainanese Chicken Rice), Lau Pa Sat (bekend om zijn satay-straat 's avonds), Old Airport Road Food Centre (favoriet bij locals, minder toeristisch), of Tiong Bahru Market (gecombineerd met een verse ochtendmarkt eronder).
+Singapore telt meer dan 100 hawker centres, en elk heeft zijn eigen specialiteiten, sfeer en vaste klantenkring. Hier een overzicht van de bekendste en beste, zodat je weet waar je voor wat moet zijn.
+
+## Chinatown Complex Market & Food Centre
+
+Het grootste hawker centre van Singapore, met meer dan 200 kraampjes verspreid over twee verdiepingen. Dit is de thuisbasis van het originele Hawker Chan-kraampje, maar ook zonder die beroemde soy sauce chicken is dit een van de beste plekken om urenlang doorheen te struinen: van dim sum tot noedelsoepen tot desserts. Ga vroeg als je Hawker Chan wilt proberen zonder een eeuwigheid te wachten.
+
+## Maxwell Food Centre
+
+Vlakbij Chinatown, en een van de populairste centres bij zowel toeristen als locals. De bekendste kraam hier is Tian Tian Hainanese Chicken Rice, regelmatig uitgeroepen tot een van de beste versies van het gerecht in de hele stad. Compact genoeg om in een uur of twee te verkennen, maar met genoeg variatie om meerdere keren terug te komen.
+
+## Lau Pa Sat
+
+Een prachtig, historisch Victoriaans ijzeren gebouw middenin de financiële wijk, overdag gevuld met kantoorpersoneel op zoek naar een snelle lunch. 's Avonds verandert de straat ernaast in een levendige satay-straat, waar meerdere kraampjes met elkaar concurreren om je aandacht (en waar onderhandelen over de prijs er soms nog steeds bij hoort). Dit is de plek voor satay in de avond, gecombineerd met een koud biertje.
+
+## Old Airport Road Food Centre
+
+Minder toeristisch, en juist daarom bij veel kenners favoriet: dit hawker centre, gebouwd op de plek van Singapores voormalige binnenlandse luchthaven, staat bekend om een uitzonderlijk hoge concentratie aan gerenommeerde kraampjes, van satay tot Hokkien mee tot carrot cake. Iets verder van het centrum, maar de reis waard als je verder wilt kijken dan de bekendste namen.
+
+## Tiong Bahru Market
+
+Gecombineerd met een verse ochtendmarkt op de begane grond en het hawker centre op de verdieping erboven, in een van de meest fotogenieke, art-deco-achtige wijken van de stad. Kom hier vooral voor het ontbijt: denk aan chwee kueh (gestoomde rijstkoekjes met gepekelde radijs) en een goede kopi.
+
+## Newton Food Centre
+
+Bekend (en ietwat berucht) als een van de meer toeristische hawker centres, mede dankzij een filmscène uit Crazy Rich Asians. De kwaliteit is nog steeds prima, met een sterke focus op zeevruchten en satay, maar let op: prijzen liggen hier over het algemeen wat hoger dan elders, en sommige kraampjes rekenen niet altijd even transparant af. Vraag bij twijfel vooraf naar de prijs.
+
+## Tekka Centre
+
+Gelegen in Little India, en daardoor de beste plek voor Indiase gerechten: van biryani tot dosa tot verse chapati's. Een goede aanvulling op je hawker-tour als je de Chinese en Peranakan kraampjes elders al hebt gehad, en wat meer variatie zoekt.
+
+## Amoy Street Food Centre
+
+Middenin het financiële district, en daardoor vooral doordeweeks tijdens lunchtijd bomvol met kantoorpersoneel. Bekend om een aantal gerenommeerde kraampjes voor Hokkien mee en lor mee, en een goede optie als je toch al in de buurt van Chinatown of het CBD bent.
+
+## Spreid je bezoek
+
+Probeer niet alles in één dag te doen. Kies per hawker centre een of twee specifieke gerechten waar die plek om bekendstaat, in plaats van willekeurig te proeven en spreid je bezoeken over meerdere dagen van je reis. Zo voorkom je dat je halverwege je Singapore-trip al overvol zit, en houd je ruimte voor de gerechten die er echt toe doen.
 
 ## Praktische tips
 
