@@ -24,7 +24,11 @@ const posts = defineCollection({
         .transform((v) => (Array.isArray(v) ? v : v ? [v] : [])),
       // Zet featured: true om dit artikel kans te geven in "Jouw volgende avontuur" op de homepage
       featured: z.boolean().nullish().transform((v) => v ?? false),
-      destination: optionalText,
+      // Mag één plek zijn (destination: Quito) of meerdere (destination: [Quito, Mindo])
+      destination: z
+        .union([z.array(z.string()), z.string()])
+        .nullish()
+        .transform((v) => (Array.isArray(v) ? v : v ? [v] : [])),
       description: z.string().nullish().transform((v) => v ?? ''),
       // Werkt met en zonder aanhalingstekens: 2026-01-01 of "2026-01-01"
       date: z.coerce.date(),

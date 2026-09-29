@@ -81,7 +81,7 @@ const allTitle = `Alle artikelen over ${country.name}`;
             text={post.description}
             meta={formatDate(post.date)}
             image={post.image}
-            dest={post.destinationSlug ?? 'geen'}
+            dest={post.destinations.map((d) => d.slug).join(' ') || 'geen'}
           />
         ))}
       </div>
@@ -102,7 +102,7 @@ const allTitle = `Alle artikelen over ${country.name}`;
       if (active) label = pill.getAttribute('data-label');
     });
     cards.forEach((card) => {
-      const show = key === 'all' || card.getAttribute('data-dest') === key;
+      const show = key === 'all' || (card.getAttribute('data-dest') || '').split(' ').includes(key);
       card.hidden = !show;
     });
     if (title) {

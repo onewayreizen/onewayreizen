@@ -47,6 +47,7 @@ export type Post = {
   featured: boolean;
   destination?: string;
   destinationSlug?: string;
+  destinations: { name: string; slug: string }[];
   themes: { name: string; slug: string }[];
   hasCountry: boolean;
   url: string;
@@ -119,6 +120,10 @@ async function compute(): Promise<SiteData> {
       const countrySlug = slugify(countryName);
       const hasCountry = countrySlug !== '';
       const fileSlug = entry.id.split('/').pop() ?? entry.id;
+      const destinations = d.destination
+        .map((naam) => naam.trim())
+        .filter((naam) => naam !== '')
+        .map((naam) => ({ name: naam, slug: slugify(naam) }));
       return {
         id: entry.id,
         title: d.title,
@@ -132,8 +137,9 @@ async function compute(): Promise<SiteData> {
         otherCountries: d.otherCountries.map((c) => c.trim()).filter((c) => c !== ''),
         otherRegions: d.otherRegions.map((r) => r.trim()).filter((r) => r !== ''),
         featured: d.featured,
-        destination: d.destination?.trim(),
-        destinationSlug: d.destination ? slugify(d.destination) : undefined,
+        destination: destinations[0]?.name,
+        destinationSlug: destinations[0]?.slug,
+        destinations,
         themes: d.themes
           .map((t) => ({ name: t.trim(), slug: slugify(t) }))
           .filter((t) => t.slug !== ''),
@@ -208,10 +214,11 @@ async function compute(): Promise<SiteData> {
     c.image = c.info?.image ?? firstImage(c.posts);
     const destMap = new Map<string, { name: string; slug: string; count: number }>();
     for (const p of c.posts) {
-      if (!p.destination || !p.destinationSlug) continue;
-      const existing = destMap.get(p.destinationSlug);
-      if (existing) existing.count += 1;
-      else destMap.set(p.destinationSlug, { name: p.destination, slug: p.destinationSlug, count: 1 });
+      for (const dest of p.destinations) {
+        const existing = destMap.get(dest.slug);
+        if (existing) existing.count += 1;
+        else destMap.set(dest.slug, { name: dest.name, slug: dest.slug, count: 1 });
+      }
     }
     c.destinations = [...destMap.values()].sort(byName);
   }
