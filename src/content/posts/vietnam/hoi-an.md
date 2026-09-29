@@ -3,7 +3,7 @@ title: Waarom iedereen verliefd wordt op Hoi An
 region: Azië
 country: Vietnam
 destination: Hoi An
-description: 
+description: "Lantaarns, geschiedenis en een tempo waar je vanzelf in meegaat: waarom dit stadje bij bijna iedereen het hoogtepunt van hun Vietnam-reis wordt." 
 date: 2023-11-04
 themes: []
 ---
