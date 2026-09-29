@@ -3,7 +3,7 @@ title: Wildlife spotten tijdens een riviercruise op de Kinabatangan
 region: Azië
 country: Maleisië
 destination: Borneo
-description: 
+description: "Proboscis-apen, olifanten en krokodillen vanaf de boot: complete gids voor een riviercruise op Borneo's langste rivier."
 date: 2026-08-14
 themes: [Wildlife]
 ---
