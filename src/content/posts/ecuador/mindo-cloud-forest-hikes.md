@@ -12,9 +12,9 @@ Op zo'n 7 kilometer van het dorpje Mindo ligt het Santuario de Cascadas, een net
 
 ## Hoe kom je er?
 
-Vanuit het centrum van Mindo is het santuario zelf niet lopend te bereiken (7 kilometer is simpelweg te ver), maar je hebt een paar opties:
+Vanuit het centrum van Mindo is het santuario zelf bijna niet lopend te bereiken (7 kilometer), maar je hebt een paar opties:
 
-- **Taxi.** De makkelijkste en snelste manier, voor ongeveer 3 tot 5 dollar enkele reis vanaf het dorpscentrum.
+- **Taxi.** De makkelijkste en snelste manier, voor ongeveer 6 dollar enkele reis vanaf het dorpscentrum.
 - **Fiets huren.** Voor de actievere reiziger, al is de weg ernaartoe deels onverhard en heuvelachtig.
 - **Georganiseerde tour.** Veel hostels en tourbureaus in Mindo bieden een gecombineerd tochtje aan, vaak samen met de vlindertuin of een chocoladefabriek.
 
@@ -36,7 +36,7 @@ Bij de laatste en grootste waterval van de route is er volop ruimte om af te koe
 
 ## Praktische tips
 
-**Kosten:** reken in totaal op ongeveer 5 dollar voor de tarabita (retour, inclusief toegang tot de paden), plus eventueel 3 tot 5 dollar voor een taxi naar de ingang.
+**Kosten:** reken in totaal op ongeveer 5 dollar voor de tarabita (retour, inclusief toegang tot de paden), plus eventueel 6 dollar voor een taxi naar de ingang.
 
 **Duur:** reken op 2 tot 3 uur voor de hele wandeling heen en terug, afhankelijk van hoeveel watervallen je bezoekt en hoelang je bij elke stop blijft.
 
