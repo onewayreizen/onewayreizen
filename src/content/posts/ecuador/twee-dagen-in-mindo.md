@@ -27,6 +27,7 @@ Je tweede dag is de actievere van de twee, en meteen ook de reden dat de meeste 
 **De tarabita (cable car).** Begin je ochtend op tijd bij de tarabita, een simpel, wat rammelend kabelbaantje dat je over de vallei naar de andere kant van het bos brengt. Reken op ongeveer 5 dollar voor een retourtje, en geniet onderweg van het uitzicht over de dichte, groene vallei onder je.
 
 **De watervallen-hikes.** Aan de andere kant van de tarabita begint een netwerk van bewegwijzerde paden dat je langs verschillende watervallen leidt, met de grootste en mooiste als eindpunt, waar je ook kunt zwemmen als je daar zin in hebt. Reken op zo'n 2 tot 3 uur voor de hele wandeling heen en terug, afhankelijk van hoeveel watervallen je wilt zien en hoeveel tijd je bij elke stop neemt om te zwemmen of te fotograferen.
+[Hier vind je meer over de watervallen en de hikes](/bestemmingen/zuid-amerika/ecuador/mindo-cloud-forest-hikes/)
 
 **Terug naar Quito.** Plan je ochtendactiviteiten zo dat je rond het middaguur klaar bent, zodat je in de middag op tijd de bus terugneemt naar Quito. Met de tarabita en de hike samen kost dit al snel een halve dag, dus reken niet op te veel extra tijd erna.
 
