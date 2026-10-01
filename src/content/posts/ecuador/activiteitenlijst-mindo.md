@@ -1,18 +1,16 @@
 ---
-title: Een week in het Amazonegebied
+title: "Activiteiten in Mindo: complete lijst met prijzen en praktische info"
 region: Zuid-Amerika
 country: Ecuador
 destination: Mindo
-description: Wildlife spotten
+description: "Van night walks en canyoning tot chocolade en de kabelbaan: alle activiteiten in Mindo met prijzen, duur en praktische tips."
 date: 2026-08-14
-themes: [Wildlife, Avontuur]
+themes: []
 ---
 
-# Activiteiten in Mindo: complete lijst met prijzen en praktische info
+Mindo is een klein dorp midden in het nevelwoud van Ecuador en er is verrassend veel te doen voor zo'n rustig plekje: van wildlife tours en watervallen tot ziplinen, chocolade en paardrijden. Hieronder vind je een overzicht van de belangrijkste activiteiten, inclusief prijzen, duur en praktische informatie.
 
-Mindo is een klein dorp midden in het nevelwoud van Ecuador, en er is verrassend veel te doen voor zo'n rustig plekje: van wildlife tours en watervallen tot ziplinen, chocolade en paardrijden. Hieronder vind je een overzicht van de belangrijkste activiteiten, inclusief prijzen, duur en praktische informatie.
-
-**Disclaimer:** deze lijst is samengesteld in 2026. Prijzen, openingstijden en aanbod kunnen inmiddels gewijzigd zijn, dus check ter plekke altijd de actuele informatie voordat je iets boekt.
+**Disclaimer:** *deze lijst is samengesteld in 2026. Prijzen, openingstijden en aanbod kunnen inmiddels gewijzigd zijn, dus check ter plekke altijd de actuele informatie voordat je iets boekt.*
 
 ## 🌙 Night Walk – Wildlife Tour
 
@@ -22,7 +20,6 @@ Een night walk door het nevelwoud, waarbij je met een lokale gids op zoek gaat n
 - **Duur:** 2 uur
 - **Start:** 19:00
 - Inclusief lokale gids, vervoer, rubberen laarzen, poncho en zaklamp
-- Reserveren verplicht, vóór 17:00 bij de receptie
 
 ## 🛟 Tubing
 
@@ -31,7 +28,6 @@ Ga met een binnenband de rivier af tijdens een korte tubing-activiteit.
 - **Prijs:** $6 p.p.
 - **Duur:** 45 minuten
 - Minimum 4 personen
-- Reserveren verplicht bij de receptie
 
 ## 💦 Canyoning – 1 waterval
 
@@ -40,8 +36,6 @@ Een korte canyoning-ervaring bij een waterval van 45 meter.
 - **Prijs:** $15 p.p.
 - **Duur:** 1 uur
 - Minimum 2 personen
-- Vervoer vanaf het hostel inbegrepen
-- Reserveren verplicht bij de receptie
 
 ## 💦 Canyoning – 3 watervallen
 
@@ -50,8 +44,6 @@ Een uitgebreidere canyoning-ervaring waarbij je drie watervallen bezoekt.
 - **Prijs:** $18 p.p.
 - **Duur:** 2 uur
 - Minimum 2 personen
-- Vervoer vanaf het hostel inbegrepen
-- Reserveren verplicht bij de receptie
 
 ## 🐎 Paardrijden
 
@@ -60,8 +52,6 @@ Maak te paard een tocht door de omgeving van Mindo.
 - **Prijs:** $15 p.p.
 - **Duur:** 1 uur
 - Minimum 2 personen
-- Vervoer vanaf het hostel inbegrepen
-- Reserveren verplicht bij de receptie
 
 ## 🍫 Chocoladetour
 
@@ -86,7 +76,7 @@ Voor wie wat meer adrenaline zoekt, is er de canopy zipline van Mindo Canopy Adv
 
 - **Duur:** ongeveer 1,5 uur
 - **Openingstijden:** 09:00-16:00
-- **Vervoer:** $4 per taxi per enkele reis, of ongeveer 45 minuten lopen
+- **Vervoer:** $4 per taxi per enkele reis of ongeveer 45 minuten lopen
 
 ## 🐦 Hummingbird Feeding Station
 
@@ -103,7 +93,6 @@ Voor fanatieke vogelaars zijn er ook georganiseerde birdwatching tours.
 - **Prijs:** $35
 - **Duur:** onbeperkt
 - **Start:** vanaf 06:00
-- Hostel pickup inbegrepen
 
 ## 🦋 Butterfly Sanctuary – Mariposario Mariposas de Mindo
 
@@ -132,3 +121,5 @@ De totale activiteit duurt ongeveer 4-6 uur, afhankelijk van welke routes je loo
 - De trails beginnen na de kabelbaan en lopen door het nevelwoud
 - Goede schoenen en voldoende water worden aangeraden
 - Neem zwemkleding mee als je in de watervallen wilt zwemmen
+
+Met dit aanbod is Mindo precies het soort plek waar je makkelijk een paar dagen kunt vullen zonder je ook maar één moment te vervelen of je nu op zoek bent naar adrenaline, rust, of gewoon een goede reep chocolade. Combineer een paar activiteiten die bij jouw tempo passen en laat de rest gerust voor een volgend bezoek.
