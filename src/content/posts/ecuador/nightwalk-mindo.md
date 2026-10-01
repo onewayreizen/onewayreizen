@@ -5,7 +5,7 @@ country: Ecuador
 destination: [Mindo]
 description: "Een eerlijk verslag van de nightwalk door het wolkenwoud van Mindo, Ecuador: kikkers, spinnen en de zeldzame olinguito."
 date: 2026-09-29
-image: /images/BESTANDSNAAM.jpg
+image: /images/ecuador/mindo-night-walk-header.jpg
 ---
 
 Mindo, het kleine dorpje middenin het wolkenwoud van Ecuador, staat vooral bekend om vogels spotten, tubing en chocolade proeven. Maar zodra de zon ondergaat, verandert het bos in een compleet andere wereld, en dat is precies waar de nightwalk om draait. Ik ging zelf op pad, en deel hier mijn eerlijke ervaring.
