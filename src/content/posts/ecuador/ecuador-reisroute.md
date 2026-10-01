@@ -5,7 +5,7 @@ country: Ecuador
 destination: 
 description: "Van nevelwoud en de Amazone tot vulkanen en adrenaline: complete route langs Mindo, Quito, Cuyabeno, Baños en Cotopaxi."
 date: 2023-10-16
-image: /images/ecuador-route.jpg
+image: /images/landen-headers/ecuador-header.jpg
 themes: [Reisgidsen]
 ---
 
