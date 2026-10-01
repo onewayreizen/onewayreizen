@@ -6,6 +6,7 @@ destination: Mindo
 description: "Van night walks en canyoning tot chocolade en de kabelbaan: alle activiteiten in Mindo met prijzen, duur en praktische tips."
 date: 2026-09-27
 themes: []
+image: /images/public/ecuador/activiteitenlijst-mindo-header.jpg
 ---
 
 Mindo is een klein dorp midden in het nevelwoud van Ecuador en er is verrassend veel te doen voor zo'n rustig plekje: van wildlife tours en watervallen tot ziplinen, chocolade en paardrijden. Hieronder vind je een overzicht van de belangrijkste activiteiten, inclusief prijzen, duur en praktische informatie.
