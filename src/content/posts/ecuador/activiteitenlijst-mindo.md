@@ -4,7 +4,7 @@ region: Zuid-Amerika
 country: Ecuador
 destination: Mindo
 description: "Van night walks en canyoning tot chocolade en de kabelbaan: alle activiteiten in Mindo met prijzen, duur en praktische tips."
-date: 2026-08-14
+date: 2026-09-27
 themes: []
 ---
 
