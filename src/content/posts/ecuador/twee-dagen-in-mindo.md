@@ -10,15 +10,20 @@ image: /images/BESTANDSNAAM.jpg
 
 Mindo, het kleine nevelwouddorpje op zo'n twee uur van Quito, is precies groot genoeg voor twee dagen: genoeg om de belangrijkste hoogtepunten mee te pikken, zonder dat je je hoeft te haasten. Hieronder een uitgewerkte planning voor beide dagen, inclusief prijzen en een aantal alternatieven.
 
+Wil je meer weten over hoe je het beste naar Mindo kunt reizen? [Klik dan hier](/bestemmingen/zuid-amerika/ecuador/reizen-quito-naar-mindo/)
+
 ## Dag 1: aankomst en vlinders
 
 Na aankomst in Mindo (reken op ongeveer 2 uur vanaf Quito, zie mijn aparte post over de bus hierheen) is de rest van je eerste dag perfect om iets rustigers te doen, zeker als je al vroeg in de ochtend bent vertrokken.
 
-**Butterfly sanctuary/mariposario.** In de middag is dit een prima invulling: de vlindertuin in Mindo zelf kost 6 dollar entree. Je loopt hier tussen honderden vlinders van lokale, inheemse soorten, en leert onderweg het een en ander over hun levenscyclus, van rups tot cocon tot volwassen vlinder. Sommige aanbieders combineren dit met tours voor 8,50 dollar, waarbij een gids je meer uitleg geeft, dus check ter plekke welke variant het beste bij je past.
+**Butterfly sanctuary/mariposario.** In de middag is dit een prima invulling: de vlindertuin in Mindo zelf kost 6 dollar entree. Je loopt hier tussen honderden vlinders van lokale, inheemse soorten en leert onderweg het een en ander over hun levenscyclus, van rups tot cocon tot volwassen vlinder. Sommige aanbieders combineren dit met tours voor 8,50 dollar, waarbij een gids je meer uitleg geeft, dus check ter plekke welke variant het beste bij je past.
+[Hier meer over de vlindertuinen](/bestemmingen/zuid-amerika/ecuador/vlindertuin-mindo/)
 
 **Night walk in de avond.** Sluit je eerste dag af met een night walk, een geleide nachtwandeling van ongeveer 2,5 uur voor zo'n 15 dollar. Overdag lijkt het nevelwoud misschien al indrukwekkend, maar 's nachts komt er een compleet andere laag aan leven tevoorschijn: kikkers, insecten, spinnen en soms zelfs slangen die overdag verstopt blijven. Een gids weet precies waar hij moet zoeken en kan je wijzen op dingen die je zelf nooit zou opmerken in het donker.
 
 Dit is een mooie, rustige opbouw voor je eerste dag: aankomen, wennen aan de sfeer van het dorpje, een relatief laagdrempelige activiteit in de middag, en een avontuurlijker avondactiviteit om af te sluiten.
+
+[Hier meer over de night walk](/bestemmingen/zuid-amerika/ecuador/nightwalk-mindo/)
 
 ## Dag 2: cable car, watervallen en terug naar Quito
 
@@ -27,7 +32,7 @@ Je tweede dag is de actievere van de twee, en meteen ook de reden dat de meeste 
 **De tarabita (cable car).** Begin je ochtend op tijd bij de tarabita, een simpel, wat rammelend kabelbaantje dat je over de vallei naar de andere kant van het bos brengt. Reken op ongeveer 5 dollar voor een retourtje, en geniet onderweg van het uitzicht over de dichte, groene vallei onder je.
 
 **De watervallen-hikes.** Aan de andere kant van de tarabita begint een netwerk van bewegwijzerde paden dat je langs verschillende watervallen leidt, met de grootste en mooiste als eindpunt, waar je ook kunt zwemmen als je daar zin in hebt. Reken op zo'n 2 tot 3 uur voor de hele wandeling heen en terug, afhankelijk van hoeveel watervallen je wilt zien en hoeveel tijd je bij elke stop neemt om te zwemmen of te fotograferen.
-[Hier vind je meer over de watervallen en de hikes](/bestemmingen/zuid-amerika/ecuador/mindo-cloud-forest-hikes/)
+[Hier vind je meer over de watervallen en de hikes](/bestemmingen/zuid-amerika/ecuador/mindo-cloud-forest-hike/)
 
 **Terug naar Quito.** Plan je ochtendactiviteiten zo dat je rond het middaguur klaar bent, zodat je in de middag op tijd de bus terugneemt naar Quito. Met de tarabita en de hike samen kost dit al snel een halve dag, dus reken niet op te veel extra tijd erna.
 
@@ -39,7 +44,8 @@ Heb je de tarabita en watervallen al eerder gedaan, of spreekt een van deze opti
 
 **Bird watching.** Mindo is een van de beste vogelspotplekken van heel Ecuador, met honderden soorten in de omgeving, van kolibries tot toekans. Plekken zoals San Tadeo Birding bieden vroege ochtendtours aan (het beste moment om vogels actief te zien), meestal voor een kleine entreeprijs.
 
-Beide alternatieven vragen wat minder fysieke inspanning dan de tarabita-hike, en zijn een leuke optie als je liever een rustiger tempo aanhoudt op je laatste ochtend.
+**Yellow house** Een wandeling op een priveterrein met kans op vogels spotten en een prachtig uitzicht over Mindo als beloning.
+[Hier meer over Yellow House](/bestemmingen/zuid-amerika/ecuador/yellow-house-wandeling-mindo/)
 
 ## Praktische tips
 
@@ -54,5 +60,7 @@ Beide alternatieven vragen wat minder fysieke inspanning dan de tarabita-hike, e
 **Timing:** begin je tweede dag op tijd, zeker als je nog wilt bird watchen of de tarabita en watervallen wilt combineren voordat je 's middags terug moet naar Quito.
 
 **Weer:** neem sowieso een regenjas mee, ongeacht het seizoen. Het nevelwoud dankt zijn naam niet voor niets aan de wisselvallige, vochtige omstandigheden.
+
+Wil je meer weten over verschillende activiteiten en de prijzen? [Klik dan hier]()
 
 Twee dagen geven je precies genoeg tijd om zowel de rustigere kant van Mindo (vlinders, een avondwandeling) als de actievere hoogtepunten (de tarabita en watervallen) mee te pikken, zonder dat je het gevoel hebt iets te moeten overslaan.
