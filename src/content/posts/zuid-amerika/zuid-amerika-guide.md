@@ -3,7 +3,7 @@ title: " De ultieme gids voor backpacken door Zuid-Amerika"
 region: Zuid-Amerika
 country: 
 destination: 
-description: ""
+description: "Van de Andes tot de Guyana's: complete gids met budgetten, visa, klassieke routes en praktische tips voor alle landen waar ik over schrijf."
 image: /images/hero.jpg
 date: 2026-10-02
 themes: [Reisgidsen]
