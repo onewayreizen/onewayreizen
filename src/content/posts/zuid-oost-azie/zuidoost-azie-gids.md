@@ -5,7 +5,7 @@ country:
 destination: 
 description: "Van Thailand tot Japan en alles ertussenin: complete gids met budgetten, visa, klassieke routes en praktische tips voor alle landen waar ik over schrijf."
 image: /images/hero.jpg
-date: 2026-08-14
+date: 2026-10-02
 themes: [Reisgidsen]
 ---
 
