@@ -94,9 +94,9 @@ Visumregels veranderen regelmatig, dus check dit altijd vlak voor vertrek, maar 
 
 ## Budget per dag: ruwe richtlijn
 
-- **Goedkoopste landen** (Laos, Cambodja, Vietnam): 20 tot 30 dollar per dag.
-- **Middenmoot** (Thailand, Maleisië, Indonesië, Filipijnen, Taiwan): 25 tot 45 dollar per dag.
-- **Duurdere landen** (Singapore, Hongkong, Macau, Zuid-Korea, Japan, China): 50 tot 80+ dollar per dag.
+- **Goedkoopste landen** (Laos, Cambodja, Vietnam): 20 tot 30 euro per dag.
+- **Middenmoot** (Thailand, Maleisië, Indonesië, Filipijnen, Taiwan): 25 tot 45 euro per dag.
+- **Duurdere landen** (Singapore, Hongkong, Macau, Zuid-Korea, Japan, China): 50 tot 80+ euro per dag.
 
 Een gemengde route door meerdere van deze categorieën houdt je gemiddelde nog altijd een stuk lager dan backpacken in bijvoorbeeld West-Europa of Noord-Amerika.
 
