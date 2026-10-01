@@ -1,36 +1,45 @@
-# De ultieme gids voor backpacken door Midden-Amerika
+---
+title: "De ultieme gids voor backpacken door Midden-Amerika"
+region: Midden-Amerika
+country: 
+destination: 
+description: ""
+image: /images/hero.jpg
+date: 2026-10-02
+themes: [Reisgidsen]
+---
 
 Midden-Amerika is compact genoeg om in een paar maanden tijd volledig te doorkruisen, en toch boordevol variatie: van Maya-ruïnes en vulkanen tot Caribische eilanden en twee oceanen die je soms op dezelfde dag kunt zien. Hieronder een uitgebreid overzicht van de landen waar ik over schrijf, met budgetten, visa, klassieke routes en praktische tips.
 
 ## De landen
 
-### [Mexico](/bestemmingen/midden-amerika/mexico/)
-
-Technisch gezien Noord-Amerika, maar in vrijwel elke backpackersroute de logische start- of eindbestemming richting Midden-Amerika. Van de Riviera Maya en Chichén Itzá tot Oaxaca en Mexico-Stad: een land dat makkelijk een hele reis op zich vult. Reken op 25 tot 40 dollar per dag.
-
 ### [Belize](/bestemmingen/midden-amerika/belize/)
 
 Klein, Engelstalig, en een compleet andere sfeer dan zijn Spaanstalige buren. Denk aan de ATM Cave en Maya-ruïnes bij San Ignacio, en eilandleven op Caye Caulker met het rif voor de kust. Een van de duurdere landen van de regio, met een budget van 45 tot 55 dollar per dag.
 
-### [Guatemala](/bestemmingen/midden-amerika/guatemala/)
+### [Costa Rica](/bestemmingen/midden-amerika/costa-rica/)
 
-Vaak het hart van een Midden-Amerika-reis: koloniaal Antigua, het meer van Atitlán met zijn dorpjes, en de jungle-ruïnes van Tikal. Een van de betaalbaarste landen van de regio, met een budget van 25 tot 35 dollar per dag.
-
-### [Honduras](/bestemmingen/midden-amerika/honduras/)
-
-Minder vaak bezocht dan zijn buren, maar met de Maya-ruïnes van Copán en de eilanden van de Bay Islands (populair om goedkoop een duikbrevet te halen) zeker de moeite waard. Qua budget vergelijkbaar met Guatemala, rond de 25 tot 35 dollar per dag.
+Het "Pura Vida"-land bij uitstek: regenwoud, vulkanen, luiaards, en twee kustlijnen vol surfplekken en natuurparken. Een van de duurdere landen van de regio, met prijzen die soms dichter bij Europese niveaus liggen, rond de 40 tot 55 dollar per dag.
 
 ### [El Salvador](/bestemmingen/midden-amerika/el-salvador/)
 
 Lange tijd overgeslagen door zijn reputatie, maar inmiddels flink in opkomst bij backpackers, vooral dankzij surfplekken zoals El Tunco en de vulkanische Ruta de las Flores. Een van de goedkoopste landen van de regio, met een budget van 20 tot 30 dollar per dag.
 
+### [Honduras](/bestemmingen/midden-amerika/honduras/)
+
+Minder vaak bezocht dan zijn buren, maar met de Maya-ruïnes van Copán en de eilanden van de Bay Islands (populair om goedkoop een duikbrevet te halen) zeker de moeite waard. Qua budget vergelijkbaar met Guatemala, rond de 25 tot 35 dollar per dag.
+
+### [Guatemala](/bestemmingen/midden-amerika/guatemala/)
+
+Vaak het hart van een Midden-Amerika-reis: koloniaal Antigua, het meer van Atitlán met zijn dorpjes, en de jungle-ruïnes van Tikal. Een van de betaalbaarste landen van de regio, met een budget van 25 tot 35 dollar per dag.
+
+### [Mexico](/bestemmingen/midden-amerika/mexico/)
+
+Technisch gezien Noord-Amerika, maar in vrijwel elke backpackersroute de logische start- of eindbestemming richting Midden-Amerika. Van de Riviera Maya en Chichén Itzá tot Oaxaca en Mexico-Stad: een land dat makkelijk een hele reis op zich vult. Reken op 25 tot 40 dollar per dag.
+
 ### [Nicaragua](/bestemmingen/midden-amerika/nicaragua/)
 
 Koloniaal Granada, het vulkanische eiland Ometepe, en over het algemeen nog een stuk minder toeristisch dan Costa Rica. Een van de goedkoopste landen van de regio, met een budget van 20 tot 30 dollar per dag.
-
-### [Costa Rica](/bestemmingen/midden-amerika/costa-rica/)
-
-Het "Pura Vida"-land bij uitstek: regenwoud, vulkanen, luiaards, en twee kustlijnen vol surfplekken en natuurparken. Een van de duurdere landen van de regio, met prijzen die soms dichter bij Europese niveaus liggen, rond de 40 tot 55 dollar per dag.
 
 ### [Panama](/bestemmingen/midden-amerika/panama/)
 
