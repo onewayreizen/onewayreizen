@@ -14,6 +14,22 @@ Zuid-Amerika is een continent van uitersten: van de Andes tot de Amazone, van ko
 
 ## De landen
 
+### [Argentinië](/bestemmingen/zuid-amerika/argentinie/)
+
+Van de levendige hoofdstad Buenos Aires tot de indrukwekkende Patagonische gletsjers en de watervallen van Iguazú. Qua prijsniveau vergelijkbaar met Chili, met een budget van ongeveer 45 tot 65 dollar per dag, al schommelt dit sterk door de economische situatie en wisselkoersen in het land.
+
+### [Bolivia](/bestemmingen/zuid-amerika/bolivia/)
+
+Vaak het goedkoopste land van het hele continent, en tegelijkertijd een van de meest indrukwekkende: de zoutvlakte van Uyuni, adembenemende hoogtes, en een rauwere, minder toeristische ervaring dan de buurlanden. Reken op 20 tot 30 dollar per dag.
+
+### [Brazilië](/bestemmingen/zuid-amerika/brazilie/)
+
+Het grootste land van het continent, met een enorme diversiteit: Rio de Janeiro, de Amazone, kilometers Atlantische kustlijn, en een cultuur die overal anders aanvoelt afhankelijk van welke regio je bezoekt. Door de omvang van het land kost reizen hier relatief veel tijd; qua budget reken je op 35 tot 60 dollar per dag.
+
+### [Chili](/bestemmingen/zuid-amerika/chili/)
+
+Een extreem lang, smal land, met alles van de woestijn van Atacama in het noorden tot de gletsjers van Patagonië in het zuiden. Een van de duurdere landen van het continent, vergelijkbaar met Europese prijzen op veel vlakken, met een budget van 50 tot 70 dollar per dag.
+
 ### [Colombia](/bestemmingen/zuid-amerika/colombia/)
 
 Een van de populairste backpackersbestemmingen van het continent, met een geweldige mix van koloniale steden (Cartagena, Bogotá), koffieregio's, en bergdorpjes zoals Salento met het Cocora-dal. Nog altijd een van de betaalbaardere landen, met een budget van ongeveer 30 tot 45 dollar per dag.
@@ -22,45 +38,29 @@ Een van de populairste backpackersbestemmingen van het continent, met een geweld
 
 Compact, maar verrassend veelzijdig: nevelwoud bij Mindo, de koloniale hoofdstad Quito, de Amazone bij Cuyabeno, adrenaline in Baños, en de vulkaan Cotopaxi, allemaal op relatief korte afstand van elkaar. Gebruikt de Amerikaanse dollar als valuta, wat budgetteren makkelijk maakt. Reken op 30 tot 40 dollar per dag.
 
-### [Peru](/bestemmingen/zuid-amerika/peru/)
+### [Frans-Guyana](/bestemmingen/zuid-amerika/frans-guyana/)
 
-Thuisbasis van Machu Picchu, maar met nog veel meer te bieden: de Amazone, de Andes, en kolossale woestijnlandschappen. Een van de meest bezochte landen van het continent, met een budget van zo'n 35 tot 50 dollar per dag.
-
-### [Bolivia](/bestemmingen/zuid-amerika/bolivia/)
-
-Vaak het goedkoopste land van het hele continent, en tegelijkertijd een van de meest indrukwekkende: de zoutvlakte van Uyuni, adembenemende hoogtes, en een rauwere, minder toeristische ervaring dan de buurlanden. Reken op 20 tot 30 dollar per dag.
-
-### [Chili](/bestemmingen/zuid-amerika/chili/)
-
-Een extreem lang, smal land, met alles van de woestijn van Atacama in het noorden tot de gletsjers van Patagonië in het zuiden. Een van de duurdere landen van het continent, vergelijkbaar met Europese prijzen op veel vlakken, met een budget van 50 tot 70 dollar per dag.
-
-### [Argentinië](/bestemmingen/zuid-amerika/argentinie/)
-
-Van de levendige hoofdstad Buenos Aires tot de indrukwekkende Patagonische gletsjers en de watervallen van Iguazú. Qua prijsniveau vergelijkbaar met Chili, met een budget van ongeveer 45 tot 65 dollar per dag, al schommelt dit sterk door de economische situatie en wisselkoersen in het land.
-
-### [Brazilië](/bestemmingen/zuid-amerika/brazilie/)
-
-Het grootste land van het continent, met een enorme diversiteit: Rio de Janeiro, de Amazone, kilometers Atlantische kustlijn, en een cultuur die overal anders aanvoelt afhankelijk van welke regio je bezoekt. Door de omvang van het land kost reizen hier relatief veel tijd; qua budget reken je op 35 tot 60 dollar per dag.
-
-### [Paraguay](/bestemmingen/zuid-amerika/paraguay/)
-
-Een van de minst bezochte landen van het continent, en daardoor een stuk authentieker en minder toeristisch dan zijn buren. Een van de goedkoopste landen van Zuid-Amerika, met een budget van rond de 25 dollar per dag.
-
-### [Uruguay](/bestemmingen/zuid-amerika/uruguay/)
-
-Klein, relaxed, en vaak beschouwd als een van de veiligste en meest ontspannen landen van het continent. Tegelijk ook het duurste land van Zuid-Amerika, met een budget dat al snel richting de 50 tot 75 dollar per dag gaat.
-
-### [Suriname](/bestemmingen/zuid-amerika/suriname/)
-
-Nederlands-sprekend, met een unieke mix van culturen en een groot, relatief onontdekt stuk regenwoud (zoals Brownsberg Nature Park). Voor Nederlandse reizigers een bijzondere ervaring door de gedeelde taal en geschiedenis. Reken op zo'n 40 tot 55 dollar per dag, vooral door de beperktere concurrentie en infrastructuur voor budgetreizigers.
+Technisch gezien geen apart land, maar een Frans overzees departement (en dus onderdeel van de EU), met de euro als valuta. Dit maakt het meteen een van de duurdere bestemmingen van het rijtje, met prijzen die dichter bij West-Europa liggen dan bij de rest van Zuid-Amerika. Vooral interessant als overgang tussen Suriname/Guyana en Brazilië, of vanwege de ruimtebasis in Kourou.
 
 ### [Guyana](/bestemmingen/zuid-amerika/guyana/)
 
 Een van de minst bezochte landen van het continent, Engelstalig (een uitzondering in de regio), met ongerept regenwoud en rivieren zoals de Mahaica. Qua budget vergelijkbaar met Suriname, rond de 40 tot 55 dollar per dag, en vraagt over het algemeen wat meer improvisatievermogen door de beperkte toeristische infrastructuur.
 
-### [Frans-Guyana](/bestemmingen/zuid-amerika/frans-guyana/)
+### [Paraguay](/bestemmingen/zuid-amerika/paraguay/)
 
-Technisch gezien geen apart land, maar een Frans overzees departement (en dus onderdeel van de EU), met de euro als valuta. Dit maakt het meteen een van de duurdere bestemmingen van het rijtje, met prijzen die dichter bij West-Europa liggen dan bij de rest van Zuid-Amerika. Vooral interessant als overgang tussen Suriname/Guyana en Brazilië, of vanwege de ruimtebasis in Kourou.
+Een van de minst bezochte landen van het continent, en daardoor een stuk authentieker en minder toeristisch dan zijn buren. Een van de goedkoopste landen van Zuid-Amerika, met een budget van rond de 25 dollar per dag.
+
+### [Peru](/bestemmingen/zuid-amerika/peru/)
+
+Thuisbasis van Machu Picchu, maar met nog veel meer te bieden: de Amazone, de Andes, en kolossale woestijnlandschappen. Een van de meest bezochte landen van het continent, met een budget van zo'n 35 tot 50 dollar per dag.
+
+### [Suriname](/bestemmingen/zuid-amerika/suriname/)
+
+Nederlands-sprekend, met een unieke mix van culturen en een groot, relatief onontdekt stuk regenwoud (zoals Brownsberg Nature Park). Voor Nederlandse reizigers een bijzondere ervaring door de gedeelde taal en geschiedenis. Reken op zo'n 40 tot 55 dollar per dag, vooral door de beperktere concurrentie en infrastructuur voor budgetreizigers.
+
+### [Uruguay](/bestemmingen/zuid-amerika/uruguay/)
+
+Klein, relaxed, en vaak beschouwd als een van de veiligste en meest ontspannen landen van het continent. Tegelijk ook het duurste land van Zuid-Amerika, met een budget dat al snel richting de 50 tot 75 dollar per dag gaat.
 
 ## Klassieke routes
 
