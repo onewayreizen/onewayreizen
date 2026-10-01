@@ -4,7 +4,7 @@ region: Zuid-Amerika
 country: Ecuador
 destination: [Mindo]
 description: "Een uitgebreid verslag van de waterval-hikes bij Mindo: de kabelbaan, de drie verschillende routes en de vijf-watervallen-tocht."
-date: 2026-09-29
+date: 2026-09-30
 image: /images/BESTANDSNAAM.jpg
 ---
 
