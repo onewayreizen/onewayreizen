@@ -5,7 +5,7 @@ country: Ecuador
 destination: [Mindo]
 description: "Is de entreeprijs het waard en wat kun je er verwachten?"
 date: 2026-09-30
-image: /images/BESTANDSNAAM.jpg
+image: /images/ecuador/vlinders-mindo-header.jpg
 ---
 
 Mindo staat vooral bekend om zijn wolkenwoud, watervallen en vogels, maar wie houdt van vlinders, kan er ook zijn hart ophalen. Zelf was ik van plan om Mariposario de Mindo te bezoeken, de bekendste vlindertuin van het dorp, maar die bleek op het moment dat ik langsging helaas gesloten. In plaats daarvan ging ik naar Butterfly House Nathaly, vlakbij het centrum van Mindo. Hier is mijn eerlijke ervaring.
