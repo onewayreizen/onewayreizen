@@ -53,20 +53,20 @@ In totaal, inclusief reisdagen, kom je op een route van ongeveer 14 tot 16 dagen
 
 **Dag-voor-dag overzicht:**
 
-Dag 1: aankomst Quito, wennen aan de hoogte, rustige avond  
-Dag 2: bus naar Mindo (Terminal La Ofelia), aankomst, vlindertuin, avond: night walk  
-Dag 3: Mindo (tarabita + watervallen-hike), in de middag terug naar Quito  
-Dag 4: Quito, historische binnenstad, Basílica del Voto Nacional, Plaza Grande  
-Dag 5: Quito, TelefériQo en/of Mitad del Mundo, 's avonds nachtbus naar Lago Agrio (± 23:00 uur)  
-Dag 6: aankomst Lago Agrio, verder naar Cuyabeno Lodge (Cuyabeno dag 1: registratie, kanotocht, zonsondergang lagune)
-Dag 7: Cuyabeno dag 2: jungle-hike, kanotochten, bezoek lokale gemeenschap
-Dag 8: Cuyabeno dag 3: zwemmen in de lagune, vogels spotten, 's middags terug naar Lago Agrio, 's avonds nachtbus terug naar Quito
-Dag 9: aankomst Quito vroeg in de ochtend, rustdag/uitrusten, reis naar Baños (bus, ±3,5 uur)
-Dag 10: Baños, fietstocht Ruta de las Cascadas naar Pailón del Diablo
-Dag 11: Baños, adrenaline-activiteiten (canyoning, rafting of bungeejump) en/of thermale baden
-Dag 12: reis naar Cotopaxi (via Latacunga)
-Dag 13: Cotopaxi, wandeling naar de refugio, eventueel fietstocht naar Limpiopungo
-Dag 14: terug naar Quito, vertrek
+**Dag 1:** aankomst Quito, wennen aan de hoogte, rustige avond  
+**Dag 2:** bus naar Mindo (Terminal La Ofelia), aankomst, vlindertuin, avond: night walk  
+**Dag 3:** Mindo (tarabita + watervallen-hike), in de middag terug naar Quito  
+**Dag 4:** Quito, historische binnenstad, Basílica del Voto Nacional, Plaza Grande  
+**Dag 5:** Quito, TelefériQo en/of Mitad del Mundo, 's avonds nachtbus naar Lago Agrio (± 23:00 uur)  
+**Dag 6:** aankomst Lago Agrio, verder naar Cuyabeno Lodge (Cuyabeno dag 1: registratie, kanotocht, zonsondergang lagune)  
+**Dag 7:** Cuyabeno dag 2: jungle-hike, kanotochten, bezoek lokale gemeenschap  
+**Dag 8:** Cuyabeno dag 3: zwemmen in de lagune, vogels spotten, 's middags terug naar Lago Agrio, 's avonds nachtbus terug naar Quito  
+**Dag 9:** aankomst Quito vroeg in de ochtend, rustdag/uitrusten, reis naar Baños (bus, ±3,5 uur)  
+**Dag 10:** Baños, fietstocht Ruta de las Cascadas naar Pailón del Diablo  
+**Dag 11:** Baños, adrenaline-activiteiten (canyoning, rafting of bungeejump) en/of thermale baden  
+**Dag 12:** reis naar Cotopaxi (via Latacunga)  
+**Dag 13:** Cotopaxi, wandeling naar de refugio, eventueel fietstocht naar Limpiopungo  
+**Dag 14:** terug naar Quito, vertrek  
 
 In totaal dus 14 dagen, met wat ruimte om in te korten (bijvoorbeeld Quito zelf) of juist uit te breiden met een extra rustdag rond de nachtbussen naar en van Cuyabeno.
 
