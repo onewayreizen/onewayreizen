@@ -5,7 +5,7 @@ country: Ecuador
 destination: [Mindo]
 description: "Een uitgebreid verslag van de waterval-hikes bij Mindo: de kabelbaan, de drie verschillende routes en de vijf-watervallen-tocht."
 date: 2026-09-30
-image: /images/BESTANDSNAAM.jpg
+image: /images/ecuador/waterfalls-mindo-header.jpg
 ---
 
 Een bezoek aan de watervallen van Mindo misschien wel dé activiteit waar dit dorpje om bekendstaat. Aan de andere kant van een diep ravijn, bereikbaar via een spectaculaire kabelbaan, ligt het Santuario de las Cascadas: een netwerk van wandelpaden dat je langs verschillende watervallen in het wolkenwoud voert. Ik ging er zelf op uit, en neem je mee in wat je kunt verwachten, inclusief mijn eigen ervaring met de langste van de drie routes.
