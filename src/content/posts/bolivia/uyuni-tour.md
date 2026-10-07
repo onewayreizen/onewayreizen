@@ -3,7 +3,7 @@ title: "De zoutvlakte van Uyuni: hoe je een tour boekt (en waar je op moet lette
 region: Zuid-Amerika
 country: Bolivia
 destination: Uyuni
-description: dinosaurussporen en canyons in Bolivia's minst bezochte park
+description: "Een praktische gids voor het boeken van een tour door de Salar de Uyuni, met tips over routes, aanbieders en waar je op moet letten."
 date: 2026-01-01
 image: /images/uyuni-tour-header.jpg
 themes: [Avontuur]
