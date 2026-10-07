@@ -3,7 +3,7 @@ title: "Paracas: eilanden, woestijnkust en de 'Galapagos voor arme mensen'"
 region: Zuid-Amerika
 country: Peru
 destination: Paracas
-description: Tips en tricks over Paracas
+description: "Ontdek eilanden, woestijnkust en een verrassend stukje ‘Galapagos voor arme mensen’."
 date: 2026-08-14
 themes: [Wildlife]
 ---
