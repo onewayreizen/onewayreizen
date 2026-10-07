@@ -3,7 +3,7 @@ title: "Cape Le Grand National Park: witte stranden en kangoeroes op het strand"
 region: Oceanië
 country: Australië
 destination: WA
-description: 
+description: "Witte stranden, turquoise water en kangoeroes op het strand: ontdek het spectaculaire Cape Le Grand National Park."
 image: /images/australie/cape-le-grand-np-header.jpg
 date: 2026-08-14
 themes: [] 
