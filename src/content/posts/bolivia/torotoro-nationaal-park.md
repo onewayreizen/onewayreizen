@@ -1,15 +1,13 @@
 ---
-title: "Torotoro Nationaal Park"
+title: "Torotoro: dinosaurussporen en canyons in Bolivia's minst bezochte park"
 region: Zuid-Amerika
 country: Bolivia
 destination: Torotoro NP
-description: dinosaurussporen en canyons in Bolivia's minst bezochte park
+description: "Dinosaurussporen, diepe canyons en spectaculaire landschappen: ontdek het ongerepte Torotoro."
 date: 2026-01-01
 image: /images/BESTANDSNAAM.jpg
 themes: [Hiken]
 ---
-
-# Torotoro: dinosaurussporen en canyons in Bolivia's minst bezochte park
 
 Versteende dinosaurussporen die duizenden jaren oud zijn, een diepe canyon met een verfrissende waterval op de bodem, en een dorpje waar je nauwelijks andere toeristen tegenkomt. Torotoro National Park is een van de minst bezochte, maar zeker een van de meest bijzondere nationale parken van Bolivia. Terwijl de meeste reizigers rechtstreeks doorreizen naar de Salar de Uyuni, blijft dit kleine park vaak compleet onderbelicht. Zonde, want wat je hier ziet, kom je nergens anders in het land tegen.
 
