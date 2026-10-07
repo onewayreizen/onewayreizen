@@ -35,7 +35,7 @@ Een 4-daagse, 3-nachtige tour geeft je genoeg tijd voor het klassieke programma:
 
 Vanuit Quito ga je vervolgens richting het zuiden, naar Baños de Agua Santa, het bekende adventure-stadje aan de voet van de vulkaan Tungurahua. Hier draait alles om actie: mountainbiken langs de Ruta de las Cascadas naar de indrukwekkende Pailón del Diablo-waterval, canyoning, rafting, en als je durft een bungeejump vanaf een van de bruggen. Voor wie het iets rustiger aan wil doen, zijn er ook thermale baden om in te ontspannen na een actieve dag.
 
-**Van Quito naar Baños:** met de bus reis je in ongeveer 3,5 uur vanaf Terminal Quitumbe naar Baños, met meerdere vertrekken per dag.
+**Van Quito naar Baños:** met de bus reis je in ongeveer 3,5 uur vanaf Terminal Quitumbe naar Baños, met meerdere vertrekken per dag. Reken op $6,50 per enkele reis.
 
 Twee dagen geeft je genoeg tijd voor zowel de fietstocht naar de Pailón del Diablo als één of twee van de actievere activiteiten waar de stad om bekendstaat.
 
