@@ -9,8 +9,6 @@ image: /images/BESTANDSNAAM.jpg
 themes: [Island life]
 ---
 
-# Camiguin: het eiland met meer vulkanen dan steden
-
 Een piepklein eilandje met een omtrek van maar 80 kilometer, en toch maar liefst zeven vulkanen. Camiguin heeft dan ook niet voor niets de bijnaam "Island Born of Fire" gekregen: geen enkel eiland ter wereld heeft meer vulkanen per vierkante kilometer. Toch blijft dit stukje Filipijnen bij de meeste reizigers compleet onder de radar. Terwijl juist die rust, gecombineerd met adembenodigend groen, watervallen en warmwaterbronnen, Camiguin tot een van de mooiste plekken van het hele land maakt.
 
 ## Waarom Camiguin zo weinig bezoekers trekt (en waarom dat juist fijn is)
