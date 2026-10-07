@@ -4,7 +4,7 @@ region: Azië
 otherRegions: [Afrika, Zuid-Amerika]
 country: 
 destination: 
-description: 
+description: Voedselvergiftiging op reis? Dit kun je doen om snel te herstellen en erger te voorkomen.
 image: /images/hero.jpg
 date: 2026-08-14
 themes: [Reisvoorbereiding, Backpacken] 
