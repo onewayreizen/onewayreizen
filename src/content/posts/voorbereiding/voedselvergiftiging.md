@@ -7,7 +7,7 @@ destination:
 description: 
 image: /images/hero.jpg
 date: 2026-08-14
-themes: [Reisvoorbereiding] 
+themes: [Reisvoorbereiding, Backpacken] 
 ---
 
 **Disclaimer:** ik ben geen arts en dit artikel is dan ook geen medisch advies. Het is puur bedoeld als praktische, algemene informatie op basis van mijn eigen reiservaringen. Twijfel je over je klachten of worden ze erger? Neem dan altijd direct contact op met een (lokale) arts of je reisverzekering, in plaats van af te gaan op wat je hier leest.
