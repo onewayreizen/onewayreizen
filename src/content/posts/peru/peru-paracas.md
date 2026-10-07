@@ -8,7 +8,7 @@ date: 2026-08-14
 themes: [Wildlife]
 ---
 
-**Zeeleeuwen die luidruchtig liggen te zonnebaden, pinguïns die tussen de rotsen wegduiken en pelikanen die statig over het water scheren. Klinkt als de Galapagos eilanden, toch? Toch zit je hier niet ergens ver weg voor de kust van Ecuador, maar gewoon in Peru. Welkom in Paracas, ook wel liefkozend de 'Poor Man's Galapagos' genoemd. Een stuk goedkoper, een stuk toegankelijker, en minstens zo indrukwekkend.**
+Zeeleeuwen die luidruchtig liggen te zonnebaden, pinguïns die tussen de rotsen wegduiken en pelikanen die statig over het water scheren. Klinkt als de Galapagos eilanden, toch? Toch zit je hier niet ergens ver weg voor de kust van Ecuador, maar gewoon in Peru. Welkom in Paracas, ook wel liefkozend de 'Poor Man's Galapagos' genoemd. Een stuk goedkoper, een stuk toegankelijker, en minstens zo indrukwekkend.
 
 ## Waar ligt Paracas?
 Paracas ligt zo'n vier uur rijden ten zuiden van Lima, aan de Peruaanse kust. Het plaatsje waar de meeste reizigers verblijven heet officieel El Chaco, maar iedereen noemt het gewoon Paracas. Denk aan een klein en rustig vissersdorpje met een boulevard vol restaurantjes, waar 's avonds de zon prachtig achter het water zakt.
