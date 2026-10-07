@@ -4,7 +4,7 @@ region: West-Azië
 country: Verenigde Arabische Emiraten
 destination: Abu Dhabi
 image: /images/landen-headers/verenigde-arabische-emiraten-header.jpg
-description: 
+description: "Zo haal je het meeste uit een lange tussenstop in Abu Dhabi."
 date: 2026-02-20
 themes: []
 ---
