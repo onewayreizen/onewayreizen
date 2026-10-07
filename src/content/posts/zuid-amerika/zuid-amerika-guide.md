@@ -6,10 +6,8 @@ destination:
 description: "Van de Andes tot de Guyana's: complete gids met budgetten, visa, klassieke routes en praktische tips voor alle landen waar ik over schrijf."
 image: /images/hero.jpg
 date: 2026-10-02
-themes: [Reisgidsen]
+themes: [Reisgidsen, Backpacken]
 ---
-# De ultieme gids voor backpacken door Zuid-Amerika
-
 Zuid-Amerika is een continent van uitersten: van de Andes tot de Amazone, van kosmopolitische steden tot afgelegen regenwoud, en van bloedbudget-backpacken tot prijzen die dichter bij Europese niveaus liggen. Hieronder een uitgebreid overzicht van de landen waar ik over schrijf, met budgetten, visa, klassieke routes en praktische tips.
 
 ## De landen
