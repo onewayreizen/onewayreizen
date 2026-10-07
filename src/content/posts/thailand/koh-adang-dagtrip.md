@@ -3,7 +3,7 @@ title: "Dagtrip naar Koh Adang vanuit Koh Lipe: de hike naar de top"
 region: Azië
 country: Thailand
 destination: Koh Lipe
-description: 
+description: Van Koh Lipe naar Koh Adang voor een stevige hike en spectaculaire uitzichten over de eilanden.
 date: 2023-12-20
 image: /images/thailand/koh-adang-header.jpg
 themes: [Island life, Hiken]
