@@ -1,4 +1,4 @@
 ---
-country: Thailand
-beschrijving: Het land met mooie natuur, lekker eten en heerlijke eilanden om op te relaxen.
+country: Ecuador
+beschrijving: Het land met indrukwekkende vulkanen, kleurrijke steden, prachtige natuur en avontuurlijke reizen.
 ---
