@@ -2,7 +2,7 @@
 title: "Singapore in 48 uur: modern, groen en multicultureel"
 region: Azië
 country: Singapore
-description: 
+description: "Van futuristische skyline tot kleurrijke wijken en groene parken: zo ontdek je Singapore in twee dagen."
 date: 2023-09-18
 themes: 
 ---
