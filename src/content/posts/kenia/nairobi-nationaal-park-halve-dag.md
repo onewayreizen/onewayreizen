@@ -3,7 +3,7 @@ title: "Nairobi National Park: een middagsafari zonder de stad te verlaten"
 region: Afrika
 country: Kenia
 destination: Nairobi
-description: 
+description: "Op safari vlak naast Nairobi: ontdek giraffen, zebra’s en leeuwen op een steenworp van de stad."
 date: 2026-01-01
 image: /images/kenia/nairobi-nationaal-park-header.jpg
 themes: [Wildlife]
