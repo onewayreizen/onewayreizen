@@ -7,7 +7,7 @@ destination: Iguazu falls
 description: Hoeveel tijd heb je nodig en wat mag je aan beide kanten van de watervallen niet missen?
 date: 2026-01-01
 image: /images/BESTANDSNAAM.jpg
-themes: [Backpacken]
+themes: []
 ---
 
 Heb je eenmaal besloten dat je zowel de Argentijnse als de Braziliaanse kant van Iguazu wilt zien, dan komt al snel de logische vervolgvraag: hoe pak je dit nou het handigst aan? Twee landen, twee nationale parken en een landsgrens ertussenin klinkt ingewikkelder dan het in de praktijk is. Hier lees je precies hoe je je bezoek aan beide kanten van Iguazu plant, inclusief overnachten, de grensoversteek en een concrete dagindeling.
