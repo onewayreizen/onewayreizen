@@ -6,9 +6,6 @@ destination: "Baños"
 description: "Zelf fietsen langs de waterval-route vanuit Baños: van Cascada de Agoyán tot Pailón del Diablo, inclusief ziplines, kosten en praktische tips."
 date: 2026-10-07
 image: "/images/ruta-de-las-cascadas-banos.jpg"
-themes:
-  - "actief"
-  - "natuur"
 ---
 
 Baños, gelegen aan de voet van de vulkaan Tungurahua, geldt als dé adventure-hoofdstad van Ecuador, en de Ruta de las Cascadas (de Waterval-route) is meteen een van de beste manieren om dat zelf te ervaren. Op de fiets rol je van waterval naar waterval, met ziplines, kabelbanen en schommels onderweg, zonder dat je hiervoor een tour of gids nodig hebt.
