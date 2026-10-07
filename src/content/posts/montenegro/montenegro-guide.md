@@ -5,6 +5,7 @@ country: Montenegro
 destination: 
 description: "Bergen, baaien en historische stadjes: ontdek de mooiste plekken en handigste tips voor Montenegro."
 date: 2022-06-16
+image: /images/hero.jpg
 themes: [Reisgidsen]
 ---
 Montenegro is een van die landen die compleet onderschat worden: piepklein (je kunt het land in een paar uur doorkruisen), maar met een verbazingwekkende variatie aan landschap. Binnen een paar uur rijden ga je van een adembenemende fjord-achtige baai, naar ruige bergen met gletsjermeren, naar Europa's diepste kloof. Hier alles wat je moet weten voor je bezoek.
