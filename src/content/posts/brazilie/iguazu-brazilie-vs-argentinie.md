@@ -4,10 +4,10 @@ region: Zuid-Amerika
 country: Brazilië
 otherCountries: [Argentinië]
 destination: Iguazu falls
-description: 
+description: De twee kanten van Iguazu verschillen meer dan je denkt. Ontdek welke het beste bij jouw reis past.
 date: 2026-01-01
 image: /images/BESTANDSNAAM.jpg
-themes: [Backpacken]
+themes: []
 ---
 
 ## Iguazu: Braziliaanse of Argentijnse kant, welke kies je?
