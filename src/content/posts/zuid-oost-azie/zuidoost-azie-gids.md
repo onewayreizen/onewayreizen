@@ -6,7 +6,7 @@ destination:
 description: "Van Thailand tot Japan en alles ertussenin: complete gids met budgetten, visa, klassieke routes en praktische tips voor alle landen waar ik over schrijf."
 image: /images/hero.jpg
 date: 2026-10-02
-themes: [Reisgidsen]
+themes: [Reisgidsen, Backpacken]
 ---
 
 Azië is al decennialang hét continent voor backpackers, en dat is niet voor niets. Nergens anders vind je zo'n combinatie van lage kosten, een uitstekend ontwikkeld reizigersnetwerk, eindeloze variatie aan cultuur, eten en natuur, en landen die zich moeiteloos laten combineren tot een route van weken, maanden, of zelfs langer. Hieronder een uitgebreid overzicht van de landen waar ik zelf over heb geschreven, inclusief budgetten, visa, klassieke routes en praktische tips.
