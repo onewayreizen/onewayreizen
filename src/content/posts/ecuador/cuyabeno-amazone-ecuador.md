@@ -4,6 +4,7 @@ region: Zuid-Amerika
 country: Ecuador
 destination: Amazone
 description: Mijn eerlijke mening over de 4D3N tour in Cuyabeno Wildlife Reserve
+image: /images/hero.jpg
 date: 2026-10-05
 themes: [Wildlife, Avontuur]
 ---
