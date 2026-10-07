@@ -2,8 +2,8 @@
 title: "De Eolische eilanden: welke kies je en hoeveel tijd heb je nodig?"
 region: Europa
 country: Italië
-description: 
-destination: "Welke Eolische eilanden kies je en hoeveel tijd heb je nodig? Ontdek de mooiste eilanden en stel je ideale route samen."
+description:  "Welke Eolische eilanden kies je en hoeveel tijd heb je nodig? Ontdek de mooiste eilanden en stel je ideale route samen."
+destination: Eolische eilanden
 date: 2026-08-14
 themes: [Island life]
 ---
