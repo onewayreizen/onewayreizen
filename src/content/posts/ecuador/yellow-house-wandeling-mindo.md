@@ -5,7 +5,7 @@ country: Ecuador
 destination: [Mindo]
 description: "Een pittige klim door wolkenwoud, drie loops op zoek naar dieren en een prachtig uitzicht over Mindo. Praktische ervaring en tips."
 date: 2026-09-30
-image: /images/BESTANDSNAAM.jpg
+image: /images/hero.jpg
 ---
 
 Van alle hiking-opties rond Mindo is de wandeling bij Yellow House er een die relatief weinig aandacht krijgt vergeleken met de tarabita en de watervallen, maar die zeker de moeite waard is als je van een stevige, zweterige jungle-workout houdt. Het is een privé wolkenwoudreservaat aan de noordkant van Mindo, gelegen op zo'n 1200 tot 1400 meter hoogte en in handen van de familie Garzón Jaramillo. Het terrein beslaat zo'n 200 hectare herstellend secundair wolkenwoud, met een hoofdpad en meerdere zijpaden (loops) die zich door het bos slingeren. Het gebied staat eigenlijk vooral bekend als een goede vogelspotplek, met soorten als de Golden-headed Quetzal en de Crimson-rumped Toucanet op de lijst van wat je hier zou kunnen tegenkomen. Hier mijn ervaring, inclusief praktische info voor wie het zelf wil doen.
