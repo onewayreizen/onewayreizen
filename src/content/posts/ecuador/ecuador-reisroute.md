@@ -41,7 +41,7 @@ Twee dagen geeft je genoeg tijd voor zowel de fietstocht naar de Pailón del Dia
 
 ## 2 dagen Cotopaxi: de vulkaan beklimmen (of bewonderen)
 
-De laatste stop van deze route is Cotopaxi National Park, rondom een van de hoogste actieve vulkanen ter wereld, met zijn kenmerkende, bijna perfect symmetrische besneeuwde top. Je hoeft niet per se de volledige (en behoorlijk zware) beklimming naar de top te doen om ervan te genieten: een wandeling naar de refugio op zo'n 4.800 meter hoogte, of een fietstocht vanaf daar naar beneden richting de Limpiopungo-lagune, is voor de meeste reizigers al een indrukwekkende en behapbare ervaring.
+De laatste stop van deze route is Cotopaxi National Park, rondom een van de hoogste actieve vulkanen ter wereld, met zijn kenmerkende, bijna perfect symmetrische besneeuwde top. Je hoeft niet per se de volledige (en behoorlijk zware) beklimming naar de top te doen om ervan te genieten: een wandeling naar de refugio op zo'n 4.800 meter hoogte of een fietstocht vanaf daar naar beneden richting de Limpiopungo-lagune, is voor de meeste reizigers al een indrukwekkende en behapbare ervaring.
 
 **Van Baños naar Cotopaxi:** de directe verbinding is beperkt, dus reken op een reis via Latacunga (ongeveer 2 uur bus vanaf Baños), van waaruit je een taxi of georganiseerde tour naar het park zelf regelt.
 
