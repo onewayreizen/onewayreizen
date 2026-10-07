@@ -3,7 +3,7 @@ title: "Gyeongju: het openluchtmuseum van Korea"
 region: Azië
 country: Zuid-Korea
 destination: Gyeongju
-description: 
+description: "Eeuwenoude tempels, koninklijke graven en historische plekken maken van Gyeongju een reis door Korea’s rijke verleden."
 date: 2026-08-14
 themes: 
 ---
