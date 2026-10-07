@@ -3,7 +3,7 @@ title: "Tips voor een scooter huren in Zuidoost-Azië (+ mijn ervaring)"
 region: Azië
 country: 
 destination: 
-description: 
+description: "Waar moet je op letten bij het huren van een scooter in Zuidoost-Azië? Mijn tips en ervaringen op een rij."
 image: /images/hero.jpg
 date: 2026-08-14
 themes: [Backpacken]
