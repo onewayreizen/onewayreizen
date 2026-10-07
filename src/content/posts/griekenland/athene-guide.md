@@ -3,7 +3,7 @@ title: "Athene in 3 dagen: de Akropolis en verder"
 region: Europa
 country: Griekenland
 destination: Athene
-description: 
+description: "Oude ruïnes, levendige straten en Griekse gezelligheid: zo haal je het maximale uit een paar dagen Athene."
 date: 2022-08-22
 themes: []
 ---
