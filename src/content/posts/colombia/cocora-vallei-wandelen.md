@@ -8,7 +8,6 @@ date: 2026-01-01
 image: /images/cocora-header.jpg
 themes: [Hiken]
 ---
-# Wandelen door het Cocora-dal bij Salento
 
 Het Cocora-dal, vlakbij het knusse koffiestadje Salento, is een van de meest iconische plekken van Colombia, en niet zonder reden. Hier vind je de wax palm, het nationale symbool van het land, in zijn meest indrukwekkende vorm: bomen die tot wel 60 meter hoog kunnen worden, en daarmee de hoogste palmbomen ter wereld zijn. Loop je door het dal, dan voel je je bijna in een decor van Dr. Seuss beland: de dunne, torenhoge stammen steken op een bijna karikaturale manier boven de glooiende, groene heuvels uit.
 
