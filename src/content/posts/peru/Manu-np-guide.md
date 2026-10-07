@@ -3,14 +3,13 @@ title: "Manu National Park: de Amazone zonder de massa"
 region: Zuid-Amerika
 country: Peru
 destination: Amazone
-description: Amazone
+description: "Manu National Park: ontdek de Amazone in alle rust, ver weg van de massa."
 date: 2026-01-01
 image: /images/BESTANDSNAAM.jpg
 themes: [Wildlife, Avontuur]
 ---
 
-## Manu National Park: de Amazone zonder de massa
-**Ara's die in groepen van honderden bij elkaar komen op een kleiwand. Reuzenotters die door een oerwoudmeer glijden. En dat allemaal zonder dat je met tientallen andere toeristenboten om het beste plekje hoeft te vechten. Dat is Manu National Park, een van de meest afgelegen en ongerepte stukjes Amazone die je in Peru kunt bezoeken. Zwaarder om te bereiken dan andere jungle-bestemmingen, maar de beloning is er ook naar.**
+Ara's die in groepen van honderden bij elkaar komen op een kleiwand. Reuzenotters die door een oerwoudmeer glijden. En dat allemaal zonder dat je met tientallen andere toeristenboten om het beste plekje hoeft te vechten. Dat is Manu National Park, een van de meest afgelegen en ongerepte stukjes Amazone die je in Peru kunt bezoeken. Zwaarder om te bereiken dan andere jungle-bestemmingen, maar de beloning is er ook naar.
 
 ## Wat maakt Manu zo bijzonder?
 Manu National Park ligt in het zuidoosten van Peru en is met ruim anderhalf miljoen hectare een van de meest biodiverse plekken op aarde. Het park loopt van de Andes helemaal af tot in het Amazonebekken, waardoor je binnen een paar dagen door compleet verschillende klimaatzones reist: van de hoge, kale bergtoppen boven de 4000 meter, via mistig wolkenwoud, tot uiteindelijk de dichte, warme laaglandjungle.
