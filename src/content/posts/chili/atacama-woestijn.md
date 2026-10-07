@@ -1,15 +1,13 @@
 ---
-title: De Atacama woestijn
+title: "De Atacama woestijn: de droogste plek op aarde verkennen"
 region: Zuid-Amerika
 country: Chili
 destination: Atacama
-description: De droogste plek op aarde verkennen
+description: "Een buitenaards landschap vol vulkanen, zoutvlaktes en eindeloze droogte."
 date: 2026-01-01
 image: /images/atacama-header.jpg
 themes: [Avontuur]
 ---
-
-# De Atacama woestijn: de droogste plek op aarde verkennen
 
 Vulkanen die als besneeuwde reuzen boven de horizon uittorenen, felroze flamingo's die rustig door zoutmeren waden, en 's nachts een sterrenhemel zo helder dat je bijna in de Melkweg lijkt te staan. De Atacama woestijn in het noorden van Chili is officieel de droogste plek op aarde, maar laat je door die titel niet misleiden: dit is een van de meest afwisselende en kleurrijke landschappen die je in heel Zuid-Amerika tegenkomt.
 
