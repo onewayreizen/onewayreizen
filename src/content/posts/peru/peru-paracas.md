@@ -5,6 +5,7 @@ country: Peru
 destination: Paracas
 description: "Ontdek eilanden, woestijnkust en een verrassend stukje ‘Galapagos voor arme mensen’."
 date: 2026-08-14
+image: public/images/hero.jpg
 themes: [Wildlife]
 ---
 
