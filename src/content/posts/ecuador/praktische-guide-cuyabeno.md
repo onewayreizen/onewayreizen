@@ -5,7 +5,7 @@ country: Ecuador
 destination: Amazone
 description: Praktische gids met alles wat je moet weten voor je reis naar Cuyabeno Wildlife Reserve.
 date: 2026-10-05
-image: /images/BESTANDSNAAM.jpg
+image: /images/hero.jpg
 themes: []
 featured: false
 ---
