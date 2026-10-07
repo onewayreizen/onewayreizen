@@ -3,7 +3,7 @@ title: "De ultieme gids voor backpacken door Midden-Amerika"
 region: Midden-Amerika
 country: 
 destination: 
-description: ""
+description: "Alles wat je nodig hebt voor een backpackreis door Midden-Amerika: route, budget, vervoer en praktische tips."
 image: /images/hero.jpg
 date: 2026-10-02
 themes: [Reisgidsen]
