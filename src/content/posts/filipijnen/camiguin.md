@@ -3,7 +3,7 @@ title: "Camiguin: het eiland met meer vulkanen dan steden"
 region: Azië
 country: Filipijnen
 destination: Camiguin
-description: Vulkanen, witte stranden en groen!
+description: "Vulkanen, warmwaterbronnen en groene landschappen: ontdek het bijzondere Camiguin."
 date: 2026-01-01
 image: /images/BESTANDSNAAM.jpg
 themes: [Island life]
