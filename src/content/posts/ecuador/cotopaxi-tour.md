@@ -19,6 +19,10 @@ Je kiest bij het hostel tussen twee pakketten:
 
 Uiteraard ben je vrij om meerdere nachten te boeken, maar dit zijn de twee opties die de meeste mensen kiezen.
 
+## Watervallen hike
+
+De watervallen hike zit bij elke tour inbegrepen of je nou 2 dagen of 3 dagen verblijft. Op de dag van aankomst vertrek je na de lunch richting de rivier. Met de rubberlaarzen van het hostel loop je via de zijkanten van de rivier naar de watervallen. Bij de tweede waterval kun je zwemmen, dus neem je zwemkleding mee. Let wel op: het is vrij koud. Het is ongeveer een uur heen en een uur terug.
+
 ## Pasochoa: een wandeling naar de top
 
 De Pasochoa-hike is een begeleide wandeling naar de top van de Pasochoa-vulkaan, inbegrepen bij elk arrangement van minimaal 2 nachten. Vertrek is om 8:00 uur, en je bent ongeveer 5 tot 7 uur onderweg. De moeilijkheidsgraad ligt tussen gemiddeld en zwaar. 
