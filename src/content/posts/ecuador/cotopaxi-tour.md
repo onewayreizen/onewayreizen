@@ -1,0 +1,104 @@
+---
+title: "De nightwalk in Mindo: mijn ervaring"
+region: Zuid-Amerika
+country: Ecuador
+destination: [Mindo]
+description: "Een eerlijk verslag van de nightwalk door het wolkenwoud van Mindo, Ecuador: kikkers, spinnen en de zeldzame olinguito."
+date: 2026-09-29
+image: /images/ecuador/mindo-night-walk-header.jpg
+---
+# The Secret Garden Cotopaxi: tours, prijzen en praktische tips
+
+Op de flanken van de vulkanen rond Cotopaxi, op een uurtje rijden van Quito, ligt The Secret Garden Cotopaxi: een hostel dat een combinatie is van overnachten, eten en een flink aanbod aan tours naar de omliggende vulkanen. Je kunt er een of twee nachten blijven, en omdat een deel van de activiteiten al in het pakket zit, is het een makkelijke manier om dit gebied te verkennen zonder alles zelf te hoeven regelen.
+
+## 2 dagen of 3 dagen?
+
+Je kiest bij het hostel tussen twee pakketten:
+
+**2 dagen, 1 nacht.** Hier zit de waterval-hike in begrepen. Een compacte optie als je maar weinig tijd hebt, of Cotopaxi vooral als tussenstop in je Ecuador-route wilt meepakken.
+
+**3 dagen, 2 nachten.** Je doet de waterval-hike op de dag van aankomst, en op dag 2 of dag 3 zit ook de Pasochoa-hike in het pakket. Dit is de beste keuze als je wat rustiger aan wilt doen, of als je daarnaast nog een extra tour wilt boeken, zoals paardrijden of de wandeling in het Cotopaxi National Park.
+
+## Pasochoa: een wandeling naar de top
+
+De Pasochoa-hike is een begeleide wandeling naar de top van de Pasochoa-vulkaan, inbegrepen bij elk arrangement van minimaal 2 nachten. Vertrek is om 8:00 uur, en je bent ongeveer 5 tot 7 uur onderweg. De moeilijkheidsgraad ligt tussen gemiddeld en zwaar. Rubberlaarzen zijn nodig, dus laat je eigen schoenen thuis of in je kamer, en leen laarzen bij het hostel.
+
+## De tours die je extra kunt boeken
+
+Naast wat in je pakket zit, kun je bij het hostel een aantal extra tours aanmelden. Prijzen verschillen per groepsgrootte: hoe meer mensen, hoe goedkoper het per persoon wordt.
+
+### Cotopaxi National Park Tour
+
+Een begeleide wandeling naar het José Rivas Refuge, het basiskamp op 4.810 meter. Als het weer meewerkt, kun je zelfs een gletsjer bezoeken op de actieve Cotopaxi, op ongeveer 5.000 meter hoogte. De wandeling begint op 4.700 meter en duurt ongeveer 2 uur. Na afloop kun je kiezen om met een mountainbike de vulkaan af te fietsen.
+
+- **Prijs per persoon:** 4 personen $40, 3 personen $50, 2 personen $60, 1 persoon $80
+- **Mountainbike erbij:** +$10
+- **Totale duur:** ongeveer 5 tot 6 uur, vertrek om 8:10 uur
+- **Niveau:** gemakkelijk tot gemiddeld
+
+Dit is de meest toegankelijke tour van het aanbod, en dus een goede keuze als je nog niet gewend bent aan de hoogte of niet te zwaar wilt inzetten.
+
+### Rumiñahui Summit Trek
+
+Een wandeling naar de centrale top van de Rumiñahui-vulkaan, met uitzicht op de Cotopaxi en volgens het hostel een grote kans om wilde dieren te zien. Je begint bij de oevers van het Limpiopungo-meer in het Cotopaxi National Park, op 4.150 meter, en eindigt op de top op 4.631 meter. Dit is een uitdagender wandeling waarvoor je een goede conditie nodig hebt, en je moet zelfverzekerd zijn bij het klauteren over losse rotsen vlak bij de top.
+
+- **Prijs per persoon:** vanaf 2 personen $60, alleen $100
+- **Duur:** ongeveer 5 tot 6 uur, vertrek om 7:15 uur
+- **Niveau:** gemiddeld tot zwaar
+
+### Paardrijden in de Andes
+
+Een paardrijtocht van ongeveer 3 uur over de hooggelegen vlaktes van de Andes, langs rivieren, kloven en ravijnen, met de Cotopaxi als achtergrond. Een lokale gids vertelt onderweg over de vulkanen, flora en fauna. Ben je op zoek naar iets meer actie, dan geeft de gids aan wanneer het veilig is om te galopperen.
+
+- **Prijs per persoon:** 4 personen ongeveer $55, 3 personen $60, 2 personen $70, 1 persoon $100
+- **Totale duur van de tour:** ongeveer 5 tot 6 uur, vertrek om 8:20 uur
+- **Groepsgrootte:** maximaal 15 personen
+
+### Sincholagua
+
+Voor wie het avontuurlijker wil: een rotsachtige klim naar de top van de Sincholagua-vulkaan, op ongeveer 4.900 meter. Je klimt met klimgordel, helm en touw over de rotsen. Volgens het hostel heb je hiervoor geen eerdere klimervaring nodig, maar je moet het wel durven.
+
+- **Prijs per persoon:** 3 personen $80, 2 personen $100, 1 persoon $240
+- **Niveau:** zwaar, met rotsklimmen
+
+### Iliniza Norte
+
+De zwaarste optie van het aanbod: een dagtocht naar de top van Iliniza Norte op 5.126 meter. Je rijdt 's ochtends over de Avenue of the Volcanoes naar het dorp El Chaupi en vervolgens naar de parkeerplaats La Virgen op 3.900 meter. Vandaar loop je ongeveer 3 uur naar de berghut Nuevos Horizontes op 4.750 meter, gevolgd door nog eens zo'n 3 uur klauteren naar de top. De afdaling loopt deels via zandige stukken aan de andere kant van de berg, tot je weer bij de parkeerplaats uitkomt.
+
+- **Prijs:** $130 per persoon
+- **Minimum:** 3 deelnemers
+
+## De vulkanen op een rij
+
+| Vulkaan | Hoogte |
+|---|---|
+| Cotopaxi | 5.897 m |
+| Iliniza Sur | 5.245 m |
+| Iliniza Norte | 5.126 m |
+| Sincholagua | 4.899 m |
+| Corazón | 4.790 m |
+| Rumiñahui | 4.712 m |
+
+## Aanmelden, vervoer en uitchecken
+
+**Tours boeken:** je meldt je aan tijdens het snackmoment vanaf 17:00 uur, en kunt dit doen tot 17:30 uur op de dag vóór de tour. Bij annulering op het laatste moment betaal je $25.
+
+**Vervoer:** het hostel regelt dagelijks gegarandeerde shuttles rechtstreeks naar Baños, Latacunga, Quito en Machachi. Vertrek is om 15:00 uur.
+
+**Uitchecken:** voor 10:00 uur. Doe je 's ochtends een activiteit, haal dan eerst je spullen op voordat je gaat ontbijten. Je kunt je rekening betalen en uitchecken vanaf 7:00 uur, zodra het kantoor opengaat. Op de dag van vertrek zijn ontbijt en lunch inbegrepen, maar vertrek je niet op tijd, dan wordt er $20 in rekening gebracht.
+
+## Praktische tips
+
+**Hoogte:** je zit hier ruim boven de 3.000 meter, en veel tours gaan nog een stuk hoger. Neem de eerste dag rustig, drink veel water en ga niet meteen voor de zwaarste tour. Daarom is de 3-daagse variant ook een slimme keuze: je lichaam krijgt de tijd om te wennen.
+
+**Kleding:** de temperatuur loopt flink uiteen tussen het hostel en de toppen. Lagen, een winddichte jas, handschoenen en een muts zijn geen overbodige luxe, zeker bij de tours boven de 4.500 meter.
+
+**Wat neem je mee:** zonnebrand (op die hoogte brand je sneller dan je denkt), voldoende water, een zonnebril en iets te eten voor onderweg.
+
+**Welke tour kies je?** Heb je maar één extra tour, dan is de Cotopaxi National Park Tour de veiligste keuze: de minste inspanning, en je komt dicht bij de vulkaan zelf. Houd je van wandelen en wil je de top van een vulkaan halen, ga dan voor Rumiñahui. Wil je iets rustigers, dan is paardrijden de beste optie.
+
+Dit hostel maakt het je makkelijk: je slaapt midden in het vulkaanlandschap, een deel van de tours zit al in je pakket, en vervoer naar je volgende bestemming wordt vanaf de deur geregeld.
+
+---
+
+Twee dingen om te checken in je bron: de prijs voor paardrijden bij 4 personen was op de foto deels onleesbaar ($55 lijkt het bedrag), en de details van de waterval-hike stonden niet in je document, dus die heb ik bewust algemeen gehouden. Als je me vertelt hoe die hike was (duur, hoe zwaar, wat je zag), voeg ik dat toe, en ook je eigen ervaring met het hostel kan het artikel een stuk persoonlijker maken.
