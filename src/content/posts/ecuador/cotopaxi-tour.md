@@ -75,7 +75,7 @@ De zwaarste optie van het aanbod: een dagtocht naar de top van Iliniza Norte op 
 ## De vulkanen op een rij
 
 | Vulkaan | Hoogte |
-
+|---|---|
 | Cotopaxi | 5.897 m |
 | Iliniza Sur | 5.245 m |
 | Iliniza Norte | 5.126 m |
@@ -103,4 +103,3 @@ Het hostel biedt een tour aan naar de summit van Cotopaxi. Dit kost $350 per per
 **Welke tour kies je?** Heb je maar tijd één extra tour, dan is de Cotopaxi National Park Tour de veiligste keuze: de minste inspanning en je komt dicht bij de vulkaan zelf. Houd je van wandelen en wil je de top van een vulkaan halen, ga dan voor Rumiñahui. Wil je iets rustigers, dan is paardrijden de beste optie.
 
 Dit hostel maakt het je makkelijk: je slaapt midden in het vulkaanlandschap, een deel van de tours zit al in je pakket, en vervoer naar je volgende bestemming wordt vanaf de deur geregeld.
-
