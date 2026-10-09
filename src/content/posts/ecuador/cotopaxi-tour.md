@@ -75,7 +75,7 @@ De zwaarste optie van het aanbod: een dagtocht naar de top van Iliniza Norte op 
 ## De vulkanen op een rij
 
 | Vulkaan | Hoogte |
-|---|---|
+
 | Cotopaxi | 5.897 m |
 | Iliniza Sur | 5.245 m |
 | Iliniza Norte | 5.126 m |
