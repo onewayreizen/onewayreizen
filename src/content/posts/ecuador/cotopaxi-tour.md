@@ -1,15 +1,13 @@
 ---
-title: "De nightwalk in Mindo: mijn ervaring"
+title: "The Secret Garden Cotopaxi: tours, prijzen en praktische tips"
 region: Zuid-Amerika
 country: Ecuador
-destination: [Mindo]
-description: "Een eerlijk verslag van de nightwalk door het wolkenwoud van Mindo, Ecuador: kikkers, spinnen en de zeldzame olinguito."
-date: 2026-09-29
+destination: [Cotopaxi]
+description: "Overnachten tussen de vulkanen van Cotopaxi: alles over de 2- en 3-daagse pakketten, extra tours met prijzen en handige praktische tips."
+date: 2026-10-09
 image: /images/ecuador/mindo-night-walk-header.jpg
 ---
-# The Secret Garden Cotopaxi: tours, prijzen en praktische tips
-
-Op de flanken van de vulkanen rond Cotopaxi, op een uurtje rijden van Quito, ligt The Secret Garden Cotopaxi: een hostel dat een combinatie is van overnachten, eten en een flink aanbod aan tours naar de omliggende vulkanen. Je kunt er een of twee nachten blijven, en omdat een deel van de activiteiten al in het pakket zit, is het een makkelijke manier om dit gebied te verkennen zonder alles zelf te hoeven regelen.
+Op de flanken van de vulkanen rond Cotopaxi, op twee uurtjes rijden van Quito, ligt The Secret Garden Cotopaxi: een hostel dat een combinatie is van overnachten, eten en een flink aanbod aan tours naar de omliggende vulkanen. Je kunt er een of twee nachten blijven en omdat een deel van de activiteiten al in het pakket zit, is het een makkelijke manier om dit gebied te verkennen zonder alles zelf te hoeven regelen.
 
 ## 2 dagen of 3 dagen?
 
@@ -19,9 +17,11 @@ Je kiest bij het hostel tussen twee pakketten:
 
 **3 dagen, 2 nachten.** Je doet de waterval-hike op de dag van aankomst, en op dag 2 of dag 3 zit ook de Pasochoa-hike in het pakket. Dit is de beste keuze als je wat rustiger aan wilt doen, of als je daarnaast nog een extra tour wilt boeken, zoals paardrijden of de wandeling in het Cotopaxi National Park.
 
+Uiteraard ben je vrij om meerdere nachten te boeken, maar dit zijn de twee opties die de meeste mensen kiezen.
+
 ## Pasochoa: een wandeling naar de top
 
-De Pasochoa-hike is een begeleide wandeling naar de top van de Pasochoa-vulkaan, inbegrepen bij elk arrangement van minimaal 2 nachten. Vertrek is om 8:00 uur, en je bent ongeveer 5 tot 7 uur onderweg. De moeilijkheidsgraad ligt tussen gemiddeld en zwaar. Rubberlaarzen zijn nodig, dus laat je eigen schoenen thuis of in je kamer, en leen laarzen bij het hostel.
+De Pasochoa-hike is een begeleide wandeling naar de top van de Pasochoa-vulkaan, inbegrepen bij elk arrangement van minimaal 2 nachten. Vertrek is om 8:00 uur, en je bent ongeveer 5 tot 7 uur onderweg. De moeilijkheidsgraad ligt tussen gemiddeld en zwaar. 
 
 ## De tours die je extra kunt boeken
 
@@ -36,11 +36,11 @@ Een begeleide wandeling naar het José Rivas Refuge, het basiskamp op 4.810 mete
 - **Totale duur:** ongeveer 5 tot 6 uur, vertrek om 8:10 uur
 - **Niveau:** gemakkelijk tot gemiddeld
 
-Dit is de meest toegankelijke tour van het aanbod, en dus een goede keuze als je nog niet gewend bent aan de hoogte of niet te zwaar wilt inzetten.
+Dit is de meest toegankelijke tour van het aanbod en dus een goede keuze als je nog niet gewend bent aan de hoogte of niet te zwaar wilt inzetten.
 
 ### Rumiñahui Summit Trek
 
-Een wandeling naar de centrale top van de Rumiñahui-vulkaan, met uitzicht op de Cotopaxi en volgens het hostel een grote kans om wilde dieren te zien. Je begint bij de oevers van het Limpiopungo-meer in het Cotopaxi National Park, op 4.150 meter, en eindigt op de top op 4.631 meter. Dit is een uitdagender wandeling waarvoor je een goede conditie nodig hebt, en je moet zelfverzekerd zijn bij het klauteren over losse rotsen vlak bij de top.
+Een wandeling naar de centrale top van de Rumiñahui-vulkaan, met uitzicht op de Cotopaxi en volgens het hostel een grote kans om wilde dieren te zien. Je begint bij de oevers van het Limpiopungo-meer in het Cotopaxi National Park, op 4.150 meter, en eindigt op de top op 4.631 meter. Dit is een uitdagender wandeling waarvoor je een goede conditie nodig hebt en je moet zelfverzekerd zijn bij het klauteren over losse rotsen vlak bij de top.
 
 - **Prijs per persoon:** vanaf 2 personen $60, alleen $100
 - **Duur:** ongeveer 5 tot 6 uur, vertrek om 7:15 uur
@@ -83,9 +83,10 @@ De zwaarste optie van het aanbod: een dagtocht naar de top van Iliniza Norte op 
 
 **Tours boeken:** je meldt je aan tijdens het snackmoment vanaf 17:00 uur, en kunt dit doen tot 17:30 uur op de dag vóór de tour. Bij annulering op het laatste moment betaal je $25.
 
-**Vervoer:** het hostel regelt dagelijks gegarandeerde shuttles rechtstreeks naar Baños, Latacunga, Quito en Machachi. Vertrek is om 15:00 uur.
+**Vervoer:** het hostel regelt dagelijks gegarandeerde shuttles rechtstreeks naar Baños, Latacunga, Quito en Machachi. Vertrek is om 15:00 uur. Vanaf Quito vertrekt de shuttle rond 10 uur naar Cotopaxi en als je vanuit het zuiden komt, kun je afspreken dat je in Machachi wordt opgehaald om 11 uur.
 
-**Uitchecken:** voor 10:00 uur. Doe je 's ochtends een activiteit, haal dan eerst je spullen op voordat je gaat ontbijten. Je kunt je rekening betalen en uitchecken vanaf 7:00 uur, zodra het kantoor opengaat. Op de dag van vertrek zijn ontbijt en lunch inbegrepen, maar vertrek je niet op tijd, dan wordt er $20 in rekening gebracht.
+## Cotopaxi Summit
+Het hostel biedt een tour aan naar de summit van Cotopaxi. Dit kost $350 per persoon en vergt vrij veel van je. Je krijgt goede kleding mee, een harnas voor het klimmen in de sneeuw en stevige schoenen waar spikes onder kunnen worden gezet. Je vertrek tegen 2 uur 's middags naar base camp om daar te overnachten. Midden in de nacht begin je de trek naar de summit om daar de zonsopgang te bekijken. Daarna hike je naar beneden. Afhankelijk van het tempo van je groep ben je in de ochtend terug bij het hostel.
 
 ## Praktische tips
 
@@ -93,12 +94,9 @@ De zwaarste optie van het aanbod: een dagtocht naar de top van Iliniza Norte op 
 
 **Kleding:** de temperatuur loopt flink uiteen tussen het hostel en de toppen. Lagen, een winddichte jas, handschoenen en een muts zijn geen overbodige luxe, zeker bij de tours boven de 4.500 meter.
 
-**Wat neem je mee:** zonnebrand (op die hoogte brand je sneller dan je denkt), voldoende water, een zonnebril en iets te eten voor onderweg.
+**Wat neem je mee:** zonnebrand (op die hoogte brand je sneller dan je denkt), voldoende water, een zonnebril, regenjad en iets te eten voor onderweg.
 
-**Welke tour kies je?** Heb je maar één extra tour, dan is de Cotopaxi National Park Tour de veiligste keuze: de minste inspanning, en je komt dicht bij de vulkaan zelf. Houd je van wandelen en wil je de top van een vulkaan halen, ga dan voor Rumiñahui. Wil je iets rustigers, dan is paardrijden de beste optie.
+**Welke tour kies je?** Heb je maar tijd één extra tour, dan is de Cotopaxi National Park Tour de veiligste keuze: de minste inspanning en je komt dicht bij de vulkaan zelf. Houd je van wandelen en wil je de top van een vulkaan halen, ga dan voor Rumiñahui. Wil je iets rustigers, dan is paardrijden de beste optie.
 
 Dit hostel maakt het je makkelijk: je slaapt midden in het vulkaanlandschap, een deel van de tours zit al in je pakket, en vervoer naar je volgende bestemming wordt vanaf de deur geregeld.
 
----
-
-Twee dingen om te checken in je bron: de prijs voor paardrijden bij 4 personen was op de foto deels onleesbaar ($55 lijkt het bedrag), en de details van de waterval-hike stonden niet in je document, dus die heb ik bewust algemeen gehouden. Als je me vertelt hoe die hike was (duur, hoe zwaar, wat je zag), voeg ik dat toe, en ook je eigen ervaring met het hostel kan het artikel een stuk persoonlijker maken.
