@@ -79,14 +79,14 @@ De zwaarste optie van het aanbod: een dagtocht naar de top van Iliniza Norte op 
 | Corazón | 4.790 m |
 | Rumiñahui | 4.712 m |
 
+## Cotopaxi Summit
+Het hostel biedt een tour aan naar de summit van Cotopaxi. Dit kost $350 per persoon en vergt vrij veel van je. Je krijgt goede kleding mee, een harnas voor het klimmen in de sneeuw en stevige schoenen waar spikes onder kunnen worden gezet. Je vertrek tegen 2 uur 's middags naar base camp om daar te overnachten. Midden in de nacht begin je de trek naar de summit om daar de zonsopgang te bekijken. Daarna hike je naar beneden. Afhankelijk van het tempo van je groep ben je in de ochtend terug bij het hostel.
+
 ## Aanmelden, vervoer en uitchecken
 
 **Tours boeken:** je meldt je aan tijdens het snackmoment vanaf 17:00 uur, en kunt dit doen tot 17:30 uur op de dag vóór de tour. Bij annulering op het laatste moment betaal je $25.
 
 **Vervoer:** het hostel regelt dagelijks gegarandeerde shuttles rechtstreeks naar Baños, Latacunga, Quito en Machachi. Vertrek is om 15:00 uur. Vanaf Quito vertrekt de shuttle rond 10 uur naar Cotopaxi en als je vanuit het zuiden komt, kun je afspreken dat je in Machachi wordt opgehaald om 11 uur.
-
-## Cotopaxi Summit
-Het hostel biedt een tour aan naar de summit van Cotopaxi. Dit kost $350 per persoon en vergt vrij veel van je. Je krijgt goede kleding mee, een harnas voor het klimmen in de sneeuw en stevige schoenen waar spikes onder kunnen worden gezet. Je vertrek tegen 2 uur 's middags naar base camp om daar te overnachten. Midden in de nacht begin je de trek naar de summit om daar de zonsopgang te bekijken. Daarna hike je naar beneden. Afhankelijk van het tempo van je groep ben je in de ochtend terug bij het hostel.
 
 ## Praktische tips
 
