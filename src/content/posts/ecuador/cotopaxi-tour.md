@@ -84,7 +84,9 @@ De zwaarste optie van het aanbod: een dagtocht naar de top van Iliniza Norte op 
 | Rumiñahui | 4.712 m |
 
 ## Cotopaxi Summit
-Het hostel biedt een tour aan naar de summit van Cotopaxi. Dit kost $350 per persoon en vergt vrij veel van je. Je krijgt goede kleding mee, een harnas voor het klimmen in de sneeuw en stevige schoenen waar spikes onder kunnen worden gezet. Je vertrek tegen 2 uur 's middags naar base camp om daar te overnachten. Midden in de nacht begin je de trek naar de summit om daar de zonsopgang te bekijken. Daarna hike je naar beneden. Afhankelijk van het tempo van je groep ben je in de ochtend terug bij het hostel.
+Het hostel biedt een tour aan naar de summit van Cotopaxi en dit vergt vrij veel van je. Je krijgt goede kleding mee, een harnas voor het klimmen in de sneeuw en stevige schoenen waar spikes onder kunnen worden gezet. Je vertrek tegen 2 uur 's middags naar base camp om daar te overnachten. Midden in de nacht begin je de trek naar de summit om daar de zonsopgang te bekijken. Daarna hike je naar beneden. Afhankelijk van het tempo van je groep ben je in de ochtend terug bij het hostel.
+
+- **Prijs:** $350 per persoon
 
 ## Aanmelden, vervoer en uitchecken
 
