@@ -88,7 +88,7 @@ Het hostel biedt een tour aan naar de summit van Cotopaxi en dit vergt vrij veel
 
 - **Prijs:** $350 per persoon
 
-## Aanmelden, vervoer en uitchecken
+## Aanmelden en vervoer
 
 **Tours boeken:** je meldt je aan tijdens het snackmoment vanaf 17:00 uur, en kunt dit doen tot 17:30 uur op de dag vóór de tour. Bij annulering op het laatste moment betaal je $25.
 
