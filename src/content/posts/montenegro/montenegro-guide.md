@@ -26,21 +26,9 @@ Verderop langs de kust ligt Budva, bekend om zijn stranden (met Jaz Beach als be
 
 Vlak bij Budva ligt Sveti Stefan, een voormalig vissersdorpje op een klein schiereiland, inmiddels omgetoverd tot luxueus resort. Je kunt het eilandje zelf niet altijd vrij bezoeken (het is deels privéterrein), maar het uitzicht erop vanaf het vasteland is op zich al een van de bekendste plaatjes van Montenegro.
 
-## Lovćen National Park: uitzicht over vier landen
-
-Lovćen National Park, in de bergen net boven Kotor, is relatief compact maar biedt een van de mooiste uitzichtpunten van het land. Vanaf het mausoleum van Njegoš, op de top van de berg, kijk je op een heldere dag uit over maar liefst vier landen. De kronkelende weg naar boven (met tientallen haarspeldbochten) is op zich al een avontuur.
-
 ## Durmitor National Park: bergen en gletsjermeren
 
 Dieper het binnenland in ligt Durmitor National Park, eveneens UNESCO-werelderfgoed, met ruige bergtoppen en een aantal prachtige gletsjermeren, waarvan het Zwarte Meer (Crno Jezero) het bekendste is. Dit is het gebied voor wandelaars: talloze bewegwijzerde routes van verschillende niveaus, met Žabljak als de bekendste uitvalsbasis.
-
-## Tara Canyon: Europa's diepste kloof
-
-Vlak bij Durmitor ligt de Tara-kloof, met een diepte van ongeveer 1.300 meter de diepste kloof van Europa (en de op een na langste ter wereld, na de Grand Canyon). De beroemde Đurđevića Tara-brug geeft je al een indrukwekkend uitzicht, maar wil je de kloof echt ervaren, boek dan een rafting-tocht op de rivier die erdoorheen stroomt: een van de beste witwater-raftingervaringen van heel Europa.
-
-## Skadar Lake: het grootste meer van de Balkan
-
-In het zuiden van het land ligt Skadar Lake, het grootste meer van de Balkan (gedeeld met Albanië), met een enorme rijkdom aan vogels en een rustige, groene sfeer die compleet anders aanvoelt dan de ruige bergen of de drukkere kust. Een boottochtje over het meer, langs kleine eilandjes met oude kloosters, is een mooie, ontspannen dag tussen de actievere activiteiten door.
 
 ## Praktische informatie
 
@@ -50,7 +38,7 @@ In het zuiden van het land ligt Skadar Lake, het grootste meer van de Balkan (ge
 
 **Hoe kom je er?** De luchthaven van Tivat ligt direct aan de Baai van Kotor en is daarmee ideaal als je vooral de kust wilt bezoeken. De luchthaven van Podgorica (de hoofdstad) ligt wat centraler in het land. Er rijdt ook een treinverbinding vanuit Servië (via Podgorica naar Bar), en het land is aangesloten op de Eurail-pas.
 
-**Vervoer in het land:** een huurauto is verreweg de beste manier om Montenegro te verkennen, gezien de grote afstanden tussen de bergen en de kust en de beperkte dekking van het openbaar vervoer in de meer afgelegen gebieden.
+**Vervoer in het land:** een huurauto is verreweg de beste manier om Montenegro te verkennen, gezien de grote afstanden in de bergen en de beperkte dekking van het openbaar vervoer in de meer afgelegen gebieden. De meeste dorpen/steden aan de kust hebben wel een goede busverbinding.
 
 **Budget:** reken op een basisbudget van ongeveer 40 euro per dag voor een eenvoudige reis, oplopend tot 70 euro of meer als je iets meer comfort en activiteiten (zoals rafting) wilt inbouwen.
 
@@ -60,4 +48,4 @@ In het zuiden van het land ligt Skadar Lake, het grootste meer van de Balkan (ge
 
 ## Is Montenegro de moeite waard?
 
-Zeker weten. Voor zo'n klein land biedt Montenegro een verbazingwekkende hoeveelheid variatie: middeleeuwse stadjes, een adembenemende baai, ruige bergen, een van de diepste kloven ter wereld, en een rustig binnenmeer, allemaal binnen een paar uur rijden van elkaar. Combineer een paar dagen aan de kust (Kotor, Perast, Budva) met een paar dagen in de bergen (Durmitor, Tara Canyon) voor het complete beeld van wat dit land te bieden heeft.
+Zeker weten. Voor zo'n klein land biedt Montenegro een verbazingwekkende hoeveelheid variatie: middeleeuwse stadjes, een adembenemende baai, ruige bergen, een van de diepste kloven ter wereld, en een rustig binnenmeer, allemaal binnen een paar uur rijden van elkaar. Combineer een paar dagen aan de kust (Kotor, Perast, Budva) met een paar dagen in de bergen (Durmitor) voor het complete beeld van wat dit land te bieden heeft.
