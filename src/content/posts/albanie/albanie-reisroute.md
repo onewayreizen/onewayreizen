@@ -4,7 +4,7 @@ region: Europa
 country: Albanië
 destination: 
 description: "Van de Valbona-Theth hike en Ottomaanse steden tot de Albanese Rivièra: complete route met transport, dagindeling en praktische tips."
-date: 2023-09-24
+date: 2022-07-24
 image: /images/albanie-header.jpg
 themes: [Reisgidsen]
 ---
