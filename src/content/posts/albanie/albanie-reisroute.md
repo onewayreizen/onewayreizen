@@ -28,15 +28,15 @@ Boek de ferry bij voorkeur vooraf, zeker in het hoogseizoen, en vraag je guestho
 Dit is het absolute hoogtepunt van de route: een hele dag wandelen over de Valbona Pass op zo'n 1.800 meter hoogte, van het ene alpendal naar het andere. Vanuit Valbona stijg je ongeveer 1.200 meter door bos en alpenweiden, waarna je ruim 800 meter afdaalt naar het dal van Theth.
 
 - **Duur:** ruwweg 6 tot 8 uur, afhankelijk van conditie en pauzes.
-- **Niveau:** pittig maar goed te doen voor wie gewend is aan wandelen. Vertrek vroeg.
-- **Wat neem je mee:** voldoende water en eten, stevige wandelschoenen, een regenjas en laagjes. Het weer in de bergen kan snel omslaan.
-- **Beste periode:** grofweg juni tot en met september. Daarbuiten kan er nog sneeuw liggen op de pas.
+- **Niveau:** gemiddeld maar goed te doen. Vertrek vroeg.
+- **Wat neem je mee:** voldoende water en eten, stevige schoenen, een regenjas en laagjes. Het weer in de bergen kan snel omslaan.
+- **Beste periode:** juni tot en met september. Daarbuiten kan er nog sneeuw liggen op de pas.
 
-Wil je een rustdag in Theth, loop dan naar de Blue Eye van Theth (Syri i Kaltër), een felblauw zwemgat bij een waterval. Overnacht in een van de guesthouses in Valbona en Theth. Het is gebruikelijk om er ook te eten, en dat is vaak het beste eten van je reis. Geen zin of geen tijd om te wandelen? Dan kun je ook met een auto of minibus terug via Shkodër naar Theth.
+Wil je een rustdag in Theth, loop dan naar de Blue Eye van Theth (Syri i Kaltër), een felblauw zwemgat bij een waterval. Overnacht in een van de guesthouses in Valbona en Theth. Het is gebruikelijk om er ook te eten en dat is vaak het beste eten van je reis. Geen zin of geen tijd om te wandelen? Dan kun je ook met een auto of minibus terug via Shkodër naar Theth.
 
 ## Van Theth terug naar Shkodër en Tirana
 
-Vanuit Theth rijdt een minibus terug naar Shkodër, een rit van ongeveer drie uur over een deels onverharde weg. Vandaar rijden regelmatig busjes naar Tirana (ongeveer 1,5 uur). Reken in totaal op vier dagen voor het hele bergdeel: ferry, Valbona, de hike en Theth.
+Vanuit Theth rijdt een minibus terug naar Shkodër, een rit van ongeveer drie uur over een deels onverharde weg. Vandaar rijden regelmatig busjes naar Tirana (ongeveer 1,5 uur). Reken in totaal op drie dagen voor het hele bergdeel: ferry, Valbona, de hike en Theth.
 
 ## Tirana: kleurrijk en onverwacht
 
@@ -46,7 +46,7 @@ Twee dagen is genoeg. Tirana is ook het knooppunt voor vervoer naar de rest van 
 
 ## Berat: de stad van duizend ramen
 
-Vanuit Tirana is Berat ongeveer twee uur met de bus. De stad staat op de UNESCO-werelderfgoedlijst en wordt vaak de "stad van duizend ramen" genoemd, naar de witte Ottomaanse huizen die tegen de heuvel omhoog staan. Wandel naar het kasteel, dat nog steeds bewoond wordt, en bekijk de stad 's avonds vanaf de overkant van de rivier. Een nacht of twee is genoeg.
+Vanuit Tirana is Berat ongeveer twee uur met de bus. De stad staat op de UNESCO-werelderfgoedlijst en wordt vaak de "stad van duizend ramen" genoemd, naar de witte Ottomaanse huizen die tegen de heuvel omhoog staan. Wandel naar het kasteel, dat nog steeds bewoond wordt en bekijk de stad 's avonds vanaf de overkant van de rivier. Een nacht of twee is genoeg.
 
 ## Gjirokastër: de stenen stad
 
@@ -71,7 +71,7 @@ Je hebt twee opties om je reis af te ronden:
 
 **Terug naar Tirana.** Met de bus is dat een lange reisdag (reken op ruim zes uur), maar vanaf Tirana vliegen is voor de meeste mensen het makkelijkst. Plan je terugvlucht daar rekening mee.
 
-**Met de ferry naar Corfu.** Vanuit de haven van Sarandë vaart een ferry naar het Griekse eiland Corfu, een korte overtocht van ongeveer een uur. Handig als je je reis in Griekenland wilt voortzetten. Controleer vooraf de dienstregeling en boek tickets, zeker in het hoogseizoen. Neem je paspoort mee voor de grenscontrole.
+**Met de ferry naar Corfu.** Vanuit de haven van Sarandë vaart een ferry naar het Griekse eiland Corfu, een korte overtocht van ongeveer een uur. Handig als je je reis in Griekenland wilt voortzetten of vanaf daar verder wil vliegen. Controleer vooraf de dienstregeling en boek tickets, zeker in het hoogseizoen. Neem je paspoort mee voor de grenscontrole.
 
 ## De route samengevat
 
@@ -85,7 +85,7 @@ Reken op ongeveer 14 tot 16 dagen: twee dagen Shkodër, vier dagen voor Valbona 
 
 **Visum:** voor Nederlanders geldt in de regel een visumvrij verblijf van maximaal 90 dagen. Check de actuele voorwaarden voor vertrek.
 
-**Budget:** Albanië is een van de goedkopere landen van Europa. Reken op ongeveer 35 tot 55 euro per dag, afhankelijk van hoeveel je wandelt, eet en boekt.
+**Budget:** Albanië is een van de betaalbare landen van Europa. Reken op ongeveer 35 tot 55 euro per dag, afhankelijk van hoeveel je wandelt, eet en boekt.
 
 **Beste periode:** juni tot en met september voor de bergen en de kust. Voor steden zoals Berat en Gjirokastër werkt ook het voorjaar of de vroege herfst prima, met minder hitte en drukte.
 
