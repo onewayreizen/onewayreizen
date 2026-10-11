@@ -1,19 +1,15 @@
 ---
-title: TITEL HIER
+title: "De Amazone over per boot: alles wat je vooraf moet weten"
 region: Zuid-Amerika
-country: LAND HIER (bijv. Ecuador)
-destination: PLEK HIER, optioneel (bijv. Quito). Meerdere plekken? destination [Quito, Mindo]. Verwijder deze hele regel als het niet van toepassing is
-description: KORTE OMSCHRIJVING HIER (1 zin, verschijnt op de kaartjes)
-date: 2026-01-01
+country: Brazilië
+destination: Amazone
+description: "Met de boot over de Amazone van Manaus naar Macapá via Santarem: zo bereid je je voor"
+date: 2026-10-14
 image: /images/hero.jpg
-themes: [Hiken, Backpacken]
-featured: false
+themes: [Avontuur]
 ---
-Met de boot over de Amazone van Manaus naar Macapá: zo bereid je je voor
 
-# De Amazone over per boot: alles wat je vooraf moet weten
-
-Vliegen van Manaus naar Macapá kan ook, en gaat veel sneller. Toch kiezen steeds meer reizigers voor de boot, omdat het een van de weinige trajecten is waarop je dagenlang meevaart met de mensen die de rivier echt gebruiken. Het is geen toeristische excursie en er is geen programma: een boot vol gezinnen, vracht en hangmatten die van de ene stad naar de andere schuift. Over de praktische kant is online nog opvallend weinig te vinden, zeker in het Nederlands. Daarom schrijf ik hier alles op wat ik vooraf heb uitgezocht en geregeld. 
+Vliegen van Manaus naar Macapá kan, en gaat veel sneller. Toch kiezen steeds meer reizigers voor de boot, omdat het een van de weinige trajecten is waarop je dagenlang meevaart met de mensen die de rivier echt gebruiken. Het is geen toeristische excursie en er is geen programma: een boot vol gezinnen, vracht en hangmatten die van de ene stad naar de andere schuift. Over de praktische kant is online nog opvallend weinig te vinden, zeker in het Nederlands. Daarom schrijf ik hier alles op wat ik vooraf heb uitgezocht en geregeld. 
 
 [Hier meer over mijn ervaring op de slow boot]
 
