@@ -5,7 +5,7 @@ country: Peru
 destination: Amazone
 description: "Manu National Park: ontdek de Amazone in alle rust, ver weg van de massa."
 date: 2026-01-01
-image: /images/BESTANDSNAAM.jpg
+image: /images/hero.jpg
 themes: [Wildlife, Avontuur]
 ---
 
