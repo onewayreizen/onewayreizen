@@ -1,4 +1,14 @@
-**De Rainbow Mountain hike: zwaarder dan je denkt**
+---
+title: "De Rainbow Mountain hike: zwaarder dan je denkt"
+region: Zuid-Amerika
+country: Peru
+destination: Cusco
+description: ""
+date: 2026-01-01
+image: /images/hero.jpg
+themes: [Hiken]
+---
+
 Regenboogkleurige stroken over een berghelling op ruim 5000 meter hoogte. Op Instagram lijkt het een makkelijk uitstapje: even een paar foto's schieten en weer terug naar Cusco. De realiteit is een stuk pittiger. De Rainbow Mountain, oftewel Vinicunca, is een van de zwaarste dagtrips die je in Peru kunt maken. Ik vertel je precies waarom, en hoe je je er het beste op voorbereidt.
 
 **Wat is de Rainbow Mountain eigenlijk?**
