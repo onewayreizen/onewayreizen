@@ -3,7 +3,7 @@ title: "De Amazone over per boot: alles wat je vooraf moet weten"
 region: Zuid-Amerika
 country: Brazilië
 destination: Amazone
-description: "Met de boot over de Amazone van Manaus naar Macapá via Santarem: zo bereid je je voor"
+description: "Met de boot over de Amazone van Manaus naar Macapá via Santarém: zo bereid je je voor"
 date: 2026-10-14
 image: /images/hero.jpg
 themes: [Avontuur]
@@ -11,7 +11,7 @@ themes: [Avontuur]
 
 Vliegen van Manaus naar Macapá kan, en gaat veel sneller. Toch kiezen steeds meer reizigers voor de boot, omdat het een van de weinige trajecten is waarop je dagenlang meevaart met de mensen die de rivier echt gebruiken. Het is geen toeristische excursie en er is geen programma: een boot vol gezinnen, vracht en hangmatten die van de ene stad naar de andere schuift. Over de praktische kant is online nog opvallend weinig te vinden, zeker in het Nederlands. Daarom schrijf ik hier alles op wat ik vooraf heb uitgezocht en geregeld. 
 
-[Hier meer over mijn ervaring op de slow boot]
+[Hier meer over mijn ervaring op de slow boot]()
 
 ## Je neemt twee boten, geen één
 
@@ -25,7 +25,7 @@ Voor de eerste etappe, van Manaus naar Santarém, noemen de meeste reizigers ong
 
 Rekent alles bij elkaar, dan ben je al snel vijf dagen onderweg, inclusief de nacht in Santarém. Er varen ook snellere boten op het eerste traject, die je er in ongeveer de helft van de tijd brengen, maar die kosten flink meer. Wie de rivier andersom doet, tegen de stroom in, moet rekenen op extra dagen.
 
-## Het ticket: bij mij liep het anders dan gedacht
+## Het ticket
 
 Op papier is het simpel: je koopt een ticket op de officiële website. In de praktijk bleek dat voor mij niet te werken. Op de site kun je alleen betalen met Pix of met een creditcard. Pix is het Braziliaanse betaalsysteem en werkt voor buitenlanders meestal niet zonder Braziliaanse bankrekening. Bij mij werkte geen van beide betaalmethodes. Ik heb daarna contact gehad met de klantenservice via WhatsApp, maar ook daar kwam ik niet uit en is het me niet gelukt om online een ticket te kopen.
 
@@ -71,7 +71,7 @@ Portugees is de voertaal aan boord. Engels spreken de meeste mensen niet, en dat
 
 ## Wat je onderweg ziet
 
-Wie verwacht dat hij dagenlang jaguars en apen spot, komt bedrogen uit. Je ziet vooral een enorme bruine rivier, kleine dorpjes, mensen in kano's en met geluk vogels en rivierdolfijnen. Het landschap is repetitief, en na een dag of twee kan de nieuwigheid wat wegebben. Neem daarom iets mee om de tijd te doden: een boek, kaarten, films, of gewoon geduld. Dat is voor veel reizigers juist de charme, maar het is niet voor iedereen.
+Wie verwacht dat je dagenlang jaguars en apen spot, komt bedrogen uit. Je ziet vooral een enorme bruine rivier, kleine dorpjes, mensen in kano's en met geluk vogels en rivierdolfijnen. Het landschap is repetitief, en na een dag of twee kan de nieuwigheid wat wegebben. Neem daarom iets mee om de tijd te doden: een boek, kaarten, films, of gewoon geduld. Dat is voor veel reizigers juist de charme, maar het is niet voor iedereen.
 
 ## Voor wie is dit iets?
 
