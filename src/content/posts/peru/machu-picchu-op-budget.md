@@ -9,7 +9,7 @@ image: /images/hero.jpg
 themes: []
 ---
 
-Geen zin om honderden dollars uit te geven aan de trein? Dan is de bus- en wandelroute via Hidroeléctrica jouw beste vriend. Deze budgetroute is inmiddels een klassieker onder backpackers in Peru, en hoewel het een stuk avontuurlijker is dan comfortabel achterover leunen in de trein, is het minstens zo memorabel. Wij nemen je stap voor stap mee: van je vertrek in Cusco tot het moment dat je eindelijk voor de ruïnes van Machu Picchu staat.
+Geen zin om honderden dollars uit te geven aan de trein? Dan is de bus- en wandelroute via Hidroeléctrica jouw beste vriend. Deze budgetroute is inmiddels een klassieker onder backpackers in Peru, en hoewel het een stuk avontuurlijker is dan comfortabel achterover leunen in de trein, is het minstens zo memorabel. In deze post lees je alles stap voor stap: van je vertrek in Cusco tot het moment dat je eindelijk voor de ruïnes van Machu Picchu staat.
 
 ## De route in het kort
 Voordat we in de details duiken, even het overzicht. De reis bestaat grofweg uit drie etappes:
