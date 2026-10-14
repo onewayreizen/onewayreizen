@@ -58,7 +58,7 @@ Dit hangt sterk af van het seizoen en welk circuit je wilt.
 
 ## Hoe kom je er eigenlijk?
 
-Er loopt geen weg rechtstreeks naar Machu Picchu, dus je reist altijd eerst naar Aguas Calientes, het dorpje aan de voet van de ruïnes. Daarvandaan neem je een pendelbus of loop je de trap omhoog naar de ingang. Voor die eerste etappe, van Cusco naar Aguas Calientes, heb je grofweg drie opties:
+Er loopt geen weg rechtstreeks naar Machu Picchu, dus je reist altijd eerst naar Aguas Calientes, het dorpje aan de voet van de ruïnes. Daarvandaan neem je een pendelbus of loop je de trap omhoog naar de ingang. Voor die eerste etappe, van Cusco naar Aguas Calientes, heb je grofweg drie opties:  
 **De trein.** De meest comfortabele en ook de meest gebruikte manier. Vanuit Cusco of Ollantaytambo stap je op de trein die je rechtstreeks naar Aguas Calientes brengt. Prijzig, maar wel zorgeloos.  
 **Bus plus een stuk lopen.** Een stuk goedkoper: je neemt de bus tot aan Hidroeléctrica en wandelt vanaf daar het laatste stuk langs het spoor naar Aguas Calientes. Dit is de populaire budgetroute onder backpackers.  
 **Een meerdaagse trektocht.** Voel je voor een avontuurlijkere aankomst? Dan kun je ook kiezen voor een van de bekende meerdaagse hikes, zoals de klassieke Inca Trail van vier dagen of andere trektochten van rond de zeven dagen door de Andes, die eindigen bij Machu Picchu zelf.
