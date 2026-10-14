@@ -67,5 +67,7 @@ Ik raad deze optie eigenlijk af als je vroeg op de dag al veel wilt zien van Mac
 **Timing**. Boek als het even kan een vroeg tijdslot voor je Machu Picchu-ticket. Dan pak je de eerste pendelbus, mis je de grootste drukte, en heb je goede kans op mooi ochtendlicht over de ruïnes.  
 **Terugreis**. De terugreis verloopt in omgekeerde volgorde: eerst weer terug lopen (of met de trein) naar Hidroeléctrica, en van daaruit de bus terug naar Cusco. Reken ook hiervoor weer op zo'n 6 tot 7 uur, met aankomst in Cusco vaak pas 's avonds laat.
 
+**[Hier vind je meer over Machu Picchu]**(/bestemmingen/zuid-amerika/peru/machu-picchu/)
+
 ## Waarom deze route de moeite waard is
 Ja, het kost je meer tijd en meer moeite dan simpelweg een treinticket boeken. Maar de bus- en wandelroute via Hidroeléctrica geeft je een avontuur dat bij de meeste treinreizigers ontbreekt: uren wandelen door prachtige, groene natuur, kleine dorpjes langs de weg, en dat bijzondere moment waarop je voor het eerst een glimp van Machu Picchu opvangt vanaf de spoorbrug. Bovendien bespaar je flink wat geld, wat je weer kunt besteden aan andere avonturen verderop in je reis door Peru. Een aanrader voor iedere backpacker die niet bang is om zijn benen even flink te gebruiken.
