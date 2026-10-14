@@ -21,6 +21,7 @@ In totaal ben je op de heenweg dus zo'n 9 tot 11 uur onderweg, verspreid over an
 ## Etappe 1: de bus van Cusco naar Hidroeléctrica
 Je vertrekt meestal vroeg in de ochtend, ergens tussen 6 en 7 uur, vanaf een verzamelpunt in het centrum van Cusco, vaak bij de Plaza Regocijo of Plaza de Armas. Bustickets koop je eenvoudig bij een van de vele tourbureaus in Cusco, of soms direct bij je hostel.
 De rit zelf duurt ongeveer 6 tot 7 uur en gaat door adembenemend berglandschap. Je rijdt via de Heilige Vallei, over de Abra Málaga bergpas op ruim 4300 meter hoogte, en daalt daarna geleidelijk af richting de tropischer wordende omgeving rond Santa María en Santa Teresa. De weg is deels geasfalteerd, maar het laatste stuk richting Hidroeléctrica gaat over een onverharde, bochtige weg. Heb je snel last van wagenziekte? Neem dan van tevoren iets in, want de bochten komen in groten getale.  
+
 Onderweg stopt de bus meestal kort in Ollantaytambo en Santa Teresa voor een toiletpauze en een hapje. Rond het middaguur of vroege middag kom je aan bij Hidroeléctrica, een klein stationnetje dat vooral bestaat uit een elektriciteitscentrale, wat kraampjes en een paar simpele eettentjes.
 
 ## Praktisch:
@@ -33,6 +34,7 @@ Laat je grote backpack achter in je hostel in Cusco en neem alleen een kleine ta
 
 Bij aankomst in Hidroeléctrica begint het leukste gedeelte van de reis: de wandeling langs het spoor naar Aguas Calientes. Dit pad is zo'n 10 kilometer lang, volledig vlak en dus goed te doen, ook met een dagje reizen al in de benen. Reken op zo'n 2 tot 3 uur wandeltijd, afhankelijk van je tempo en hoeveel pauzes je onderweg neemt.  
 De route loopt parallel aan de rivier de Vilcanota en de treinsporen, door weelderige jungle-achtige natuur. Onderweg passeer je een paar simpele restaurantjes en kraampjes waar je je watervoorraad kunt aanvullen of een hapje kunt eten. Halverwege loop je door een paar korte tunnels, en op een gegeven moment zie je vanaf een spoorbrug voor het eerst een piepklein stukje van Machu Picchu hoog op de berg. Dat moment geeft altijd een leuke boost voor de laatste kilometers.  
+
 **Let op:** er rijden wel degelijk (langzame) treinen over dit traject. De machinisten toeteren geregeld hard om wandelaars te waarschuwen, wat ondanks de lage snelheid toch altijd weer even schrikken is. Loop dus niet met koptelefoon op en blijf alert.
 
 ## Praktisch:
@@ -40,15 +42,17 @@ De route loopt parallel aan de rivier de Vilcanota en de treinsporen, door weeld
 **Duur**: 2 tot 3 uur.  
 - Draag stevige, comfortabele wandelschoenen. Het pad is grotendeels vlak maar wel rotsachtig op stukken.
 - Neem genoeg water mee, al zijn er onderweg ook winkeltjes waar je kunt bijvullen.
+- 
 **Alternatief**: vanaf Hidroeléctrica rijdt twee keer per dag ook een trein naar Aguas Calientes, in ongeveer 30 minuten. Wil je de wandeling overslaan, dan kan dat dus, maar daarmee verlies je wel een groot deel van het avontuur (en betaal je alsnog extra).
 
 ## Overnachten in Aguas Calientes
 Rond de late middag of vroege avond kom je aan in Aguas Calientes, ook wel Machu Picchu Pueblo genoemd. Dit toeristische dorpje, ingeklemd tussen steile bergwanden, is de laatste stop voor je de ruïnes bereikt.  
+
 Overnacht hier sowieso minimaal één nacht. In theorie kun je Machu Picchu als dagtrip proberen te doen, maar dat betekent een enorm lange en vermoeiende dag. Bovendien mis je dan de kans om vroeg in de ochtend, nog voor de grote drukte, naar boven te gaan.
 Prijzen in Aguas Calientes liggen door het toeristische karakter van het dorp een stuk hoger dan in Cusco, zowel voor accommodatie als eten. Reken op zo'n 25 dollar voor een eenvoudig hostelbed, en behoorlijk meer voor iets luxere opties. Het dorp zelf is klein maar gezellig, met marktjes, restaurantjes en de warmwaterbronnen waar het zijn naam aan dankt. Zin in wat ontspanning na de lange reisdag? Een bezoekje aan deze thermale baden is een fijne afsluiter van de dag.
 
 ## Etappe 3: de volgende ochtend naar de ingang van Machu Picchu
-Dit is het moment waarop het allemaal draait. Vanuit Aguas Calientes heb je twee manieren om bij de ingang van Machu Picchu te komen.
+Dit is het moment waarop het allemaal draait. Vanuit Aguas Calientes heb je twee manieren om bij de ingang van Machu Picchu te komen.  
 **Optie 1:** de pendelbus. Verreweg de populairste keuze. De officiële Consettur-bussen vertrekken vanaf een klein stationnetje in het dorp en rijden in ongeveer 25 minuten via een kronkelende bergweg naar boven. De eerste bus vertrekt rond 5:30 uur 's ochtends, en zeker als je een vroeg tijdslot hebt geboekt, wil je hier op tijd bij zijn. Reken op een rij, zeker in het hoogseizoen, maar er rijden gelukkig doorlopend bussen, dus je staat nooit heel lang te wachten.  
 **Prijs**: ongeveer 12 tot 13 dollar per enkele reis, of zo'n 24 tot 25 dollar voor een retourtje.  
 Tickets koop je bij het kantoortje in Aguas Calientes (open vanaf 5 uur 's ochtends) of vooraf online.  
