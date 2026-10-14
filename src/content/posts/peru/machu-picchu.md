@@ -9,7 +9,7 @@ image: /images/hero.jpg
 themes: []
 ---
 
-Het is misschien wel het meest fotogenieke plekje van heel Zuid-Amerika, en niet voor niets een van de nieuwe zeven wereldwonderen. Maar een bezoek aan Machu Picchu regel je niet even op de dag zelf. Sinds de regels de afgelopen jaren flink zijn aangescherpt, is goede voorbereiding echt essentieel. Welke tickets heb je nodig, welke route kies je, en waar moet je verder op letten? Wij zetten alles voor je op een rij.
+Het is misschien wel het meest fotogenieke plekje van heel Zuid-Amerika, en niet voor niets een van de nieuwe zeven wereldwonderen. Maar een bezoek aan Machu Picchu regel je niet even op de dag zelf. Sinds de regels de afgelopen jaren flink zijn aangescherpt, is goede voorbereiding echt essentieel. Welke tickets heb je nodig, welke route kies je, en waar moet je verder op letten? 
 
 ## Waarom je Machu Picchu niet zomaar even bezoekt
 
@@ -50,9 +50,9 @@ Dit hangt sterk af van het seizoen en welk circuit je wilt.
 
 ## Praktische tips voor de dag zelf
 
-**Kies je tijdslot bewust.** Je kunt elk uur naar binnen, van 6 uur 's ochtends tot in de namiddag. Wij raden aan om voor een van de eerste tijdsloten te gaan: minder mensen, zachter ochtendlicht, en met een beetje geluk vang je ook nog wat nevel die langzaam optrekt boven de ruïnes.  
+**Kies je tijdslot bewust.** Je kunt elk uur naar binnen, van 6 uur 's ochtends tot in de namiddag. Aan te raden is om voor een van de eerste tijdsloten te gaan: minder mensen, zachter ochtendlicht, en met een beetje geluk vang je ook nog wat nevel die langzaam optrekt boven de ruïnes.  
 **Er is geen re-entry**. Eenmaal buiten, kom je er niet meer in met hetzelfde ticket. Ga dus voor je naar binnen gaat nog even naar het toilet bij de ingang, want binnen zijn die er niet.  
-**Neem een gids of doe het zelf**. Officieel wordt er weleens gesproken over een verplichte gids, maar in de praktijk hoeft dit niet: je kunt prima op eigen houtje naar binnen en zo lang blijven als je wilt. Wij raden een gids alsnog aan, want zonder uitleg zie je vooral een verzameling indrukwekkende stenen. Mét een gids komt de geschiedenis van de Inca's echt tot leven. Je kunt vooraf een privégids boeken, of ter plekke aansluiten bij een groep bij de ingang.  
+**Neem een gids of doe het zelf**. Officieel wordt er weleens gesproken over een verplichte gids, maar in de praktijk hoeft dit niet: je kunt prima op eigen houtje naar binnen en zo lang blijven als je wilt. Je kunt vooraf een privégids boeken, of ter plekke aansluiten bij een groep bij de ingang.  
 **Hoogte**. Machu Picchu ligt op zo'n 2430 meter, een stuk lager dan Cusco. Dat betekent dat de meeste bezoekers hier weinig tot geen last van hoogteziekte ervaren, wat het bezoek een stuk relaxter maakt dan bijvoorbeeld de Rainbow Mountain hike.  
 **Weer**. Neem sowieso een regenjas mee, ook als de voorspelling droog is. Het weer in dit deel van de Andes kan zomaar omslaan, en een buitje mag je bezoek niet verpesten.
 
@@ -63,7 +63,7 @@ Er loopt geen weg rechtstreeks naar Machu Picchu, dus je reist altijd eerst naar
 **Bus plus een stuk lopen.** Een stuk goedkoper: je neemt de bus tot aan Hidroeléctrica en wandelt vanaf daar het laatste stuk langs het spoor naar Aguas Calientes. Dit is de populaire budgetroute onder backpackers.  
 **Een meerdaagse trektocht.** Voel je voor een avontuurlijkere aankomst? Dan kun je ook kiezen voor een van de bekende meerdaagse hikes, zoals de klassieke Inca Trail van vier dagen of andere trektochten van rond de zeven dagen door de Andes, die eindigen bij Machu Picchu zelf.
 
-[Hier vind je meer over de reis anar Machu Picchu](/bestemmingen/zuid-amerika/peru/machu-picchu-op-budget/)
+[**Hier vind je meer over de reis naar Machu Picchu**](/bestemmingen/zuid-amerika/peru/machu-picchu-op-budget/)
 
 ## Kortom
 Een bezoek aan Machu Picchu vraagt om een beetje huiswerk vooraf: het juiste circuit kiezen, op tijd boeken, en weten wat je wel en niet kunt verwachten van je ticket. Doe je dat goed, dan sta je straks zonder stress tussen de eeuwenoude Inca-ruïnes, met dat uitzicht waar je waarschijnlijk al jaren van droomt.
