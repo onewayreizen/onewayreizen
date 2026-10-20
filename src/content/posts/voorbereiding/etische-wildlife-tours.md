@@ -6,7 +6,7 @@ country:
 destination: 
 description: 
 image: /images/hero.jpg
-date: 2026-08-14
+date: 2026-10-20
 themes: [Wildlife, Backpacken] 
 ---
 
