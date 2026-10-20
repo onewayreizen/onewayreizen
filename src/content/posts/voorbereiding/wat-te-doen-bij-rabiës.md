@@ -4,7 +4,7 @@ region: Azië
 otherRegions: [Afrika, Zuid-Amerika]
 country: 
 destination: 
-description: Wat te doen bij contact met een wild dier en kans op rabiës?
+description: Wat te doen bij contact met een wild dier en kans op rabiës.
 image: /images/hero.jpg
 date: 2026-08-14
 themes: [Reisvoorbereiding, Backpacken] 
