@@ -21,6 +21,8 @@ Omdat de boten niet op elkaar aansluiten, zit er in Santarém altijd een tussens
 
 *Ga je met de boot van Manaus naar Belém? Dan kun je in één keer door.*
 
+Wil je weten wanneer de boten gaan? Check dan [**deze website**](https://yjaraviagens.com/)
+
 ## Hoe lang ben je onderweg?
 
 Voor de eerste etappe, van Manaus naar Santarém, noemen de meeste reizigers ongeveer 36 tot 48 uur op de langzame boot. Officieel wordt vaak een korter aantal uren vermeld, maar in de praktijk kom je er meestal een stuk later aan en dat is gewoon onderdeel van het systeem. Het tweede traject, van Santarém naar Santana, duurt ongeveer anderhalve tot twee dagen, ook weer afhankelijk van het weer, de vracht en het aantal stops.
@@ -88,8 +90,8 @@ In Santarém zijn weinig Uber chaffeurs beschikbaar. Download daarom de app 99 (
 
 Voor wie graag langzaam reist, flexibel is en zich niet stoort aan weinig comfort. Wie weinig tijd heeft, privacy wil, of van een strak schema houdt, kan beter vliegen.
 
-## Aankomst in Santana
-
-Boten komen vaak in de kleine uurtjes of heel vroeg in de ochtend aan, dus het helpt om je volgende stap al een beetje te hebben bedacht. Vanuit Santana is het maar een korte rit naar Macapá, met een bus of taxi en daar vind je gemakkelijk een slaapplek of verder transport richting de Guyana's. Reken niet op een vaste aankomsttijd en boek niets strak vlak erna.
+## Aankomst 
+Boten komen vaak in de kleine uurtjes of heel vroeg in de ochtend aan, dus het helpt om je volgende stap al een beetje te hebben bedacht. Reken niet op een vaste aankomsttijd en boek niets strak vlak erna. Hieronder een lijst met locaties vanaf waar de boten exact vertrekken. Echter, zorg wel dat je dit zelf verifieerd bij bijvoorbeeld de receptie van je accommodatie.
+Vertrekpunt [Manaus](https://maps.app.goo.gl/8PZpcTCVsmVcSFBP9), aankomst- en vertrekpunt [Santarém](https://maps.app.goo.gl/AqUWJP3xcew2bZSr5), aankomstpunt [Santana](https://maps.app.goo.gl/uzt6n8wZFUVaudiT6).
 
 
