@@ -4,7 +4,7 @@ region: Zuid-Amerika
 country: Brazilië
 destination: Alter do Chaõ
 description: "Ontdek Alter do Chão, het strandparadijs van de Amazone aan de Rio Tapajós. Lees hoe je er komt, wat je er moet doen en wanneer je het beste gaat."
-date: 2026-01-01
+date: 2026-10-17
 image: /images/brazilie/canal-do-jari-header.jpg
 themes: []
 featured: false
