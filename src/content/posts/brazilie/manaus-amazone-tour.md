@@ -5,6 +5,6 @@ country: Brazilië
 destination: [Amazone]
 description: "."
 date: 2026-10-12
-image: /images/hero.jpg
+image: /images/brazilie/canal-do-jari-6.jpg
 ---
 coming soon.
