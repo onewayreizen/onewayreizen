@@ -19,7 +19,7 @@ Alter do Chão ligt zo'n 35 kilometer van Santarém, de grootste stad in de regi
 
 **Met het vliegtuig:** Santarém heeft een vliegveld (STM) met binnenlandse verbindingen, onder andere met Belém, Manaus en Brasília, vaak ook met een overstap vanuit São Paulo. Dit is veruit de snelste optie.
 
-**Met de boot:** Wil je het avontuurlijk aanpakken, dan kun je per boot vanuit Belém, Macapá of Manaus naar Santarém varen. Reken op meerdere dagen. Je slaapt in een hangmat, deelt de boot met locals en ziet de Amazone langzaam voorbijtrekken. Zeker een ervaring op zich. [Hier meer over de bootreis](/bestemmingen/zuid-amerika/brazilie/slow-boot-ervaring-amazone/)
+**Met de boot:** Wil je het avontuurlijk aanpakken, dan kun je per boot vanuit Belém, Macapá of Manaus naar Santarém varen. Reken op meerdere dagen. Je slaapt in een hangmat, deelt de boot met locals en ziet de Amazone langzaam voorbijtrekken. Zeker een ervaring op zich. [**Hier meer over de bootreis**](/bestemmingen/zuid-amerika/brazilie/slow-boot-ervaring-amazone/)
 
 **Van Santarém naar Alter do Chão:** Je pakt een taxi, een shuttle of de lokale bus. De rit duurt ongeveer 45 tot 60 minuten. De bus is het goedkoopst met R$6, maar een taxi of vervoer via je accommodatie is vooral met bagage een stuk makkelijker. Controleer vooraf de actuele dienstregelingen en prijzen, want die veranderen nogal eens.
 
@@ -33,8 +33,14 @@ Het bekendste plekje van het dorp: het "Liefdeseiland", een lang wit zandstrand 
 ### 2. Maak een tocht door het Canal do Jari
 Een boottocht door het Canal do Jari voert je door ondergelopen bos (*igapó*), langs stille waterwegen en lagunes. Het is rustig, groen en vol vogels. Je kunt zelfs zwemmen in het donkere, spiegelgladde water. Met wat geluk zie je ook rivierdolfijnen. De tocht is het mooist tijdens of net na het regenseizoen, als het waterpeil hoog is. Het is mogelijk om deze tour in het laagseizoen te doen, maar houd er rekening mee dat je meer wandelt dan vaart met de boot.
 
+(/images/brazilie/canal-do-jari-6.jpg)
+(/images/brazilie/canal-do-jari-7.jpg)
+
 ### 3. Bekijk de reuzenwaterlelies
 Op de lagunes in de buurt groeit de Victoria amazonica (in het Portugees: *vitória-régia*). Deze waterlelies kunnen een doorsnede van ruim twee meter bereiken. Ze zijn een prachtig fotomoment en horen bij een boottocht op een rustige ochtend of aan het einde van de middag. Ze zijn vooral te zien in en kort na het natte seizoen.
+
+(/images/brazilie/canal-do-jari-1.jpg)
+(/images/brazilie/canal-do-jari-2.jpg)
 
 ### 4. Beklim Morro da Piroca
 Een korte, makkelijke wandeling (ongeveer 20 tot 30 minuten, afhankelijk van je tempo) brengt je naar het uitkijkpunt van de **Morro da Piroca**. Het uitzicht over de rivier, het dorp en de witte stranden is geweldig. Neem water mee en ga bij voorkeur 's ochtends of laat in de middag, omdat het tussen de middag erg heet kan zijn.
@@ -42,8 +48,14 @@ Een korte, makkelijke wandeling (ongeveer 20 tot 30 minuten, afhankelijk van je 
 ### 5. Doe een tour door het Flona-regenwoud
 Aan de overkant van de rivier ligt het **Floresta Nacional do Tapajós (Flona)**, een beschermd regenwoudgebied. Hier maak je een wandeling met een lokale gids, die je vertelt over medicinale planten, rubber tappen en het leven van de lokale gemeenschappen. Het hoogtepunt zijn de gigantische bomen, zoals de **sumaúma** (kapokboom), waarvan sommige tientallen meters hoog zijn. Een van de beste manieren om het echte Amazonewoud te voelen.
 
+(/images/brazilie/canal-do-jari-4.jpg)
+(/images/brazilie/canal-do-jari-5.jpg)
+
 ### 6. Zonsondergang bij Ponta do Cururu
 Elke dag verzamelen toeristen en locals zich bij **Ponta do Cururu** om de zon in de rivier te zien zakken. De hemel kleurt oranje, roze en paars, en de rivier lijkt zo breed als een zee. Neem een drankje mee, zoek een plekje en geniet. Eén van die momenten die je bijblijft.
+
+(/images/brazilie/canal-do-jari-3.jpg)
+(/images/brazilie/canal-do-jari-9.jpg)
 
 ### 7. Een Carimbó-optreden
 **Carimbó** is een traditionele muziek- en dansstijl uit Pará, met vrolijke percussie, kleurrijke wijde rokken en veel ritme. In en rond het dorp vind je regelmatig optredens in restaurants en op pleintjes. Durf je mee te dansen? De locals vinden dat alleen maar leuk.
