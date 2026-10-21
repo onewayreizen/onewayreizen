@@ -63,6 +63,8 @@ Elke dag verzamelen toeristen en locals zich bij **Ponta do Cururu** om de zon i
 ### 8. Boottocht op de Rio Arapiuns
 De **Rio Arapiuns** is een zijrivier met een bijzonder helder, bijna turquoise water en eindeloze zandstranden aan de rand van het bos. Een dagtocht (meestal met snelle boot of kleine riviervaartuigen) brengt je naar afgelegen dorpjes en stranden waar je soms bijna alleen bent. Een mooie keuze als je de drukte van Alter do Chão even wilt ontvluchten.
 
+(/images/brazilie/canal-do-jari-8.jpg "smal")
+
 ## Extra tips die ik je van harte aanraad
 
 - **Bezoek tijdens het Sairé-festival (september):** Het beroemdste folkloristische feest van de regio, met kleurrijke optochten, muziek, dans en de strijd tussen de twee "boto"-groepen (roze en blauw). Het is druk en de prijzen stijgen, dus boek tijdig.
