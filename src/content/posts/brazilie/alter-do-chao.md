@@ -43,25 +43,25 @@ Op de lagunes in de buurt groeit de Victoria amazonica (in het Portugees: *vitó
 (/images/brazilie/canal-do-jari-2.jpg)
 
 ### 4. Beklim Morro da Piroca
-Een korte, makkelijke wandeling (ongeveer 20 tot 30 minuten, afhankelijk van je tempo) brengt je naar het uitkijkpunt van de **Morro da Piroca**. Het uitzicht over de rivier, het dorp en de witte stranden is geweldig. Neem water mee en ga bij voorkeur 's ochtends of laat in de middag, omdat het tussen de middag erg heet kan zijn.
+Een korte, makkelijke wandeling (ongeveer 20 tot 30 minuten, afhankelijk van je tempo) brengt je naar het uitkijkpunt van de Morro da Piroca. Het uitzicht over de rivier, het dorp en de witte stranden is geweldig. Neem water mee en ga bij voorkeur 's ochtends of laat in de middag, omdat het tussen de middag erg heet kan zijn.
 
 ### 5. Doe een tour door het Flona-regenwoud
-Aan de overkant van de rivier ligt het **Floresta Nacional do Tapajós (Flona)**, een beschermd regenwoudgebied. Hier maak je een wandeling met een lokale gids, die je vertelt over medicinale planten, rubber tappen en het leven van de lokale gemeenschappen. Het hoogtepunt zijn de gigantische bomen, zoals de **sumaúma** (kapokboom), waarvan sommige tientallen meters hoog zijn. Een van de beste manieren om het echte Amazonewoud te voelen.
+Aan de overkant van de rivier ligt het **Floresta Nacional do Tapajós (Flona)**, een beschermd regenwoudgebied. Hier maak je een wandeling met een lokale gids, die je vertelt over medicinale planten, rubber tappen en het leven van de lokale gemeenschappen. Het hoogtepunt zijn de gigantische bomen, zoals de sumaúma (kapokboom), waarvan sommige tientallen meters hoog zijn. Een van de beste manieren om het echte Amazonewoud te voelen.
 
 (/images/brazilie/canal-do-jari-4.jpg)
 (/images/brazilie/canal-do-jari-5.jpg)
 
 ### 6. Zonsondergang bij Ponta do Cururu
-Elke dag verzamelen toeristen en locals zich bij **Ponta do Cururu** om de zon in de rivier te zien zakken. De hemel kleurt oranje, roze en paars, en de rivier lijkt zo breed als een zee. Neem een drankje mee, zoek een plekje en geniet. Eén van die momenten die je bijblijft.
+Elke dag verzamelen toeristen en locals zich bij Ponta do Cururu om de zon in de rivier te zien zakken. De hemel kleurt oranje, roze en paars, en de rivier lijkt zo breed als een zee. Neem een drankje mee, zoek een plekje en geniet. Eén van die momenten die je bijblijft.
 
 (/images/brazilie/canal-do-jari-3.jpg)
 (/images/brazilie/canal-do-jari-9.jpg)
 
 ### 7. Een Carimbó-optreden
-**Carimbó** is een traditionele muziek- en dansstijl uit Pará, met vrolijke percussie, kleurrijke wijde rokken en veel ritme. In en rond het dorp vind je regelmatig optredens in restaurants en op pleintjes. Durf je mee te dansen? De locals vinden dat alleen maar leuk.
+Carimbó is een traditionele muziek- en dansstijl uit Pará, met vrolijke percussie, kleurrijke wijde rokken en veel ritme. In en rond het dorp vind je regelmatig optredens in restaurants en op pleintjes. Durf je mee te dansen? De locals vinden dat alleen maar leuk.
 
 ### 8. Boottocht op de Rio Arapiuns
-De **Rio Arapiuns** is een zijrivier met een bijzonder helder, bijna turquoise water en eindeloze zandstranden aan de rand van het bos. Een dagtocht (meestal met snelle boot of kleine riviervaartuigen) brengt je naar afgelegen dorpjes en stranden waar je soms bijna alleen bent. Een mooie keuze als je de drukte van Alter do Chão even wilt ontvluchten.
+De Rio Arapiuns is een zijrivier met een bijzonder helder, bijna turquoise water en eindeloze zandstranden aan de rand van het bos. Een dagtocht (meestal met snelle boot of kleine riviervaartuigen) brengt je naar afgelegen dorpjes en stranden waar je soms bijna alleen bent. Een mooie keuze als je de drukte van Alter do Chão even wilt ontvluchten.
 
 (/images/brazilie/canal-do-jari-8.jpg "smal")
 
