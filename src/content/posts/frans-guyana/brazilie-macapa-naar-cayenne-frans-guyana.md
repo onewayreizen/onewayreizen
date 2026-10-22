@@ -1,5 +1,5 @@
 ---
-title: "Van Macapá naar Cayenne over land: bus, grens en lift naar Frans-Guyana"
+title: "Van Macapá naar Cayenne over land: alles wat je moet weten"
 region: Zuid-Amerika
 country: Frans-Guyana
 otherCountries: [Brazilië]
@@ -18,7 +18,7 @@ De route loopt van Macapá naar Oiapoque (aan de Braziliaanse kant van de grens)
 
 ## Stap 1: de nachtbus van Macapá naar Oiapoque
 
-Ik nam de nachtbus die om 22:00 uur vertrekt in Macapá en rond 9:00 uur 's ochtends in Oiapoque aankomt. Het ticket kostte 240 BRL, en dat kocht ik gewoon op het station. Je kunt het ook online kopen via [**deze website**](busbud.com). De rit duurt ongeveer 11 uur over de BR-156, een lange weg door bos en savanne, dus neem iets warms mee voor in de bus, want de airco staat vaak flink aan.
+Ik nam de nachtbus die om 22:00 uur vertrekt in Macapá en rond 9:00 uur 's ochtends in Oiapoque aankomt. Het ticket kostte 240 BRL, en dat kocht ik gewoon op het station. Je kunt het ook online kopen via [**deze website**](www.busbud.com). De rit duurt ongeveer 11 uur over de BR-156, een lange weg door bos en savanne, dus neem iets warms mee voor in de bus, want de airco staat vaak flink aan.
 
 Een voordeel van deze bus: je komt 's ochtends aan, en dat past precies bij de openingstijden van de Braziliaanse immigratiedienst. Die is ongeveer van 8 tot 12 en van 14 tot 18 uur open. Check de tijden ter plekke, want die kunnen veranderen.
 
@@ -46,7 +46,7 @@ Ik begon te lopen, en dat is ongeveer anderhalf uur. Uiteindelijk heb ik mijn du
 
 Vanuit Saint-Georges heb je een paar opties: de navette, liften, of een huurauto. De afstand naar Cayenne is ongeveer 190 kilometer, en je bent er in ruwweg drie uur.
 
-Kies je voor de navette, dan vertrekken ze vanaf [**hier**](https://maps.app.goo.gl/6bEpeaDFkcDUbT9bA). Het kost 40 euro naar [**Hier**](https://maps.app.goo.gl/sMZXRxqUd3dHppvD8), of 50 euro als ze je bij je verblijf afzetten. Controleer vooraf of het vertrekpunt en de prijs van 40 euro nog steeds hetzelfde zijn, want die kunnen verschuiven. Neem euro's mee, want in Frans-Guyana wordt in euro betaald. Gedeelde taxi's vertrekken pas als ze vrijwel helemaal vol zijn, dus dit kan betekenen dat je soms even moet wachten.
+Kies je voor de navette, dan vertrekken ze vanaf [**hier**](https://maps.app.goo.gl/6bEpeaDFkcDUbT9bA). Het kost 40 euro naar [**hier**](https://maps.app.goo.gl/sMZXRxqUd3dHppvD8), of 50 euro als ze je bij je verblijf afzetten. Controleer vooraf of het vertrekpunt en de prijs van 40 euro nog steeds hetzelfde zijn, want die kunnen verschuiven. Neem euro's mee, want in Frans-Guyana wordt in euro betaald. Gedeelde taxi's vertrekken pas als ze vrijwel helemaal vol zijn, dus dit kan betekenen dat je soms even moet wachten.
 
 ## Wil je daarna door naar Paramaribo?
 
