@@ -3,7 +3,7 @@ title: "24 uur in Cayenne: wat doe je in de hoofdstad van Frans-Guyana?"
 region: Zuid-Amerika
 country: Frans-Guyana
 destination: Cayenne
-description: KORTE OMSCHRIJVING HIER (1 zin, verschijnt op de kaartjes)
+description: "Van de Place des Palmistes en de markt tot Fort Cépérou: zo vul je een dag in Cayenne, inclusief praktische tips."
 date: 2026-10-23
 image: /images/hero.jpg
 themes: []
@@ -13,7 +13,7 @@ Cayenne is geen stad waar je twee weken blijft, maar wel eentje waar je met een 
 
 ## Aankomst en de eerste avond
 
-Kom je over land aan vanuit Saint-Georges (zie mijn post over [de route van Macapá naar Cayenne](/macapa-naar-cayenne/)), dan arriveer je waarschijnlijk met de navette in de loop van de dag of aan het einde van de middag. Check meteen in bij je verblijf en wandel dan naar het hart van de stad: de Place des Palmistes. Dit is al sinds 1821 het sociale middelpunt van Cayenne, een groot plein met koninklijke palmen en terrasjes eromheen. In de avond staan er foodtrucks en komen inwoners hier samen, dus het is een prima plek om te eten en de sfeer op te snuiven.
+Kom je over land aan vanuit Saint-Georges (zie mijn post over [**de route van Macapá naar Cayenne**](/bestemmingen/zuid-amerika/frans-guyana/brazilie-macapa-naar-cayenne-frans-guyana/)), dan arriveer je waarschijnlijk met de navette in de loop van de dag of aan het einde van de middag. Check meteen in bij je verblijf en wandel dan naar het hart van de stad: de Place des Palmistes. Dit is al sinds 1821 het sociale middelpunt van Cayenne, een groot plein met koninklijke palmen en terrasjes eromheen. In de avond staan er foodtrucks en komen inwoners hier samen, dus het is een prima plek om te eten en de sfeer op te snuiven.
 
 Reken op Europese prijzen. Frans-Guyana is flink duurder dan Brazilië of Suriname, en je betaalt hier in euro's. Een maaltijd op straat is nog het voordeligst.
 
