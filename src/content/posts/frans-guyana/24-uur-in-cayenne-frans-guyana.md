@@ -47,8 +47,4 @@ Voor het centrum van Cayenne ruim voldoende. Heb je meer tijd, dan zijn er twee 
 
 ## Verder reizen
 
-Wil je van Cayenne door naar Suriname? Hier lees je hoe je naar Paramaribo reist: [link naar andere post toevoegen].
-
----
-
-Ik heb deze post gebaseerd op onderzoek, niet op jouw eigen dag in Cayenne, dus hij leest nu als gids en niet als ervaring. Als je me vertelt wat je echt deed (waar je sliep, wat je at, wat je beste moment was), maak ik hem persoonlijker. De link naar de Macapá-post (`/macapa-naar-cayenne/`) is een placeholder. Zal ik er ook een description bij maken?
+Wil je van Cayenne door naar Suriname? [**Hier**](/bestemmingen/zuid-amerika/suriname/frans-guyana-cayenne-naar-suriname-paramaribo/) lees je hoe je naar Paramaribo reist.
