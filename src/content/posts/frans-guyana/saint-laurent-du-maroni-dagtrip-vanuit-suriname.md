@@ -3,13 +3,13 @@ title: "Dagtrip naar Saint-Laurent-du-Maroni vanuit Suriname: Frankrijk in één
 region: Zuid-Amerika
 country: Frans-Guyana
 destination: Saint-Laurent-du-Maroni
-description: "."
+description: "Van Albina met de pirogue naar Frankrijk: zo doe je een dagtrip naar Saint-Laurent-du-Maroni, met markt, strafkolonie-geschiedenis en praktische tips voor de grens."
 date: 2026-10-23
 image: /images/hero.jpg
 themes: []
 ---
 
-Aan de overkant van de Marowijne-rivier, op slechts een kwartier varen van Suriname, ligt Frankrijk. Saint-Laurent-du-Maroni is de grensstad van Frans-Guyana, waar je in een paar minuten van een Surinaamse havenplaats in een Franse stad met euro's, bakkers en een koloniaal verleden belandt. Het is de op twee na grootste stad van Frans-Guyana, en van 1852 tot 1953 het bestuurlijk centrum van de Franse strafkolonie. Wie in Suriname zit en nieuwsgierig is naar Frans-Guyana, kan hier prima een dag voor uittrekken. Ik begin vanaf Albina, de Surinaamse grensplaats.
+Aan de overkant van de Marowijne-rivier, op slechts een kwartier varen van Suriname, ligt Frankrijk. Saint-Laurent-du-Maroni is de grensstad van Frans-Guyana, waar je in een paar minuten van een Surinaamse havenplaats in een Franse stad met euro's, bakkers en een koloniaal verleden belandt. Het is de op twee na grootste stad van Frans-Guyana, en van 1852 tot 1953 het bestuurlijk centrum van de Franse strafkolonie. Wie in Suriname zit en nieuwsgierig is naar Frans-Guyana, kan hier prima een dag voor uittrekken. Deze post begint vanaf Albina, de Surinaamse grensplaats. *Wil je weten hoe je van Paramaribo naar Albina komt? Klik dan [**hier**](/bestemmingen/zuid-amerika/suriname/frans-guyana-cayenne-naar-suriname-paramaribo/).*
 
 ## Waarom een dagtrip?
 
@@ -21,15 +21,15 @@ Neem je paspoort mee, en check van tevoren of je Surinaamse toeristenkaart of e-
 
 ## Stap 1: Albina en je uitreisstempel
 
-Vanuit Paramaribo ben je in ongeveer 2,5 tot 3 uur in Albina. Begin je dag dus vroeg, zeker als je de markt wilt zien. Bij aankomst loop je naar het immigratiekantoor van Albina voor je uitreisstempel. Je hoort wel eens dat je met een pirogue de immigratie kunt omzeilen. Doe dat niet: laat je paspoort altijd netjes stempelen, ook voor een dagtrip, want anders heb je gedoe bij je terugkeer.
+In Albina loop je naar het immigratiekantoor voor je uitreisstempel. Je hoort wel eens dat je met een pirogue de immigratie kunt omzeilen. Doe dat niet: laat je paspoort altijd netjes stempelen, ook voor een dagtrip, want anders heb je gedoe bij je terugkeer.
 
 ## Stap 2: de oversteek
 
-De rivier steek je over met een ferry of met een pirogue, een motorkano. Voor voetgangers is de pirogue de gebruikelijke keuze: ze varen zodra ze vol zitten, en het duurt ongeveer 15 minuten. Reken op ongeveer 5 euro per persoon, al is de prijs volgens andere reizigers flexibel en wordt er soms ter plekke over onderhandeld. De ferry zelf vaart op vaste tijden en is vooral bedoeld voor voertuigen.
+De rivier steek je over met een ferry of met een pirogue, een motorkano. Voor voetgangers is de pirogue de gebruikelijke keuze: ze varen zodra ze vol zitten, en het duurt ongeveer 15 minuten. Reken op 5 euro per persoon, al is de prijs volgens andere reizigers flexibel en wordt er soms ter plekke over onderhandeld. De ferry zelf vaart op vaste tijden en is vooral bedoeld voor voertuigen.
 
 ## Stap 3: aankomst in Saint-Laurent
 
-Aan de Franse kant haal je je inreisstempel bij de grenscontrole. Daarna sta je in een stad die eruitziet als een mix van Frankrijk en de tropen: koloniale gebouwen, Franse bordjes en bakkers, met op de achtergrond de rivier.
+Aan de Franse kant haal je je inreisstempel bij de grenscontrole indien nodig. Nederlandse paspoort worden niet gestempeld. Daarna sta je in een stad die eruitziet als een mix van Frankrijk en de tropen: koloniale gebouwen, Franse bordjes en bakkers, met op de achtergrond de rivier.
 
 ## Wat doe je in Saint-Laurent?
 
@@ -43,7 +43,7 @@ Aan de Franse kant haal je je inreisstempel bij de grenscontrole. Daarna sta je 
 
 ## Terug naar Suriname
 
-Plan je terugreis ruim op tijd. Volgens een tourorganisator sluit de grens in het weekend (zaterdag en zondag) om 14:00 uur, dus zorg dat je dan al op weg terug bent. Op doordeweekse dagen zijn de tijden ruimer, maar check ter plekke tot hoe laat je kunt oversteken. Je laat je uit Frans-Guyana stempelen, pakt de pirogue terug naar Albina, loopt langs de Surinaamse immigratie, en reist dan in 2,5 tot 3 uur terug naar Paramaribo. Reken er daarom op dat je pas aan het einde van de middag of in de vroege avond terug bent.
+Je pakt de pirogue terug naar Albina, loopt langs de Surinaamse immigratie, en reist dan in 2,5 tot 3 uur terug naar Paramaribo. Reken er daarom op dat je pas aan het einde van de middag of in de vroege avond terug bent. Er zijn in Albina een paar accommodaties, dus het is mogelijk om hier te overnachten. 
 
 ## Praktische tips
 
@@ -51,10 +51,6 @@ Begin vroeg: de reis naar Albina kost al ruim twee uur, en de markt van Saint-La
 
 Een dagtrip naar Saint-Laurent-du-Maroni is geen spectaculair avontuur, maar wel een bijzonder stukje reizen: in één dag stap je van de ene wereld in de andere, met een rivier ertussen.
 
----
-
-**Description:**
-Van Albina met de pirogue naar Frankrijk: zo doe je een dagtrip naar Saint-Laurent-du-Maroni, met markt, strafkolonie-geschiedenis en praktische tips voor de grens.
 
 ---
 
