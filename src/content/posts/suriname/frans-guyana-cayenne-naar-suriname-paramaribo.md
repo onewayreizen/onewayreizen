@@ -34,7 +34,7 @@ In Saint-Laurent ga je langs de douane. Daarna wacht je op een pirogue of de fer
 
 ## Stap 3: Albina en de Surinaamse immigratie
 
-Aan de overkant, in Albina, loop je naar de Surinaamse immigratie voor je inreisstempel. Sla dit niet over, ook al zeggen sommigen dat locals het vaak laten: zonder stempel krijg je gedoe. Wisselaars staan aan beide oevers, vaak met slechte koersen. Wissel dus alleen het hoognodige, zoals genoeg voor de boot en het vervoer naar Paramaribo.
+Aan de overkant, in Albina, loop je naar de Surinaamse immigratie voor je inreisstempel. Houd rekening met korte openingstijden van de douane in het weekend. Sla dit niet over, ook al zeggen sommigen dat locals het vaak laten: zonder stempel krijg je gedoe. Wisselaars staan aan beide oevers, vaak met slechte koersen. Wissel dus alleen het hoognodige, zoals genoeg voor de boot en het vervoer naar Paramaribo.
 
 ## Stap 4: van Albina naar Paramaribo
 
@@ -51,6 +51,3 @@ Reken ruwweg op 30 tot 50 euro voor het stuk Cayenne naar Saint-Laurent, 5 euro 
 ## Praktische tips
 
 Begin zo vroeg mogelijk, want dit is een dag zonder speling. Zorg dat je je Surinaamse toeristenkaart of e-visum vooraf hebt geregeld. Neem euro's mee voor Frans-Guyana, en voldoende kleingeld voor onderweg. Bereid je erop voor dat vertrektijden en prijzen losjes zijn, en dat je soms moet wachten tot een busje vol is. En reken op een lange dag: als alles meezit ben je 's avonds in Paramaribo, maar het is geen route om te haasten.
-
-
-
