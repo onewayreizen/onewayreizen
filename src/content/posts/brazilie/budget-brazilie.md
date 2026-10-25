@@ -3,7 +3,7 @@ title: "Reizen in Brazilië: kosten, budget en handige tips"
 region: Zuid-Amerika
 country: Brazilië
 destination: 
-description: ""
+description: "Wat kost een reis naar Brazilië? Alle kosten voor eten, slapen, vervoer en tours, plus het dagbudget voor backpackers, gemiddelde reizigers en luxe."
 date: 2026-10-22
 image: /images/hero.jpg
 themes: [Kosten]
