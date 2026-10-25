@@ -13,6 +13,8 @@ Midden-Amerika is een regio waar je met een goed gekozen route in een paar weken
 
 Wil je eerst een overzicht van visum, kosten en seizoenen? Lees dan de [**ultieme gids voor backpacken door Midden-Amerika**](/artikelen/midden-amerika-guide/).
 
+![](/images/maps/midden-amerika.png)
+
 ## In welke richting reis je?
 
 Ik heb de route van noord naar zuid uitgeschreven: je begint in Mexico en eindigt in Panama Stad, bij het Panamakanaal. Dat werkt goed omdat je dan het tempo opbouwt, van de Maya-wereld in het noorden naar de natuur van Costa Rica en Panama aan het einde, en omdat Panama Stad een grote luchthaven heeft. Reis je liever andersom, dan lees je de route gewoon van onder naar boven. Boek bij voorkeur een enkele vlucht heen naar Mexico (Mérida of Cancún) en een enkele vlucht terug vanuit Panama Stad, zodat je niet terug hoeft te reizen naar je beginpunt.
