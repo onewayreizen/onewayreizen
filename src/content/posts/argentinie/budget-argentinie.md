@@ -9,7 +9,7 @@ image: /images/hero.jpg
 themes: [Kosten]
 ---
 
-Argentinië is het op één na grootste land van Zuid-Amerika en heeft bijna alles: de levendige hoofdstad Buenos Aires, wijngaarden bij Mendoza, de Iguazú-watervallen, de woestijnkleuren van Salta en Jujuy en de gletsjers en bergen van Patagonië. Het land is over het algemeen betaalbaar, maar de prijzen verschillen sterk per regio. Buenos Aires en vooral Patagonië zijn flink duurder dan het noorden van het land. Door de inflatie veranderen prijzen in pesos snel, dus reken je budget liever uit in euro's of dollars. Wil jee een specifieke kostengids voor Patagonië? Klik dan [**hier**](/bestemmingen/zuid-amerika/patagonie/budget-patagonie/).
+Argentinië is het op één na grootste land van Zuid-Amerika en heeft bijna alles: de levendige hoofdstad Buenos Aires, wijngaarden bij Mendoza, de Iguazú-watervallen, de woestijnkleuren van Salta en Jujuy en de gletsjers en bergen van Patagonië. Het land is over het algemeen betaalbaar, maar de prijzen verschillen sterk per regio. Buenos Aires en vooral Patagonië zijn flink duurder dan het noorden van het land. Door de inflatie veranderen prijzen in pesos snel, dus reken je budget liever uit in euro's of dollars. Wil je een specifieke kostengids voor Patagonië? Klik dan [**hier**](/bestemmingen/zuid-amerika/patagonie/budget-patagonie/).
 
 *Laatst bijgewerkt: oktober 2026 | Alle bedragen zijn in euro's en afgerond*
 
