@@ -39,7 +39,7 @@ Aan de Franse kant haal je je inreisstempel bij de grenscontrole indien nodig. N
 
 **Camp de la Transportation.** Dit is dé bezienswaardigheid van de stad: het voormalige doorgangskamp van de strafkolonie. Alle nieuwe gevangenen uit Europa kwamen hier eerst aan voordat ze naar onder meer de Îles du Salut gingen. De originele cellenblokken, strafcellen en isolatiecellen zijn bewaard gebleven als historische plek. Het is geen vrolijk bezoek, maar wel een van de belangrijkste stukken geschiedenis van Frans-Guyana.
 
-**Het koloniale stadhuis en de oude stad.** Loop ook even door het centrum langs de koloniale gebouwen, en neem de tijd voor een lunch in een Frans of Creools restaurant. Na weken Suriname is een baguette of croissant ook niet verkeerd.
+**Het koloniale stadhuis en de oude stad.** Loop ook even door het centrum langs de koloniale gebouwen, en neem de tijd voor een lunch in een Frans of Creools restaurant.
 
 ## Terug naar Suriname
 
@@ -51,7 +51,3 @@ Begin vroeg: de reis naar Albina kost al ruim twee uur, en de markt van Saint-La
 
 Een dagtrip naar Saint-Laurent-du-Maroni is geen spectaculair avontuur, maar wel een bijzonder stukje reizen: in één dag stap je van de ene wereld in de andere, met een rivier ertussen.
 
-
----
-
-Een paar dingen: ik heb dit uit onderzoek geschreven, niet uit eigen ervaring, dus het leest als gids. Wil je er je eigen dag in verwerken (wat je at, hoe de grens ging), dan hoor ik dat graag. De link `/paramaribo-naar-albina/` is een placeholder. Ik heb bewust het omzeilen van immigratie niet als optie genoemd. Check zeker nog of je Surinaamse visum je laat terugkeren, want daar ben ik niet zeker van.
