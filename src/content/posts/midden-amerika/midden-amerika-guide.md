@@ -9,7 +9,7 @@ date: 2026-10-02
 themes: [Reisgidsen]
 ---
 
-Midden-Amerika is compact genoeg om in een paar maanden tijd volledig te doorkruisen, en toch boordevol variatie: van Maya-ruïnes en vulkanen tot Caribische eilanden en twee oceanen die je soms op dezelfde dag kunt zien. Hieronder een uitgebreid overzicht van de landen waar ik over schrijf, met budgetten, visa, klassieke routes en praktische tips.
+Midden-Amerika is compact genoeg om in een paar maanden tijd volledig te doorkruisen, en toch boordevol variatie: van Maya-ruïnes en vulkanen tot Caribische eilanden en twee oceanen die je soms op dezelfde dag kunt zien. Hieronder een uitgebreid overzicht van de landen waar ik over schrijf, met budgetten, visa, klassieke routes en praktische tips. Wil je een uitgebreidere route met dagindeling en vervoer? Klik dan [**hier**](/midden-amerika-route/).
 
 ## De landen
 
@@ -49,31 +49,32 @@ Het Panama Kanaal als absolute blikvanger, aangevuld met Bocas del Toro, de San 
 
 **De noord-zuid (of zuid-noord) route.** De meest voor de hand liggende manier om Midden-Amerika te bereizen: begin in Mexico of Belize, en werk je via Guatemala, Honduras, El Salvador, Nicaragua en Costa Rica naar Panama (of andersom). Dit is ook de route die de meeste backpackers in 2 tot 4 maanden afleggen.
 
-**Combinaties binnen de CA-4.** Omdat Guatemala, Honduras, El Salvador en Nicaragua samen een open grens-overeenkomst hebben (zie hieronder), is het makkelijk om tussen deze vier landen heen en weer te springen zonder nieuwe visa of entreekosten, bijvoorbeeld voor een dagtrip naar Copán (Honduras) vanuit Guatemala, of een bezoek aan El Tunco (El Salvador) vanuit beide buurlanden.
+**Costa Rica en Panama als losse reis.** Omdat deze twee landen duurder zijn dan de rest van de regio, combineren veel reizigers ze als een losse, kortere trip (2 tot 4 weken), in plaats van ze mee te nemen in een langere, minder duurdere route.
 
-**Costa Rica en Panama als losse reis.** Omdat deze twee landen duurder zijn én niet bij de CA-4 horen, combineren veel reizigers ze als een losse, kortere trip (2 tot 4 weken), in plaats van ze mee te nemen in een langere, goedkopere CA-4-route.
+## Visum: wat heb je nodig als Nederlander?
 
-## Visa: de CA-4-regeling
+Voor Nederlanders is Midden-Amerika over het algemeen makkelijk te bereizen: voor een toeristisch verblijf hoef je in de landen op deze lijst geen visum aan te vragen. Wel verschilt per land hoe lang je mag blijven en wat je vooraf moet regelen. Hieronder de stand van zaken volgens onder meer NederlandWereldwijd en de ANWB. Check de actuele regels altijd vlak voor vertrek op nederlandwereldwijd, want ze veranderen regelmatig.
 
-Dit is het belangrijkste om te snappen voor wie door Midden-Amerika reist: **Guatemala, Honduras, El Salvador en Nicaragua vormen samen de CA-4 (Central America-4)**, een overeenkomst waarbij je visumvrije periode (voor de meeste nationaliteiten 90 dagen) gedeeld wordt over alle vier de landen, in plaats van dat je bij elke nieuwe grens een vers visum krijgt.
+- **Mexico:** geen visum nodig voor een verblijf tot 180 dagen. Reis je over land, geef dan bij aankomst aan wanneer je weer vertrekt: je krijgt een stempel met de uiterste vertrekdatum.
+- **Belize:** geen visum nodig voor een verblijf tot 30 dagen. Verlengen kan bij de immigratiedienst. Officieel kan om een bewijs van voldoende geld worden gevraagd (USD 50 per dag). In de praktijk wordt dit echter bijna nooit gedaan.
+- **Guatemala:** geen visum nodig tot 90 dagen. Voor in- en uitreis moet je vooraf een online formulier van de immigratiedienst invullen.
+- **Honduras:** met een Nederlands paspoort heb je geen visum nodig. Check voor vertrek hoe lang je precies mag blijven.
+- **El Salvador:** geen visum nodig voor toeristen. Check voor vertrek de actuele verblijfsduur.
+- **Nicaragua:** geen visum nodig tot 90 dagen. Je moet je uiterlijk 7 dagen voor vertrek online laten registreren, en bij aankomst kan bewijs worden gevraagd dat je minimaal 200 dollar bij je hebt.
+- **Costa Rica:** geen visum nodig tot 180 dagen. Bij vertrek betaal je uitreisbelasting, en er kan gevraagd worden om een bewijs dat je het land weer verlaat. Zorg dus voor een door- of retourticket.
+- **Panama:** geen visum nodig tot 90 dagen.
 
-Concreet betekent dit: je 90-dagenklok start zodra je een van deze vier landen binnenkomt, en loopt gewoon door, ook als je tussentijds de grens oversteekt naar een van de andere drie. Reis je lang door deze regio, dan moet je na 90 dagen de hele CA-4-zone verlaten (richting Mexico, Belize, Costa Rica of Panama) om een nieuwe periode te krijgen.
-
-**De overige landen:**
-- **Mexico, Belize, Costa Rica, Panama:** staan los van de CA-4, met hun eigen visumvrije periode (meestal 90 dagen) voor de meeste westerse nationaliteiten.
-- **Bewijs van verder reizen:** met name Costa Rica staat bekend als streng op dit punt; zorg voor een (terug- of door)ticket als bewijs dat je het land weer gaat verlaten.
-
-Check altijd de actuele regelgeving vlak voor vertrek, aangezien dit per nationaliteit en met enige regelmaat verandert.
+In veel van deze landen moet je paspoort bij aankomst nog minimaal zes maanden geldig zijn. Kom je uit een gelekoortsgebied (zoals delen van Zuid-Amerika), dan vragen onder meer Costa Rica, Panama en Belize om een vaccinatiebewijs tegen gele koorts.
 
 ## Budget per dag: ruwe richtlijn
 
-- **Goedkoopste landen** (Guatemala, Honduras, El Salvador, Nicaragua): 20 tot 35 dollar per dag.
+- **Budget landen** (Guatemala, Honduras, El Salvador, Nicaragua): 20 tot 35 dollar per dag.
 - **Duurdere landen** (Belize, Costa Rica, Panama): 35 tot 55 dollar per dag.
 - **Mexico:** 25 tot 40 dollar per dag, sterk afhankelijk van regio (Yucatán is duurder dan het binnenland).
 
 ## Transport tussen de landen
 
-Binnen de CA-4-landen reis je voornamelijk met lokale of internationale shuttlebussen, vaak via vaste backpackersroutes tussen de bekendste steden. Grensovergangen zijn over het algemeen relaxed en simpel, al duiken er bij sommige grensposten (zoals richting Panama vanuit Costa Rica) weleens opdringerige "hulpjes" op die geld vragen voor diensten die je niet nodig hebt. Voor grotere afstanden (zoals Mexico-Stad naar Guatemala, of Panama Stad als eindpunt) is een korte binnenlandse of regionale vlucht soms praktischer dan een lange busreis.
+Tussen de landen reis je voornamelijk met lokale bussen of internationale shuttlebussen, vaak via vaste backpackersroutes tussen de bekendste steden. Grensovergangen zijn over het algemeen relaxed en simpel, al duiken er bij sommige grensposten (zoals richting Panama vanuit Costa Rica) weleens opdringerige "hulpjes" op die geld vragen voor diensten die je niet nodig hebt. Voor grotere afstanden (zoals Mexico-Stad naar Guatemala, of Panama Stad als eindpunt) is een korte binnenlandse of regionale vlucht soms praktischer dan een lange busreis.
 
 ## Beste reisperiode
 
@@ -83,12 +84,10 @@ Het droge seizoen, grofweg van november tot april, is in vrijwel het hele Midden
 
 **Valuta:** Panama en El Salvador gebruiken de Amerikaanse dollar, wat budgetteren in die landen een stuk simpeler maakt. De overige landen hebben hun eigen valuta, die vrijwel nergens buiten de eigen grenzen wisselbaar is, dus wissel op tijd bij over naar de volgende valuta.
 
-**CA-4 bijhouden:** houd zelf een beetje bij hoeveel dagen je al binnen de CA-4-zone hebt doorgebracht, zodat je niet voor verrassingen komt te staan bij een latere grensovergang of bij vertrek.
-
 **Veiligheid op bussen:** ook hier geldt, zoals eerder besproken bij andere regio's: houd je tas altijd bij je op schoot of tussen je voeten, nooit op de vloer of in het bagagerek, zeker tijdens nachtbussen of lange shuttle-ritten.
 
 **Grensovergangen:** neem de tijd en het geduld mee bij grensovergangen, met name richting Panama en Costa Rica, waar soms officieel ogende "assistenten" geld vragen voor hulp die je niet nodig hebt.
 
 **Reisverzekering:** zorg voor een goede reisverzekering die ook actief avontuur (vulkaanbeklimmingen, canyoning, duiken) dekt, aangezien dit in veel van deze landen tot de populairste activiteiten behoort.
 
-Van de goedkope, ongepolijste CA-4-landen tot de duurdere, meer ontwikkelde Costa Rica en Panama: Midden-Amerika biedt in een relatief compacte regio een enorme variatie aan ervaringen, cultuur en natuur.
+Van de goedkope, ongepolijste landen in het noorden tot de duurdere, meer ontwikkelde Costa Rica en Panama: Midden-Amerika biedt in een relatief compacte regio een enorme variatie aan ervaringen, cultuur en natuur.
