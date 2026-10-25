@@ -1,6 +1,6 @@
 ---
 title: "Reizen in Panama: kosten, budget en handige tips"
-region: Zuid-Amerika
+region: Midden-Amerika
 country: Panama
 destination: 
 description: ""
