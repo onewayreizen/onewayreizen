@@ -9,18 +9,18 @@ image: /images/hero.jpg
 themes: [Kosten]
 ---
 
-Argentinië is het op één na grootste land van Zuid-Amerika en heeft bijna alles: de levendige hoofdstad Buenos Aires, wijngaarden bij Mendoza, de Iguazú-watervallen, de woestijnkleuren van Salta en Jujuy en de gletsjers en bergen van Patagonië. Het land is over het algemeen betaalbaar, maar de prijzen verschillen sterk per regio. Buenos Aires en vooral Patagonië zijn flink duurder dan het noorden van het land. Door de inflatie veranderen prijzen in pesos snel, dus reken je budget liever uit in euro's of dollars.
+Argentinië is het op één na grootste land van Zuid-Amerika en heeft bijna alles: de levendige hoofdstad Buenos Aires, wijngaarden bij Mendoza, de Iguazú-watervallen, de woestijnkleuren van Salta en Jujuy en de gletsjers en bergen van Patagonië. Het land is over het algemeen betaalbaar, maar de prijzen verschillen sterk per regio. Buenos Aires en vooral Patagonië zijn flink duurder dan het noorden van het land. Door de inflatie veranderen prijzen in pesos snel, dus reken je budget liever uit in euro's of dollars. Wil jee een specifieke kostengids voor Patagonië? Klik dan [**hier**](/bestemmingen/zuid-amerika/patagonie/budget-patagonie/).
 
 *Laatst bijgewerkt: oktober 2026 | Alle bedragen zijn in euro's en afgerond*
 
 ## Kosten voor eten en drinken in Argentinië
 
-Eten is een van de grootste plezieren van Argentinië, en gelukkig kun je er goed en goedkoop eten. Reken voor eten en drinken op ongeveer € 16–26 per dag als je eenvoudig eet, en veel meer als je elke avond een parrilla bezoekt.
+Eten is een van de grootste plezieren van Argentinië, en gelukkig kun je er goed en goedkoop eten. Reken voor eten en drinken op ongeveer € 15–25 per dag als je eenvoudig eet, en veel meer als je elke avond een parrilla bezoekt.
 
 Indicatieve prijzen:
 
 - Empanada, choripán of koffie met een gebakje: € 2–4
-- Menú del día (lunchmenu met meerdere gangen): € 7–13
+- Menú del día (lunchmenu met meerdere gangen): € 5–13
 - Diner in een parrilla (steakhouse) op middenniveau, zonder wijn: € 18–35
 - Een goede fles Malbec erbij: € 9–22
 - Wijngaardlunch in Mendoza of een topdiner: € 45–90 per persoon
@@ -29,7 +29,7 @@ Indicatieve prijzen:
 
 ## Kosten voor hotels en hostels in Argentinië
 
-- Bed in een slaapzaal: € 8–15 per nacht
+- Bed in een slaapzaal: € 6–15 per nacht
 - Privékamer in een hostel: € 25–35
 - Eenvoudig hotel of guesthouse met privékamer: € 35–80
 - Hotel of appartement op middenniveau: € 60–100 (in Patagonië € 100–180)
@@ -58,7 +58,7 @@ Veel hoogtepunten zijn gratis of goedkoop, zoals wandelen in Buenos Aires, de st
 - Dagtocht of excursie in Patagonië: € 40–100
 - Entree nationaal park (Iguazú en andere): vaak € 15–35
 
-**Tip:** Laat je niet verleiden tot elke tour, want veel van de mooiste wandelingen in Patagonië en Salta kun je zelf doen met de lokale bus.
+**Tip:** Laat je niet verleiden tot elke tour, want veel van de mooiste wandelingen kun je vaak zelf doen met de lokale bus.
 
 ## Cash of card?
 
@@ -80,13 +80,13 @@ Slaapzaal in een hostel, eenvoudig eten, stadsbus en af en toe een tour.
 **Gemiddelde reiziger: € 65–110 per dag**
 Hotel op middenniveau, restaurants, een paar tours en wat binnenlands vervoer. In Patagonië kom je al snel hoger uit.
 
-**Boujee: € 150–300+ per dag**
+**Boujee: € 130+ per dag**
 Boetiekhotel of lodge, goede restaurants, privétours en binnenlandse vluchten. In Patagonië kan dit nog veel hoger uitvallen.
 
 **Tip om te besparen:** Reis in het schouderseizoen (maart tot mei en september tot november). Het noorden van het land, zoals Salta en Jujuy, is bovendien 40–55% goedkoper dan Patagonië.
 
 ## Slotadvies
 
-Argentinië is niet het goedkoopste land van Zuid-Amerika, maar je krijgt er veel voor terug. Plan je route slim, want de afstanden zijn enorm en vervoer en accommodatie in Patagonië tikken flink aan. Neem een creditcard en wat schoon contant geld mee, en eet je lunch als hoofdmaaltijd.
+Argentinië is niet het meest budget land van Zuid-Amerika, maar je krijgt er veel voor terug. Plan je route slim, want de afstanden zijn enorm en vervoer en accommodatie in Patagonië tikken flink aan. Neem een creditcard en wat schoon contant geld mee, en eet je lunch als hoofdmaaltijd.
 
 *Prijzen zijn indicatief en kunnen veranderen. Controleer ze voor vertrek.*
