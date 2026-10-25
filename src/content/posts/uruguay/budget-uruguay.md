@@ -3,7 +3,7 @@ title: "Reizen in Uruguay: kosten, budget en handige tips"
 region: Zuid-Amerika
 country: Uruguay
 destination: 
-description: ""
+description: "Wat kost een reis naar Uruguay? Alle kosten voor eten, slapen, vervoer en tours, plus het dagbudget voor backpackers, gemiddelde reizigers en luxe."
 date: 2026-10-22
 image: /images/hero.jpg
 themes: [Kosten]
