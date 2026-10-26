@@ -21,24 +21,6 @@ Ik heb de route van noord naar zuid uitgeschreven: je begint in Mexico en eindig
 
 Reken voor de volledige route op ruim tien weken, inclusief de reisdagen. Dat is veel, maar de route is ook zo gebouwd dat je er stukken uit kunt halen.
 
-
-
-
----
-title: "Midden-Amerika rondreizen: complete route met praktische tips"
-region: Midden-Amerika
-country: 
-destination: 
-description: "Kies je route door Midden-Amerika: de complete route van Mexico tot Panama, of een variant voor 2, 3 of 4 weken, natuur, geschiedenis, strand, avontuur of budget."
-image: /images/midden-amerika-route.jpg
-date: 2026-10-25
-themes: [Reisroutes]
----
-
-Midden-Amerika is compact genoeg om veel te zien, maar groot genoeg om te twijfelen waar je moet beginnen. Daarom staat hieronder niet één route, maar een aantal routes om uit te kiezen. Wil je alles zien, ga dan naar de complete route. Heb je maar een paar weken, of zoek je specifiek natuur, geschiedenis of strand? Spring dan direct naar de route die bij je past.
-
-Alle routes zijn opgebouwd uit dezelfde plekken, dus je kunt ze ook combineren of stukken weglaten. Wil je eerst weten wat een reis hier kost en welk visum je nodig hebt? Lees dan de [ultieme gids voor backpacken door Midden-Amerika](/midden-amerika-gids/).
-
 ## Kies je route
 
 - [De ultieme route](#de-ultieme-route): Mexico tot Panama, ongeveer 12 weken
