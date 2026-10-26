@@ -21,136 +21,318 @@ Ik heb de route van noord naar zuid uitgeschreven: je begint in Mexico en eindig
 
 Reken voor de volledige route op ruim tien weken, inclusief de reisdagen. Dat is veel, maar de route is ook zo gebouwd dat je er stukken uit kunt halen.
 
+
+
+
+---
+title: "Midden-Amerika rondreizen: complete route met praktische tips"
+region: Midden-Amerika
+country: 
+destination: 
+description: "Kies je route door Midden-Amerika: de complete route van Mexico tot Panama, of een variant voor 2, 3 of 4 weken, natuur, geschiedenis, strand, avontuur of budget."
+image: /images/midden-amerika-route.jpg
+date: 2026-10-25
+themes: [Reisroutes]
+---
+
+Midden-Amerika is compact genoeg om veel te zien, maar groot genoeg om te twijfelen waar je moet beginnen. Daarom staat hieronder niet één route, maar een aantal routes om uit te kiezen. Wil je alles zien, ga dan naar de complete route. Heb je maar een paar weken, of zoek je specifiek natuur, geschiedenis of strand? Spring dan direct naar de route die bij je past.
+
+Alle routes zijn opgebouwd uit dezelfde plekken, dus je kunt ze ook combineren of stukken weglaten. Wil je eerst weten wat een reis hier kost en welk visum je nodig hebt? Lees dan de [ultieme gids voor backpacken door Midden-Amerika](/midden-amerika-gids/).
+
+## Kies je route
+
+- [De ultieme route](#de-ultieme-route): Mexico tot Panama, ongeveer 12 weken
+- [Een maand](#een-maand): twee varianten voor 4 weken
+- [Drie weken](#drie-weken): de highlights
+- [Twee weken](#twee-weken): drie regio's om uit te kiezen
+- [Natuur en wildlife](#natuur-en-wildlife): jungle, jaguars, luiaards en riffen
+- [Geschiedenis en cultuur](#geschiedenis-en-cultuur): Maya-steden en koloniale stadjes
+- [Strand en duiken](#strand-en-duiken): eilanden, riffen en surfdorpen
+- [Avontuur en vulkanen](#avontuur-en-vulkanen): beklimmingen, boarden en canyons
+- [De budgetroute](#de-budgetroute): de meest betaalbare landen
+
 ## De ultieme route
 
-### Mexico: Yucatán (ongeveer 2 weken)
+**Duur:** ongeveer 12 weken (rond de 85 nachten plus reisdagen)
+**Voor wie:** voor reizigers met veel tijd die echt alles willen zien
+**Start en eind:** Mérida (Mexico) naar Panama Stad, met een enkele vlucht heen en terug
 
-Je begint in **Mérida**, de koloniale hoofdstad van Yucatán, een goede plek om te landen: een levendige stad met een rustig tempo, markten en veel eetgelegenheden. Plan hier twee dagen en maak desgewenst een dagtrip naar de ruïnes van Uxmal of naar Celestún voor de flamingo's.
+Dit is de volledige route van noord naar zuid, langs acht landen. Je bouwt het tempo op van de Maya-wereld in het noorden naar de natuur van Costa Rica en Panama en eindigt bij het Panamakanaal.
 
-Vanuit Mérida reis je door naar **Valladolid**, een kleurrijke stad die een prima uitvalsbasis is voor **Chichén Itzá**. Bezoek de ruïnes bij voorkeur zo vroeg mogelijk, om de drukte en hitte voor te zijn. Combineer het met een duik in een cenote (de natuurlijke zinkgaten van Yucatán) en met Ek Balam, een rustigere Maya-site vlakbij Valladolid waar je nog tot de top van de piramide kunt klimmen. Reken op twee tot drie dagen.
+| Land | Plek | Nachten | Waarom |
+|---|---|---|---|
+| Mexico | Mérida | 2 | Koloniale stad, startpunt, dagtrip naar Uxmal of de flamingo's van Celestún |
+| Mexico | Valladolid en Chichén Itzá | 3 | Maya-ruïnes, cenotes en Ek Balam |
+| Mexico | Isla Mujeres | 2 | Rustig eiland, stranden |
+| Mexico | Tulum | 3 | Stranden, cenotes, ruïnes aan zee, Sian Ka'an |
+| Mexico | Bacalar | 3 | Lagune van zeven kleuren |
+| Belize | Caye Caulker | 3 | Snorkelen bij Hol Chan, autovrij eiland |
+| Belize | Hopkins | 2 | Garifuna-cultuur, Cockscomb Basin (jaguars) |
+| Belize | San Ignacio | 3 | ATM Cave, Xunantunich, Cahal Pech |
+| Guatemala | Flores en Tikal | 3 | Grootste Maya-stad in de jungle |
+| Guatemala | Semuc Champey | 2 | Turquoise poelen in de jungle |
+| Guatemala | Lago Atitlán | 4 | Meer omringd door vulkanen |
+| Guatemala | Antigua | 4 | Koloniale stad, Acatenango |
+| Honduras | Copán | 2 | Maya-beeldhouwwerk |
+| Honduras | La Ceiba en Utila | 4 | Pico Bonito, duiken op Utila |
+| El Salvador | Santa Ana | 2 | Vulkaan en kratermeer |
+| El Salvador | Ruta de las Flores | 2 | Koffiedorpjes en eetmarkten |
+| El Salvador | El Tunco | 3 | Surfdorp aan de Pacific |
+| El Salvador | San Salvador en Suchitoto | 3 | Hoofdstad, Joya de Cerén, koloniaal stadje |
+| Nicaragua | León | 3 | Koloniale stad, vulkaanboarden op Cerro Negro |
+| Nicaragua | Matagalpa | 2 | Koffieregio in de bergen |
+| Nicaragua | Granada | 2 | Koloniale stad, Masaya en Laguna de Apoyo |
+| Nicaragua | Ometepe | 3 | Eiland met twee vulkanen |
+| Nicaragua | San Juan del Sur | 2 | Surfstad aan de Pacific |
+| Costa Rica | La Fortuna | 3 | Vulkaan Arenal, warmwaterbronnen |
+| Costa Rica | Monteverde | 3 | Nevelwoud, hangbruggen |
+| Costa Rica | Manuel Antonio | 3 | Luiaards en stranden |
+| Costa Rica | Puerto Viejo | 3 | Caribische sfeer, Cahuita |
+| Panama | Bocas del Toro | 3 | Eilanden en snorkelen |
+| Panama | Boquete | 3 | Koffie, vulkaan Barú |
+| Panama | Santa Catalina | 3 | Surfdorp, boottochten naar Isla Coiba |
+| Panama | Panama Stad | 3 | Casco Viejo en het kanaal |
 
-Daarna ga je naar de kust. **Isla Mujeres** is een klein eiland voor de kust van Cancún, bereikbaar per ferry, met rustige stranden en een relaxed tempo. Twee nachten is genoeg. Vandaar reis je verder naar **Tulum**, bekend om zijn stranden, cenotes en ruïnes aan zee. Het is er toeristisch en duurder, maar het blijft een van de mooiste plekken van Yucatán. Plan drie dagen en neem de tijd voor cenotes en Sian Ka'an, een natuurreservaat vlakbij.
+**Reizen tussen de stops:** de lange dagen zijn Bacalar naar Caye Caulker (via de grens bij Chetumal en Belize City, ruwweg een hele dag), Flores naar Semuc Champey, Antigua naar Copán, Honduras naar El Salvador, El Salvador naar Nicaragua (een lange reisdag door Honduras, check de actuele bus- en shuttleverbindingen) en Manuel Antonio naar Puerto Viejo (via San José). Plan op die dagen geen afspraken. Utila is een flinke omweg, overweeg daar een vlucht om tijd te besparen.
 
-Je sluit Mexico af in **Bacalar**, aan de lagune van zeven kleuren: een rustig dorpje met helderblauw water, perfect om bij te komen voordat je de grens met Belize over steekt. Drie dagen is een mooie hoeveelheid.
+**Tip:** lees hier meer over [**Caye Caulker**](/bestemmingen/midden-amerika/belize/caye-caulker-tips/) en het bezoek aan het [**Panamakanaal**]().
 
-### Van Bacalar naar Belize
+## Een maand
 
-Vanuit Bacalar reis je via Chetumal naar de grens met Belize. Daarna ga je verder naar Belize City, van waaruit de water taxi naar Caye Caulker vaart. Reken op een lange reisdag van ruwweg zes uur of meer, inclusief de grensovergang.
+Vier weken is een mooie hoeveelheid tijd: genoeg voor een hele regio, zonder dat je je door de plekken heen haast. Kies tussen een noordelijke en een zuidelijke route.
 
-### Belize (ongeveer 1 week)
+### Noordelijke route: de Maya-wereld
 
-Begin op **Caye Caulker**, het autovrije eiland waar het tempo vanzelf zakt. Duik of snorkel bij Hol Chan en Shark Ray Alley, drink iets bij The Split en bouw rustig de snelheid af. Meer tips lees je in mijn [aparte post over Caye Caulker](/caye-caulker/). Drie dagen is genoeg.
+**Duur:** ongeveer 4 weken (26 nachten)
+**Start en eind:** Mérida of Cancún naar Guatemala Stad
+**Voor wie:** geschiedenis, koloniale steden, jungle en vulkanen
 
-Daarna reis je naar het zuiden, naar **Hopkins**, een klein Garifuna-dorp aan de kust met een heel eigen cultuur, muziek en keuken. Vanuit Hopkins kun je het Cockscomb Basin Wildlife Sanctuary bezoeken, het eerste jaguarreservaat ter wereld. Twee dagen is voldoende.
+| Plek | Nachten | Waarom |
+|---|---|---|
+| Mérida (Mexico) | 2 | Koloniale start |
+| Valladolid en Chichén Itzá | 2 | Maya-ruïnes en cenotes |
+| Tulum | 3 | Stranden en ruïnes |
+| Bacalar | 3 | Lagune |
+| Caye Caulker (Belize) | 3 | Rif en eilandleven |
+| San Ignacio | 2 | ATM Cave en ruïnes |
+| Flores en Tikal (Guatemala) | 3 | Jungle-ruïnes |
+| Lago Atitlán | 4 | Vulkaanmeer |
+| Antigua | 4 | Koloniale stad en Acatenango |
 
-Als laatste ga je naar **San Ignacio**, in het binnenland, voor de ATM Cave, de ruïnes van Xunantunich en Cahal Pech, en een rustig stadje om uit te rusten. Reken op drie dagen. Lees mijn [Belize-route](/belize-rondreizen/) voor de details.
+**Onderweg:** de grensovergangen met Belize en Guatemala zijn goed te doen, maar reken op hele reisdagen. Vlieg terug vanuit Guatemala Stad.
 
-### Van San Ignacio naar Guatemala
+### Zuidelijke route: natuur en strand
 
-San Ignacio ligt vlak bij de grens met Guatemala. Je steekt de grens over bij Benque Viejo del Carmen en reist verder naar Flores, de uitvalsbasis voor Tikal. Dit is een van de makkelijkste grensovergangen van de route.
+**Duur:** ongeveer 4 weken (28 nachten)
+**Start en eind:** Managua (Nicaragua) naar Panama Stad
+**Voor wie:** natuur, wildlife, stranden en een rustiger tempo
 
-### Guatemala (ongeveer 2 weken)
+| Plek | Nachten | Waarom |
+|---|---|---|
+| León (Nicaragua) | 2 | Koloniale stad, Cerro Negro |
+| Granada | 2 | Koloniale stad, Masaya |
+| Ometepe | 3 | Vulkanen in een meer |
+| San Juan del Sur | 2 | Surfstad |
+| La Fortuna (Costa Rica) | 3 | Arenal en warmwaterbronnen |
+| Monteverde | 2 | Nevelwoud |
+| Manuel Antonio | 3 | Luiaards en stranden |
+| Puerto Viejo | 3 | Caribische sfeer |
+| Bocas del Toro (Panama) | 3 | Eilanden |
+| Boquete | 2 | Koffie en bergen |
+| Panama Stad | 3 | Casco Viejo en kanaal |
 
-Je start met **Tikal**, de grootste Maya-stad van Guatemala, midden in de jungle. Slaap in Flores, een eilandje in het Petén-meer, en bezoek Tikal bij zonsopgang of zonsondergang. Twee tot drie dagen is genoeg.
+**Onderweg:** de grens bij Peñas Blancas (Nicaragua naar Costa Rica) en die bij Sixaola (Costa Rica naar Panama) kosten elk een halve tot een hele dag. De rit van Manuel Antonio naar Puerto Viejo gaat via San José en is lang.
 
-Dan volgt het langste, maar misschien mooiste stuk: een lange reisdag naar **Semuc Champey**, een reeks turquoise poelen verscholen in de jungle bij Lanquín. Het is afgelegen en niet altijd comfortabel, maar het is een van de bijzonderste natuurplekken van het land. Plan twee dagen. Vandaar reis je verder naar **Lago de Atitlán**, een meer omringd door vulkanen met dorpjes die elk een eigen karakter hebben (San Pedro voor het sociale leven, San Marcos voor rust, Panajachel als knooppunt). Reken op vier dagen: kajakken, wandelen, een vulkaan beklimmen, of gewoon aan het water zitten.
+## Drie weken
 
-Daarna ga je naar **Antigua**, een koloniale stad met kleurrijke gevels, kerken en uitzicht op drie vulkanen. Hier kun je de **Acatenango**-wandeling doen, een tweedaagse tocht naar een kamp met uitzicht op de uitbarstende vulkaan Fuego, wat voor veel reizigers het hoogtepunt van hun Guatemala-reis is. Plan drie tot vier dagen.
+**Duur:** ongeveer 3 weken (19 nachten)
+**Voor wie:** wie de bekendste hoogtepunten wil zien zonder te haasten
+**Start en eind:** Cancún naar Guatemala Stad
 
-### Honduras (ongeveer 1 week)
+Dit is de klassieke highlights-route: Maya-stranden, het Caribisch rif en de Guatemalteekse vulkanen, met een logische lijn van noord naar zuid.
 
-Vanuit Antigua reis je met een shuttle naar **Copán Ruinas**, vlak over de grens met Honduras. Copán is bekend om zijn beeldhouwwerken en de hiërogliefentrap, een van de belangrijkste Maya-sites van de regio. Het stadje is klein en relaxed. Twee dagen is genoeg.
+| Plek | Nachten | Waarom |
+|---|---|---|
+| Tulum (Mexico) | 3 | Stranden, cenotes, ruïnes |
+| Bacalar | 2 | Lagune |
+| Caye Caulker (Belize) | 3 | Snorkelen en eilandleven |
+| San Ignacio | 2 | ATM Cave en ruïnes |
+| Flores en Tikal (Guatemala) | 3 | Jungle-ruïnes |
+| Lago Atitlán | 3 | Vulkaanmeer |
+| Antigua | 3 | Koloniale stad |
 
-Wil je ook de Caribische kant van Honduras zien, dan reis je via San Pedro Sula naar **La Ceiba** en vandaar met de ferry naar **Utila**, een van de plekken in de wereld waar je het meest betaalbaar je duikbrevet kunt halen. In de buurt van La Ceiba ligt ook het Pico Bonito National Park voor jungle-hikes en wildlife. Dit is een flinke omweg: reken op een extra reisdag heen en een terug, en overweeg een vlucht om tijd te besparen. Plan vier tot vijf dagen op de eilanden en rond La Ceiba.
+**Onderweg:** twee grensovergangen en een paar lange busritten, maar geen enkele vlucht nodig.
 
-### El Salvador (ongeveer 1 week)
+**Liever het zuiden?** Dan is dit je highlights-route: La Fortuna, Monteverde, Manuel Antonio, Ometepe en Bocas del Toro, ook goed voor drie weken.
 
-Vanuit Honduras of Guatemala reis je door naar **Santa Ana**, een koloniale stad aan de voet van de gelijknamige vulkaan, waarvan de kratermeer een van de mooiste wandelingen van het land oplevert. Combineer het met het Coatepeque-meer.
+## Twee weken
 
-Daarna volgt de **Ruta de las Flores**, een route langs koffiedorpjes als Juayúa, Apaneca en Ataco, bekend om hun kleurrijke muurschilderingen en eetmarkten, vooral in het weekend. Twee dagen is een mooi tempo. Vervolgens ga je naar de kust, naar **El Tunco**, een surfdorp met relaxte sfeer, zwarte zandstranden en veel backpackers. Plan twee tot drie dagen.
+Twee weken is kort, dus kies één regio en doe die goed. Dit zijn drie opties.
 
-Sluit af in de hoofdstad **San Salvador** (één dag is genoeg, bijvoorbeeld voor het centrum en de Joya de Cerén-ruïnes in de buurt) en **Suchitoto**, een koloniaal stadje boven het Suchitlán-meer met een rustige, artistieke sfeer. Daar kun je nog een of twee nachten bijkomen.
+### Yucatán en Belize
 
-### Naar Nicaragua
+**Start en eind:** Mérida naar Belize City
+**Voor wie:** cultuur, stranden en een rif
 
-Van El Salvador naar Nicaragua is een lange reisdag, meestal met een internationale bus of shuttle die door Honduras rijdt. Check de actuele verbindingen vooraf en reken op een volledige dag.
+| Plek | Nachten |
+|---|---|
+| Mérida | 2 |
+| Valladolid en Chichén Itzá | 2 |
+| Tulum | 3 |
+| Bacalar | 2 |
+| Caye Caulker | 3 |
 
-### Nicaragua (ongeveer 10 dagen)
+### Guatemala en Copán
 
-Je begint in **León**, de koloniale studentenstad met zijn grote kathedraal en lokale cultuur. Hier kun je ook het beroemde vulkaanboarden doen op de Cerro Negro. Plan drie dagen. Daarna ga je naar **Matagalpa**, in de bergen, voor koffieplantages en een koelere, groene sfeer. Reken op twee dagen.
+**Start en eind:** Flores naar Guatemala Stad
+**Voor wie:** Maya-geschiedenis, vulkanen en koloniale steden
 
-Vervolgens reis je naar **Granada**, de kleurrijke koloniale stad aan het Nicaragua-meer, met de vulkaan Masaya en het Laguna de Apoyo (een zwemmeer in een krater) in de buurt. Twee dagen is genoeg.
+| Plek | Nachten |
+|---|---|
+| Flores en Tikal | 3 |
+| Semuc Champey | 2 |
+| Lago Atitlán | 3 |
+| Antigua | 3 |
+| Copán (Honduras) | 2 |
 
-Dan volgt **Ometepe**, een eiland met twee vulkanen in het Nicaragua-meer. Je bereikt het per ferry en kunt er wandelen, fietsen of gewoon van de rust genieten. Plan drie dagen. Je sluit Nicaragua af in **San Juan del Sur**, een surfstadje aan de Pacifische kust met stranden, een levendige avondsfeer en een ontspannen tempo. Twee dagen.
+### Costa Rica en Bocas del Toro
 
-### Naar Costa Rica
+**Start en eind:** San José naar Panama Stad of Bocas
+**Voor wie:** natuur, wildlife en stranden
 
-Vanuit San Juan del Sur reis je naar de grens bij Peñas Blancas en vandaar door naar La Fortuna, een reis van ruwweg een halve dag met een grensovergang. Neem tijd, geduld en je documenten mee, en zorg dat je een vervolgticket kunt tonen.
+| Plek | Nachten |
+|---|---|
+| La Fortuna | 3 |
+| Monteverde | 2 |
+| Manuel Antonio | 3 |
+| Puerto Viejo | 2 |
+| Bocas del Toro | 3 |
 
-### Costa Rica (ongeveer 10 dagen)
+## Natuur en wildlife
 
-Begin bij **La Fortuna**, aan de voet van de vulkaan Arenal, met warmwaterbronnen, watervallen en wildlife. Drie dagen. Dan ga je naar **Monteverde**, het nevelwoud met hangbruggen en kans op quetzals, twee tot drie dagen. Vervolgens reis je naar de Pacifische kust, naar **Manuel Antonio**, een nationaal park met luiaards, apen en stranden. Twee tot drie dagen.
+**Duur:** ongeveer 5 tot 6 weken
+**Voor wie:** wie dieren wil zien en veel tijd buiten wil doorbrengen
+**Tip:** kies waar mogelijk tours die dieren met rust laten
 
-Sluit Costa Rica af aan de Caribische kant, in **Puerto Viejo de Talamanca**, een relaxed kustplaatsje met een Afro-Caribische sfeer, stranden en jungle. Vanuit hier kun je ook Cahuita National Park bezoeken. Drie dagen. De reis tussen Manuel Antonio en Puerto Viejo is lang, via San José, dus plan er een hele dag voor.
+| Plek | Nachten | Wat je ziet |
+|---|---|---|
+| Celestún en Mérida | 2 | Flamingo's |
+| Tulum en Sian Ka'an | 3 | Natuurreservaat, cenotes |
+| Hopkins en Cockscomb Basin (Belize) | 3 | Jaguarreservaat |
+| Caye Caulker | 3 | Rif, haaien en roggen |
+| Flores en Tikal (Guatemala) | 3 | Apen en vogels in de jungle |
+| La Ceiba en Pico Bonito (Honduras) | 3 | Regenwoud en jungle-hikes |
+| Utila | 3 | Duiken en snorkelen |
+| Monteverde (Costa Rica) | 3 | Nevelwoud, vogels |
+| Manuel Antonio | 3 | Luiaards en apen |
+| Cahuita en Puerto Viejo | 3 | Regenwoud en kust |
+| Bocas del Toro (Panama) | 3 | Snorkelen en natuur |
+| Santa Catalina en Isla Coiba | 3 | Beschermd marien reservaat |
 
-### Van Costa Rica naar Panama
+**Uitbreiding:** Tortuguero aan de Caribische kant van Costa Rica is bekend om de schildpadden, maar is een omweg van twee tot drie dagen.
 
-Vanuit Puerto Viejo reis je naar de grens bij Sixaola en vandaar naar Bocas del Toro in Panama. De grensovergang is overzichtelijk, maar kan chaotisch zijn met opdringerige "hulpjes". Laat je niet opjagen.
+## Geschiedenis en cultuur
 
-### Panama (ongeveer 10 dagen)
+**Duur:** ongeveer 5 weken
+**Voor wie:** wie Maya-steden en koloniale stadjes wil bezoeken
+**Rode draad:** de Maya in het noorden, koloniale steden daarna, en het kanaal als slot
 
-Je begint op de eilanden van **Bocas del Toro**, met snorkelen, stranden en een relaxed Caribisch leven. Drie dagen. Daarna reis je naar **Boquete**, een bergdorpje met koffieplantages en wandelingen, waaronder de beklimming van de vulkaan Barú. Drie dagen. Vervolgens ga je naar **Santa Catalina**, een surfdorp aan de Pacifische kant en de uitvalsbasis voor boottochten naar Isla Coiba, een beschermd natuurgebied. Twee tot drie dagen.
+| Plek | Nachten | Wat je ziet |
+|---|---|---|
+| Mérida (Mexico) | 2 | Koloniale start, Uxmal |
+| Valladolid en Chichén Itzá | 3 | Ruïnes en Ek Balam |
+| Tulum | 2 | Ruïnes aan zee |
+| San Ignacio (Belize) | 4 | Xunantunich, Caracol, Cahal Pech |
+| Flores en Tikal (Guatemala) | 3 | Grootste Maya-stad |
+| Antigua | 3 | Koloniale stad |
+| Copán (Honduras) | 2 | Beeldhouwwerk en hiërogliefentrap |
+| Santa Ana (El Salvador) | 2 | Joya de Cerén en omgeving |
+| Suchitoto | 2 | Koloniaal stadje |
+| León (Nicaragua) | 2 | Koloniale stad |
+| Granada | 2 | Koloniale stad |
+| Panama Stad | 3 | Casco Viejo en het kanaal |
 
-Je eindigt in **Panama Stad**. Bezoek de oude binnenstad Casco Viejo, en de Miraflores Locks van het Panamakanaal. Meer over dat bezoek lees je in mijn post [Zo bezoek je het Panama Kanaal](/panama-kanaal/). Twee tot drie dagen is genoeg. Vanuit hier vlieg je naar huis.
+## Strand en duiken
 
-## Kortere routes en thema-routes
+**Duur:** ongeveer 5 weken
+**Voor wie:** eilanden, riffen en surfdorpen
+**Seizoen:** het droge seizoen (grofweg november tot april) is het prettigst
 
-Heb je geen tien weken? Hieronder een aantal varianten. Ze zijn zo opgebouwd dat je ze kunt combineren of aanpassen.
+| Plek | Nachten | Waarom |
+|---|---|---|
+| Isla Mujeres (Mexico) | 3 | Eiland voor de kust |
+| Tulum | 2 | Stranden |
+| Bacalar | 2 | Lagune |
+| Caye Caulker (Belize) | 4 | Rif en snorkelen |
+| Hopkins | 2 | Strand en cultuur |
+| Utila (Honduras) | 5 | Duiken en duikbrevet |
+| El Tunco (El Salvador) | 3 | Surfen |
+| San Juan del Sur (Nicaragua) | 3 | Surfen |
+| Puerto Viejo (Costa Rica) | 3 | Caribisch strand |
+| Bocas del Toro (Panama) | 4 | Snorkelen en eilanden |
+| Santa Catalina | 3 | Surfen en Isla Coiba |
 
-### Als je twee weken hebt
+## Avontuur en vulkanen
 
-Twee weken is kort, dus kies één regio en doe die goed. Er zijn drie logische opties:
+**Duur:** ongeveer 4 tot 5 weken
+**Voor wie:** wie van klimmen, boarden en actief bezig zijn houdt
+**Tip:** plan rustdagen tussen de zwaardere beklimmingen
 
-**Yucatán en Belize.** Mérida, Valladolid en Chichén Itzá, Tulum, Bacalar en daarna Caye Caulker. Veel variatie, korte afstanden en makkelijk te vliegen (heen naar Cancún of Mérida, terug vanuit Belize City).
+| Plek | Nachten | Wat je doet |
+|---|---|---|
+| Antigua (Guatemala) | 4 | Acatenango-beklimming |
+| Lago Atitlán | 3 | Vulkaanwandelingen en kajakken |
+| Semuc Champey | 2 | Jungle en poelen |
+| Santa Ana (El Salvador) | 2 | Vulkaanwandeling en kratermeer |
+| León (Nicaragua) | 3 | Vulkaanboarden op Cerro Negro |
+| Ometepe | 3 | Vulkaanbeklimming |
+| La Fortuna (Costa Rica) | 3 | Arenal, watervallen, canyoning |
+| Monteverde | 2 | Ziplines en hangbruggen |
+| Boquete (Panama) | 3 | Beklimming van de vulkaan Barú |
 
-**Guatemala en Copán.** Tikal, Lago de Atitlán, Antigua en een uitstap naar Copán. Vol Maya-geschiedenis, vulkanen en koloniale steden, met een duidelijke route van noord naar zuid.
+## De budgetroute
 
-**Costa Rica en Bocas del Toro.** La Fortuna, Monteverde, Manuel Antonio en daarna Puerto Viejo en Bocas. Vooral natuur en strand, met veel wildlife.
+**Duur:** ongeveer 5 tot 6 weken
+**Voor wie:** wie zo lang mogelijk wil reizen met een beperkt budget
+**Budget:** in deze landen kom je met ruwweg 20 tot 35 dollar per dag een heel eind
 
-### Als je drie weken hebt: de highlights
+De meest betaalbare landen van de regio zijn Guatemala, Honduras, El Salvador en Nicaragua. Deze route blijft daarbinnen en laat de duurdere landen (Belize, Costa Rica en Panama) bewust weg.
 
-Met drie weken kun je een flinke lus maken zonder dat het stress wordt. Mijn voorstel: Tulum en Bacalar in Mexico, Caye Caulker en San Ignacio in Belize, Tikal, Lago de Atitlán en Antigua in Guatemala. Wil je daarna nog verder, dan kun je afsluiten met een paar dagen in Copán.
+| Plek | Nachten | Waarom |
+|---|---|---|
+| Flores en Tikal (Guatemala) | 3 | Jungle-ruïnes |
+| Semuc Champey | 2 | Poelen in de jungle |
+| Lago Atitlán | 4 | Vulkaanmeer |
+| Antigua | 3 | Koloniale stad |
+| Copán (Honduras) | 2 | Maya-ruïnes |
+| Santa Ana (El Salvador) | 2 | Vulkaan |
+| Ruta de las Flores | 2 | Koffiedorpjes |
+| El Tunco | 3 | Surfen |
+| Suchitoto | 2 | Koloniaal stadje |
+| León (Nicaragua) | 3 | Koloniale stad |
+| Matagalpa | 2 | Koffieregio |
+| Granada | 2 | Koloniale stad |
+| Ometepe | 3 | Vulkaaneiland |
+| San Juan del Sur | 2 | Surfstad |
 
-### Natuur en wildlife
-
-Voor wie vooral dieren wil zien: Tikal en Cockscomb Basin (jaguars), Monteverde en Manuel Antonio (luiaards, apen, quetzals), Tortuguero aan de Caribische kant van Costa Rica (schildpadden), Bocas del Toro en Isla Coiba in Panama, en het Pico Bonito National Park in Honduras. Plan er vooral veel dagen in de natuur bij, en kies waar mogelijk voor tours die dieren met rust laten.
-
-### Geschiedenis en cultuur
-
-Maya-sites vormen de rode draad: Chichén Itzá, Ek Balam en Uxmal in Mexico, Xunantunich en Caracol in Belize, Tikal in Guatemala en Copán in Honduras. Voeg daar de koloniale steden aan toe (Antigua, León, Granada, Suchitoto) en de ruïnes van Joya de Cerén in El Salvador, en je hebt een route die vooral langs oude beschavingen loopt. Eindig met Casco Viejo en het kanaal in Panama.
-
-### Strand en duiken
-
-Isla Mujeres, Caye Caulker, Utila, Bocas del Toro en Puerto Viejo vormen samen een route langs het Caribisch gebied. Aan de Pacifische kant zijn El Tunco, San Juan del Sur en Santa Catalina de beste surfplekken. Utila is bovendien een van de populairste plekken om te leren duiken.
-
-### Avontuur en vulkanen
-
-Acatenango bij Antigua, het vulkaanboarden op Cerro Negro bij León, Ometepe, de Arenal-regio, de vulkaan Santa Ana in El Salvador en de Barú bij Boquete: een route voor wie van klimmen houdt. Plan voldoende rustdagen tussen de zwaardere beklimmingen.
-
-### De budgetroute
-
-Wil je zo lang mogelijk reizen met een beperkt budget? Kies dan de landen waar je het minst uitgeeft: Guatemala, Honduras, El Salvador en Nicaragua. In deze landen kom je met een dagbudget van ruwweg 20 tot 35 dollar al een heel eind. Begin in Guatemala (Tikal, Atitlán, Antigua), reis door naar Copán en El Salvador, en eindig in Nicaragua met León, Granada, Ometepe en San Juan del Sur. Combineer deze route met een paar dagen in Belize of Costa Rica als je behoefte hebt aan wat meer natuur, maar houd er rekening mee dat die landen duurder uitvallen.
+**Zo houd je kosten laag:** eet bij lokale eettentjes in plaats van toeristische restaurants, kies voor slaapzalen en gedeelde shuttles, en reis met lokale bussen waar dat veilig en praktisch is.
 
 ## Praktische tips voor het plannen
 
-**Kies je richting op basis van je vlucht.** Zoek eerst de beste enkele vluchten heen en terug, en bouw je route daar omheen.
+**Kies je richting op basis van je vlucht.** Zoek eerst de beste enkele vluchten heen en terug en bouw je route daaromheen.
 
-**Plan de lange reisdagen bewust.** Een paar trajecten zijn bijzonder lang: van Bacalar naar Belize City, van Flores naar Semuc Champey, van El Salvador naar Nicaragua, en van Manuel Antonio naar Puerto Viejo. Plan daar geen strakke afspraken direct na.
+**Plan de lange reisdagen bewust.** Op trajecten als Bacalar naar Belize City, Flores naar Semuc Champey of El Salvador naar Nicaragua ben je vaak een hele dag onderweg. Plan daar geen strakke afspraken direct na.
 
 **Het droge seizoen is het prettigst.** Grofweg november tot en met april is de beste periode voor vrijwel de hele route.
 
-**Houd je tas bij je.** Op bussen en shuttles geldt overal hetzelfde: tas op schoot of tussen je voeten, niet op de vloer of in het bagagerek.
+**Houd je tas bij je.** Op bussen en shuttles: tas op schoot of tussen je voeten, niet op de vloer of in het bagagerek.
 
-**Wees flexibel.** De mooiste ontdekkingen in Midden-Amerika liggen vaak buiten het schema. Laat daarom een of twee dagen per week open.
+**Laat ruimte open.** De mooiste ontdekkingen liggen vaak buiten het schema, dus laat een of twee dagen per week vrij.
 
-Welke route je ook kiest: Midden-Amerika beloont reizigers die de tijd nemen om te blijven hangen. Kies een paar plekken die je echt aanspreken, bouw er ruimte omheen, en laat de rest vanzelf komen.
+Welke route je ook kiest: Midden-Amerika beloont reizigers die de tijd nemen om te blijven hangen.
+
+
+
+
+
+
