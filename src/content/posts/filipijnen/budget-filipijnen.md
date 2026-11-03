@@ -5,7 +5,7 @@ country: Filipijnen
 destination: 
 description: ""
 date: 2026-10-22
-image: /images/hero.jpg
+image: /images/filipijnen/filipijnen-budget.jpg
 themes: [Kosten]
 ---
 Coming soon.
