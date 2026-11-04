@@ -1,6 +1,6 @@
 ---
 title: "Reizen in El Salvador: kosten, budget en handige tips"
-region: Zuid-Amerika
+region: Midden-Amerika
 country: El Salvador
 destination: 
 description: ""
