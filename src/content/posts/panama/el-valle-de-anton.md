@@ -3,7 +3,7 @@ title: "El Valle de Antón: hikes, watervallen en wat je verder kunt doen"
 region: Midden-Amerika
 country: Panama
 destination: El Valle de Antón 
-description: KORTE OMSCHRIJVING HIER (1 zin, verschijnt op de kaartjes)
+description: "El Valle de Antón: hikes, watervallen en wat je verder kunt doen. Wandelen in de krater van een uitgedoofde vulkaan: de beste hikes, watervallen, warmwaterbronnen en praktische tips voor El Valle de Antón in Panama."
 date: 2026-01-01
 image: /images/hero.jpg
 themes: []
