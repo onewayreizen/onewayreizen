@@ -14,7 +14,7 @@ Suriname is een van die landen waar je in korte tijd verrassend veel afwisseling
 
 ## Paramaribo (2 dagen)
 
-Paramaribo is je uitvalsbasis, en een stad die je met twee dagen goed leert kennen. De eerste dag loop je door de binnenstad: de Waterkant, Fort Zeelandia, het Onafhankelijkheidsplein, de Palmentuin, de Centrale Markt en de Keizerstraat, waar de moskee en de synagoge naast elkaar staan. De tweede dag ga je de stad uit naar de natuur van Peperpot en het openluchtmuseum Fort Nieuw Amsterdam. Eten kun je overal: nasi, bami, moksi alesi en alles wat daar tussenin zit. De volledige dagindeling lees je in mijn post [48 uur in Paramaribo](/48-uur-in-paramaribo/).
+Paramaribo is je uitvalsbasis, en een stad die je met twee dagen goed leert kennen. De eerste dag loop je door de binnenstad: de Waterkant, Fort Zeelandia, het Onafhankelijkheidsplein, de Palmentuin, de Centrale Markt en de Keizerstraat, waar de moskee en de synagoge naast elkaar staan. De tweede dag ga je de stad uit naar de natuur van Peperpot en het openluchtmuseum Fort Nieuw Amsterdam. Eten kun je overal: nasi, bami, moksi alesi en alles wat daar tussenin zit. De volledige dagindeling lees je in mijn post [**48 uur in Paramaribo**](/48-uur-in-paramaribo/).
 
 ## Dagtrip naar Saint-Laurent-du-Maroni (1 dag)
 
@@ -33,6 +33,8 @@ De westkust is het deel van Suriname dat veel reizigers overslaan en dat is jamm
 **Wageningen.** Verderop, in het district Nickerie, ligt Wageningen, het centrum van de rijstteelt. Je rijdt door uitgestrekte rijstvelden, en de geschiedenis van de rijst is hier overal terug te zien.
 
 **Nieuw Nickerie.** De tweede stad van Suriname, vlak bij de grens met Guyana. Wandel over de zeedijk voor de zonsondergang, bekijk de markt en eet iets lokaals. Wil je meer natuur, dan is het vogelreservaat Bigi Pan een bekende bestemming, met meer dan 120 vogelsoorten, maar daar heb je meer tijd voor nodig dan één dag. Heb je die tijd, dan is een overnachting in Nieuw Nickerie een goede keuze.
+
+Ga je hierna door naar Guyana, lees [**hier**](/bestemmingen/zuid-amerika/guyana/guyana-grensovergang/) hoe je er komt.
 
 ## Overige bestemmingen
 Mocht je nog meer tijd hebben is Galibi ook een leuke natuurbestemming die veel reizigers meepakken.
