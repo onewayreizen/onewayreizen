@@ -28,15 +28,15 @@ Je hebt twee manieren om te gaan:
 
 ## Hoe ziet een dagtour eruit?
 
-Je vertrekt vroeg in de ochtend vanuit Paramaribo. Onderweg rijd je door savannelandschap en langs dorpjes, waar de gids meestal iets over vertelt. Eenmaal aangekomen in het park begint de wandeling.
+Je vertrekt vroeg in de ochtend vanuit Paramaribo. Onderweg rijd je door savannelandschap en langs dorpjes, waar de gids meestal iets over vertelt. Eenmaal aangekomen in het park begin je met een lunch.
 
-**Leo Falls.** De eerste en meest bezochte waterval, waar je onder het water kunt staan en kunt zwemmen. Het pad erheen loopt door dicht bos, waar je met geluk brulapen hoort of ziet.
+**Leo Falls.** De eerste en meest bezochte waterval, waar je onder het water kunt staan en kunt zwemmen, mits er voldoende water is. Het pad erheen loopt door dicht bos, waar je met geluk brulapen hoort of ziet.
 
 **Irene Falls.** Een tweede waterval, iets verder en vaak imposanter. Let op: sommige tour operators geven aan dat Irene Falls alleen voor overnachtende gasten bedoeld is, dus check vooraf wat jouw tour doet. Een handige tip van gidsen: ga eerst naar de verste waterval en bewaar de dichtstbijzijnde voor de terugweg, want veel mensen blijven te lang bij de eerste hangen en hebben daarna geen energie meer voor de rest.
 
 **Mazaroni-plateau.** Het uitkijkpunt waar je over het regenwoud en het Brokopondo-stuwmeer kijkt, met een verlaten gebouw als bijzonder fotomoment. Dit is ook de plek waar veel mensen op zonsopgang of zonsondergang wachten.
 
-Na een lunch rijd je weer terug, en ben je in de loop van de avond in Paramaribo.
+Na een hike rijd je weer terug en ben je in de loop van de avond in Paramaribo.
 
 ## Is een dag genoeg?
 
@@ -60,6 +60,3 @@ Maar meer dagen is leuker. Wie overnacht, heeft de tijd om meerdere paden te lop
 
 **Entree en prijzen:** prijzen veranderen regelmatig, dus vraag vooraf wat er in je tour inbegrepen is.
 
----
-
-Een paar dingen om te weten: ik schreef dit als gids, en niet vanuit jouw eigen dag, want daar had ik geen details van behalve je conclusie. Wil je er een stuk uit je eigen ervaring in zetten (wat je zag, wat je meenam, hoe de dag verliep), dan voeg ik dat toe. De prijs van ongeveer 95 euro en de reistijd komen uit tour operators en reisverslagen, dus check ze nog even. Ik heb bewust geen entreeprijs genoemd, omdat de bronnen daarvoor oude en uiteenlopende bedragen noemen. Zal ik er een description bij maken?
