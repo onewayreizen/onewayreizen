@@ -3,7 +3,7 @@ title: "Brownsberg dagtour vanaf Paramaribo: jungle, watervallen en brulapen in 
 region: Zuid-Amerika
 country: Suriname
 destination: Brownsberg
-description: "Brownsberg dagtour vanaf Paramaribo: jungle, watervallen en brulapen in één dag. Zo doe je Brownsberg Nature Park vanuit Paramaribo: met een tour of zelf, de watervallen, het Mazaroni-plateau en waarom meer dagen leuker is."
+description: "Zo doe je Brownsberg Nature Park vanuit Paramaribo: met een tour of zelf, de watervallen, het Mazaroni-plateau en waarom meer dagen leuker is."
 date: 2026-11-01
 image: /images/hero.jpg
 themes: []
