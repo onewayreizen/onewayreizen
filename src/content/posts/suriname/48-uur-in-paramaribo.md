@@ -20,7 +20,7 @@ Begin bij de Waterkant, de promenade langs de Surinamerivier. Hier staan de ouds
 
 ### Fort Zeelandia
 
-Vlak bij de rivier ligt Fort Zeelandia, een 17e-eeuws fort op de plek waar de eerste kolonisten aan land kwamen. In het fort zit een museum over de geschiedenis van Suriname. Reken voor het museum op ongeveer een uur, en op een entreeprijs van rond de 5 dollar (check de actuele prijs ter plekke).
+Vlak bij de rivier ligt Fort Zeelandia, een 17e-eeuws fort op de plek waar de eerste kolonisten aan land kwamen. In het fort zit een museum over de geschiedenis van Suriname. Reken voor het museum op ongeveer een uur, en op een entreeprijs van SRD$ 455 (ongeveer €10).
 
 ### Onafhankelijkheidsplein
 
@@ -32,11 +32,11 @@ Direct daarachter vind je de Palmentuin, een groen park vol hoge palmbomen, idea
 
 ### Centrale Markt
 
-Daarna loop je naar de Centrale Markt, waar je lokale groenten, fruit, vis, kruiden en Surinaamse snacks vindt. Aan de westkant, met een eigen ingang aan de Waterkant, ligt ook de Marron-markt (ook wel de "heksenmarkt"), waar kruiden, schelpen en traditionele middelen verkocht worden. Fotograferen is daar niet toegestaan. De markt is het leukst voor het middaguur, dus begin dit deel van je dag zo vroeg mogelijk als je de drukte wilt meemaken.
+Daarna loop je naar de Centrale Markt, waar je lokale groenten, fruit, vis, kruiden en Surinaamse snacks vindt. Aan de westkant, met een eigen ingang aan de Waterkant, ligt ook de Marron-markt (ook wel de "heksenmarkt"), waar kruiden, schelpen en traditionele middelen verkocht worden. De markt is het leukst voor het middaguur, dus begin dit deel van je dag zo vroeg mogelijk als je de drukte wilt meemaken.
 
 ### SIV-moskee en Neveh Shalom-synagoge
 
-Sluit je wandeling af in de Keizerstraat, waar de SIV-moskee en de Neveh Shalom-synagoge pal naast elkaar staan. Dit is een van de bekendste beelden van Paramaribo en een symbool van de religieuze tolerantie in het land. De synagoge dateert uit 1716. Vraag ter plekke of een bezoek aan binnenkant mogelijk is, want dat hangt af van de dag en het gebouw.
+Sluit je wandeling af in de Keizerstraat, waar de S.I.V. moskee en de Neveh Shalom-synagoge pal naast elkaar staan. Dit is een van de bekendste beelden van Paramaribo en een symbool van de religieuze tolerantie in het land. De synagoge dateert uit 1716. Vraag ter plekke of een bezoek aan binnenkant mogelijk is, want dat hangt af van de dag en het gebouw.
 
 ### Avondeten bij De Gadri
 
@@ -52,7 +52,7 @@ Begin de dag in Peperpot, een natuurpark op een voormalige plantage, met de kans
 
 ### Fort Nieuw Amsterdam
 
-Rijd daarna door naar Fort Nieuw Amsterdam, een openluchtmuseum op een strategische plek, op het punt waar de Commewijne en de Surinamerivier samenkomen, dicht bij de oceaan. Hier leer je meer over de koloniale geschiedenis en de rol van het fort bij de verdediging van de kolonie. Neem de tijd om rond te lopen over het terrein en een kijkje te nemen in de gebouwen.
+Rijd daarna door naar Fort Nieuw Amsterdam, een openluchtmuseum op een strategische plek, op het punt waar de Commewijne en de Surinamerivier samenkomen, dicht bij de oceaan. Hier leer je meer over de koloniale geschiedenis en de rol van het fort bij de verdediging van de kolonie. Neem de tijd om rond te lopen over het terrein en een kijkje te nemen in de gebouwen. Entree voor het openluchtmuseum is SRD$ 90 (ongeveer €2)
 
 ### Avondeten bij Souposa
 
@@ -73,7 +73,3 @@ Sluit je tweede dag af met eten bij Souposa. Probeer moksi alesi, een traditione
 **Meer dagen?** Heb je een extra dag, dan zijn dagtrips naar Brownsberg of de plantages in Commewijne een mooie aanvulling.
 
 Met 48 uur krijg je niet alles van Paramaribo te zien, maar wel een goed beeld: de koloniale binnenstad, de meest diverse straat van het land en een stuk natuur aan de overkant van de rivier, met twee typisch Surinaamse maaltijden als bonus.
-
----
-
-Een paar dingen om te controleren: "SIV-moskee" heb ik opgevat als de moskee naast de synagoge aan de Keizerstraat. Klopt dat, of bedoelde je iets anders? Ik heb geen openingstijden of entreeprijzen genoemd behalve de ongeveer 5 dollar voor Fort Zeelandia, omdat ik die niet kon verifiëren, en het stuk over Souposa en De Gadri beperkt tot jouw gerechten. Wil je er persoonlijke tips of foto's aan koppelen, dan voeg ik die toe. Zal ik er een description bij maken?
