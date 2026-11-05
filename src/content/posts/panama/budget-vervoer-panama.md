@@ -12,27 +12,26 @@ themes: []
 <summary>Van Panama-Stad</summary>
 
 **El Valle – 2,5 uur+**
-
 - Stap 1: El Valle (directe bus) → Panama City, $4,25
 
+**Bocas del Toro – 11 uur+**
+- Stap 1: Panama-Stad (nachtbus) → Almirante, $30
+- Stap 2: Almirante → Bocas del Toro (hoofdeiland): watertaxi 30 min / veerboot 2 uur
 </details>
 
 <details>
 <summary>Van El Valle de Anton</summary>
 
 **Panama City – 2,5 uur+**
-
 - Stap 1: El Valle (directe bus) → Panama City, $4,25
 
 **Santa Catalina – 6,5 uur+**
-
 - Stap 1: El Valle → Las Uvas, $1,50 (neem een bus richting "Panama" of "San Carlos", maar stap hier uit)
 - Stap 2: Las Uvas → Santiago, $7,00
 - Stap 3: Santiago → Sona, $2,00
 - Stap 4: Sona → Santa Catalina, $5,00 (laatste bus vanuit Sona vertrekt om 16:00)
 
 **Santa Fe – 5,5 uur+**
-
 - Stap 1: El Valle → Las Uvas, $1,50 (bus richting "Panama" of "San Carlos", stap hier uit)
 - Stap 2: Las Uvas → Santiago, $7,00
 - Stap 3: Santiago → Santa Fe
@@ -44,7 +43,7 @@ themes: []
 - Stap 3: Santiago → David, $9,00 (met een beetje geluk pak je een directe bus van Las Uvas naar David)
 - Stap 4: David → Boquete, $1,75 (laatste bus naar Boquete om 19:00)
 
-**Bocas del Toro – 10 uur+ (nachtbus beschikbaar vanuit Panama City)**
+**Bocas del Toro – 10 uur+**
 
 - Stap 1: El Valle → Las Uvas, $1,50 (bus richting "Panama" of "San Carlos", stap hier uit)
 - Stap 2: Las Uvas → Santiago, $7,00
@@ -73,11 +72,18 @@ themes: []
 - Stap 4: Las Uvas → El Valle, $1,50
 
 **Santa Catalina – 7 uur+**
-- Stap 1: Venao → La Tablas
-- Stap 2: La Tablas → Chitré
+- Stap 1: Venao → Las Tablas
+- Stap 2: Las Tablas → Chitré
 - Stap 3: Chitré → Santiago de Veraguas
 - Stap 4: Santiago de Veraguas → Sona
 - Stap 5: Sona → Santa Catalina
+
+**Boquete – 8 uur+**
+- Stap 1: Venao → Las Tablas
+- Stap 2: Las Tablas → Chitré
+- Stap 3: Chitré → Santiago de Veraguas
+- Stap 4: Santiago de Veraguas → David
+- Stap 5: David → Boquete
 </details>
 
 <details>
@@ -90,16 +96,30 @@ themes: []
 - Stap 4: Chitre → La Tablas
 - Stap 5: La Tablas → Playa Venao
 
+**Boquete – 8 uur+**
+- Stap 1: Santa Catalina → Sona
+- Stap 2: Sona → Santiago de Veraguas
+- Stap 3: Santiago de Veraguas → David
+- Stap 4: David → Boquete
 </details>
 
 <details>
 <summary>Van Boquete</summary>
 
+**Santa Catalina – 7 uur+**
+- Stap 1: Boquete → David
+- Stap 2: David → Santiago de Veraguas
+- Stap 3: → Santiago de Veraguas → Sona
+- Stap 4: Sona → Santa Catalina
 </details>
 
 <details>
 <summary>Van Bocas del Toro</summary>
 
+**Boquete – 5 uur+**
+- Stap 1: Bocas → Almirante
+- Stap 2: Almirante → David
+- Stap 3: David → Boquete
 </details>
 
 
