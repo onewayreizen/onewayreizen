@@ -37,14 +37,12 @@ themes: []
 - Stap 3: Santiago → Santa Fe
 
 **Boquete – 8 uur+**
-
 - Stap 1: El Valle → Las Uvas, $1,50 (bus richting "Panama" of "San Carlos", stap hier uit)
 - Stap 2: Las Uvas → Santiago, $7,00
 - Stap 3: Santiago → David, $9,00 (met een beetje geluk pak je een directe bus van Las Uvas naar David)
 - Stap 4: David → Boquete, $1,75 (laatste bus naar Boquete om 19:00)
 
 **Bocas del Toro – 10 uur+**
-
 - Stap 1: El Valle → Las Uvas, $1,50 (bus richting "Panama" of "San Carlos", stap hier uit)
 - Stap 2: Las Uvas → Santiago, $7,00
 - Stap 3: Santiago → David, $9,00 (met geluk een directe bus van Las Uvas naar David)
@@ -52,7 +50,6 @@ themes: []
 - Stap 5: Almirante → Bocas del Toro (hoofdeiland): watertaxi 30 min / veerboot 2 uur
 
 **Playa Venao – 7 uur+**
-
 - Stap 1: El Valle → Las Uvas, $1,50 (bus richting "Panama" of "San Carlos", stap hier uit)
 - Stap 2: Las Uvas → Chitré (met geluk een directe bus van Las Uvas naar Las Tablas)
 - Stap 3: Chitré → Las Tablas
@@ -65,7 +62,6 @@ themes: []
 <summary>Van Playa Venao</summary>
 
 **El Valle de Antón – 7 uur+**
-
 - Stap 1: Venao → Las Tablas
 - Stap 2: Las Tablas → Chitré
 - Stap 3: Chitré → Las Uvas (met geluk een directe bus van Las Tablas naar Las Uvas)
@@ -122,6 +118,14 @@ themes: []
 - Stap 3: David → Boquete
 </details>
 
+<details>
+<summary>Van Costa Rica</summary>
+
+**Bocas del Toro (van Puerto Viejo) – 5 uur+**
+- Stap 1: Puerto Viejo → Sixoala
+- Stap 2: Steek de grens over → bus Almirante
+- Stap 3: Almirante → Bocas del Toro (hoofdeiland): watertaxi 30 min / veerboot 2 uur
+</details>
 
 **FAQ**
 
