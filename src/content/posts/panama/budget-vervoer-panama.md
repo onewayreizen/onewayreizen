@@ -9,7 +9,8 @@ image: /images/Panama-header.jpg
 themes: []
 ---
 <details>
-<summary>Van Panama-Stad</summary>
+  
+## <summary>Van Panama-Stad</summary>
 
 **Panama-Stad naar El Valle de Anton**
 - Prijs: ongeveer 20 dollar
