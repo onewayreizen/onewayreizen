@@ -65,15 +65,30 @@ themes: []
 <details>
 <summary>Van Playa Venao</summary>
 
-</details>
+**El Valle de Antón – 7 uur+**
 
-<details>
-<summary>Van Playa Venao</summary>
+- Stap 1: Venao → Las Tablas
+- Stap 2: Las Tablas → Chitré
+- Stap 3: Chitré → Las Uvas (met geluk een directe bus van Las Tablas naar Las Uvas)
+- Stap 4: Las Uvas → El Valle, $1,50
 
+**Santa Catalina – 7 uur+**
+- Stap 1: Venao → La Tablas
+- Stap 2: La Tablas → Chitré
+- Stap 3: Chitré → Santiago de Veraguas
+- Stap 4: Santiago de Veraguas → Sona
+- Stap 5: Sona → Santa Catalina
 </details>
 
 <details>
 <summary>Van Santa Catalina</summary>
+
+**Playa Venao – 7 uur+**
+- Stap 1: Playa anta Catalina → Sona
+- Stap 2: Sona → Santiago de Veraguas
+- Stap 3: Santiago de Veraguas → Chitre
+- Stap 4: Chitre → La Tablas
+- Stap 5: La Tablas → Playa Venao
 
 </details>
 
