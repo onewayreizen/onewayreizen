@@ -103,4 +103,4 @@ Nee. Vergeet niet op de weg te kijken of je bus eraan komt. Om de bus te laten s
 Alleen bij grote terminals zoals Panama City of David. Meestal stap je gewoon in en betaal je bij het uitstappen.
 
 **Zijn shuttles beschikbaar?**
-Ja! Vergeet niet dat we er zijn om je te helpen. Kom langs bij de receptie om een shuttle te regelen.
+Ja, voor sommige routes wel, maar houd rekening met flink hogere bedragen dan wanneer je het ov neemt. Vraag bij je hostel naar de shuttle mogelijkheden.
