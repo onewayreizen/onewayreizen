@@ -54,8 +54,6 @@ themes: []
 - Stap 2: Las Uvas → Chitré (met geluk een directe bus van Las Uvas naar Las Tablas)
 - Stap 3: Chitré → Las Tablas
 - Stap 4: Las Tablas → Venao (laatste bus vertrekt om 12:00 uur). Mis je de laatste bus naar Venao, ga dan door naar Pedasí en neem een taxi naar Venao ($30).
-
-
 </details>
 
 <details>
@@ -79,11 +77,17 @@ themes: []
 - Stap 2: Las Tablas → Chitré
 - Stap 3: Chitré → Santiago de Veraguas
 - Stap 4: Santiago de Veraguas → David
-- Stap 5: David → Boquete
+- Stap 5: David → Boquete, $1,75 
 </details>
 
 <details>
 <summary>Van Santa Catalina</summary>
+  
+**El Valle de Antón – 6,5 uur+**
+- Stap 1: Santa Catalina → Sona, $5,00
+- Stap 2: Sona → Santiago, $2,00
+- Stap 3: Santiago → Las Uvas, $7,00
+- Stap 4: Las Uvas → El Valle, $1,50 
 
 **Playa Venao – 7 uur+**
 - Stap 1: Playa anta Catalina → Sona
@@ -96,17 +100,24 @@ themes: []
 - Stap 1: Santa Catalina → Sona
 - Stap 2: Sona → Santiago de Veraguas
 - Stap 3: Santiago de Veraguas → David
-- Stap 4: David → Boquete
+- Stap 4: David → Boquete, $1,75 
 </details>
 
 <details>
 <summary>Van Boquete</summary>
 
 **Santa Catalina – 7 uur+**
-- Stap 1: Boquete → David
-- Stap 2: David → Santiago de Veraguas
+- Stap 1: Boquete → David, $1,75 
+- Stap 2: David → Santiago de Veraguas, $9,00
 - Stap 3: → Santiago de Veraguas → Sona
 - Stap 4: Sona → Santa Catalina
+
+**El Valle de Antón – 8 uur+**
+- Stap 1: Boquete → David, $1,75 
+- Stap 2: David → Santiago, $9,00 
+- Stap 3: Santiago → Las Uvas, $7,00
+- Stap 4: Las Uvas → El Valle, $1,50 - 
+
 </details>
 
 <details>
@@ -114,8 +125,8 @@ themes: []
 
 **Boquete – 5 uur+**
 - Stap 1: Bocas → Almirante
-- Stap 2: Almirante → David
-- Stap 3: David → Boquete
+- Stap 2: Almirante → David, $6,00
+- Stap 3: David → Boquete, $1,75 
 </details>
 
 <details>
