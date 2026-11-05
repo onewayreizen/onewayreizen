@@ -90,26 +90,11 @@ themes: []
 
 **FAQ**
 
-**Waar pak ik de bus in El Valle?**
-Je kunt de bussen pakken voor het hostel, aan de overkant van de weg. In het weekend en op feestdagen wordt aangeraden naar het centrum van het dorp te gaan en te wachten bij het gebouw tegenover het tankstation.
-
-**Kan ik vanaf hier een directe bus naar Panama / San Carlos nemen?**
-Ja! De eerste bus naar Panama vertrekt rond 3:20 uur 's nachts, daarna elke 30 tot 45 minuten tot 15:00 uur. San Carlos heeft dezelfde dienstregeling en rijdt tot 17:00 uur.
-
-**Rijden de bussen vaak?**
-Je zou elke 30 minuten een bus moeten kunnen pakken (als je naar Las Uvas gaat). Op zaterdag en zondag vertrekt de eerste bus om 5:00 uur.
+**Hoe betaal ik?**
+Bij het uitstappen betaal je pas. Er is vrijwel altijd wisselgeld aanwezig, maar zorg voor de zekerheid dat je kleine briefjes of zelf muntgeld bij je hebt.
 
 **Hoe weet ik waar de bus naartoe gaat?**
-Heel makkelijk! De bestemming staat op de voorkant van de bus. Een bus naar Panama City heeft op de voorruit: "El Valle – Panama".
-
-**Zijn er bussen naar Santa Catalina vanaf hier?**
-Nee. Vanuit El Valle kun je alleen directe bussen pakken naar Panama, San Carlos en Penonomé. Voor elke andere bestemming moet je overstappen.
-
-**Is er geen directe bus naar Antón, en is het niet beter om naar Penonomé te gaan in plaats van Las Uvas?**
-Nee. Er zijn alleen directe bussen naar Panama, San Carlos of Penonomé. Bussen naar Penonomé staan erom bekend onbetrouwbaar te zijn, daarom wordt aangeraden naar Las Uvas te gaan. Ook vertrekken de bussen naar Penonomé aan het einde van het dorp.
-
-**Is er een busterminal in Las Uvas?**
-Nee. Als je uit de bus stapt, zie je een klein bushokje naast een brug die over de weg loopt. Wacht bij het bushokje op je volgende bus.
+Heel makkelijk! De bestemming staat op de voorkant van de bus. Een bus naar Panama City heeft op de voorruit bijvoorbeeld: "El Valle – Panama".
 
 **Stopt de bus automatisch?**
 Nee. Vergeet niet op de weg te kijken of je bus eraan komt. Om de bus te laten stoppen, geef je een teken met je hand.
