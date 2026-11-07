@@ -5,7 +5,7 @@ country: Maleisië
 destination: 
 description: ""
 date: 2026-10-22
-image: /images/hero.jpg
+image: /images/maleisie/maleisie-budget.jpg
 themes: [Kosten]
 ---
 Coming soon.
