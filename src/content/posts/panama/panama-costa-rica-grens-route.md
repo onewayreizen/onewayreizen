@@ -1,8 +1,8 @@
 ---
 title: TITEL HIER
-region: Zuid-Amerika
+region: Midden-Amerika
 country: Panama
-othercountries: [Costa Rica]
+otherCountries: [Costa Rica]
 destination: 
 description: KORTE OMSCHRIJVING HIER (1 zin, verschijnt op de kaartjes)
 date: 2026-01-01
