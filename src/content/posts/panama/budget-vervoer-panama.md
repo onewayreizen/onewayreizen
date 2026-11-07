@@ -130,7 +130,8 @@ themes: []
 </details>
 
 Van Costa Rica
-[Hier een post over de noord- en zuidroute naar Costa Rica.](/bestemmingen/midden-amerika/panama/panama-costa-rica-grens-route/)
+
+[**Hier een post over de noord- en zuidroute naar Costa Rica.**](/bestemmingen/midden-amerika/panama/panama-costa-rica-grens-route/)
 
 
 **FAQ**
