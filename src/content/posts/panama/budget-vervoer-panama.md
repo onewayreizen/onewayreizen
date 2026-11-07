@@ -129,10 +129,9 @@ themes: []
 - Stap 3: David → Boquete, $1,75 
 </details>
 
-<details>
-<summary>Van Costa Rica</summary>
+Van Costa Rica
 [Hier een post over de noord- en zuidroute naar Costa Rica.](/bestemmingen/midden-amerika/panama/panama-costa-rica-grens-route/)
-</details>
+
 
 **FAQ**
 
