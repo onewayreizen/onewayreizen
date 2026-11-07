@@ -137,13 +137,13 @@ Van Costa Rica
 **FAQ**
 
 **Hoe betaal ik?**
-Bij het uitstappen betaal je pas. Er is vrijwel altijd wisselgeld aanwezig, maar zorg voor de zekerheid dat je kleine briefjes of zelf muntgeld bij je hebt.
+Bij het uitstappen betaal je pas. Er is vrijwel altijd wisselgeld aanwezig, maar zorg voor de zekerheid dat je kleine briefjes of zelfs muntgeld bij je hebt.
 
 **Hoe weet ik waar de bus naartoe gaat?**
 Heel makkelijk! De bestemming staat op de voorkant van de bus. Een bus naar Panama City heeft op de voorruit bijvoorbeeld: "El Valle – Panama".
 
 **Stopt de bus automatisch?**
-Nee. Vergeet niet op de weg te kijken of je bus eraan komt. Om de bus te laten stoppen, geef je een teken met je hand.
+Nee. Vergeet niet op de weg te kijken of je bus eraan komt. Om de bus te laten stoppen, geef je een teken met je hand. Mocht je de bestemming niet goed kunnen lezen? Stop de bus en vraag voor de zekerheid.
 
 **Moet ik een kaartje kopen?**
 Alleen bij grote terminals zoals Panama City of David. Meestal stap je gewoon in en betaal je bij het uitstappen.
