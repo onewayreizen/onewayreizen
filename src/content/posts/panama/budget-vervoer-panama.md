@@ -3,7 +3,7 @@ title: "Panama budget rondreizen: openbaar vervoer routes"
 region: Midden-Amerika
 country: Panama
 destination: 
-description: "."
+description: "Openbaar vervoer door Panama: alle routes en informatie die je nodig hebt."
 date: 2026-01-01
 image: /images/Panama-header.jpg
 themes: []
@@ -131,11 +131,7 @@ themes: []
 
 <details>
 <summary>Van Costa Rica</summary>
-
-**Bocas del Toro (van Puerto Viejo) – 5 uur+**
-- Stap 1: Puerto Viejo → Sixoala
-- Stap 2: Steek de grens over → bus Almirante
-- Stap 3: Almirante → Bocas del Toro (hoofdeiland): watertaxi 30 min / veerboot 2 uur
+[Hier een post over de noord- en zuidroute naar Costa Rica.]/bestemmingen/midden-amerika/panama/panama-costa-rica-grens-route/
 </details>
 
 **FAQ**
