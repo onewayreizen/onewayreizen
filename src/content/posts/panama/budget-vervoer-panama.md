@@ -3,7 +3,7 @@ title: "Panama budget rondreizen: openbaar vervoer routes"
 region: Midden-Amerika
 country: Panama
 destination: 
-description: "Openbaar vervoer door Panama: alle routes en informatie die je nodig hebt."
+description: "Openbaar vervoer door Panama: alle routes, prijzen en informatie die je nodig hebt."
 date: 2026-01-01
 image: /images/Panama-header.jpg
 themes: []
