@@ -105,7 +105,7 @@ Je bent te gast in het leefgebied van wilde dieren. Voer ze niet, raak ze niet a
 
 **Eten en drinken in het park.** In het park is een soort café waar je een sandwich kunt kopen, voor ongeveer 8 dollar, en warme chocolademelk voor ongeveer 3 dollar. Een goede optie als je honger krijgt, al zijn het prijzen die bij een toeristische plek passen.
 
-**Geen hervulbare fles?** Geen paniek. Bij de ingang, bij het restaurant, kun je een fles kopen die niet van plastic is. Dat is wel prijzig ([prijs invullen]), maar het is een optie.
+**Geen hervulbare fles?** Geen paniek, je hebt twee opties. Bij de ingang, bij het restaurant, kun je een fles kopen die niet van plastic is. Dat is wel prijzig ([prijs invullen]), maar het is een optie. Een alternatief is naar [**deze supermarkt**](https://maps.app.goo.gl/EF3ZViQpwVVFhJD89) te gaan. Hier kun je voor $20 een 500ml herbruikbarefles kopen. Ook niet goedkoop, maar wel beter dan in het park zelf.
 
 **Houd je spullen vast.** Apen en wasbeerachtigen zijn behendig en pakken makkelijk wat ze zien liggen. Laat je tas niet los op het strand.
 
