@@ -117,7 +117,7 @@ Je bent te gast in het leefgebied van wilde dieren. Voer ze niet, raak ze niet a
 
 ## Wat neem je mee?
 
-Camera, zonnebrand, een pet, een hervulbare waterfles (echt!), een handdoek voor het strand en goede schoenen om in te wandelen. Geen slippers, want de paden zijn deels steil, nat en glad. Neem je ticket, paspoort en wat contant geld voor het café of het huren van een telescoop of hulpmiddelen.
+Camera, zonnebrand, een pet, een hervulbare waterfles (echt!), een handdoek voor het strand en goede schoenen om in te wandelen. Geen slippers, want de paden zijn deels steil, nat en glad. Neem je ticket, paspoort en wat contant geld mee.
 
 ## Is het de moeite waard?
 
