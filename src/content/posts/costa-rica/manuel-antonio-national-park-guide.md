@@ -6,7 +6,7 @@ destination: Manuel Antonio NP
 description: "Tickets, paden, dieren en stranden in Manuel Antonio, plus praktische tips over eten, plastic en wat je meeneemt."
 date: 2026-11-09
 image: /images/hero.jpg
-themes: []
+themes: [Wildlife]
 ---
 
 Manuel Antonio is het kleinste nationale park van Costa Rica, maar waarschijnlijk ook het bekendste. Regenwoud dat tot aan de oceaan loopt, witte stranden met helder water, luiaards in de bomen en apen die op een paar meter afstand langs je heen lopen. Het is geen wildernis waar je dagen doorheen trekt, maar een compact park met nette paden, waar je in een halve tot hele dag enorm veel ziet. Hier alles wat je moet weten: van je ticket tot de beste paden, de dieren, de stranden en wat je beter thuis kunt laten.
