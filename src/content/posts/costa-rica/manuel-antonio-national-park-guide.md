@@ -4,7 +4,7 @@ region: Midden-Amerika
 country: Costa-Rica
 destination: Manuel Antonio NP
 description: "Tickets, paden, dieren en stranden in Manuel Antonio, plus praktische tips over eten, plastic en wat je meeneemt."
-date: 2026-10-22
+date: 2026-11-09
 image: /images/hero.jpg
 themes: []
 ---
