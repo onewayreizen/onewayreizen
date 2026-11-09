@@ -2,8 +2,8 @@
 title: "Manuel Antonio nationaal park: de complete gids voor je bezoek"
 region: Midden-Amerika
 country: Costa-Rica
-destination: 
-description: ""
+destination: Manuel Antonio NP
+description: "Tickets, paden, dieren en stranden in Manuel Antonio, plus praktische tips over eten, plastic en wat je meeneemt."
 date: 2026-10-22
 image: /images/hero.jpg
 themes: []
