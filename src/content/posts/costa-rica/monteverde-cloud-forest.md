@@ -4,7 +4,7 @@ region: Midden-Amerika
 country: Costa-Rica
 destination: Monteverde
 description: "Tickets, wandelpaden, dieren en praktische tips voor het nevelwoud van Monteverde, en welk reservaat het beste bij je past."
-date: 2026-01-01
+date: 2026-11-11
 image: /images/hero.jpg
 themes: []
 featured: false
