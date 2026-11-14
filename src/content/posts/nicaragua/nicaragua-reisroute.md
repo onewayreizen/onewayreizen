@@ -1,5 +1,5 @@
 ---
-title: "Een dag in Granada (Nicaragua): wat je moet zien en doen"
+title: "Een dag in Granada: wat je moet zien en doen"
 region: Midden-Amerika
 country: Nicaragua
 destination: 
