@@ -17,7 +17,7 @@ Utila is het kleinste en meest relaxte van de Bay Islands van Honduras en ligt o
 
 Utila ligt voor de kust van Honduras en je bereikt het eiland met de boot (of het vliegtuig). De meest gebruikelijke route:
 
-1. **Vlieg naar San Pedro Sula (SAP).** Dat is de grootste luchthaven van Honduras en de makkelijkste plek om heen te vliegen.
+1. **Vlieg naar San Pedro Sula (SAP).** Dat is de grootste luchthaven van Honduras en de makkelijkste plek om heen te vliegen.  
    *Ticabus biedt ook bussen aan vanaf bijvoorbeeld San Salvador, naar San Pedro Sula*
 3. **Bus van San Pedro Sula naar La Ceiba.** Je reist met een comfortabele touringcar of een shuttle. Reken op ongeveer 3 tot 4 uur reistijd en € 8–20, afhankelijk van de busmaatschappij. De laatste bus vertrekt rond 5 uur.
 4. **Ferry van La Ceiba naar Utila.** De overtocht duurt ongeveer 45 minuten tot een uur. Er zijn twee vaste afvaarten per dag: een in de ochtend (rond 9:00 tot 9:30 uur) en een in de middag (rond 16:30 uur). Een kaartje kost ongeveer € 22–30. Neem je paspoort mee, want dat wordt gecontroleerd. Je kunt een kaartje vooraf online boeken.
