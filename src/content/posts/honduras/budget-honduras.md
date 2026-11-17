@@ -3,7 +3,7 @@ title: "Reizen in Honduras: kosten, budget en handige tips"
 region: Midden-Amerika
 country: Honduras
 destination: 
-description: ""
+description: "Wat kost reizen in Honduras? Ontdek de kosten voor eten, slapen, vervoer en tours, plus het dagbudget voor backpackers, gemiddelde reizigers en luxe."
 date: 2026-10-22
 image: /images/hero.jpg
 themes: [Kosten]
