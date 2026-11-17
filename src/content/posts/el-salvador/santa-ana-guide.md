@@ -1,8 +1,8 @@
 ---
-title: "Alles te doen in Santa Ana (El Salvador): stad, vulkaan en kratermeren"
+title: "Alles te doen in Santa Ana: stad, vulkaan en kratermeren"
 region: Midden-Amerika
 country: El Salvador
-destination: Santa ana
+destination: Santa Ana
 description: "Van de neogotische kathedraal en de kraterwandeling naar de Santa Ana-vulkaan tot het Coatepeque-meer en de Ruta de las Flores: alles wat je in en rond Santa Ana kunt doen."
 date: 2026-11-18
 image: /images/hero.jpg
