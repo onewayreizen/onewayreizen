@@ -3,7 +3,7 @@ title: "Dagtrip naar Chalchuapa: Tazumal, Casa Blanca en de Laguna Cuzcachapa"
 region: Midden-Amerika
 country: El Salvador
 destination: Chalchuapa
-description: 
+description: "Maya-geschiedenis op een halfuur van Santa Ana: wat je ziet bij Tazumal en Casa Blanca, hoe je er komt en hoe je de dag indeelt."
 date: 2026-11-19
 image: /images/hero.jpg
 themes: []
