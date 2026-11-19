@@ -31,7 +31,7 @@ De vulkaan Santa Ana (ook wel Ilamatepec) is met ongeveer 2.381 meter de hoogste
 
 De wandeling begint in het Cerro Verde National Park en gaat altijd met een gids, die bij het park te boeken is. Er vertrekken elke ochtend geleide groepen. Reken in totaal op ongeveer drie tot vijf uur heen en terug en op een gematigde inspanning. De kosten lopen op tot ongeveer 12 tot 14 dollar per persoon (parkentree, vulkaanentree en gids, allemaal contant), plus de bus. Je kunt ook een tour boeken, die vervoer en alles regelt.
 
-Naar het park neem je vanuit Santa Ana vroeg in de ochtend bus 248, een rit van ongeveer twee uur, voor minder dan een dollar. Check de actuele terugtijden, want de laatste bus vertrekt in de loop van de middag. Een uitgebreide post over de kraterwandeling vind je [**hier**](/santa-ana-vulkaan/).
+Naar het park neem je vanuit Santa Ana vroeg in de ochtend bus 248, een rit van ongeveer twee uur, voor minder dan een dollar. Check de actuele terugtijden, want de laatste bus vertrekt in de loop van de middag. Een uitgebreide post over de kraterwandeling vind je [**hier**](/bestemmingen/midden-amerika/el-salvador/santa-ana-crater-hike/).
 
 ## Cerro Verde en Izalco
 
