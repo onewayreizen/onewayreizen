@@ -17,7 +17,7 @@ El Salvador wordt vaak overgeslagen in de Maya-routes van Midden-Amerika, die me
 
 ## Hoe kom je er?
 
-**Met de bus.** Vanuit Santa Ana neem je bus 218 naar Chalchuapa. De bus vertrekt aan de 9a Calle Poniente, tussen de 8a en 10a Avenida Sur, en wacht tot hij vol is voordat hij wegrijdt. De rit duurt ongeveer 30 tot 45 minuten en kost minder dan een halve dollar. Zeg bij het instappen dat je naar Tazumal wilt, dan laat de chauffeur of conducteur je bij het kerkhof uitstappen dat de ruïnes omringt. Vandaar loop je nog zo'n 200 meter naar de ingang.
+**Met de bus.** Vanuit Santa Ana neem je bus 218 naar Chalchuapa. De bus vertrekt aan de 9a Calle Poniente, tussen de 8a en 10a Avenida Sur, en wacht tot hij vol is voordat hij wegrijdt. De rit duurt ongeveer 30 tot 45 minuten en kost $0,32. Zeg bij het instappen dat je naar Tazumal wilt, dan laat de chauffeur of conducteur je bij het kerkhof uitstappen dat de ruïnes omringt. Vandaar loop je nog zo'n 200 meter naar de ingang.
 
 Er is ook bus 214, die doorrijdt naar Atiquizaya en langs de ingang van Casa Blanca komt, zodat je daar kunt uitstappen. De terugweg gaat weer met bus 218.
 
@@ -29,11 +29,11 @@ Er is ook bus 214, die doorrijdt naar Atiquizaya en langs de ingang van Casa Bla
 
 Het helpt om een beetje te weten wat je ziet, want de sites zijn niet zo spectaculair als Tikal, maar wel boeiend als je het verhaal kent.
 
-Chalchuapa is bewoond sinds het Vroeg-Preklassieke tijdperk, rond 1200 voor Christus. De Laguna Cuzcachapa was daarbij de belangrijkste waterbron van de nederzetting. In de Midden-Preklassieke periode werd hier een sculptuur in Olmeekse stijl gemaakt, die nu in het museum van Tazumal staat. Rond het einde van het Laat-Preklassieke tijdperk werd het gebied zwaar getroffen door de uitbarsting van de Ilopango-vulkaan, ongeveer 75 kilometer verderop. Over de exacte datum bestaat discussie (de jaartallen lopen uiteen van de 3e tot de 6e eeuw), maar de uitbarsting bedekte de regio met een dikke laag as en maakte het gebied tijdelijk onbewoonbaar. Daarna herstelde Chalchuapa zich weer, en werd Tazumal in de Klassieke periode het grootste centrum van West-El Salvador. De plek bleef actief tot rond 1200 na Christus, en toen de Spanjaarden kwamen woonden hier Maya-sprekende Pokomam.
+Chalchuapa is bewoond sinds het Vroeg-Preklassieke tijdperk, rond 1200 voor Christus. De Laguna Cuzcachapa was daarbij de belangrijkste waterbron van de nederzetting. In de Midden-Preklassieke periode werd hier een sculptuur in Olmeekse stijl gemaakt, die nu in het museum van Tazumal staat. Rond het einde van het Laat-Preklassieke tijdperk werd het gebied zwaar getroffen door de uitbarsting van de Ilopango-vulkaan, ongeveer 75 kilometer verderop. Over de exacte datum bestaat discussie (de jaartallen lopen uiteen van de 3e tot de 6e eeuw), maar de uitbarsting bedekte de regio met een dikke laag as en maakte het gebied tijdelijk onbewoonbaar. Daarna herstelde Chalchuapa zich weer en werd Tazumal in de Klassieke periode het grootste centrum van West-El Salvador. De plek bleef actief tot rond 1200 na Christus en toen de Spanjaarden kwamen woonden hier Maya-sprekende Pokomam.
 
 ## Tazumal
 
-Tazumal is het hoogtepunt van de dagtrip en de bekendste Maya-site van El Salvador. De naam betekent volgens sommige bronnen "piramide waar de slachtoffers werden verbrand", al is de oorsprong van het woord omstreden.
+Tazumal is het hoogtepunt van de dagtrip en de bekendste Maya-site van El Salvador. De naam betekent "piramide waar de slachtoffers werden verbrand", al is de oorsprong van het woord omstreden.
 
 **Structure B1-1.** De hoofdpiramide, de grootste van het complex, die zo'n 23 tot 24 meter boven het plein uitsteekt en ongeveer twee hectare beslaat. Hij is in meerdere fasen gebouwd, van de Vroeg-Klassieke tot de Vroeg-Postklassieke periode, en op de top stond een tempel. Je kunt langs de piramide lopen en de verschillende bouwfasen bekijken.
 
@@ -41,23 +41,25 @@ Tazumal is het hoogtepunt van de dagtrip en de bekendste Maya-site van El Salvad
 
 **Het museum.** Op het terrein staat een klein museum met hoogwaardig keramiek en stenen beeldhouwwerk, vooral uit de Postklassieke periode. Je ziet er onder meer chacmool-figuren en een beeld van de god Xipe Totec, wat laat zien hoeveel invloed er vanuit centraal Mexico was. Bijzonder is ook dat hier enkele van de vroegste metalen voorwerpen van heel Mesoamerika zijn gevonden, waaronder gouden objecten.
 
-De entree voor buitenlanders is volgens officiële bronnen 3 dollar, al noemen sommige reizigers 5 dollar. Het park is doorgaans open van 9:00 tot 16:00 uur. Reken op een uur tot anderhalf uur voor de site en het museum. Voor de ingang staan souvenirkraampjes, en het is er toeristischer dan bij andere archeologische plekken in de regio.
+De entree voor buitenlanders is 5 dollar. Het park is doorgaans open van 9:00 tot 16:00 uur. Reken op een uur voor de site en het museum. Voor de ingang staan souvenirkraampjes en het is er toeristischer dan bij andere archeologische plekken in de regio.
 
 ## Casa Blanca
 
 Een paar minuten lopen van Tazumal, aan de andere kant van de hoofdweg, ligt Casa Blanca. Het is kleiner, maar bevat een van de interessantste onderdelen van de hele zone: het "archeologische venster". Dat is een uitgraving die de verschillende lagen van menselijke bewoning laat zien, met daartussen een witte laag as, de "Tierra Blanca Joven", die is neergekomen door de uitbarsting van Ilopango. Je ziet er dus letterlijk hoe een natuurramp de geschiedenis van een stad in tweeën sneed.
 
-Op het terrein staan meerdere piramides uit de Laat-Preklassieke en Klassieke periode, en er is een museum met Maya-keramiek en andere vondsten. Casa Blanca schijnt volgens sommige bronnen tussen ongeveer 900 en 1524 een belangrijk pelgrimscentrum te zijn geweest. Bij de site is ook een indigo-werkplaats, waar je kunt zien hoe traditioneel textiel wordt geverfd, en soms zelf kunt proberen.
+Op het terrein staan meerdere piramides uit de Laat-Preklassieke en Klassieke periode en er is een museum met Maya-keramiek en andere vondsten. Casa Blanca schijnt volgens sommige bronnen tussen ongeveer 900 en 1524 een belangrijk pelgrimscentrum te zijn geweest. Bij de site is ook een indigo-werkplaats, waar je kunt zien hoe traditioneel textiel wordt geverfd en soms zelf kunt proberen.
 
-De entree is vergelijkbaar met die van Tazumal. De openingstijden zijn volgens één bron van 9:00 tot 17:00 uur, van dinsdag tot en met zondag. Reken op ongeveer een uur. Het is er vaak rustiger dan bij Tazumal: sommige reizigers zijn de enige bezoeker.
+De entree is. net als die van Tazumal, 5 dollar. De openingstijden zijn van 9:00 tot 17:00 uur, van dinsdag tot en met zondag. Reken op ongeveer een uur. Het is er vaak rustiger dan bij Tazumal: ik was bijvoorbeeld de enige bezoeker.
 
 ## Laguna Cuzcachapa
 
 Midden in het stadje ligt de Laguna Cuzcachapa, een klein meer van vulkanische oorsprong. Het is niet alleen een rustig plekje voor een wandeling, maar ook historisch belangrijk: het was de hoofdwaterbron van de eeuwenoude nederzetting, en de bodem ervan heeft archeologen geholpen om de vroegste bewoning te dateren. Er loopt een pad omheen, met schaduw en bankjes, en de wandeling is gratis. Een mooie, ontspannen afsluiting van je dag, vooral na de zon op de ruïnes.
 
+*Let op: tijdens mijn wandeling werd ik gewaardschuwd door locals om waardevolle spullen tijdens deze wandeling uit het zicht te houden.*
+
 ## El Trapiche (optioneel)
 
-Een derde site in de zone is El Trapiche, die samen met Tazumal en Casa Blanca op de voorlopige lijst voor de Werelderfgoedlijst staat. Het is minder bezocht, en een goede optie als je nog energie en tijd over hebt, of als je meer van de Preklassieke periode wilt zien. Vraag ter plekke naar de route en openingstijden.
+Een derde site in de zone is El Trapiche, die samen met Tazumal en Casa Blanca op de voorlopige lijst voor de Werelderfgoedlijst staat. Het is minder bezocht en een goede optie als je nog energie en tijd over hebt, of als je meer van de Preklassieke periode wilt zien. Vraag ter plekke naar de route en openingstijden.
 
 ## Het stadje zelf en eten
 
@@ -69,7 +71,7 @@ Vertrek rond 9:00 uur uit Santa Ana met bus 218 of 214. Begin bij Casa Blanca of
 
 ## Wat kost het ongeveer?
 
-Voor de bus betaal je minder dan een halve dollar per rit, voor de entree van Tazumal ongeveer 3 tot 5 dollar en voor Casa Blanca een vergelijkbaar bedrag. Een lunch kost een paar dollar. Samen kom je dus uit op ruwweg 10 tot 15 dollar voor een hele dag, exclusief een eventuele taxi of tour.
+Voor de bus betaal je $0,32 per rit en voor de entree van Tazumal en Casa Blanca ongeveer 3 tot 5 dollar. Een lunch kost een paar dollar. Samen kom je dus uit op ruwweg 10 tot 15 dollar voor een hele dag, exclusief een eventuele taxi of tour.
 
 ## Combineren met andere plekken
 
@@ -81,16 +83,8 @@ Chalchuapa past goed in een verblijf van een paar dagen in Santa Ana. Combineer 
 
 **Contant geld.** Entree, bus en eten betaal je contant, in Amerikaanse dollars.
 
-**Check de openingstijden.** Casa Blanca is volgens één bron gesloten op maandag, en Tazumal sluit om 16:00 uur. Plan je bezoek daarbinnen.
-
-**Neem water en zonnebrand mee.** Er is weinig schaduw op de sites.
-
 **Neem de tijd voor het museum.** Het is klein, maar helpt je om te begrijpen wat je op het terrein ziet.
 
 **Een gids?** Bij Tazumal en Casa Blanca zijn vaak lokale gidsen beschikbaar. Ze kunnen veel vertellen over de geschiedenis, maar vooraf boeken is niet nodig.
 
 Chalchuapa is geen plek voor een hele reis, maar wel een rustige, betaalbare manier om een paar uur Maya-geschiedenis te beleven, zonder de drukte van de grote sites.
-
----
-
-Ik heb het flink uitgebreid, met geschiedenis, per site wat je ziet, het museum, de lagune, El Trapiche, een voorbeelddag en kosten. De jaartallen van de Ilopango-uitbarsting lopen in bronnen uiteen, dus ik heb daar bewust een bandbreedte van gemaakt. Ik heb dit als gids geschreven, zonder eigen ervaring van jou erin. Zal ik er een description bij maken? De Utila-duikpost staat nog open: als je de cursusgegevens van Utila Dive Center plakt, schrijf ik 'm.
