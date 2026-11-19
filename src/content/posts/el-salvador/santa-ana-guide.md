@@ -43,11 +43,11 @@ Het Coatepeque-meer ligt in een krater, op ongeveer een halfuur rijden van Santa
 
 ## De Ruta de las Flores
 
-Een van de populairste dagtrips vanuit Santa Ana is de Ruta de las Flores, een route langs koffiedorpjes in het westen van het land. Je rijdt langs plaatsen als Juayúa, Apaneca en Ataco, bekend om hun muurschilderingen, kleine markten en eetgelegenheden. Vooral in het weekend zijn de eetmarkten in sommige dorpen erg levendig. Je kunt de route op een dag doen, met een tour, een scooter, een huurauto of lokale bussen. Een uitgebreide post vind je [**hier**](/ruta-de-las-flores/).
+Een van de populairste dagtrips vanuit Santa Ana is de Ruta de las Flores, een route langs koffiedorpjes in het westen van het land. Je rijdt langs plaatsen als Juayúa, Apaneca en Ataco, bekend om hun muurschilderingen, kleine markten en eetgelegenheden. Vooral in het weekend zijn de eetmarkten in sommige dorpen erg levendig. Je kunt de route op een dag doen, met een tour, een scooter, een huurauto of lokale bussen.
 
 ## Tazumal en Casa Blanca
 
-Voor wie van geschiedenis houdt: in Chalchuapa, op ongeveer een halfuur met de bus vanuit Santa Ana, ligt Tazumal, de belangrijkste Maya-site van El Salvador. Het is een piramidecomplex dat tot ver in de oudheid teruggaat en de entree is klein. Vlakbij liggen ook de ruïnes van Casa Blanca. De bus (lijn 218 richting Chalchuapa) zet je vlak bij de ingang af.
+Voor wie van geschiedenis houdt: in [**Chalchuapa**](/bestemmingen/midden-amerika/el-salvador/chalchuapa-dag-trip/), op ongeveer een halfuur met de bus vanuit Santa Ana, ligt Tazumal, de belangrijkste Maya-site van El Salvador. Het is een piramidecomplex dat tot ver in de oudheid teruggaat en de entree is klein. Vlakbij liggen ook de ruïnes van Casa Blanca. De bus (lijn 218 richting Chalchuapa) zet je vlak bij de ingang af.
 
 ## Joya de Cerén
 
