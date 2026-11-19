@@ -1,6 +1,6 @@
 ---
 title: "Dagtrip naar Chalchuapa: Tazumal, Casa Blanca en de Laguna Cuzcachapa"
-region: Zuid-Amerika
+region: Midden-Amerika
 country: El Salvador
 destination: Chalchuapa
 description: 
