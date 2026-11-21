@@ -64,7 +64,7 @@ De meeste reizigers beginnen in **Copán Ruinas**, direct over de grens bij Guat
 ### Vanuit El Salvador
 
 - **Shuttle naar Copán:** Er rijdt een toeristenshuttle van San Salvador of Santa Ana naar Copán Ruinas voor ongeveer € 55–60. Die route loopt via Guatemala, dus je steekt twee grenzen over.
-- **Tica Bus naar San Pedro Sula:** De dagelijkse bus vertrekt om 6:00 uur uit San Salvador, steekt de grens over bij El Amatillo, en komt rond 16:00 uur aan. Het kaartje kost ongeveer € 35. Vanuit San Pedro Sula reis je met een luxe bus verder naar Copán of door naar de eilanden.
+- **Tica Bus naar San Pedro Sula:** De dagelijkse bus vertrekt om 6:30 uur uit San Salvador, steekt de grens over bij El Amatillo en komt rond 17:00 uur aan. Het kaartje kost ongeveer € 27. Vanuit San Pedro Sula reis je met een luxe bus verder naar Copán of door naar de eilanden.
 
 ### Vanuit Managua (Nicaragua)
 
@@ -74,7 +74,7 @@ De meeste reizigers beginnen in **Copán Ruinas**, direct over de grens bij Guat
 
 ## Stop 1: Copán Ruinas
 
-Copán Ruinas is een gezellig koloniaal stadje, op loopafstand van een van de belangrijkste Maya-sites van Midden-Amerika. Dat is wat je er doet:
+Copán Ruinas is een gezellig koloniaal stadje, op loopafstand van een van de belangrijkste Maya-sites van Midden-Amerika. [**Meer weten over Copan? Klik hier.**](/bestemmingen/midden-amerika/honduras/copan-guide/) Dat is wat je er doet:
 
 - **De ruïnes van Copán:** De toegang voor het hoofdterrein kost ongeveer € 13. Het museum en Las Sepulturas kosten daar ongeveer € 6 en € 3 extra. Je ziet er de Grote Plaza met zijn beeldhouwwerken, de Hiërogliefentrap met de langste Maya-inscriptie die bekend is, het balspeelveld en de Acropolis. Ga bij opening in de ochtend, voordat het warm en druk wordt, en neem water en zonnebrand mee.
 - **Macaw Mountain:** Een vogelpark met ara's, tukans en andere tropische vogels.
@@ -113,7 +113,7 @@ Utila is het kleinste en meest relaxte eiland van de Bay Islands en een van de b
 
 ## Stop 4: Roatán
 
-Roatán is het grootste en meest ontwikkelde van de Bay Islands. Het heeft prachtige witte stranden, goed rif en een mix van backpackerstoerisme, duikresorts en cruiseschepen.
+Roatán is het grootste en meest ontwikkelde van de Bay Islands. Het heeft prachtige witte stranden, goed rif en een mix van backpackerstoerisme, duikresorts en cruiseschepen. [**Meer weten over Roatán? Klik hier.**](/bestemmingen/midden-amerika/honduras/roatan-guide/)
 
 **Waar verblijf je?**
 - **West End:** De beste uitvalsbasis voor onafhankelijke reizigers. Het heeft duikscholen, restaurants, bars en snorkelplekken zoals Half Moon Bay.
