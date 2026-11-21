@@ -1,17 +1,16 @@
 ---
-title: TITEL HIER
+title: "De 5 beste dingen te doen in San Salvador"
 region: Zuid-Amerika
-country: LAND HIER (bijv. Ecuador)
-destination: PLEK HIER, optioneel (bijv. Quito). Meerdere plekken? destination [Quito, Mindo]. Verwijder deze hele regel als het niet van toepassing is
-description: KORTE OMSCHRIJVING HIER (1 zin, verschijnt op de kaartjes)
-date: 2026-01-01
+country: El-Salvador
+destination: San Salvador
+description: "Van het historische centrum en een kerk met glas-in-lood tot pupusas eten en een wandeling langs de krater van de vulkaan: dit moet je doen in de hoofdstad van El Salvador."
+date: 2026-11-21
 image: /images/hero.jpg
-themes: [Hiken, Backpacken]
+themes: []
 featured: false
 ---
-# De 5 beste dingen te doen in San Salvador
 
-San Salvador heeft niet altijd de beste reputatie, en veel reizigers gebruiken de hoofdstad alleen als tussenstop. Dat is jammer, want de stad heeft een opgeknapt historisch centrum, een van de meest bijzondere kerken van Midden-Amerika, een vulkaan op de stoep en het beste eten van het land. Het centrum is de afgelopen jaren flink opgeknapt en overdag goed te doen, en in een of twee dagen krijg je al een mooi beeld. Dit zijn de vijf dingen die je niet moet missen.
+San Salvador heeft niet altijd de beste reputatie en veel reizigers gebruiken de hoofdstad alleen als tussenstop. Dat is jammer, want de stad heeft een opgeknapt historisch centrum, een van de meest bijzondere kerken van Midden-Amerika, een vulkaan op de stoep en het beste eten van het land. Het centrum is de afgelopen jaren flink opgeknapt en overdag goed te doen, en in een of twee dagen krijg je al een mooi beeld. Dit zijn de vijf dingen die je niet moet missen.
 
 ## 1. Het historische centrum te voet verkennen
 
@@ -26,6 +25,8 @@ Loop op een rustig moment van de dag door de straten rond de plein, waar je muur
 Vanaf de buitenkant lijkt de **Iglesia El Rosario** weinig bijzonders: een grauwe, brutalistische betonnen boog. Maar binnenin is het een van de meest bijzondere kerken van Midden-Amerika. Het glas-in-lood speelt met het daglicht, en de hele ruimte kleurt in roze, blauw en oranje, afhankelijk van het moment. Kijk ook omhoog boven de ingang, waar een glas-in-loodraam het "oog van God" voorstelt, iets wat veel bezoekers de eerste keer missen.
 
 De kerk is gratis te bezoeken en is ook de laatste rustplaats van José Matías Delgado, de "vader van de Salvadoraanse onafhankelijkheid". Ga bij voorkeur in de ochtend, wanneer het licht het mooist is, en neem de tijd om rustig te blijven zitten.
+
+*Helaas was de kerk gesloten in november 2026 in verband met de opbouw van kerst gerelateerde dingen rondom de kerk.*
 
 ## 3. Pupusas eten
 
@@ -70,7 +71,3 @@ Eén dag is genoeg voor het centrum, de kerk en pupusas, en met een tweede dag v
 **Stop bij de lokale eettentjes.** Een simpele pupuseria is vaak beter dan een toeristisch restaurant.
 
 San Salvador is geen stad die je in één blik begrijpt, maar met een paar dagen leer je haar kennen: een stad met een zware geschiedenis, een vulkaan op de stoep en pupusas die je blijft eten.
-
----
-
-Entreeprijzen (Teatro Nacional, El Boquerón, MUNA) komen uit bronnen die onderling afwijken, dus controleer ze ter plekke. Ik heb dit als gids geschreven, zonder eigen ervaring van jou erin. Pas gerust het aantal of de volgorde aan als je andere favorieten hebt. Zal ik er een description bij maken?
