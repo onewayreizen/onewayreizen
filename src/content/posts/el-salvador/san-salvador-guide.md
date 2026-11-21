@@ -1,7 +1,7 @@
 ---
 title: "De 5 beste dingen te doen in San Salvador"
-region: Zuid-Amerika
-country: El-Salvador
+region: Midden-Amerika
+country: El Salvador
 destination: San Salvador
 description: "Van het historische centrum en een kerk met glas-in-lood tot pupusas eten en een wandeling langs de krater van de vulkaan: dit moet je doen in de hoofdstad van El Salvador."
 date: 2026-11-21
