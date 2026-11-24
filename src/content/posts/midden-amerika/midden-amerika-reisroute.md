@@ -6,7 +6,7 @@ destination:
 description: "De ultieme route door Midden-Amerika van Mexico tot Panama, plus kortere varianten voor 2 of 3 weken, natuur, geschiedenis en budget."
 image: /images/midden-amerika-route.jpg
 date: 2026-10-25
-themes: [Reisroutes]
+themes: [Reisgidsen]
 ---
 
 Midden-Amerika is een regio waar je met een goed gekozen route in een paar weken meer ziet dan op de meeste andere plekken in een paar maanden: Maya-tempels in de jungle, vulkanen waar je op kunt klimmen, Caribische eilanden, koffieplantages en twee oceanen. Het lastige is kiezen. Daarom staat hieronder eerst de ultieme route, van Mexico helemaal naar Panama, met alle plekken die ik de moeite waard vind. Daarna volgen kortere varianten voor als je maar twee of drie weken hebt, of juist een bepaald soort reis zoekt: natuur en wildlife, geschiedenis, strand en duiken, avontuur of een budgetroute.
