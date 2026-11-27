@@ -48,38 +48,37 @@ Op Utila zijn ongeveer tien PADI-duikscholen en een paar SSI-scholen. De twee po
 
 De PADI Open Water Diver is het eerste volledige duikbrevet. Je hebt geen ervaring nodig en na afloop mag je overal ter wereld duiken met een duikmaatje, zonder instructeur, tot een diepte van 18 meter.
 
-**Duur:** Bij UDC duurt de cursus ongeveer 4,5 dag.
+**Duur:** Bij UDC duurt de cursus 3 dagen. Dag 4 is de dag van je gratis fun dives.
 
 **Wat zit erin:**
-- 5 theoriemodules (kennis over duiken, veiligheid en apparatuur)
-- 5 sessies in beperkt water (ondiep water of een zwembad), waar je de basisvaardigheden oefent
+- Theoriemodules (kennis over duiken, veiligheid en apparatuur)
+- 4 sessies in beperkt water (ondiep water of een zwembad), waar je de basisvaardigheden oefent
 - 4 buitenwaterduiken op het rif, met je instructeur
 - 2 gratis fun dives na je cursus, zodat je meteen kunt genieten van het rif
 - Gebruik van duikapparatuur
-- Een duikcomputer tijdens de cursus (dat is bij UDC niet vanzelfsprekend, want veel scholen bieden dat niet aan)
 
 **Hoe verloopt het?** Je begint met zelfstudie en uitleg van de theorie, en daarna ga je al snel het water in. Je leert hoe je je uitrusting opbouwt en gebruikt, hoe je onder water ademt, je oren klaart, je masker leegmaakt, je drijfvermogen regelt en wat je doet bij een probleem. Je oefent in ondiep water en daarna ga je met een bootje naar het rif, waar je de vaardigheden toepast tijdens de buitenwaterduiken. Op de laatste dag rond je je laatste duiken af en ben je een officieel PADI Open Water Diver.
 
 **E-learning:** Je kunt de theorie van tevoren online doen via PADI eLearning. Dat scheelt ongeveer 12 uur lestijd op het eiland, zodat je meer tijd hebt om te duiken en te ontspannen. 
 
-**Kosten:** Reken op ongeveer €300-350 voor de cursus afhankelijk van bij welke duikschool je gaat duiken.
+**Kosten:** Reken op ongeveer €250-350 voor de cursus afhankelijk van bij welke duikschool je gaat duiken.
 
 **Wat heb je nodig?**
-- Een medische verklaring (vul het PADI-formulier van tevoren in, en laat het zo nodig door een arts ondertekenen)
-- Basisvaardigheden in zwemmen, waaronder een proefzwemmen en een tijdje drijven
+- Een medische verklaring (vul het PADI-formulier van tevoren in en laat het zo nodig door een arts ondertekenen)
+- Basisvaardigheden in zwemmen, waaronder 200 meter proefzwemmen en tien minuten drijven
 - Een minimumleeftijd van 10 jaar
 
-**Tip:** Plan je cursus aan het begin van je verblijf op Utila. Je hebt dan nog tijd om na je brevet te blijven fun-duiken, of door te gaan met een volgende cursus.
+**Tip:** Plan je cursus aan het begin van je verblijf op Utila. Je hebt dan nog tijd om na je brevet te blijven fun-duiken of door te gaan met een volgende cursus.
 
 ## Wat kun je daarna nog doen op Utila?
 
 Utila is een van de plekken waar veel duikers blijven hangen, omdat je er je hele duikcarrière kunt opbouwen, van beginner tot professional.
 
 ### Fun dives
-Na je Open Water kun je gewoon blijven duiken. Meestal is er een vast schema met boottochten naar verschillende duikplekken, en je kunt aansluiten bij elke tocht. Uitgebreide pakketten met meerdere duiken zijn vaak voordeliger dan losse duiken.
+Na je Open Water kun je gewoon blijven duiken. Meestal is er een vast schema met boottochten naar verschillende duikplekken en je kunt aansluiten bij elke tocht. Uitgebreide pakketten met meerdere duiken zijn vaak voordeliger dan losse duiken.
 
 ### PADI Advanced Open Water Diver
-De Advanced Open Water is volgens velen de leukste cursus, omdat je niet in het klaslokaal zit maar vooral duikt. De cursus duurt ongeveer 2 tot 2,5 dag en bestaat uit 5 avontuurlijke duiken, waaronder een **diepe duik** en een **navigatieduik**. De rest kies je zelf, zoals nachtduiken, wrakduiken, drijfvermogen of vissen herkennen. Na afloop mag je tot 30 meter diep duiken. Je hoeft geen examen te doen en je kunt de theorie ook van tevoren online doen. Kosten: ongeveer €250–300.
+De Advanced Open Water is volgens velen de leukste cursus, omdat je niet in het klaslokaal zit maar vooral duikt. De cursus duurt 2,5 dag en bestaat uit 5 avontuurlijke duiken, waaronder een **diepe duik**, een **nacht duik** en een **navigatieduik**. De rest kies je zelf, zoals wrakduiken, drijfvermogen of vissen herkennen. Na afloop mag je tot 30 meter diep duiken. Je hoeft geen examen te doen en je kunt de theorie ook van tevoren online doen. Kosten: ongeveer €250–300.
 
 ### PADI Rescue Diver
 De Rescue Diver is een van de meest uitdagende en meest bevredigende cursussen. Je leert problemen te herkennen, te voorkomen en op te lossen en je oefent met reddingsscenario's onder en boven water. De cursus duurt ongeveer 3 tot 4 dagen en bestaat uit theorie en 10 oefeningen in het water, met twee scenario's op de laatste dag. Je moet eerst de Advanced Open Water hebben en een geldig EFR-certificaat (Emergency First Response, over reanimatie en eerste hulp). Die EFR kun je vaak tijdens de cursus meedoen. De Rescue Diver is ook verplicht als je Divemaster wilt worden. Kosten: ongeveer € 250–300.
@@ -88,7 +87,7 @@ De Rescue Diver is een van de meest uitdagende en meest bevredigende cursussen. 
 Wil je je verder specialiseren? Dan zijn er allerlei cursussen, zoals Peak Performance Buoyancy (drijfvermogen), Nitrox (duiken met verrijkte lucht), Wrakduiken, Nachtduiken, Onderwaterfotografie, Zoek- en bergingsduik en Vissen herkennen. Veel scholen op Utila bieden deze aan.
 
 ### PADI Master Scuba Diver
-Heb je je Open Water, Advanced Open Water, Rescue Diver en minimaal vijf specialties, plus minstens 50 gelogde duiken? Dan ontvang je de rang van **Master Scuba Diver**. Dat is de hoogste niet-professionele rang van PADI, en het zegt iets over je ervaring.
+Heb je je Open Water, Advanced Open Water, Rescue Diver en minimaal vijf specialties, plus minstens 50 gelogde duiken? Dan ontvang je de rang van **Master Scuba Diver**. Dat is de hoogste niet-professionele rang van PADI en het zegt iets over je ervaring.
 
 ### PADI Divemaster
 De Divemaster is je eerste professionele stap. Je leert als gids en assistent van instructeurs te werken en je loopt mee tijdens cursussen en duiken. Je hebt minimaal de Rescue Diver, een geldig EFR-certificaat en 40 gelogde duiken nodig om te starten (60 om te certificeren). Het duurt meestal enkele weken tot twee maanden, vaak als stage bij een duikschool. Veel mensen blijven hiervoor maanden op Utila. De kosten lopen sterk uiteen per school, dus vraag een offerte aan. Reken op ongeveer € 800–1.100, exclusief materialen en PADI-kosten.
@@ -111,6 +110,3 @@ Op het eiland kun je ook vrijduiken, technisch duiken en snorkelen. Vraag ter pl
 ## Tot slot
 Utila is een van de beste plekken ter wereld om te leren duiken, vooral voor wie zijn eerste stappen onder water wil zetten zonder een fortuin uit te geven. Kies een school waar je je prettig en veilig voelt, communiceer vooraf duidelijk en neem de tijd om te genieten. Voor mij was dat Utila Dive Center en ik zou het zo weer doen. Ik ben blij dat ik dat beetje extra geld heb uitgegeven om zo een fijne en veilige ervaring te hebben.
 
-
-
-*Prijzen, openingstijden en vaartijden kunnen veranderen. Controleer ze voor vertrek.*
