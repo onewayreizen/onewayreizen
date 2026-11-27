@@ -2,7 +2,7 @@
 title: "Leren duiken op Utila, Honduras: PADI Open Water"
 region: Midden-Amerika
 country: Honduras
-destination: 
+destination: Utila
 description: "Onbekend maar verrassend: ontdek Honduras' Caribische eilanden en Maya-ruïnes met deze uitgestippelde route en handige tips."
 date: 2026-11-24
 image: /images/honduras-header.jpg
