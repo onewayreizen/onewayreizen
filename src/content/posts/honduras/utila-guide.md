@@ -6,7 +6,7 @@ destination: Utila
 description: "Alles wat je vooraf moet weten over Utila: hoe je er komt, hoe je rondkomt en welke plekken buiten het water de moeite waard zijn."
 date: 2026-11-27
 image: /images/hero.jpg
-themes: []
+themes: [Island life]
 featured: false
 ---
 
