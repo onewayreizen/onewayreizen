@@ -6,7 +6,7 @@ destination: Utila
 description: "Onbekend maar verrassend: ontdek Honduras' Caribische eilanden en Maya-ruïnes met deze uitgestippelde route en handige tips."
 date: 2026-11-24
 image: /images/honduras-header.jpg
-themes: []
+themes: [Duiken]
 ---
 
 Utila is het kleinste en meest relaxte van de Bay Islands van Honduras en ligt op het Mesoamerikaanse rif, het op één na grootste barrièrerif ter wereld. Het eiland staat bekend als een van de goedkoopste plekken ter wereld om te leren duiken, zonder dat je inlevert op kwaliteit. Je duikt in warm, rustig water met koraal, scholen vissen, schildpadden en met wat geluk zelfs een walvishaai. Op het eiland zelf is het ontspannen: geen auto's, wel golfkarretjes, fietsen, hangmatten en veel duikers uit de hele wereld.
